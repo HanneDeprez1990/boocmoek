@@ -1,0 +1,372 @@
+\section{Irrationale functies}
+%\maketitle
+%\begin{itemize}
+%\item Wat zijn irrationale functies?
+%\item Wanneer hebben ze (verticale, horizontale en/of schuine) asymptoten?
+%\end{itemize}
+%Dit zijn vergelijkingen waarin wortelvormen voorkomen, eventueel met
+%een breuk. Deze wortelvormen kan je wegwerken door beide leden van
+%de vergelijking te verheffen tot een gepaste macht.
+
+
+\subsection{Algemeen}
+
+\noindent \textbf{Voorbeelden van irrationale functies}
+
+\noindent ${\displaystyle f(x)=\sqrt{x^{2}+2x+4}}$, ${\displaystyle f(x)=2.\sqrt[3]{x^{5}-3x^{2}+7}-x-1}$,
+${\displaystyle f(x)=\frac{x-2}{\sqrt{10-x^{2}}}}$
+
+\noindent \textbf{Grafische voorstelling}
+
+De grafiek van de elementaire wortelfuncties ${\displaystyle y=\sqrt[n]{x}}$
+is hieronder weergegeven. Denk eraan dat (machts)wortels ook als macht
+kunnen geschreven worden: ${\displaystyle y=\sqrt[n]{x}}=x^{\frac{1}{n}}$
+.
+
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.5]{\string"2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswortel - 01\string".eps}
+\end{figure}
+\medskip{}
+
+
+Om het domein (de toegelaten waarden voor $x$) te bepalen moeten
+we rekening houden met zowel de \emph{bestaansvoorwaarden} als de
+\emph{kwadrateringsvoorwaarde}.
+
+Bestaansvoorwaarde(n): de uitdrukking onder een even machtswortel
+moet steeds positief zijn!! En niet vergeten, de eventuele noemer
+mag niet nul worden.
+
+Kwadrateringsvoorwaarde: we spreken af dat een even machtswortel uit
+een uitdrukking steeds positief is.
+
+Het domein van een irrationale functie valt samen met de intervallen,
+waar de vorm onder de vierkantswortel niet negatief is en waar de
+uitdrukking van een even machtsfunctie steeds een positief resultaat
+oplevert.
+
+\medskip{}
+
+
+\textbf{Voorbeeld 1}: ${\displaystyle f(x)=\sqrt{x^{2}-4}}$ 
+
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.5]{\string"2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswortel - 02\string".eps}
+\end{figure}
+\medskip{}
+
+
+Om het domein van de functie $f(x)$ te bepalen moet er aan de bestaansvoorwaarde(n)
+voldaan zijn. In dit geval mag de functie onder het wortelteken niet
+negatief worden. We werken dit verder uit:
+
+De bestaansvoorwaarde: $\begin{array}{cccl}
+x^{2}-4\geq0\\
+\Longleftrightarrow & x^{2}\geq4\\
+\Longleftrightarrow & x\geq2 & \textrm{en} & x\leq-2
+\end{array}$
+
+De kwadrateringsvoorwaarde is reeds voldaan (want er staat infeite
+${\displaystyle f(x)=+\sqrt{x^{2}-4}}$ )
+
+Welke waarden van $x$ voldoen hier nu aan?
+
+${\displaystyle \textrm{dom}f(x)}$ is voor $x\in]-\infty,-2]\bigcup[2,+\infty[$ 
+
+\medskip{}
+
+
+\textbf{Voorbeeld }2: ${\displaystyle f(x)=x+\sqrt{5x+2}-1}$ 
+
+\begin{figure}
+\centering
+\includegraphics[scale=0.5]{\string"2_elem_rekenvaardigheden_B/inputs/voorbeeld irrationale functie - 01\string".eps}
+\end{figure}
+\medskip{}
+
+
+Om het domein van de functie $f(x)$ te bepalen moet er aan de bestaansvoorwaarde(n)
+voldaan zijn. In dit geval mag de functie onder het wortelteken niet
+negatief worden. We werken dit verder uit:
+
+De bestaansvoorwaarde:${\displaystyle \begin{array}{cclcc}
+ & 5x+2\geq0\\
+ & \Longleftrightarrow & x & \geq & -\frac{2}{5}\\
+\\
+\textrm{dus} & \Longleftrightarrow & x & \in & [-\frac{2}{5},+\infty[
+\end{array}}$
+
+\medskip{}
+
+
+Nu moeten we nog de kwadrateringsvoorwaarde controleren, m.a.w. volgens
+onze gemaakte afspraak is een even machtswortel uit een uitdrukking
+steeds positief is:
+
+De bestaansvoorwaarde:${\displaystyle \begin{array}{cccclc}
+ & x+\sqrt{5x+2}=1\\
+ & \Longleftrightarrow & \sqrt{5x+2} & = & 1-x & \geq0\\
+ & \Longleftrightarrow & 1-x & \geq & 0\\
+\textrm{dus} & \Longleftrightarrow & x & \leq & 1\\
+\textrm{of} & \Longleftrightarrow & x & \in & ]-\infty,1]
+\end{array}}$\medskip{}
+
+
+De mogelijke waarden voor $x$ moeten aan beide voorwaarden voldoen.
+Dit betekent:
+
+${\displaystyle \textrm{dom}f(x)}$ is voor $x\in[-\frac{2}{5},1]$ 
+
+\medskip{}
+
+
+\noindent \textbf{Nulpunten}
+
+De vergelijking wordt $f(x)=0$.
+
+De wortelvormen kan je wegwerken door beide leden van de vergelijking
+te verheffen tot een gepaste macht. Bepaal vervolgens de nulpunten
+van de functie. Wanneer een breuk voorkomt in het functievoorschrift,
+bepaal dan ook de nulpunten van de noemer, deze zijn de polen.
+
+\medskip{}
+
+
+\noindent \textbf{Asymptoten}
+
+1) De rechte $x=a$ is een \textbf{verticale asymptoot} (VA) van de
+irrationale functie $f(x)$ als en slechts als $a$ een nulpunt is
+van de noemer en geen nulpunt van de teller.
+
+\[
+{\displaystyle {\displaystyle \lim_{\overset{x\rightarrow a}{<}}}f(x)=\pm\infty\quad\textrm{of}\quad{\displaystyle \lim_{\overset{x\rightarrow a}{>}}}f(x)=\pm\infty}
+\]
+
+
+\[
+{\displaystyle \Rightarrow\:x=a\:\textrm{is een VA}}
+\]
+\medskip{}
+
+
+2) Een irrationale functie $f(x)$ heeft een \textbf{horizontale asymptoot}
+(HA) als en slechts als de graad van de teller \ensuremath{\le} graad
+van de noemer.
+
+\[
+{\displaystyle {\displaystyle \lim_{x\to\pm\infty}}f(x)=b}
+\]
+
+
+\[
+{\displaystyle \Rightarrow\:y=b\:\textrm{is een HA}}
+\]
+\medskip{}
+
+
+3) Een irrationale functie $f(x)$ heeft een \textbf{schuine asymptoot}
+(SA) als en slechts als de graad van de teller = graad van de noemer
++1.
+
+\[
+{\displaystyle m={\displaystyle \lim_{x\to\pm\infty}}\frac{f(x)}{x}\quad\textrm{en}\quad q={\displaystyle \lim_{x\to\pm\infty}}\left[f(x)-mx\right]}
+\]
+
+
+\[
+{\displaystyle \Rightarrow\:y=mx+q\;\textrm{is een SA}}
+\]
+\medskip{}
+
+
+\noindent \textbf{Tekenverloop}
+
+Wanneer je de wortels hebt weggewerkt door de vergelijking te verheffen
+tot een gepaste macht, zal je een veeltermfunctie, een kwadratische
+of een lineaire functie bekomen. Pas het desbetreffend tekenonderzoek
+toe.
+
+
+\subsection{Een voorbeeld}
+
+Bespreek de irrationale functie ${\displaystyle f(x)=\frac{\sqrt{4-x^{2}}}{x-1}}$
+
+\textbf{Domein}
+
+${\displaystyle \textrm{dom}f(x)=[-2,1[\bigcup]1,2]}$
+
+want de bestaansvoorwaarden zijn: ${\displaystyle \begin{array}{cclcc}
+ & 4-x^{2}\geq0\\
+ & \Longleftrightarrow & x^{2}\leq4\\
+\textrm{dus} & \Longleftrightarrow & x\leq2\;\textrm{en}\:x\geq-2\\
+\textrm{of} & \Longleftrightarrow & x\in[-2,2]
+\end{array}}$
+
+en:${\displaystyle \begin{array}{cclcc}
+ & x-1\neq0\\
+\textrm{dus} & \Longleftrightarrow & x\neq1
+\end{array}}$
+
+De kwadrateringsvoorwaarde is hier niet van toepassing (vanwege de
+noemer kan $f(x)$ ook negatief worden).
+
+\medskip{}
+
+
+\textbf{Nulpunten}
+
+Stap 1: Bepaal de nulpunten van de teller, deze zijn de nulpunten
+van de functie $f(x)$.
+
+Dus ${\displaystyle \begin{array}{ccclc}
+f(x)=0\\
+\Longleftrightarrow & \frac{\sqrt{4-x^{2}}}{x-1} & = & 0\\
+\Longleftrightarrow & \sqrt{4-x^{2}} & = & 0\\
+\Longleftrightarrow & 4-x^{2} & = & 0\\
+\Longleftrightarrow & x^{2} & = & 4\\
+\Longleftrightarrow & x & = & \pm2
+\end{array}}$
+
+\medskip{}
+
+
+Stap 2: Bepaal eventueel de nulpunten van de noemer, deze zijn de
+polen van de functie $f(x)$. Bij elke pool hoort een verticale asymptoot.
+
+Het nulpunt van de noemer is $x=1$ (dit is dan tevens de vergelijking
+van de verticale asymptoot).
+
+\medskip{}
+
+
+\textbf{Asymptoten}
+
+Stap 3: Ga na of de functie een verticale asymptoot bezit. 
+
+De rechte $x=1$ is een verticale asymptoot (VA) van de functie $f(x)$
+aangezien $1$ een nulpunt is van de noemer en geen nulpunt van de
+teller is.
+
+Hoe verloopt de functie $f(x)$ in de buurt van deze asymptoot:
+
+${\displaystyle \textrm{LL}:{\displaystyle {\displaystyle \lim_{\overset{x\rightarrow1}{<}}}\left(\frac{\sqrt{4-x^{2}}}{x-1}\right)=-\infty\quad\textrm{en}\quad{\displaystyle \textrm{RL}:\lim_{\overset{x\rightarrow1}{>}}}\left(\frac{\sqrt{4-x^{2}}}{x-1}\right)=+\infty}}$
+
+dus ${\displaystyle \Rightarrow x=1}$ is een VA\medskip{}
+
+
+Stap 4: Ga na of de functie een horizontale asymptoot bezit.
+
+De functie heeft geen horizontale asymptoot, want $x$ die nadert
+naar $+\infty$ of $-\infty$ behoort niet tot het domein.
+
+\medskip{}
+
+
+Stap 5: Ga na of de functie een schuine asymptoot heeft.
+
+De functie heeft geen schuine asymptoot, want $x$ die nadert naar
+$+\infty$ of $-\infty$ behoort niet tot het domein.\medskip{}
+
+
+\textbf{Tekenverloop}
+
+Stap 6:
+\begin{itemize}
+\item Schrijf in /'e/'en tabel bovenaan alle nulpunten en alle polen
+	in stijgende volgorde. 
+\item Onderzoek het teken voor elke factor van $f(x)$. 
+\item Het teken van $f(x)$ is dan het product van deze tekens.
+\end{itemize}
+\medskip{}
+
+\begin{table}
+\centering
+\begin{tabular}{|c||c|c|c|c|c|c|c|c|}
+\hline 
+$x$ &  & $-2$ &  & $1$ &  & $2$ &  & ${\displaystyle \longrightarrow\mathbb{R}}$\tabularnewline
+\hline 
+\hline 
+${\displaystyle \sqrt{4-x^{2}}}$ & / & 0 & + &  & + & 0 & / & \tabularnewline
+\hline 
+${\displaystyle x-1}$ & / &  & - & 0 & + &  & / & \tabularnewline
+\hline 
+\hline 
+${\displaystyle f(x)=\frac{\sqrt{4-x^{2}}}{x-1}}$ & / & 0 & - & $\mid$ & + & 0 & / & \tabularnewline
+\hline 
+\end{tabular}
+\end{table}
+
+\textbf{Grafiek}
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.5]{\string"2_elem_rekenvaardigheden_B/inputs/voorbeeld irrationale functie - 02\string".eps}
+\end{figure}
+
+
+
+\subsection{Onthoud}
+
+\begin{framed}
+
+De grafiek en het tekenverloop van een irrationale functie bepaal
+je als volgt:\medskip{}
+
+Het domein van een irrationale functie valt samen met de intervallen,
+waar de vorm onder de vierkantswortel niet negatief (BVW) is en waar
+de uitdrukking van een even machtsfunctie steeds een positief resultaat
+oplevert (KVW).
+
+Stap 1: Bepaal de nulpunten van de teller, dit zijn de nulpunten van
+de functie $f(x)$.
+
+Stap 2: Bepaal eventueel de nulpunten van de noemer, dit zijn de polen
+van de functie $f(x)$.
+
+Stap 3: De rechte $x=a$ is een \textbf{verticale asymptoot} (VA)
+van de irrationale functie $f(x)$ als en slechts als $a$ een nulpunt
+is van de noemer en maar geen nulpunt van de teller.
+
+\[
+{\displaystyle {\displaystyle \lim_{\overset{x\rightarrow a}{<}}}f(x)=\pm\infty\quad\textrm{of}\quad{\displaystyle \lim_{\overset{x\rightarrow a}{>}}}f(x)=\pm\infty\quad\Rightarrow\:x=a\:\textrm{is een VA}}
+\]
+
+
+Stap 4: Een irrationale functie $f(x)$ heeft een \textbf{horizontale
+asymptoot} (HA) als en slechts als de graad van de teller \ensuremath{\le}
+graad van de noemer.
+
+\[
+{\displaystyle {\displaystyle \lim_{x\to\pm\infty}}f(x)=b\quad\Rightarrow\:y=b\:\textrm{is een HA}}
+\]
+
+
+Stap 5: Een irrationale functie $f(x)$ heeft een \textbf{schuine
+asymptoot} (SA) als en slechts als de graad van de teller = graad
+van de noemer +1.
+
+\[
+{\displaystyle m={\displaystyle \lim_{x\to\pm\infty}}\frac{f(x)}{x}\quad\textrm{en}\quad q={\displaystyle \lim_{x\to\pm\infty}}\left[f(x)-mx\right]}
+\]
+
+
+\[
+{\displaystyle \Rightarrow\:y=mx+q\:\textrm{is een SA}}
+\]
+
+
+Stap 6: Bepaal het tekenverloop
+
+\begin{itemize}
+\item Schrijf in /'e/'en tabel bovenaan alle nulpunten en alle polen in stijgende
+volgorde.
+
+\item Hou rekening met de bestaansvoorwaarde en de kwadrateringsvoorwaarde.
+
+\item Onderzoek het teken voor elke factor van $f(x)$.
+
+\item Het teken van $f(x)$ is dan het product van deze tekens.
+\end{itemize}
+
+\end{framed}

@@ -1,0 +1,827 @@
+\subsection*{Inleiding}
+
+Het oplossen van vergelijkingen is een praktische wiskundige vaardigheid waarvan ondersteld wordt dat elke ingenieur ze beheerst. Op het eerste zicht lijkt vergelijkingen oplossen een spel met rare  regeltjes bedacht door wereldvreemde leraars wiskunde. Zodra je echter gaat narekenen of een voorgestelde technische oplossing voor een probleem eigenlijk wel mogelijk is, iets wat in het Engels heel toepasselijk wordt aangeduid als "do the math", behoort het oplossen van vergelijkingen tot de standaardactiviteiten.\\
+
+Enkele voorbeelden:
+
+\begin{itemize}
+
+\item {In de thermodynamica speelt de toestandsvergelijking van een ideaal gas (in de volksmond "de ideale gaswet" genoemd) een belangrijke rol. Deze vergelijking geeft voor een hoeveelheid (aantal mol $n$) ideaal gas het verband tussen druk $P$, temperatuur $T$ en volume $V$ bij thermisch evenwicht van het gas:
+
+\[ PV=nRT \]
+
+$R$ is een gekende constante.\\
+Als het volume van de gasfles en de druk en temperatuur van het gas in de fles gekend zijn kan je de hoeveelheid gas in de fles berekenen door de vergelijking op te lossen naar de onbekende $n$.}
+
+\item {Uit de fysica weten we dat een voorwerp dat op tijdstip $t=0$ op een hoogte $h_{0}$ wordt losgelaten zich na een valtijd $t$ op een hoogte $h$ zal bevinden gegeven door:
+
+    \[ h(t)=h_{0}-\frac{1}{2}gt^2 \]
+
+    Door de hoogte gelijk aan nul te stellen bekomt men de vergelijking:
+
+    \[ h_{0}-\frac{1}{2}gt^2 =0 \]
+
+    Oplossen van deze vergelijking naar de onbekende $t$ geeft de tijd die het voorwerp nodig heeft om de grond te bereiken.}
+
+    \end{itemize}
+
+
+\noindent Bij sommige toepassingen, zoals bijvoorbeeld het doorrekenen van elektrische netwerken, komt men meerdere vergelijkingen met meerdere onbekenden tegen waarvoor men een oplossing zoekt die moet voldoen aan alle vergelijkingen tegelijkertijd. In zo een geval spreekt men van het oplossen van een stelsel van vergelijkingen.\\
+
+
+
+
+
+\newpage
+
+\subsection{Definities}
+
+\begin{itemize}
+	\item Wat is een vergelijking?
+    \item Wat is een onbekende?
+    \item Zijn er verschillende soorten vergelijkingen?
+	
+\end{itemize}
+
+Een vergelijking drukt uit dat twee wiskundige uitdrukkingen aan elkaar gelijk zijn door een gelijkheidsteken tussen de uitdrukkingen te plaatsen.\\ Bijvoorbeeld:\\
+
+\[5x^3 + 2x = 8x^2 + 17\]
+
+De uitdrukking voor het gelijkheidsteken noemt met het linkerlid, de andere uitdrukking noemt men het rechterlid.\\
+
+In een vergelijking staat altijd minstens \'{e}\'{e}n onbekende die met een letter wordt aangeduid. Dikwijls wordt hiervoor de letter $x$ gebruikt maar een onbekende kan met eender welke letter worden aangeduid. Het oplossen van een vergelijking komt erop neer dat je die waarden voor de onbekende (of onbekenden) zoekt waarvoor het linkerlid inderdaad gelijk is aan het rechterlid.
+
+In deze nota's beperken we ons tot {\bf veeltermvergelijkingen}, dat zijn vergelijkingen waarbij zowel het rechterlid als het linkerlid veeltermen zijn, zoals in het voorbeeld hierboven. Er bestaan echter ook andere vergelijkingen. Bijvoorbeeld de vergelijkingen
+
+\[ 3\sin(x+2)=x^3 - 4x -1 \]
+
+en
+
+\[ \frac{1}{2} e^{-\pi y} - 4 = 37 \cos(y^2 +1) \]
+
+zijn g\'{e}\'{e}n veeltermvergelijkingen.\\
+
+De {\bf graad van een veeltermvergelijking} is de hoogste macht van de onbekende die in de vergelijking voorkomt. De manier waarop men een veeltermvergelijking oplost is verschillend naargelang de graad van de vergelijking.\\
+Bijvoorbeeld
+
+\[ 8t-2=0 \]
+
+is een veeltermvergelijking van de eerste graad in de onbekende $t$, en
+
+\[ h^{23} -2h^{12} + \frac{17}{3} h^7 + 4h^3 = \pi h -\frac{\pi}{2} \]
+
+is een veeltermvergelijking van de $23$-ste graad in de onbekende $h$.\\
+
+\newpage
+
+\subsection{Eerstegraadsvergelijkingen}
+
+We zullen het oplossen van eerstegraadsvergelijkingen verduidelijken met enkele voorbeelden.
+
+%\subsubsection{Voorbeeld 1}
+
+\begin{voorbeeld}
+
+\[5x+3=3x+1\]
+
+Het oplossen van de vergelijking komt er eigenlijk op neer dat je de vergelijking herschrijft op een zodanige manier dat je in \'{e}\'{e}n lid, en alleen daar, de onbekende hebt staan. Op die manier kan je de oplossing direct aflezen.
+Het herschrijven van de vergelijking kan je doen door op het linkerlid en het rechterlid steeds dezelfde bewerkingen uit te voeren, op die manier blijft de gelijkheid tussen linkerlid en rechterlid gelden.\\
+In bovenstaande vergelijking kunnen we van beide leden $3x$ aftrekken:
+
+\[ 5x+3 \boldsymbol{-3x} = 3x +1 \boldsymbol{-3x} \]
+
+dit geeft
+
+\[ 2x+3 = 1 \]
+
+Vervolgens trekken we van beide leden $3$ af:
+
+\[ 2x+3 \boldsymbol{-3} = 1 \boldsymbol{-3} \]
+
+dit geeft
+
+\[ 2x = -2 \]
+
+Om nu in het linkerlid alleen nog de onbekende over te houden kunnen we linkerlid en rechterlid delen door $2$:
+
+\[ \frac{2x}{\boldsymbol{2}} = \frac{-2}{\boldsymbol{2}} \]
+
+dit geeft
+
+\[ x=-1 \]
+
+als oplossing van de vergelijking.\\
+
+\end{voorbeeld}
+
+{\bf Enkele opmerkingen:}
+
+\begin{itemize} \item Het uitvoeren van dezelfde optelling of aftrekking op het linker- en rechterlid komt erop neer  dat je termen van het ene lid naar het andere verplaatst. Hierbij moet je er wel op letten dat het teken van de term verandert bij overbrenging naar het andere lid. \item Het uitvoeren van dezelfde deling (of vermenigvuldiging) op linker- en rechterlid komt neer op het overbrengen van een factor naar het andere lid. Hierbij wordt een vermenigvuldiging een deling en omgekeerd. \item {Soms wordt de oplossing van een vergelijking genoteerd als een verzameling $S$. Voor het hierboven uitgewerkte voorbeeld schrijven we dan als oplossingenverzameling
+ \[ S=\{-1\} \] }
+\end{itemize}
+
+\begin{voorbeeld}
+
+\[ 5y+4=5y-1  \]
+
+We gaan opnieuw op dezelfde manier te werk. We kunnen bijvoorbeeld de term $5y$ uit het rechterlid overbrengen naar het linkerlid:
+
+\[ 5y+4 \boldsymbol{-5y} = -1 \]
+
+ofwel
+
+\[ 4 = -1 \]
+
+Dit is natuurlijk onzin!\\
+Er is geen enkele waarde voor $y$ die ervoor kan zorgen dat $4=-1$, deze vergelijking heeft geen oplossingen...\\
+Dit kan men ook noteren door te schrijven dat de oplossingenverzameling leeg is:
+
+\[ S=\varnothing \]
+
+\end{voorbeeld}
+
+\begin{voorbeeld}
+
+\[2(x-4)=7(3x-1)\]
+
+De eerste stap is hier het uitwerken van de haakjes:
+\[2(x-4)=7(3x-1) \Leftrightarrow 2x-8=21x-7\]
+Vervolgens verplaatsen we de $-8$ naar rechts (min wordt plus):
+\[2x=21x-7+8\Leftrightarrow 2x=21x+1\]
+Nu verplaatsen we de $21x$ van rechts naar links (plus wordt min):
+\[2x-21x=1\Leftrightarrow -19x=1\]
+Dan brengen we $-19$ over naar het rechterlid (pas op: teken verandert niet!):
+\[x=\frac{1}{-19}=-\frac{1}{19}\]
+
+\end{voorbeeld}
+
+\subsubsection{Onthoud}
+
+\begin{framed}
+Een goed stappenplan voor het oplossen van een eerstegraadsvergelijking is:
+\begin{enumerate}
+	\item Reken alle haakjes uit.
+	\item Verplaats alle termen met onbekenden in naar een lid, alle termen zonder onbekenden naar het andere lid.
+	       \begin{itemize}
+                \item Elke bewerking die je links uitvoert, moet je rechts ook uitvoeren. \item Termen kan je overbrengen door het teken te veranderen: min wordt plus, plus wordt min. \item Factoren verplaats je door te delen of te vermenigvuldigen: een vermenigvuldiging wordt een deling en omgekeerd.
+           \end{itemize}
+\end{enumerate}
+\end{framed}
+
+
+\newpage
+
+\subsection{Oplossen van tweedegraadsvergelijkingen}
+
+\begin{itemize}
+		\item Hoeveel oplossingen heeft een tweedegraadsvergelijking?
+	    \item Hoe kan je die oplossingen vinden?
+\end{itemize}
+
+Een tweedegraadsvergelijking wordt in de praktijk dikwijls vierkantsvergelijking of kwadratische vergelijking genoemd.
+
+\subsubsection{Algemene methode om een tweedegraadsvergelijking op te lossen}
+
+Een tweedegraadsvereglijking in de onbekende $x$ is een vergelijking van de vorm
+
+\[ ax^2 + bx + c = 0 \]
+
+met $a,b$ en $c$ re\"{e}le getallen, bovendien moet $a \neq 0$ zijn want anders hebben we een eerstegraadsvergelijking.\\
+Om een dergelijke vergelijking op te lossen herschrijven we de vergelijking door ze te delen door $a$:
+
+\[ x^2 + \frac{b}{a}x + \frac{c}{a} = 0 \]
+
+Dit kan je ook schrijven als
+
+\[ (x+ \frac{b}{2a})^2 + \frac{c}{a} - \frac{b^2}{4a^2} = 0 \]
+
+Dit kan je controleren door de term met de haakjes uit te werken volgens het merkwaardige product $(A+B)^2 =A^2 + B^2 + 2AB $.\\
+De term met de onbekende wordt nu naar het linkerlid verplaatst en de termen zonder de onbekende naar het rechterlid:
+
+\[  (x+ \frac{b}{2a})^2 = \frac{b^2}{4a^2} - \frac{c}{a} \]
+
+ofwel
+
+\[ (x+ \frac{b}{2a})^2 = \frac{b^2 - 4ac}{4a^2} \]
+
+Het berekenen van de vierkantswortel van linkerlid en rechterlid geeft
+
+\[ x+\frac{b}{2a} = \frac{\sqrt{b^2 - 4ac}}{2a} \]
+
+Dit is echter maar de helft van de oplossing. We zoeken immers die uitdrukkingen waarvan het kwadraat gelijk is aan $\frac{b^2 - 4ac}{4a^2}$, dit zijn zowel $+\frac{\sqrt{b^2 - 4ac}}{2a}$ als $-\frac{\sqrt{b^2 - 4ac}}{2a}$. Vergelijk dit bijvoorbeeld met $\sqrt{9}=3$ want $3^2 =9$, maar er geldt ook $(-3)^2 =9$ ... Als je dus de oplossingen zoekt van $y^2 =9$ geeft dit $y=3$ en $y=-3$. \\
+We moeten dus rekening houden met de twee mogelijkheden:
+
+\[ x+\frac{b}{2a} = + \frac{\sqrt{b^2 - 4ac}}{2a} \textup{  en  } x+\frac{b}{2a} = - \frac{\sqrt{b^2 - 4ac}}{2a} \]
+
+Deze eestegraadsvergelijkingen oplossen naar $x$ geeft dan
+
+\[ x_{1}=-\frac{b}{2a}+ \frac{\sqrt{b^2 - 4ac}}{2a} \textup{  en  } x_{2}=-\frac{b}{2a}- \frac{\sqrt{b^2 - 4ac}}{2a} \]
+
+We vinden dus in principe {\bf twee oplossingen} voor een tweedegraadsvergelijking.\\
+Merk op dat de uitdrukking onder de vierkantswortel, $b^2 - 4ac$, een belangrijke rol speelt. Als deze uitdrukking groter dan nul is hebben we twee verschillende re\"{e}le oplossingen, als deze uitdrukkig echter gelijk is aan nul dan zijn de twee oplossingen gelijk aan elkaar (praktisch gezien is er dan maar \'{e}\'{e}n  re\"{e}le oplossing), en als de uitdrukking kleiner is dan nul dan zijn er twee complexe oplossingen. Deze complexe oplossingen zijn bovendien elkaars complex toegevoegde. De tweedemachtswortels van een negatief re\"{e}el getal $z$ zijn immers $\sqrt{|z|}i$ en $-\sqrt{|z|}i$.\\
+De uitdrukking $b^2 - 4ac$ maakt dus een onderscheid (discrimineert) tussen de verschillende soorten oplossingen die mogelijk zijn. Men noemt deze uitdrukking dan ook de {\bf discriminant}, meestal aangeduid met de Griekse hoofdletter delta $\Delta$ of soms ook met de hoofdletter $D$.\\
+
+De algemene methode om een tweedegraadsvergelijking op te lossen kan dus worden samengevat als volgt:\\
+
+\begin{framed}
+\begin{itemize}
+\item Schrijf de vergelijking in de vorm $ax^2 + bx + c = 0$     ($a,b$ en $c$ re\"{e}le getallen)
+\item Bereken de discriminant $\Delta = b^2 - 4ac$
+\item Ga na hoeveel oplossingen er zijn:
+        \begin{itemize} \item Als $\Delta >0$ dan zijn er $2$ verschillende re\"{e}le oplossingen \item Als $\Delta=0$ dan is er $1$ re\"{e}le oplossing (de $2$ oplossingen zijn gelijk aan elkaar) \item Als $\Delta <0$ dan zijn er twee complexe oplossingen die elkaars complex toegevoegde zijn \end{itemize}
+\item De oplossingen worden gegeven door
+\[ x_{1}=\frac{-b + \sqrt{\Delta}}{2a} \textup{  en  } x_{2}=\frac{-b - \sqrt{\Delta}}{2a} \]
+Opmerking: In het geval dat $\Delta <0$ kan men (moet niet) de oplossingen ook schrijven als
+\[ x_{1}=\frac{-b +i \sqrt{|\Delta|}}{2a} \textup{  en  } x_{2}=\frac{-b -i \sqrt{|\Delta|}}{2a} \]
+\end{itemize}
+\end{framed}
+
+\subsubsection{Voorbeeld 1}
+
+\[ x(4x+2)+4 = -3x+2 \]
+
+We schrijven deze vergelijking in de standaardvorm $ax^2 +bx + c =0$:
+
+\[ x(4x+2)+4 = -3x+2 \Leftrightarrow 4x^2 + 2x +4 = -3x +2 \Leftrightarrow 4x^2 + 5x +2 = 0 \]
+
+Het symbool $\Leftrightarrow$ betekent zoveel als ``is equivalent met'' of ``als en slechts als''.\\
+We berekenen nu de discriminant:
+
+\[ \Delta = 5^2 - 4.4.2= 25-32= -7 \]
+
+Aangezien $\Delta < 0$ zijn er twee copmlex toegevoegde complexe oplossingen:
+
+\[ S= \frac{-5+i\sqrt{7}}{8}, -\frac{5+i\sqrt{7}}{8} \]
+
+\subsubsection{Voorbeeld 2}
+
+\[ -4x^2 +5x +2=0 \]
+
+We berekenen de discriminant:
+
+\[ \Delta = 5^2 - 4.(-4).2 = 25 + 32 =57 \]
+
+Er zijn dus twee verschillende oplossingen:
+
+\[ x_{1}=\frac{-5 + \sqrt{57}}{2.(-4)} \textup{  en  } x_{2}=\frac{-5 - \sqrt{57}}{2.(-4)} \]
+
+ofwel
+
+\[ x_{1}=\frac{5 - \sqrt{57}}{8} \textup{  en  } x_{2}=\frac{5 + \sqrt{57}}{8} \]
+
+De oplossingenverzameling is
+
+\[ S=\{ \frac{5 - \sqrt{57}}{8}, \frac{5 + \sqrt{57}}{8} \} \] \\
+
+{\bf Opmerking:} slordig zijn met haakjes veroorzaakt fouten... Gebruik haakjes en respecteer de regels om met haakjes te werken!\\
+
+\subsubsection{Speciale gevallen}
+
+Elke vergelijking van de vorm $ax^2 +bx +c =0$ met $a \neq 0$ kan opgelost worden met de algemene methode met de discriminant. In sommige gevallen is het echter eenvoudiger om deze methode niet te gebruiken. We illustreren dit met enkele voorbeelden.
+
+\begin{itemize}
+\item{Voorbeeld speciaal geval 1}
+
+\[x^2=36\]
+
+Dit is een tweedegraadsvergelijking in de meest eenvoudige vorm ($b=0$): in het linkerlid staat alleen een term met de onbekende en in het rechtermlid staat alleen een getal. Om de onbekende te vinden trekken we van beide leden de vierkantswortel:
+
+\[ x=6 \]
+
+Dit is zeker {\bf een} oplossing want $6^2 =36$. Maar er geldt ook dat $(-6)^2 =36$... Dus heeft de vergelijking nog een tweede oplossing:
+
+\[ x=-6 \]
+
+De oplossingen van de vergelijking zijn dus $x_{1}=+\sqrt{36}$ en $x_{2}=-\sqrt{36}$.\\
+Met de oplossingenverzameling wordt dit genoteerd als
+
+\[ S=\{ -6,6 \} \]
+
+Uiteraard had je hier ook de algemene methode kunnen gebruiken.\\
+Door de oorspronkelijke vergelijking in de standaardvorm te zetten vinden we:
+
+\[ x^2 - 36 =0 \]
+
+De discriminant is $\Delta= 0^2 - 4.1.(-36) = 144$.\\
+De twee verschillende oplossingen zijn dan
+
+\[ x_{1}=\frac{-0 + \sqrt{144}}{2.1} \textup{  en  } x_{2}=\frac{-0 - \sqrt{144}}{2.1} \]
+
+ofwel
+
+\[ x_{1}=6 \textup{  en  } x_{2}=-6 \]
+
+
+\item{Voorbeeld speciaal geval 2}
+
+\[3x^2=10x\]
+
+We kunnen deze vergelijking oplossen door ze in de vorm $ax^2+bx+c=0$ te zetten:
+
+\[3x^2-10x=0\]
+
+Hier is dus $a=3$, $b=-10$ en $c=0$.\\
+We berekenen de discriminat:
+
+\[\Delta=(-10)^2-4\cdot 3 \cdot 0=100-0=100 \]
+
+De twee oplossingen zijn dus:
+
+\[ x_{1}=\frac{10+\sqrt{100}}{2.3} \textup{  en  } x_{2}=\frac{10-\sqrt{100}}{2.3} \]
+
+ofwel
+
+\[ x_{1}=\frac{10}{3} \textup{  en  } x_{2}=0 \]
+
+Dit had echter veel eenvoudiger kunnen opgelost worden door de oorspronkelijke vergelijking te ontbinden in factoren:
+
+\[3x^2-10x=0 \Leftrightarrow x(3x-10)=0  \]
+
+De laatste vergelijking kan alleen maar nul zijn als $x=0$ of $3x-10=0$, met andere woorden de oplossingen zijn
+
+\[ x_{1}=0 \textup{  en  } x_{2}=\frac{10}{3} \]
+
+\item{Voorbeeld speciaal geval 3}
+
+\[ 17(x-1)(x+\pi)=0 \]
+
+De kwadratische vergelijking is hier gegeven als een product van factoren waarin de onbekende $x$ lineair voorkomt. In dit geval is het {\bf niet } interessant om de haakjes uit te werken (het mag wel!). Het product kan alleen maar nul zijn als minstens \'{e}\'{e}n van de factoren nul is. Er is dus voldaan aan de vergelijking als $x-1=0$ of $x+\pi=0$.\\
+De oplossingen zijn dus:
+
+\[ x_{1}=1 \textup{  en  } x_{2}=-\pi \]
+
+\end{itemize}
+
+\subsubsection{Onthoud}
+
+Oplossen van tweedegraadsvergelijkingen:\\
+
+\begin{framed}
+\begin{itemize}
+\item Schrijf de vergelijking in de vorm $ax^2 + bx + c = 0$ ($a,b$ en $c$ re\"{e}le getallen)
+\item Bereken de discriminant $\Delta = b^2 - 4ac$
+\item Ga na hoeveel oplossingen er zijn:
+        \begin{itemize} \item Als $\Delta >0$ dan zijn er $2$ verschillende re\"{e}le oplossingen \item Als $\Delta=0$ dan is er $1$ re\"{e}le oplossing (de $2$ oplossingen zijn gelijk aan elkaar) \item Als $\Delta <0$ dan zijn er twee complexe oplossingen die elkaars complex toegevoegde zijn \end{itemize}
+\item De oplossingen worden gegeven door
+\[ x_{1}=\frac{-b + \sqrt{\Delta}}{2a} \textup{  en  } x_{2}=\frac{-b - \sqrt{\Delta}}{2a} \] 
+Als $\Delta <0$ dan zijn er twee imaginaire oplossingen voor $\sqrt{\Delta}$: $i\sqrt{|\Delta|}$ en $-i\sqrt{|\Delta|}$ 
+\end{itemize}
+
+{\bf Opmerking:} Respecteer de rekenregels voor haakjes, voor het optellen en vermenigvuldigen van breuken, enz...  Denk niet dat je het sneller en beter kan op ``jouw manier''!\\
+
+\end{framed}
+
+\newpage
+
+\subsection{Hogeregraadsvergelijkingen}
+
+\begin{itemize}
+	\item Hoe kan je vergelijkingen met een graad hoger dan twee oplossen?
+\end{itemize}
+
+\subsection{Enkele nuttige weetjes over veeltermvergelijkingen in het algemeen}
+
+Uit de theoretische algebra weet men dat:
+
+\begin{itemize}
+\item een veeltermvergelijking van de $n-$de graad met re\"{e}le co\"{e}ffici\"{e}nten $n$ complexe oplossingen heeft. Zo kan je op het zicht weten dat bijvoorbeeld de vergelijking $y^5 - \pi y^2 + 4y -28 = 0$ vijf complexe oplossingen heeft. Denk er aan dat een re\"{e}el getal ook een complex getal is!
+\item een veeltermvergelijking met een oneven graad en re\"{e}le co\"{e}ffici\"{e}nten heeft altijd minstens \'{e}\'{e}n re\"{e}le oplossing (de vergelijking uit het voorbeeld heeft dus zeker $1$ re\"{e}le oplossing).
+\item voor vergelijkingen van de derde en vierde graad bestaan er algemene oplossingsmethoden zoals voor tweedegraadsvergelijkingen (deze methoden zijn echter zeer langdradig en ingewikkeld en worden in de praktijk niet zoveel gebruikt).
+\item voor vergelijkingen vanaf de vijfde graad bestaan er geen algemene theoretische oplossingsmethoden (dergelijke vergelijkingen worden numeriek opgelost, meestal met behulp van een computer of rekenmachine).
+\end{itemize}
+
+In een aantal speciale gevallen is het echter mogelijk om een hogeregraadsvergelijking toch met de hand op te lossen. Deze gevallen bespreken we hier.
+
+\subsubsection{Substitutiemethode}
+
+Sommige hogeregraadsvergelijkingen kunnen opgelost worden door een slimme substitutie.  Neem bijvoorbeeld de volgende vierdegraadsvergelijking:
+
+\[x^4+3x^2-1=0\]
+
+Door de substitutie $y=x^2$ toe te passen wordt deze vergelijking omgezet in een tweedegraadsvergelijking in de onbekende $y$.
+
+\[ y^2+3y-1=0\]
+
+Deze vergelijking kunnen we oplossen!\\
+We berekenen de discriminant:
+
+\[ \Delta= 3^2 - 4.1.(-1)=9+4=13 \]
+
+Aangezien $\Delta >0$ zijn er $2$  verschillende oplossingen {\bf voor de tweedegraadsvergelijking}.
+
+\[ y_{1}=\frac{-3 + \sqrt{13}}{2} \textup{  en  } y_{2}=\frac{-3 - \sqrt{13}}{2} \]
+
+Dit zijn echter niet de oplossingen van de oorspronkelijke vierdegraadsvergelijking in de onbekende $x$. Het verband tussen de oplossingen van de vierdegraadsvergelijking en de waarden $y_{1}$ en $y_{2}$ wordt gegeven door de vergelijking $y=x^2$. We zoeken dus die waarden voor $x$ waarvoor het kwadraat $y_{1}$ en $y_{2}$ oplevert.
+
+\[ x_{1}=\sqrt{\frac{-3 + \sqrt{13}}{2}} , x_{2}=-\sqrt{\frac{-3 + \sqrt{13}}{2}} , x_{3}=i\sqrt{\frac{3 + \sqrt{13}}{2}} , x_{4}=-i\sqrt{\frac{3 + \sqrt{13}}{2}}     \]
+
+De oplossingenverzameling is
+
+\[ S=\{ \sqrt{\frac{-3 + \sqrt{13}}{2}} , -\sqrt{\frac{-3 + \sqrt{13}}{2}} , i\sqrt{\frac{3 + \sqrt{13}}{2}} , -i\sqrt{\frac{3 + \sqrt{13}}{2}}  \} \]
+
+\subsubsection{Ontbinden in factoren}
+
+Beschouw de volgende derdegraadsvergelijking
+
+\[ 5x^3-2x^2+3x = 0\]
+
+Het linkerlid van deze vergelijking kunnen we schrijven als een product
+
+\[ x(5x^2-2x+3)=0 \]
+
+Aan deze vergelijking kan alleen maar voldaan worden als $x=0$ of $5x^2-2x+3=0$.\\
+We hebben dus al \'{e}\'{e}n oplossing gevonden:
+
+\[ x_{1}=0 \]
+
+Om de eventuele andere oplossingen (maximaal drie) te vinden lossen we de vergelijking $5x^2-2x+3=0$ op.\\ We berekenen de discriminant: $\Delta = (-2)^2 - 4.5.3=4-60=-56 <0$. Er zijn dus twee complexe oplossingen voor $5x^2-2x+3=0$.\\
+
+De oplossingenverzameling is
+
+\[ S=\{ 0 , \frac{1+i\sqrt{14}}{5} , \frac{1-i\sqrt{14}}{5} \} \]
+
+\subsubsection{Onthoud}
+
+\begin{framed}
+Er bestaan geen algemene methoden om vergelijkingen van vijfde graad of hoger met de hand op te lossen. Deze methoden bestaan wel voor derdegraadsvergelijkingen en vierdegraadsvergelijkingen maar deze methoden zijn zeer omslachtig en worden daarom weinig gebruikt in de praktijk.\\
+
+In een aantal speciale gevallen kunnen hogeregraadsvergelijkingen echter opgelost worden met \'{e}\'{e}n van de volgende technieken:
+\begin{itemize}
+	\item {\bf Substitutiemethode}
+\begin{enumerate}
+	\item Als de onbekende $x$ is vervang dan $x^2$ door een andere onbekende (zoals $y$) om een kwadratische vergelijking te bekomen.
+	\item Los deze vergelijking op naar $y$.
+	\item Los de vergelijkingen $y=x^2$ op naar de onbekende $x$.
+\end{enumerate}
+
+\item {\bf Ontbinden in factoren}
+\begin{enumerate}
+	\item Zet alle termen in het linkerlid zodat het rechterlid $0$ is.
+	\item Ontbind het linkerlid in factoren door af te zonderen.
+	\item De oplossingen worden gevonden door elke factor gelijk te stellen aan $0$.
+\end{enumerate}
+	
+	
+\end{itemize}
+
+{\bf Opmerking:} Respecteer de rekenregels voor haakjes, voor het optellen en vermenigvuldigen van breuken, enz...\\
+
+\end{framed}
+
+\newpage
+
+\subsection{Stelsels van vergelijkingen}
+
+\begin{itemize}
+	\item Wat is een stelsel van vergelijkingen?
+	\item Hoe kan men een eenvoudig stelsel van eerstegraadsvergelijkingen oplossen?
+\end{itemize}
+
+\subsubsection{Inleiding}
+
+Een stelsel van vergelijkingen bestaat uit minstens twee vergelijkingen in minstens twee onbekenden. Het bepalen van de onbekenden die tegelijkertijd oplossing zijn voor al de vergelijkingen van het stelsel noemt men het oplossen van het stelsel van vergelijkingen.\\
+
+Als het stelsel van vergelijkingen alleen bestaat uit veeltermvergelijkingen van de eerste graad noemt men dit stelsel {\bf een lineair stelsel} of {\bf een stelsel van lineaire vergelijkingen}.\\ Een voorbeeld van een lineair stelsel van drie vergelijkingen in drie onbekenden $x$, $y$ en $z$:
+
+\[\left\{ {
+\begin{array}{l}
+2x + 3y - 4z = 0\\
+3x + 2y =  5\\
+-x - 7y + z = -1
+\end{array}} \right.\]
+
+In de ingenieurswereld is het niet ongewoon om stelsels van tientallen vergelijkingen in tientallen onbekenden tegen te komen.\\
+
+
+In de algebra toont men aan er voor een stelsel van eerstegraadsvergelijkkingen drie mogelijkheden zijn:
+\begin{itemize}
+\item Het stelsel is oplosbaar en heeft juist \'{e}\'{e}n oplossing.
+\item Het stelsel is oplosbaar en heeft oneindig veel oplossingen.
+\item Het stelsel heeft geen oplossingen.
+\end{itemize}
+
+In deze cursus beperken we ons tot het oplossen van stelsels van twee lineaire vergelijkingen. Voor dergelijke eenvoudige stelsels wordt gebruik gemaakt van de {\bf substitutiemethode}. \\
+
+De substitutiemethode toegepast bij een stelsel van twee lineaire vergelijkingen werkt als volgt:
+\begin{itemize}
+\item Kies \'{e}\'{e}n van de vergelijking en los deze op naar \'{e}\'{e}n van de onbekenden, hierbij doe je net alsof je de andere onbekende kent.
+\item Substitueer nu de oplossing van de ene vergelijking in de andere vergelijking, je bekomt nu een eerstegraadsvergelijking in \'{e}\'{e}n onbekende.
+\item Los de bekomen vergelijking op en substitueer de gevonden onbekende in de andere vergelijking, dit levert een eerstegraadsvergelijking in de nog te vinden onbekende.
+\item Los de overblijvende vergelijking op.
+\item De gevonden oplossing(en) zijn oplossing voor allebei de vergelijkingen van het stelsel. Controleer dit door de waarden te substitueren!
+\end{itemize}
+
+We demonstreren de substitutiemethode met enkele voorbeelden.\\
+
+\subsubsection{Voorbeeld 1}
+
+\[\left\{ \begin{array}{l}
+2x+y=0 \\
+x-3y+1=0
+\end{array} \right.\]
+
+We kiezen bijvoorbeeld de eerste vergelijking en lossen deze op naar de onbekende $y$ waarbij we net doen alsof $x$ een gekend getal is:
+
+\[ 2x+y=0 \Leftrightarrow y=-2x \]
+
+We substitueren nu $y=-2x$ in de tweede vergelijking en lossen de nieuwe vergelijking op naar $x$:
+
+\[ x-3(-2x)+1=0 \Leftrightarrow x+6x+1=0 \Leftrightarrow 7x+1=0 \Leftrightarrow x=-\frac{1}{7} \]
+
+We substitueren de gevonden $x$ nu terug in de eerste vergelijking $y=-2x$:
+
+\[ y=-2(-\frac{1}{7}) \Leftrightarrow y=\frac{2}{7} \]
+
+De oplossing voor het stelsel is dus
+
+\[ \left\{ \begin{array}{l}
+x=-\frac{1}{7} \\
+y=\frac{2}{7}
+\end{array} \right. \]
+
+Controle door deze waarden voor $x$ en $y$ in het oorspronkelijke stelsel te substitueren:
+
+\[ \left\{ \begin{array}{l}
+2(-\frac{1}{7})+\frac{2}{7}=0 \\
+-\frac{1}{7}-3(\frac{2}{7})+1=0
+\end{array} \right.\]
+
+\subsubsection{Voorbeeld 2}
+
+\[\left\{ \begin{array}{l}
+3x + 2y = 4\\
+2x - 3y = 22
+\end{array} \right.\]
+
+Soms wordt om de zaken overzichtelijk te houden bij elke stap het volledige stelsel opnieuw opgeschreven. Dit vraagt heel wat extra schrijfwerk maar het kan wel helpen om fouten te vermijden.\\
+We kiezen bijvoorbeeld de eerste vergelijking en lossen deze op naar $x$:
+
+\[\left\{ \begin{array}{l}
+3x + 2y = 4 \\
+2x - 3y = 22
+\end{array} \right. \Leftrightarrow \left\{ \begin{array}{l}
+3x = 4 - 2y\\
+2x - 3y = 22
+\end{array} \right. \Leftrightarrow \left\{ \begin{array}{l}
+x = \frac{4 - 2y}{3}\\
+2x - 3y = 22
+\end{array} \right.\]
+
+Vervolgens substitueren we
+
+\[x = \frac{4 - 2y}{3} \]
+
+in de tweede vergelijking:
+
+\[ \left\{ \begin{array}{l}
+x = \frac{4 - 2y}{3}\\
+2 ( \frac{4 - 2y}{3} ) - 3y = 22
+\end{array} \right.\]
+
+Dit geeft dan:
+
+\[\left\{ \begin{array}{l}
+x = \frac{4 - 2y}{3} \\
+\frac{2.4}{3} -\frac{2.2}{3}y -3y = 22
+\end{array} \right. \Leftrightarrow \left\{ \begin{array}{l}
+x = \frac{4 - 2y}{3}\\
+\frac{8}{3}-\frac{4}{3}y -3y = 22
+\end{array} \right.\]
+
+en
+
+\[\left\{ \begin{array}{l}
+x = \frac{4 - 2y}{3} \\
+\frac{-4-9}{3}y = \frac{66-8}{3}
+\end{array} \right. \Leftrightarrow \left\{ \begin{array}{l}
+x = \frac{4 - 2y}{3}\\
+-13y=58
+\end{array} \right.\]
+
+dus
+
+\[y=-\frac{58}{13} \]
+
+Dit substitueren we nu in de eerste vergelijking:
+
+\[\left\{ \begin{array}{l}
+x = \frac{4 - 2(-\frac{58}{3})}{3} \\
+y=-\frac{58}{3}
+\end{array} \right. \Leftrightarrow \left\{ \begin{array}{l}
+x = \frac{4+\frac{116}{13}}{3}\\
+y=-\frac{58}{13}
+\end{array} \right.\]
+
+Uitwerken geeft:
+
+\[\left\{ \begin{array}{l}
+x = \frac{\frac{52+116}{13}}{3} \\
+y=-\frac{58}{13}
+\end{array} \right. \Leftrightarrow \left\{ \begin{array}{l}
+x = \frac{56}{13}\\
+y=-\frac{58}{13}
+\end{array} \right.\]
+
+Controleer zelf de correctheid van de gevonden oplossing door $x$ en $y$ te substitueren in het oorspronkelijke stelsel van vergelijkingen.\\
+
+{\bf Opmerking:} Hopelijk heb je gemerkt dat het zo goed als onmogelijk is dergelijke berekeningen uit te voeren zonder op een correcte manier met de rekenregels voor haakjes en breuken om te springen...\\
+
+\subsubsection{Voorbeeld 3}
+
+\[\left\{ \begin{array}{l}
+\pi x - 5y = 0\\
+2 \pi x - 10y = \frac{\pi}{17}
+\end{array} \right.\]
+
+De eerste vergelijking oplossen naar $x$ geeft:
+
+\[ x=\frac{5}{\pi}y \]
+
+Dit substitueren in de tweede vergelijking en uitwerken geeft:
+
+\[\left\{ \begin{array}{l}
+x=\frac{5}{\pi}y \\
+2 \pi (\frac{5}{\pi}y) - 10y = \frac{\pi}{17}
+\end{array} \right. \Leftrightarrow \left\{ \begin{array}{l}
+x=\frac{5}{\pi}y \\
+10y -10y = \frac{\pi}{17}
+\end{array} \right. \Leftrightarrow \left\{ \begin{array}{l}
+x=\frac{5}{\pi}y \\
+0=\frac{\pi}{17}
+\end{array} \right.\]
+
+De tweede vergelijking van het stelsel is duidelijk onzin, er bestaat geen $x$ en $y$ die ervoor kan zorgen dat deze vergelijking klopt.\\
+
+{\bf Het stelsel van vergelijkingen heeft geen oplossingen!}
+
+\subsubsection{Voorbeeld 4}
+
+\[\left\{ \begin{array}{l}
+84x-210y=21\\
+2x-5y = \frac{1}{2}
+\end{array} \right.\]
+
+We lossen de tweede vergelijking op naar $y$:
+
+\[ 2x-5y = \frac{1}{2} \Leftrightarrow \frac{2x-\frac{1}{2}}{5}=y \Leftrightarrow y=\frac{4x-1}{10} \]
+
+Substitutie in de eerste vergelijking geeft dan
+
+\[\left\{ \begin{array}{l}
+84x-210(\frac{4x-1}{10})=21 \\
+y=\frac{4x-1}{10}
+\end{array} \right. \Leftrightarrow \left\{ \begin{array}{l}
+84x-84x+21=21 \\
+y=\frac{4x-1}{10}
+\end{array} \right. \Leftrightarrow \left\{ \begin{array}{l}
+21=21\\
+y=\frac{4x-1}{10}
+\end{array} \right.\]
+
+Hier zien we dat de eerste vergelijking altijd geldig is, welke waarden voor $x$ en $y$ men ook kiest.\\
+Alleen de tweede vergelijking legt beperkingen op aan $x$ en $y$, namelijk dat om een oplossing van het stelsel te hebben het verband tussen $x$ en $y$ moet gegeven worden door
+
+\[ y=\frac{4x-1}{10} \]
+
+Je kan dus ofwel $x$, ofwel $y$ willekeurig kiezen. Als je de andere onbekende berekent met de tweede vergelijking zijn $x$,$y$ een oplossing voor het stelsel.\\
+
+{\bf Dit betekent dat het stelsel een oneindig aantal oplossingen heeft!} \\
+
+De oplossingen worden gegeven door
+
+\[\left\{ \begin{array}{l}
+x \in \mathbb{R} \\
+y=\frac{4x-1}{10}
+\end{array} \right. \]
+
+
+\subsubsection{Onthoud}
+
+\begin{framed}
+\begin{itemize}
+\item Kies \'{e}\'{e}n van de vergelijking en los deze op naar \'{e}\'{e}n van de onbekenden, hierbij doe je net alsof je de andere onbekende kent.
+\item Substitueer nu de oplossing van de ene vergelijking in de andere vergelijking, je bekomt nu een eerstegraadsvergelijking in \'{e}\'{e}n onbekende.
+\item Los de bekomen vergelijking op en substitueer de gevonden onbekende in de andere vergelijking, dit levert een eerstegraadsvergelijking in de nog te vinden onbekende.
+\item Los de overblijvende vergelijking op.
+\item De gevonden oplossing(en) zijn oplossing voor allebei de vergelijkingen van het stelsel. Controleer dit door de waarden te substitueren!
+\end{itemize}
+
+{\bf Opmerking:} Respecteer de rekenregels voor haakjes, voor het optellen en vermenigvuldigen van breuken, enz...\\
+\end{framed}
+
+Tips:
+\begin{framed}
+\begin{itemize}
+	\item Let goed op bij substitutie dat je de hele uitdrukking substitueert, gebruik haakjes!
+	\item Je mag een vergelijking apart afhandelen, maar vergeet niet op het einde alles terug in het stelsel te zetten!
+\end{itemize}
+\end{framed}
+
+\subsection{Ongelijkheden}
+
+\begin{itemize}
+\item Wat is een ongelijkheid?
+\item Hoeveel oplossingen zijn er voor een ongelijkheid en hoe kan je die vinden?
+\end{itemize}
+
+\subsubsection{Inleiding}
+
+Men bekomt een ongelijkheid door in een vergelijking het ``is gelijk aan'' teken te vervangen door \'{e}\'{e}n van de volgende ongelijkheidstekens:
+\begin{itemize}
+\item $ < $ ``is kleiner dan''
+\item $ > $  ``is groter dan''
+\item $ \leq $ ``is kleiner dan of gelijk aan''
+\item $ \geq $ ``is groter dan of gelijk aan''
+\end{itemize}
+
+Je kan ongelijkheden op een soortgelijke manier manipuleren als vergelijkingen.
+\begin{itemize}
+\item Door bij het linkerlid en rechterlid van een ongelijkheid hetzelfde positieve of negatieve getal op te tellen blijft de ongelijkheid geldig. Door bijvoorbeeld in beide leden van de ongelijkheid $x+1>8$ het getal $2$ op te tellen vinden we $x+3>10$ en door het getal $2$ af te trekken bekomt men $x-1>6$. Dit zijn drie equivalente ongelijkheden met dezelfde oplossingen: $x>7$.
+\item Door beide leden van een ongelijkheid met hetzelfde (van nul verschillende) positieve getal te vermenigvuldigen bekomt men een equivalente ongelijkheid, door bijvoorbeeld $x+1>8$ te vermenigvuldigen met $10$ bekomt men $10x+10>80$ met nog steeds dezelfde oplossingen $x>7$.
+\item {\bf Pas op!} Als men een ongelijkheid vermenigvuldigt met een negatief getal dan keert het ongelijkheidsteken om! Nemen we weer hetzelfde voorbeeld $x+1>8$ en vermenigvuldigen we deze uitdrukking met $-1$ dan bekomen we $-x-1<-8$. Alleen op deze manier blijven de oplossingen hetzelfde: $x>7$.
+\end{itemize}
+
+In deze cursus zullen we met behulp van een aantal voorbeelden illustreren hoe men ongelijkheden van de eerste graad kan oplossen.\\
+
+\subsubsection{Voorbeeld 1}
+
+\[ 5x-7 < 2x+1 \]
+
+Door bij beide leden $2x$ af te trekken en $7$ bij te tellen vinden we
+
+\[ 3x<8 \]
+
+Delen door $3$ geeft
+
+\[ x< \frac{8}{3} \]
+
+Deze ongelijkheid heeft dus oneindig veel oplossingen!
+
+Deze oplossingen worden soms ook genoteerd met de oplossingenverzameling:
+
+\[ S=] -\infty, \frac{8}{3} [ \]
+
+Met deze notatie wordt de verzameling van alle getallen tussen $-\infty$ en $\frac{8}{3}$ aangegeven, merk op dat $-\infty$ en $\frac{8}{3}$ niet tot de oplossingenverzameling behoren (dit wordt aangegeven door de naar buiten wijzende vierkante haakjes).
+
+\subsubsection{Voorbeeld 2}
+
+\[ 5x-7 < 8x+1 \]
+
+Door bij beide leden $8x$ af te trekken en $7$ bij te tellen vinden we
+
+\[ -3x<8 \]
+
+Delen door $-3$ geeft
+
+\[ x> -\frac{8}{3} \]
+
+Let op! Het ``$<$''-teken wordt het ``$>$''-teken!\\
+
+De oplossingenverzameling wordt genoteerd als
+
+\[ S=]-\frac{8}{3}, +\infty [ \]
+
+\subsubsection{Voorbeeld 3}
+
+\[ 17x+7 \geq 17x+3\pi \]
+
+Van beide leden $17x$ aftrekken geeft
+
+\[ 7 \geq 3 \pi \]
+
+Er is geen enkele $x$ die ervoor kan zorgen dat hieraan voldaan is. Deze ongelijkheid heeft geen oplossingen. De oplossingenverzameling is leeg:
+
+\[ S=\varnothing \]
+
+
+\subsubsection{Voorbeeld 4}
+
+\[ \frac{x}{3}+1 \leq -\frac{5}{7}x-12 \]
+
+Vermenigvuldigen met $3$ geeft
+
+\[ x+3 \leq -\frac{15}{7}x-36 \]
+
+Het wegwerken van de term met $x$ in het rechterlid en de constante term in het linkerlid geeft
+
+\[ \frac{22}{7}x \leq -39 \]
+
+Vermenigvuldigen met $\frac{7}{22}$ geeft tenslotte
+
+\[ x \leq -\frac{273}{22} \]
+
+De oplossingenverzameling is
+
+\[ S=]-\infty, -\frac{273}{22} ] \]
+
+Merk op dat het naar binnen wijzende vierkante haakje aanduidt dat $-\frac{273}{22}$ wel degelijk tot de oplossingenverzameling behoort.
+
+\subsubsection{Onthoud}
+
+\begin{framed}
+\begin{itemize}
+\item Ongelijkheden van de eerste graad lost men op door de onbekende af te zonderen op een soortgelijke manier als bij veeltermvergelijkingen van de eerste graad.
+\item Let op dat bij het vermenigvuldigen van de ongelijkheid met een negatief getal ``groter dan (of gelijk aan)'' wordt omgezet in ``kleiner dan (of gelijk aan)'' en omgekeerd.
+\item Een ongelijkheid heeft ofwel oneindig veel oplossingen ofwel geen oplossingen.
+\end{itemize}
+\end{framed}

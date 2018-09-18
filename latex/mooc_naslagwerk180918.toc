@@ -1,9 +1,91 @@
 \babel@toc {dutch}{}
-\contentsline {chapter}{\numberline {}Module 1. Titel module 1}{2}{chapter.1}
-\contentsline {section}{\numberline {1}Sectie 1}{2}{section.1.1}
-\contentsline {subsection}{\numberline {1.1}Subsectie}{2}{subsection.1.1.1}
-\contentsline {section}{\numberline {2}Sectie 2}{3}{section.1.2}
-\contentsline {chapter}{\numberline {}Oplossingen van de oefeningen zonder $\ast $}{4}{chapter.2}
-\contentsline {section}{Module 1. Titel module 1}{4}{chapter.2}
-\contentsline {chapter}{\numberline {}Oplossingen van alle oefeningen}{5}{chapter.3}
-\contentsline {section}{Module 1. Titel module 1}{5}{chapter.3}
+\contentsline {chapter}{\numberline {}Module 2. Elementaire rekenvaardigheden B}{3}{chapter.1}
+\contentsline {section}{\numberline {1}Functies}{3}{section.1.1}
+\contentsline {section}{\numberline {2}Rationale functies}{3}{section.1.2}
+\contentsline {subsection}{\numberline {2.1}Algemeen}{3}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {2.2}Een voorbeeld}{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {2.3}Onthoud}{6}{subsection.1.2.3}
+\contentsline {section}{\numberline {3}Irrationale functies}{7}{section.1.3}
+\contentsline {subsection}{\numberline {3.1}Algemeen}{7}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {3.2}Een voorbeeld}{10}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {3.3}Onthoud}{12}{subsection.1.3.3}
+\contentsline {section}{\numberline {4}Exponenti\"ele functies}{13}{section.1.4}
+\contentsline {subsection}{\numberline {4.1}Definities}{13}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {4.2}Bijzondere gevallen}{14}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {4.3}Rekenregels}{15}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {4.4}Oplossen van exponenti\"ele vergelijkingen}{15}{subsection.1.4.4}
+\contentsline {subsubsection}{Algemeen}{15}{subsection.1.4.4}
+\contentsline {subsubsection}{Voorbeeld1: ${\displaystyle a^{f(x)}=c}$}{16}{subsection.1.4.4}
+\contentsline {subsubsection}{Voorbeeld2: ${\displaystyle a^{f(x)}=b^{g(x)}}$ }{16}{subsection.1.4.4}
+\contentsline {subsubsection}{Voorbeeld3: substitutie}{16}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {4.5}De exponenti\"ele functie}{17}{subsection.1.4.5}
+\contentsline {subsubsection}{Algemeen}{17}{subsection.1.4.5}
+\contentsline {subsubsection}{Voorbeeld: ${\displaystyle y=2^{x}}$}{18}{subsection.1.4.5}
+\contentsline {section}{\numberline {5}Limieten}{18}{section.1.5}
+\contentsline {chapter}{\numberline {}Module 5. Vergelijkingen, Ongelijkheden, Stelsels en Matrices}{19}{chapter.2}
+\contentsline {section}{\numberline {1}Vergelijkingen, ongelijkheden en stelsels}{19}{section.2.1}
+\contentsline {subsection}{\numberline {1.1}Definities}{21}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {1.2}Eerstegraadsvergelijkingen}{22}{subsection.2.1.2}
+\contentsline {subsubsection}{Onthoud}{23}{voorbeeld.2.3}
+\contentsline {subsection}{\numberline {1.3}Oplossen van tweedegraadsvergelijkingen}{25}{subsection.2.1.3}
+\contentsline {subsubsection}{Algemene methode om een tweedegraadsvergelijking op te lossen}{25}{subsection.2.1.3}
+\contentsline {subsubsection}{Voorbeeld 1}{27}{subsection.2.1.3}
+\contentsline {subsubsection}{Voorbeeld 2}{27}{subsection.2.1.3}
+\contentsline {subsubsection}{Speciale gevallen}{28}{subsection.2.1.3}
+\contentsline {subsubsection}{Onthoud}{29}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {1.4}Hogeregraadsvergelijkingen}{31}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {1.5}Enkele nuttige weetjes over veeltermvergelijkingen in het algemeen}{31}{subsection.2.1.5}
+\contentsline {subsubsection}{Substitutiemethode}{31}{subsection.2.1.5}
+\contentsline {subsubsection}{Ontbinden in factoren}{32}{subsection.2.1.5}
+\contentsline {subsubsection}{Onthoud}{32}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {1.6}Stelsels van vergelijkingen}{34}{subsection.2.1.6}
+\contentsline {subsubsection}{Inleiding}{34}{subsection.2.1.6}
+\contentsline {subsubsection}{Voorbeeld 1}{35}{subsection.2.1.6}
+\contentsline {subsubsection}{Voorbeeld 2}{35}{subsection.2.1.6}
+\contentsline {subsubsection}{Voorbeeld 3}{37}{subsection.2.1.6}
+\contentsline {subsubsection}{Voorbeeld 4}{37}{subsection.2.1.6}
+\contentsline {subsubsection}{Onthoud}{38}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {1.7}Ongelijkheden}{38}{subsection.2.1.7}
+\contentsline {subsubsection}{Inleiding}{38}{subsection.2.1.7}
+\contentsline {subsubsection}{Voorbeeld 1}{39}{subsection.2.1.7}
+\contentsline {subsubsection}{Voorbeeld 2}{40}{subsection.2.1.7}
+\contentsline {subsubsection}{Voorbeeld 3}{40}{subsection.2.1.7}
+\contentsline {subsubsection}{Voorbeeld 4}{40}{subsection.2.1.7}
+\contentsline {subsubsection}{Onthoud}{41}{subsection.2.1.7}
+\contentsline {section}{\numberline {2}Matrices}{41}{section.2.2}
+\contentsline {subsection}{\numberline {2.1}Definities}{45}{subsection.2.2.1}
+\contentsline {subsubsection}{Definitie van een matrix}{45}{subsection.2.2.1}
+\contentsline {subsubsection}{Enkele veel voorkomende speciale matrices}{45}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2}Bewerkingen met matrices}{47}{subsection.2.2.2}
+\contentsline {subsubsection}{Transponeren van een matrix}{47}{subsection.2.2.2}
+\contentsline {subsubsection}{Product van een matrix met een getal}{48}{subsection.2.2.2}
+\contentsline {subsubsection}{Optellen van matrices}{48}{subsection.2.2.2}
+\contentsline {subsubsection}{Vermenigvuldiging van twee matrices}{49}{Item.10}
+\contentsline {subsection}{\numberline {2.3}Determinant}{50}{subsection.2.2.3}
+\contentsline {subsubsection}{Inleiding}{50}{subsection.2.2.3}
+\contentsline {subsubsection}{Determinant van een 1x1 matrix}{50}{subsection.2.2.3}
+\contentsline {subsubsection}{Determinant van een 2x2 matrix}{50}{subsection.2.2.3}
+\contentsline {subsubsection}{Minor van een element van een vierkante matrix}{50}{subsection.2.2.3}
+\contentsline {subsubsection}{Cofactor van een element van een vierkante matrix}{51}{subsection.2.2.3}
+\contentsline {subsubsection}{Determinant van een nxn matrix}{51}{Item.14}
+\contentsline {subsubsection}{Eigenschappen van determinanten}{53}{Item.17}
+\contentsline {subsection}{\numberline {2.4}Inverse van een matrix}{55}{subsection.2.2.4}
+\contentsline {subsubsection}{Reguliere en singuliere matrix}{55}{subsection.2.2.4}
+\contentsline {subsubsection}{Inverse van een matrix}{55}{subsection.2.2.4}
+\contentsline {subsubsection}{Adjunctmatrix van een vierkante matrix}{56}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.5}De rang van een matrix}{57}{subsection.2.2.5}
+\contentsline {subsubsection}{Onderdeterminant van p-de orde van een matrix}{57}{subsection.2.2.5}
+\contentsline {subsubsection}{Rang van een matrix}{58}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.6}Elementaire omvormingen van een matrix}{60}{subsection.2.2.6}
+\contentsline {subsubsection}{Definitie}{60}{subsection.2.2.6}
+\contentsline {subsubsection}{De rang van een matrix bepalen met elementaire omvormingen}{60}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.7}Praktische berekening van de inverse van een matrix}{62}{subsection.2.2.7}
+\contentsline {subsection}{\numberline {2.8}Methode van Gauss voor het oplossen van een stelsel van vergelijkingen}{65}{subsection.2.2.8}
+\contentsline {subsubsection}{Stelsels van lineaire vergelijkingen in matrixnotatie}{65}{subsection.2.2.8}
+\contentsline {subsubsection}{Equivalentietransformaties van een stelsel lineaire vergelijkingen}{66}{subsection.2.2.8}
+\contentsline {subsubsection}{Methode van Gauss}{66}{subsection.2.2.8}
+\contentsline {subsection}{\numberline {2.9}De regel van Cramer}{70}{subsection.2.2.9}
+\contentsline {subsubsection}{Inleiding}{70}{subsection.2.2.9}
+\contentsline {subsubsection}{De regel van Cramer}{71}{subsection.2.2.9}
+\contentsline {chapter}{\numberline {}Oplossingen van de oefeningen zonder $\ast $}{73}{chapter.3}
+\contentsline {chapter}{\numberline {}Oplossingen van alle oefeningen}{74}{chapter.4}
