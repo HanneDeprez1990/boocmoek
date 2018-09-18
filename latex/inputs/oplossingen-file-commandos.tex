@@ -1,0 +1,15 @@
+
+
+\newcommand{\initialiseer}[2]{\newwrite\alleoplossingen
+\newwrite\oplossingenzonderster
+\immediate\openout\alleoplossingen=#1
+\immediate\openout\oplossingenzonderster=#2}
+
+%\immediate\write\oplossingenzonderster{\unexpanded{\renewcommand{\thesection}{}}}
+
+\newcommand{\oplos}[1]{\immediate\write\alleoplossingen{\unexpanded{\begin{opgelost}}{\theoefen} \unexpanded{#1 \end{opgelost}}}\immediate\write\oplossingenzonderster{\unexpanded{\begin{opgelost}}{\theoefen} \unexpanded{#1 \end{opgelost}}}}
+
+\newcommand{\steroplos}[1]{\immediate\write\alleoplossingen{\unexpanded{\begin{opgelostster}}{\theoefen} \unexpanded{#1 \end{opgelostster}}}}
+
+\newcommand{\sluitfiles}{\immediate\closeout\alleoplossingen
+\immediate\closeout\oplossingenzonderster} 

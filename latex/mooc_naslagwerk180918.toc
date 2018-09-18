@@ -1,0 +1,9 @@
+\babel@toc {dutch}{}
+\contentsline {chapter}{\numberline {}Module 1. Titel module 1}{2}{chapter.1}
+\contentsline {section}{\numberline {1}Sectie 1}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1}Subsectie}{2}{subsection.1.1.1}
+\contentsline {section}{\numberline {2}Sectie 2}{3}{section.1.2}
+\contentsline {chapter}{\numberline {}Oplossingen van de oefeningen zonder $\ast $}{4}{chapter.2}
+\contentsline {section}{Module 1. Titel module 1}{4}{chapter.2}
+\contentsline {chapter}{\numberline {}Oplossingen van alle oefeningen}{5}{chapter.3}
+\contentsline {section}{Module 1. Titel module 1}{5}{chapter.3}

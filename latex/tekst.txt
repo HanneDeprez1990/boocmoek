@@ -1,0 +1,30 @@
+ Volume in drive T is FSDM0009
+ Volume Serial Number is E493-AE5B
+
+ Directory of T:\IIWTCGMonitoraat\STEM_gedeeld\mooc naslagwerk\tex structuur jc in lab
+
+18/09/2018  10:37    <DIR>          .
+18/09/2018  10:37    <DIR>          ..
+18/09/2018  09:41    <DIR>          0_intro
+18/09/2018  09:31    <DIR>          1_elem_rekenvaardigheden_A
+18/09/2018  09:31    <DIR>          2_elem_rekenvaardigheden_B
+18/09/2018  09:31    <DIR>          3_gonio_complexe_getallen
+18/09/2018  09:31    <DIR>          4_opp_inhoud_an_meetk
+18/09/2018  09:31    <DIR>          5_vglen_ongelijkheden_stelsels_matrices
+18/09/2018  09:31    <DIR>          6_afgeleiden_integralen
+18/09/2018  09:12    <DIR>          bronmateriaal
+06/09/2018  17:03           204ÿ620 image.jpg
+06/09/2018  17:25           305ÿ166 innovation_lab_cover_voorstel.jpg
+18/09/2018  10:34    <DIR>          inputs
+06/09/2018  17:25           248ÿ850 logo.jpg
+06/09/2018  16:37             4ÿ042 module1.tex
+18/09/2018  10:36             2ÿ137 mooc_naslagwerk180918.aux
+18/09/2018  10:36            38ÿ426 mooc_naslagwerk180918.log
+18/09/2018  10:36         2ÿ149ÿ284 mooc_naslagwerk180918.pdf
+18/09/2018  10:36            18ÿ817 mooc_naslagwerk180918.synctex.gz
+06/09/2018  16:37             2ÿ689 mooc_naslagwerk180918.tex
+18/09/2018  10:36               629 mooc_naslagwerk180918.toc
+18/09/2018  09:59    <DIR>          svg
+18/09/2018  10:37                 0 tekst.txt
+              11 File(s)      2ÿ974ÿ660 bytes
+              12 Dir(s)  65ÿ548ÿ009ÿ472 bytes free

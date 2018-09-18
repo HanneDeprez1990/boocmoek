@@ -1,0 +1,333 @@
+\usepackage{etex}
+\usepackage[bookmarks=false]{hyperref}
+\usepackage{easybmat}
+\usepackage{fancyhdr}
+\usepackage[dutch]{babel}
+\usepackage[explicit]{titlesec}
+\usepackage{pgf,tikz}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{graphicx}
+\usepackage{ifthen}
+\usepackage{enumitem}
+\usepackage{calc}
+\usepackage{eurosym}
+\usepackage{pdfpages}
+
+\setlength{\oddsidemargin}{-15pt}
+\setlength{\evensidemargin}{0pt}
+\setlength{\topmargin}{-50pt}
+\setlength{\textheight}{680pt}
+\setlength{\textwidth}{485pt}
+\setlength{\headsep}{30pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1ex plus 0.5ex minus 0.2ex}
+\setlength{\footskip}{40pt}
+\setlength{\headheight}{50pt}
+\addtolength{\baselineskip}{20pt}
+
+\numberwithin{equation}{chapter}
+\renewcommand{\theequation}{\arabic{equation}}
+
+\newcommand{\bfit}{\bf\fontshape{it}\selectfont}
+
+%%%%%%%%% De definities voor de headers %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%% Juiste definitie voor input logo geven %%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\filenaamlogo}{inputs/kubus-wetenschappen.png}
+%\parbox[position][height][inner-pos]{width}{text}
+\newcommand{\insertlogo}{\parbox[c][0.95cm][c]{0.85cm}{\includegraphics[width=0.85cm]{\filenaamlogo}}}
+
+\definecolor{fac-groen}{cmyk}{0.42,0,1,0}
+%\definecolor{fac-groen-donker}{cmyk}{0.6,0.3,1,0}
+\definecolor{fac-groen-donker}{cmyk}{0.4,0,1,0.38}
+
+\newlength{\evenlengte}
+
+\newcommand*\runningheader[1]{\settowidth{\evenlengte}{\mbox{\bf #1}}\addtolength{\evenlengte}{6mm}%
+  \begin{tikzpicture}
+    \fill[fill=fac-groen] (0,0) rectangle (\textwidth,1.3cm);
+    \fill[fac-groen-donker] (\textwidth-\evenlengte,0) rectangle (\textwidth,1.3cm);
+    \node[xshift=1mm,anchor=south west]{\insertlogo};
+    \node[xshift=1.5cm,yshift=5.5mm,anchor=south west]{\color{white}\fontsize{11pt}{13pt}\selectfont\bf Junior College STEM};
+    \node[xshift=1.5cm,yshift=0.5mm,anchor=south west]{\color{white}\fontsize{11pt}{13pt}\selectfont\bf KU Leuven};
+    \node[xshift=\textwidth-2mm,yshift=0.5mm,anchor=south east]{{\color{white}\fontsize{11pt}{13pt}\selectfont\bf\boldmath #1}};
+    \node[xshift=\textwidth-2mm,yshift=6mm,anchor=south east]{\color{white}\fontsize{11pt}{13pt}\selectfont\bf \thepage};
+  \end{tikzpicture}}
+
+\newcommand*\hoofdstukheader{%
+  \begin{tikzpicture}
+    \fill[fill=fac-groen] (0,0) rectangle (\textwidth,1.3cm);
+    \node[xshift=1mm,anchor=south west]{\insertlogo};
+    \node[xshift=1.5cm,yshift=5.5mm,anchor=south west]{\color{white}\fontsize{11pt}{13pt}\selectfont\bf Junior College STEM};
+    \node[xshift=1.5cm,yshift=0.5mm,anchor=south west]{\color{white}\fontsize{11pt}{13pt}\selectfont\bf KU Leuven};
+    \node[xshift=\textwidth-2mm,yshift=6mm,anchor=south east]{\color{white}\fontsize{11pt}{13pt}\selectfont\bf \thepage};
+  \end{tikzpicture}}
+
+\pagestyle{fancy}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+\lhead{\runningheader{\nouppercase{\rightmark}}}
+\chead{}
+\rhead{}
+
+\fancypagestyle{plain}{
+   \fancyhf{}
+   \lhead{\hoofdstukheader}
+   \lfoot{}
+   \cfoot{}
+   \rfoot{}}
+
+
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+%%%%%%%%%% De definities voor de hoofdstukpagina's %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand*\chapterlabel{}
+
+\newcommand{\chapterskip}{7mm}
+
+\titlespacing*{\chapter}{0pt}{0pt}{0pt}
+
+\titleformat{\chapter}[block]
+  {\gdef\chapterlabel{} \huge\bfseries\boldmath}
+  {\gdef\chapterlabel{\chaptertitlename}}{0pt}
+  {\ifthenelse{\equal{\chapterlabel}{}}{\hoofdstukzondernaam{#1}}{\hoofdstukmetnaam{\chapterlabel}{#1}}
+  \vspace{\chapterskip}}
+
+\newcommand{\mijnchaptermark}{}
+\renewcommand{\chaptermark}[1]{\markright{\mijnchaptermark}}
+
+\newcommand{\hoofdstukzondernaam}[1]{%
+\mbox{}\hspace{3.7cm}
+\raisebox{20mm}[0cm]{\begin{tikzpicture}[baseline=(current bounding box.north)]
+ \node[anchor=north west,inner sep=4mm,very thick,draw=fac-groen-donker,text badly ragged,text width=12cm]{#1};
+\end{tikzpicture}}%\vspace{1mm}
+}
+
+\newcommand{\hoofdstukmetnaam}[2]{%
+\mbox{}\hspace{3.7cm}
+\raisebox{20mm}[0cm]{\begin{tikzpicture}[baseline=(current bounding box.north)]
+ \node[anchor=south west,rectangle,fill=fac-groen-donker]{\color{white}#1};
+ \node[anchor=north west,inner sep=4mm,very thick,draw=fac-groen-donker,text badly ragged,text width=12cm]{#2};
+\end{tikzpicture}}%\vspace{1mm}
+}
+
+
+%%%%%%%%%%% De definities voor de stellingen, etc. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\stellingnaam}[1]{\begin{tikzpicture}[baseline=(X.base)] \node[inner sep=0.6mm,rectangle,fill=fac-groen-donker](X){\color{white}#1}; \end{tikzpicture}}
+
+\newtheoremstyle{mijnstelling}% name
+  {2ex}%      Space above, empty = `usual value'
+  {2ex}%      Space below
+  {\itshape}% Body font
+  {}%         Indent amount (empty = no indent, \parindent = para indent)
+  {\bfseries}% Thm head font
+  {}%        Punctuation after thm head
+  {2ex}%     Space after thm head: " " = normal interword space;
+        %       \newline = linebreak
+  {\ifthenelse{\equal{#2}{}}{\stellingnaam{#1}}{\stellingnaam{#1 #2}}}% Thm head spec
+
+\newtheoremstyle{mijndefinitie}% name
+  {2ex}%      Space above, empty = `usual value'
+  {2ex}%      Space below
+  {\rm}% Body font
+  {}%         Indent amount (empty = no indent, \parindent = para indent)
+  {\bfseries}% Thm head font
+  {}%        Punctuation after thm head
+  {2ex}%     Space after thm head: " " = normal interword space;
+        %       \newline = linebreak
+  {\ifthenelse{\equal{#2}{}}{\stellingnaam{#1}}{\stellingnaam{#1 #2}}}% Thm head spec
+
+\newtheoremstyle{mijnvoorbeeld}% name
+  {2ex}%      Space above, empty = `usual value'
+  {2ex}%      Space below
+  {\rm}% Body font
+  {}%         Indent amount (empty = no indent, \parindent = para indent)
+  {\it}% Thm head font
+  {.}%        Punctuation after thm head
+  {2ex}%     Space after thm head: " " = normal interword space;
+        %       \newline = linebreak
+  {}% Thm head spec
+
+{\theoremstyle{mijndefinitie}
+\newtheorem*{definitie}{Definitie}}
+
+{\theoremstyle{mijnstelling}
+\newtheorem{eigenschap}{Eigenschap}[chapter]}
+\renewcommand{\theeigenschap}{\arabic{eigenschap}}
+
+{\theoremstyle{mijnvoorbeeld}
+\newtheorem{voorbeeld}{Voorbeeld}[chapter]}
+\renewcommand{\thevoorbeeld}{\arabic{voorbeeld}}
+
+\newenvironment{bewijs eig}{\begin{proof}[Bewijs]}{\end{proof}}
+\newenvironment{bewijs oplossing}{\begin{proof}[Uitgeschreven bewijs]}{\end{proof}}
+
+%%%%%%%%%%%%% Abstracts van de hoofdstukken %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newlength{\breedtesamenvatting}
+\setlength{\breedtesamenvatting}{430pt}
+\newlength{\samenvattingmarge}
+\setlength{\samenvattingmarge}{(\textwidth - \breedtesamenvatting)/2}
+
+\newenvironment{samenvatting}{\par\mbox{}\hspace{\samenvattingmarge}\begin{minipage}[t]{\breedtesamenvatting}}{\end{minipage}\vspace{3ex}\par}
+
+
+%%%%%%%%%%%%% Er zijn geen hoofdstukken, maar wel module's, intermezzo's, etc, vandaar deze definities %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% Het \deelmetoef veronderstelt dat de oplossingenfile's in gebruik zijn %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% De structuur is respectievelijk %%%
+%%%%
+%%%% \deelmetoef[optioneel argument met korte running header]{benaming van het deel met het nummer}{titel van het deel}{titel in table of contents}{titel in de oplossingenlijst}{running header in oplossingenfile} %%%
+%%%%
+%%%% \deelzonderoef[optioneel argument met korte running header]{benaming van het deel met het nummer}{titel van het deel}{titel in table of contents} %%%%
+%%%%
+%%%% \voorbereidendesessie[optioneel argument met korte running header]{benaming van de voorbereidende sessie}
+%%%%
+%%%% \oplossingenvoorbereidendesessie{Oplossingen van de ...}
+%%%%
+
+\renewcommand{\thechapter}{}
+
+\newcommand{\mijnoplosmark}{}
+
+\newcommand{\deelmetoef}[6][xyza]{\renewcommand{\chaptertitlename}{#2}%
+\ifthenelse{\equal{#1}{xyza}}{\renewcommand{\mijnchaptermark}{#4}}{\renewcommand{\mijnchaptermark}{#1}}%
+\chapter[#4]{#3}%
+\immediate\write\alleoplossingen{\unexpanded{\renewcommand{\mijnoplosmark}}{#6}\unexpanded{\section}[#4]{#5}\unexpanded{\markright}{#6}}%
+\immediate\write\oplossingenzonderster{\unexpanded{\renewcommand{\mijnoplosmark}}{#6}\unexpanded{\section}[#4]{#5}\unexpanded{\markright}{#6}}
+}
+
+\newcommand{\deelzonderoef}[4][xyza]{\renewcommand{\chaptertitlename}{#2}%
+\ifthenelse{\equal{#1}{xyza}}{\renewcommand{\mijnchaptermark}{#4}}{\renewcommand{\mijnchaptermark}{#1}}%
+\chapter[#4]{#3}}
+
+
+\newcommand{\voorbereidendesessie}[2][xyza]{\renewcommand{\chaptertitlename}{Voorbereidende sessie}%
+\ifthenelse{\equal{#1}{xyza}}{\renewcommand{\mijnchaptermark}{Voorbereidende sessie. #2}}{\renewcommand{\mijnchaptermark}{Voorbereidende sessie. #1}}%
+\chapter[#1]{#2}
+}
+
+\newcommand{\oplossingenvoorbereidendesessie}[2]{\renewcommand{\chaptertitlename}{}\chapter{#1}\markright{#2}}
+
+%%%%%%%%%%%% Figuren met een ondertitel %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%% De structuur is als volgt: \figuurmetlabel[\label{ref-figuur} - optioneel]{width=7cm}{filenaam.pdf}{Op deze figuur zie je...} %%%%%%%%%%
+%%%%%% Gewone figuur: \gewonefiguur{width=7cm}{filenaam.pdf} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcounter{figuur}[chapter]
+\renewcommand{\thefiguur}{\arabic{figuur}}
+\newcommand{\figuurmetlabel}[4][]{\ifthenelse{\equal{#4}{}}%
+{\begin{center}\includegraphics[#2]{inputs/#3}\nopagebreak\par\refstepcounter{figuur}Figuur \thefiguur#1\end{center}}%
+{\begin{center}\includegraphics[#2]{inputs/#3}\nopagebreak\par\refstepcounter{figuur}Figuur \thefiguur.\ #4#1\end{center}}%
+}
+
+
+\newcommand{\gewonefiguur}[2]{\begin{center}\includegraphics[#1]{inputs/#2}\end{center}}
+
+%%%%%%%%%%%% Tabellen %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%% De structuur is als volgt: \begin{tabel}{Al of niet de ondertitel van de tabel}\begin{tabular}[pos]{table spec} ... \end{tabular}\end{tabel} %%%%
+
+\newcounter{tabelnr}[chapter]
+\newcommand{\tabeltitel}{}
+\renewcommand{\thetabelnr}{\arabic{tabelnr}}
+\newenvironment{tabel}[1]{\begin{center}\refstepcounter{tabelnr}\renewcommand{\tabeltitel}{#1}}{\ifthenelse{\equal{\tabeltitel}{}}%
+{\nopagebreak\vspace{1ex}\par Tabel \thetabelnr\end{center}}%
+{\nopagebreak\vspace{1ex}\par Tabel \thetabelnr.\ \tabeltitel\end{center}}}
+
+%%%%%%%%% Instelling van de opsommingen %%%%%%%%%%%%%%%
+
+\setenumerate{leftmargin=5ex,labelsep=*,label=\arabic*.}
+
+%%%%%%%%% Omgevingen waarin de oefeningen (oef en steroef) worden getypeset. %%%%%%%
+%%%%%%%%% De omgevingen opgelost en opgelostster worden ingeroepen in de automatisch gegenereerde oplossingenfile om de oplossingen te typesetten. %%%%%%%%%%%
+
+\newcommand{\kadertje}[1]{\begin{tikzpicture}[baseline=(X.base)] \node[inner sep=1mm,rectangle,fill=fac-groen-donker](X){\mbox{\color{white}\bf#1}}; \end{tikzpicture}}
+
+\newlength{\oploslabel}
+\setlength{\oploslabel}{8mm}
+\newlength{\labelafstand}
+\setlength{\labelafstand}{3mm}
+
+\newenvironment{opgelost}[1]{\begin{list}{}{\setlength{\labelwidth}{\oploslabel}\setlength{\leftmargin}{\oploslabel}\addtolength{\leftmargin}{\labelafstand}\setlength{\labelsep}{\labelafstand}} \item[{\parbox[t]{\oploslabel}{\kadertje{#1}}}] }{\end{list}}
+
+\newenvironment{opgelostster}[1]{\begin{list}{}{\setlength{\labelwidth}{\oploslabel}\setlength{\leftmargin}{\oploslabel}\addtolength{\leftmargin}{\labelafstand}\settowidth{\labelsep}{{\boldmath$\ast$}}\addtolength{\labelsep}{\labelafstand}} \item[{\parbox[t]{\oploslabel}{\mbox{}{\color{fac-groen-donker}{\boldmath$\ast$}}\kadertje{#1}}}] }{\end{list}}
+
+\newcounter{oefen}[chapter]
+\renewcommand{\theoefen}{\arabic{oefen}}
+
+\newenvironment{somop}{\begin{list}{\parbox[t]{\oploslabel}{$\bullet$}}{\setlength{\labelwidth}{\oploslabel}\setlength{\leftmargin}{\oploslabel}\addtolength{\leftmargin}{\labelafstand}\setlength{\labelsep}{\labelafstand}}}{\end{list}}
+
+\newenvironment{oef}{\begin{list}{}{\setlength{\labelwidth}{\oploslabel}\setlength{\labelsep}{\labelafstand}\setlength{\leftmargin}{\oploslabel}\addtolength{\leftmargin}{\labelafstand}}\refstepcounter{oefen} \item[{\parbox[t]{\oploslabel}{\kadertje{\theoefen}}}] }{\end{list}}
+
+\newenvironment{steroef}{\begin{list}{}{\setlength{\labelwidth}{\oploslabel}\setlength{\leftmargin}{\oploslabel}\addtolength{\leftmargin}{\labelafstand}\settowidth{\labelsep}{{\boldmath$\ast$}}\addtolength{\labelsep}{\labelafstand}}\refstepcounter{oefen} \item[{\parbox[t]{\oploslabel}{\mbox{}{\color{fac-groen-donker}{\boldmath$\ast$}}\kadertje{\theoefen}}}] }{\end{list}}
+
+%%%%%%%%%%% Sectietitels. Het commando \zondernummer wordt aangeroepen bij de opmaak van de %%%%%%%%%%%%%
+%%%%%%%%%%% sectietitels bij de oplossingen. %%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\thesection}{\arabic{section}}
+
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+
+\newlength{\sectielabelbreedte}
+\newlength{\sectielabelskip}
+\newlength{\beschikbaar}
+\newlength{\streepdikte}
+
+\setlength{\sectielabelbreedte}{6mm}
+\setlength{\sectielabelskip}{4mm}
+\setlength{\streepdikte}{2mm}
+
+\titleformat{\section}[block]{}{}{0pt}{\metnummer{\thesection}{#1}}
+
+\newcommand{\metnummer}[2]{\setlength{\beschikbaar}{\textwidth-\sectielabelbreedte-\sectielabelskip-4mm}%
+\begin{tikzpicture}
+\fill[fill=fac-groen-donker] (0,0) rectangle (\textwidth,\streepdikte);
+\node[anchor=north west,fill=fac-groen-donker,rectangle,inner sep=2mm]{\parbox[t]{\sectielabelbreedte}{\Large\bf\color{white}#1}};
+\node[anchor=north east,xshift=\textwidth,yshift=-\streepdikte,inner sep=0pt]{\parbox[t]{\beschikbaar}{\Large\bf\boldmath#2}};
+\end{tikzpicture}}
+
+\newlength{\streeplengte}
+\setlength{\streeplengte}{9mm}
+
+\newcommand{\zondernummer}[1]{\setlength{\beschikbaar}{\textwidth-2\streepdikte}%
+\settoheight{\streeplengte}{\parbox[b]{\beschikbaar}{\Large\bf#1}}%
+\addtolength{\streeplengte}{4mm}%
+\begin{tikzpicture}
+\fill[fill=fac-groen-donker] (0,0) rectangle (\textwidth,\streepdikte);
+\fill[fill=fac-groen-donker] (0,0) rectangle (\streepdikte,-\streeplengte);
+\node[anchor=north east,xshift=\textwidth,yshift=-\streepdikte,inner sep=0pt]{\parbox[t]{\beschikbaar}{\Large\bf\boldmath#1}};
+\end{tikzpicture}}
+
+
+%%%%%%%% Formattering subsections %%%%%%%%%%%
+
+%\titleformat{\subsection}[block]{}{}{0pt}{\large\bf\boldmath#1}
+
+\titleformat{\subsection}[block]{}{\thesubsection}{0pt}{\large\bf\boldmath#1}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Een specialleke bij Google: in te leveren opdracht %%%
+%%%%%%%%%%%%%%%
+
+\newenvironment{opdracht}[1]{\mijnopdracht{#1}}{\vspace{3ex}\par}
+
+\newcommand{\mijnopdracht}[1]{{\titleformat{\subsection}[block]{}{}{0pt}{\opdrachttypeset{#1}}%
+\subsection*{#1}}}
+
+\newlength{\overschot}
+\newlength{\linkerlijn}
+\newlength{\eenbreedte}
+\setlength{\linkerlijn}{1cm}
+
+\newcommand{\opdrachttypeset}[1]{\settowidth{\eenbreedte}{\bf\large\boldmath#1}%
+\setlength{\overschot}{\textwidth-\linkerlijn-\eenbreedte-4ex}%
+\begin{tikzpicture}
+\fill[fill=fac-groen-donker] (0,\streepdikte/2) rectangle (\linkerlijn,-\streepdikte/2);
+\node at (\linkerlijn+2ex,0) [anchor=west,inner sep=0pt] {{\bf\large\boldmath#1}};
+\fill[fill=fac-groen-donker] (\textwidth-\overschot,\streepdikte/2) rectangle (\textwidth,-\streepdikte/2);
+\end{tikzpicture}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
