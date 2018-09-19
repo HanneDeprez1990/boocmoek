@@ -1,41 +1,17 @@
-%% LyX 2.1.4 created this file.  For more info, see http://www.lyx.org/.
-%% Do not edit unless you really know what you are doing.
-\documentclass{article}
-\usepackage[latin9]{inputenc}
-\usepackage[a4paper]{geometry}
-\geometry{verbose,lmargin=2.59cm}
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{graphicx}
 
-\makeatletter
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
-%\usepackage{amsrefs}
-\usepackage{amsthm}
-\usepackage{graphicx}
+%\DeclareMathOperator{\tri}{tri} \DeclareMathOperator{\rect}{rect}
+%\DeclareMathOperator{\sgn}{sgn} \DeclareMathOperator{\ramp}{ramp}
+%\DeclareMathOperator{\sinc}{sinc}
 
 
-% \DeclareMathOperator{\unit}{u} \DeclareMathOperator{\comb}{comb}
-\DeclareMathOperator{\tri}{tri} \DeclareMathOperator{\rect}{rect}
-\DeclareMathOperator{\sgn}{sgn} \DeclareMathOperator{\ramp}{ramp}
-\DeclareMathOperator{\sinc}{sinc}
+\subsection{Goniometrische functies}
+%\begin{itemize}
+%\item Wat is een periode?
+%\item Wat is een goniometrische functie?
+%\item Wat zijn de grafieken van sin, cos, tan en cot? 
+%\end{itemize}
 
-
-\date{ }
-
-\makeatother
-
-\begin{document}
-
-\title{Goniometrische functies}
-\maketitle
-\begin{itemize}
-\item Wat is een periode?
-\item Wat is een goniometrische functie?
-\item Wat zijn de grafieken van sin, cos, tan en cot? 
-\end{itemize}
-
-\section{De periode}
+\subsubsection{De periode}
 
 \noindent Veel fenomenen in ons dagelijks leven herhalen zich, bijvoorbeeld
 je hartslag, de slingerbeweging van een staande klok, ... Ook in technische
@@ -67,14 +43,14 @@ van het zich herhalende stuk. Een voorbeeld:
 
 \noindent 
 \begin{figure}[h]
-\centering{}\includegraphics[height=5cm]{\string"figures/Figuur20 - periodieke functie\string".eps} 
+\centering{}\includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Figuur20 - periodieke functie\string".eps} 
 \end{figure}
 
 
 \noindent Deze functie herhaalt zichzelf met periode $2\pi$.
 
 
-\section{Goniometrische functies}
+\subsubsection{Goniometrische functies}
 
 \noindent Goniometrische functies zijn functies opgebouwd uit de basisfuncties
 sin, cos en tan.
@@ -83,76 +59,78 @@ sin, cos en tan.
 en geen graden. Omdat deze basisfuncties zo belangrijk zijn, zetten
 we ze even op een rijtje met bijhorende grafieken. 
 
-
-\subsection{Sinusfunctie}
+\begin{itemize}
+\item{Sinusfunctie}
 
 $f(x)=\sin x$
 
 \noindent 
 \begin{figure}[h]
-\centering{}\includegraphics[height=5cm]{\string"figures/Figuur21 - sinusfunctie\string".eps} 
+	\centering{}\includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Figuur21 - sinusfunctie\string".eps} 
 \end{figure}
 
 \begin{itemize}
-\item De sinusfunctie kan je voor elke $x$ berekenen. 
-\item De sinusfunctie ligt altijd tussen -1 en 1.
-\item De periode is $2\pi$. 
-\item De sinusfunctie is een oneven functie want $\sin(-x)=-\sin(x)$
+	\item De sinusfunctie kan je voor elke $x$ berekenen. 
+	\item De sinusfunctie ligt altijd tussen -1 en 1.
+	\item De periode is $2\pi$. 
+	\item De sinusfunctie is een oneven functie want $\sin(-x)=-\sin(x)$
 \end{itemize}
 
-\subsection{Cosinusfunctie}
+\item{Cosinusfunctie}
 
 $f(x)=\cos x$
 
 \noindent 
 \begin{figure}[h]
-\centering{}\includegraphics[height=5cm]{\string"figures/Figuur22 - cosinusfunctie\string".eps} 
+	\centering{}\includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Figuur22 - cosinusfunctie\string".eps} 
 \end{figure}
 
 \begin{itemize}
-\item De cosinusfunctie kan je voor elke $x$ berekenen. 
-\item De cosinusfunctie ligt altijd tussen -1 en 1.
-\item De periode is $2\pi$. 
-\item De cosinusfunctie is een even functie want $\cos(-x)=\cos(x)$
+	\item De cosinusfunctie kan je voor elke $x$ berekenen. 
+	\item De cosinusfunctie ligt altijd tussen -1 en 1.
+	\item De periode is $2\pi$. 
+	\item De cosinusfunctie is een even functie want $\cos(-x)=\cos(x)$
 \end{itemize}
 
-\subsection{Tangensfunctie}
+\item{Tangensfunctie}
 
 ${\displaystyle f(x)=\tan x=\textrm{tg}x=\frac{\sin x}{\cos x}}$
 
 \noindent 
 \begin{figure}[h]
-\centering{}\includegraphics[height=5cm]{\string"figures/Figuur23 - tangensfunctie\string".eps} 
+	\centering{}\includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Figuur23 - tangensfunctie\string".eps} 
 \end{figure}
 
 \begin{itemize}
-\item De tangensfunctie kan je niet berekenen voor $\frac{\pi}{2}$, $-\frac{\pi}{2}$,
-$\frac{\pi}{2}+\pi$, $\ldots$ Dus kortweg als $x=\frac{\pi}{2}+k\pi$
-met $k\in\mathbb{Z}$. In deze punten zou de noemer immers nul worden;
-hier heeft de tangens verticale asymptoten.
-\item De tangensfunctie kan oneindig groot $(+\infty)$ en oneindig klein
-$(-\infty)$ worden.
-\item De periode is $\pi$.
-\item De tangensfunctie is een oneven functie want $\tan(-x)=-\tan(x)$
+	\item De tangensfunctie kan je niet berekenen voor $\frac{\pi}{2}$, $-\frac{\pi}{2}$,
+	$\frac{\pi}{2}+\pi$, $\ldots$ Dus kortweg als $x=\frac{\pi}{2}+k\pi$
+	met $k\in\mathbb{Z}$. In deze punten zou de noemer immers nul worden;
+	hier heeft de tangens verticale asymptoten.
+	\item De tangensfunctie kan oneindig groot $(+\infty)$ en oneindig klein
+	$(-\infty)$ worden.
+	\item De periode is $\pi$.
+	\item De tangensfunctie is een oneven functie want $\tan(-x)=-\tan(x)$
 \end{itemize}
 
-\subsection{Cotangensfunctie}
+\item{Cotangensfunctie}
 
 ${\displaystyle f(x)=\cot x=\textrm{cotg}x=\frac{\cos x}{\sin x}}$
 
 \noindent 
 \begin{figure}[h]
-\centering{}\includegraphics[height=5cm]{\string"figures/Figuur24 - cotangensfunctie\string".eps} 
+	\centering{}\includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Figuur24 - cotangensfunctie\string".eps} 
 \end{figure}
 
 \begin{itemize}
-\item De cotangensfunctie kan je niet berekenen voor $0$, $\pi$, $-\pi$,
-$2\pi$ $\ldots$ Dus kortweg als $x=k\pi$ met $k\in\mathbb{Z}$.
-In deze punten zou de noemer immers nul worden; hier heeft de cotangens
-verticale asymptoten.
-\item De cotangensfunctie kan oneindig groot $(+\infty)$ en oneindig klein
-$(-\infty)$ worden.
-\item De periode is $\pi$.
-\item De cotangensfunctie is een oneven functie want $\cot(-x)=-\cot(x)$\end{itemize}
+	\item De cotangensfunctie kan je niet berekenen voor $0$, $\pi$, $-\pi$,
+	$2\pi$ $\ldots$ Dus kortweg als $x=k\pi$ met $k\in\mathbb{Z}$.
+	In deze punten zou de noemer immers nul worden; hier heeft de cotangens
+	verticale asymptoten.
+	\item De cotangensfunctie kan oneindig groot $(+\infty)$ en oneindig klein
+	$(-\infty)$ worden.
+	\item De periode is $\pi$.
+	\item De cotangensfunctie is een oneven functie want $\cot(-x)=-\cot(x)$
+\end{itemize}
 
-\end{document}
+\end{itemize}
+

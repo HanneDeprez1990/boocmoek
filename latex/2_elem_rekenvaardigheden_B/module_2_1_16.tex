@@ -1,0 +1,302 @@
+
+%\DeclareMathOperator{\tri}{tri} \DeclareMathOperator{\rect}{rect}
+%\DeclareMathOperator{\sgn}{sgn} \DeclareMathOperator{\ramp}{ramp}
+%\DeclareMathOperator{\sinc}{sinc}
+
+
+\subsection{Co\"ordinatenstelsels}
+
+%\begin{itemize}
+%\item Hoe kunnen we op een \'e\'enduidige manier elk punt in het vlak of de
+%ruimte een plaats geven?
+%\item Welke co\"ordinatenstelsels worden er vaak gebruikt?
+%\end{itemize}
+%Een co\"ordinatenstelsel is een wiskundige methode die wordt gebruikt
+%om de ligging van een punt weer te geven.
+
+\subsubsection{Cartesisch of rechthoekig co\"ordinatenstelsel}
+
+De vergelijking $y=f(x)$ voegt aan iedere $x$-waarde \'e\'enduidig een
+$y$-waarde toe. Met $x_{0}$ komt bijvoorbeeld $y_{0}$ overeen volgens
+$y_{0}=f(x_{0})$. Het getallenpaar $(x_{0}\,,\,y_{0})$ kunnen we
+als punt P in een rechthoekig of cartesisch co\"ordinatenstelsel tekenen.
+De twee co\"ordinaat-assen staan loodrecht op elkaar, de horizontale
+as noemen we de X-as en de verticale as de Y-as. Het snijpunt is de
+oorsprong O.
+
+\noindent Voor ieder getallenpaar krijgen we precies \'e\'en punt. De
+verzameling van alle punten $(x\,,\,y=f(x))$ vormt de grafiek of
+kromme van de functie. De grafiek laat het verloop van de functie
+in een figuur zien.
+
+%\begin{figure}
+%\includegraphics[scale=2]{2_elem_rekenvaardigheden_B/inputs/2.1.15_figuur10}
+%\end{figure}
+
+\begin{table}
+	\centering
+\begin{tabular}{|c|l|l|}
+	\hline 
+	We zeggen dat: & $x_{0},y_{0}$  & zijn de rechthoekige of cartesische co\"ordinaten\\
+	\hline 
+	& $x_{0}$  & is de abscis van het punt P\\
+	\hline 
+	& $y_{0}$ & is de ordinaat van het punt P\\
+	\hline 
+\end{tabular}
+\end{table}
+
+
+\noindent Het cartesisch co\"ordinatenstelsel is de gebruikelijke manier
+om een punt in een vlak aan te duiden. Omdat in dit platte vlak twee
+co\"ordinaten nodig zijn om een punt vast te leggen, zeggen we dat een
+vlak tweedimensionaal is. In feite is 'de dimensie van een ruimte'
+het aantal co\"ordinaten dat nodig is om de plaats van alle punten in
+die ruimte precies te kunnen bepalen. Zo bestaat de klassieke 3D-ruimte
+uit 3 dimensies en zijn er dus 3 co\"ordinaten $(x,y,z)$ nodig om de
+plaats van elk punt \'e\'enduidig te beschrijven. 
+
+\textbf{Parametervoorstelling van een functie}
+
+\noindent Het is bij de wiskundige beschrijving van een bewegend lichaam
+vaak handig om de positie van het lichaam weer te geven door cartesische
+co\"ordinaten die zelf een functie van de tijd zijn. We noteren dan:
+\[
+x=x(t)\:,\;y=y(t)\quad\textrm{met}\:t_{1}\leq t\leq t_{2}
+\]
+
+\noindent We noemen een dergelijke voorstelling met een hulpvariabele
+$t$ de parametervoorstelling van een functie. In de natuurwetenschappen
+en de techniek betekent de parameter $t$ meestal de tijd of een hoek.
+
+\noindent We krijgen voor iedere waarde van t uit het interval $t_{1}\leq t\leq t_{2}$
+precies \'e\'en punt van de kromme.\medskip{}
+
+
+\noindent Voorbeeld 1: de horizontale worp
+
+\noindent een lichaam wordt van een bepaalde hoogte horizontaal met
+een constante beginsnelheid $v_{0}$ weggeworpen. T.g.v. de zwaartekracht
+verloopt de beweging vervolgens als een parabool (parabolische baan).
+De parametervergelijkingen van deze beweging zijn:
+
+\[
+x=v_{0}t\:,\;y=\frac{1}{2}gt^{2}\quad\textrm{met}\:t\geq0
+\]
+
+
+\noindent Door het elimineren van de parameter vinden we de expliciete
+vergelijking van de grafiek (parabool). Dit doen we door t uit de
+vergelijking van $x$ te halen en te substitueren in de vergelijking
+van $y$:
+
+uit $x=v_{0}t$ volgt dat $t=\frac{x}{v_{0}}$ zodat $y=\frac{1}{2}gt^{2}=\frac{1}{2}g\left(\frac{x}{v_{0}}\right)^{2}=\frac{g}{2v_{0}^{2}}x$
+
+
+\noindent Voorbeeld 2: de cirkel
+
+Een veel gebruikte parametrisatie voor de cirkel met vergelijking
+$x^{2}+y^{2}=R^{2}$ is de volgende:
+
+\noindent 
+\[
+x=R\cos(t)\:,\;y=R\sin(t)\quad\textrm{met}\:0\leq t<2\pi
+\]
+
+
+Opmerkingen:
+\begin{itemize}
+\item de parameter $t$ stelt nu een hoek voor (uitgedrukt in radialen).
+Omdat $t=0$ en $t=2\pi$ hetzelfde punt voorstellen, zal men meestal
+$2\pi$ niet opnemen in het interval. Vandaar het $<$ en niet nog
+eens het $\leq$-symbool.
+\item om uit de parametervergelijkingen de cartesische vergelijking voor
+de cirkel te bekomen moeten we de parameter t elimineren. Daarvoor
+gebruiken we een trucje. We weten dat voor elke hoek $\alpha$ de
+goniometrische grondformule geldt: $\cos^{2}\alpha+\sin^{2}\alpha=1$.
+Substitueren we nu $\cos(t)=\frac{x}{R}$ en $\sin(t)=\frac{y}{R}$
+in de grondformule dan bekomen we inderdaad $x^{2}+y^{2}=R^{2}$ .
+\end{itemize}
+
+\subsubsection{Poolco\"ordinaten}
+
+De poolco\"ordinaten $\left(r,\theta\right)$ van een punt P in een
+vlak zijn de afstandsco\"ordinaat $r$ en de hoekco\"ordinaat $\theta$.
+We noemen de afstand $r$ de radius of de voerstraal en de hoek $\theta$
+het argument.
+
+%\includegraphics{2_elem_rekenvaardigheden_B/inputs/Poolcoordinaten_wikipedia}
+
+Enkele opmerkingen:
+\begin{itemize}
+\item we defini\"eren de voerstraal $r$ steeds positief, dus $r\geq0$.
+\item we defini\"eren de hoek $\theta$ positief als de pijl van de positieve
+X-as naar de plaatsvector van P tegen de klok in draait (andersom
+is de hoek negatief). Een hoek $\theta$ is \'e\'enduidig bepaald op veelvouden
+van 360\textdegree{} (of veelvouden van $2\pi$ in radialen) na. Meestal
+wordt de hoek $\theta$ gegeven in het interval $0\text{\textdegree}\leq\theta\leq360\text{\textdegree}$
+of $0\leq\theta\leq2\pi$. I.p.v. de Griekse letter theta ($\theta$
+) wordt ook vaak de letter phi ( $\varphi$ ) als hoekaanduiding gebruikt.
+\item de X- en Y-as maken geen deel uit van dit co\"ordinatenstelsel. We tekenen
+echter wel vaak een horizontale en verticale hulplijn om het uitzetten
+van de hoeken te vergemakkelijken.
+\item het poolco\"ordinatenstelsel is een kromlijnig co\"ordinatenstelsel: de
+co\"ordinaatlijnen zijn concentrische cirkels met de oorsprong O als
+middelpunt en langs stralen die radiaal vanuit O lopen. We noemen
+de oorsprong ook vaak 'de pool' en de X-as de 'poolas'.
+\item de pool (dus de oorsprong O) heeft als voerstraal $r=0$ terwijl de
+hoek $\theta$ onbepaald is.
+\item poolco\"ordinaten worden ook gebruikt bij het voorstellen van en het
+werken met complexe getallen.
+\end{itemize}
+
+
+\noindent Soms is het handig of noodzakelijk om over te stappen van
+cartesische co\"ordinaten naar poolco\"ordinaten of omgekeerd. Daarvoor
+gebruiken we het volgende stel transformatievergelijkingen:
+
+\begin{table}
+\begin{tabular}{|l|c|l|l|l|}
+	\hline 
+	cartesische co\"ordinaten &  & poolco\"ordinaten &  & \multirow{3}{*}{\includegraphics[scale=2]{\string"2_elem_rekenvaardigheden_B/inputs/Boek Lothar Papula - cartesische en pool coordinaten\string".eps}}\tabularnewline
+	\cline{1-4} 
+	gegeven P met $\left(x,y\right)$ & $\rightarrow$ & dan is $\begin{cases}
+	r=\sqrt{x^{2}+y^{2}}\\
+	\textrm{tg}\theta=\frac{y}{x}
+	\end{cases}$  &  & \tabularnewline
+	\cline{1-4} 
+	dan is $\begin{cases}
+	x=r.\cos\theta\\
+	y=r.\sin\theta
+	\end{cases}$ & $\leftarrow$ & gegeven P met $\left(r,\theta\right)$ &  & \tabularnewline
+	\hline 
+\end{tabular}\medskip{}
+\end{table}
+
+
+Opmerking: let op bij het berekenen van de hoek $\theta$. Je rekenmachine
+zal als resultaat van de $\textrm{Arctg}\left(\frac{y}{x}\right)$
+een hoek geven in het 1ste of 4de kwadrant. Je moet dus zelf, bij
+het resultaat van je rekenmachine nog 180\textdegree{} of $\pi$ optellen
+als het punt P in het 2de of 3de kwadrant ligt.
+
+\noindent De voorstelling van een functie in poolco\"ordinaten
+
+\noindent Een functie (kromme) in poolco\"ordinaten wordt beschreven
+door een vergelijking van de vorm:
+\[
+r=r(\theta)
+\]
+
+
+\noindent We stellen een functiewaardentabel op voordat we de grafiek
+van de functie tekenen. Voor verschillende waarden $\theta_{1}$ ,
+$\theta_{2}$ , $\theta_{3}$ , ... berekenen we de bijhorende voerstralen
+$r_{1}=r\left(\theta_{1}\right)$ , ... Daarna tekenen we de punten
+met co\"ordinaten $\left(r_{1},\theta_{1}\right)$ , ... en verbinden
+deze d.m.v. een vloeiende lijn.
+
+%\begin{table}
+%\begin{tabular}{|c|c|c|}
+%	\hline 
+%	\begin{tabular}{|c|c|}
+%		\hline 
+%		$\theta$ & $r=r(\theta)$\tabularnewline
+%		\hline 
+%		\hline 
+%		$\theta_{1}$ & $r_{1}=r\left(\theta_{1}\right)$ \tabularnewline
+%		\hline 
+%		$\theta_{2}$ & $r_{2}=r\left(\theta_{2}\right)$ \tabularnewline
+%		\hline 
+%		$\vdots$ & $\vdots$\tabularnewline
+%		\hline 
+%	\end{tabular} &  & \includegraphics[scale=2]{\string"2_elem_rekenvaardigheden_B/inputs/Boek Lothar Papula - pool coordinaten - functie\string".eps}\tabularnewline
+%	\hline 
+%	&  & in de figuur zijn de hoeken aangeduid met $\varphi$ ipv $\theta$\tabularnewline
+%	\hline 
+%\end{tabular}
+%\end{table}
+
+
+Voorbeeld 1: de spiraal van Archimedes
+
+Schets de kromme met vergelijking $r=\theta$ waarbij $0\leq\theta\leq2\pi$
+
+We stellen een functiewaardentabel op (tip: kies niet te veel, maar
+ook niet te weinig hoeken; de intervallen tussen de hoeken hoeft niet
+noodzakelijk overal even groot te zijn).
+
+%\begin{tabular}{|c|c|c|}
+%\hline 
+%\begin{tabular}{|c|c|}
+%\hline 
+%$\theta$ & $r=r(\theta)=\theta$\tabularnewline
+%\hline 
+%\hline 
+%$0$ & 0\tabularnewline
+%\hline 
+%$\frac{\pi}{4}$ & 0.785 \tabularnewline
+%\hline 
+%$\frac{\pi}{2}$ & 1.571\tabularnewline
+%\hline 
+%$3\frac{\pi}{4}$ & 2.356\tabularnewline
+%\hline 
+%$\pi$ & 3.142\tabularnewline
+%\hline 
+%$3\frac{\pi}{2}$ & 4.712\tabularnewline
+%\hline 
+%$2\pi$ & 6.283\tabularnewline
+%\hline 
+%\end{tabular} &  & \includegraphics{2_elem_rekenvaardigheden_B/inputs/2.1.15_figuur8.eps}\tabularnewline
+%\hline 
+%\end{tabular}
+
+
+Voorbeeld 2: de cardio/"ide
+
+Schets de kromme met vergelijking $r=1+\cos\theta$ waarbij $0\text{\textdegree}\leq\theta\leq360\text{\textdegree}$
+
+We stellen een functiewaardentabel op. Wegens de symmetrie t.o.v.
+de X-as berekenen we slechts de radius-waarden tussen 0\textdegree{}
+en 180\textdegree .
+
+\begin{minipage}{5\linewidth}
+\begin{tabular}{|c|c|}
+\hline 
+$\theta$ & $r=r(\theta)$\\
+\hline 
+\hline 
+0\textdegree{} & 2\\
+\hline 
+30\textdegree{} & 1.866\\
+\hline 
+60\textdegree{} & 1.5\\
+\hline 
+90\textdegree{} & 1\\
+\hline 
+120\textdegree{} & 0.5\\
+\hline 
+150\textdegree{} & 0.134\\
+\hline 
+180\textdegree{} & 0\\
+\hline 
+\end{tabular}
+\end{minipage}
+\begin{minipage}{.5\linewidth}
+	\begin{figure}
+	\includegraphics{2_elem_rekenvaardigheden_B/inputs/2.1.15_figuur8.eps}
+	\end{figure}
+\end{minipage} 
+
+Voorbeeld 3: de cirkel
+
+Schets de kromme met vergelijking $r=2$ waarbij $0\text{\textdegree}\leq\theta<360\text{\textdegree}$
+
+Bij elke hoek $\theta$ hoort dezelfde voerstraal, namelijk $r=2$.
+Het heeft dus weinig zin om een functiewaardentabel op te stellen.
+
+Opmerking: de cartesische vergelijking van een cirkel heeft een duidelijk
+ingewikkeldere notatie: $x^{2}+y^{2}=2^{2}$. Schrijven we $y$ expliciet
+dan zien we meteen ook dat dit eigenlijk geen functie is (met elke
+$x$-waarde komen immers 2 $y$-waarden overeen): $y=\pm\sqrt{4-x^{2}}$
+

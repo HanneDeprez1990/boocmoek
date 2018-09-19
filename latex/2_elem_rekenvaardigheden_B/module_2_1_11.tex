@@ -1,54 +1,23 @@
-%% LyX 2.1.4 created this file.  For more info, see http://www.lyx.org/.
-%% Do not edit unless you really know what you are doing.
-\documentclass{article}
-\usepackage[latin9]{inputenc}
-\usepackage[a4paper]{geometry}
-\geometry{verbose,lmargin=2.59cm}
-\usepackage{float}
-\usepackage{calc}
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{graphicx}
 
-\makeatletter
+%\DeclareMathOperator{\tri}{tri} \DeclareMathOperator{\rect}{rect}
+%\DeclareMathOperator{\sgn}{sgn} \DeclareMathOperator{\ramp}{ramp}
+%\DeclareMathOperator{\sinc}{sinc}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
-%% Because html converters don't know tabularnewline
-\providecommand{\tabularnewline}{\\}
+\subsection{Logaritmische functies}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
-%\usepackage{amsrefs}
-%\usepackage{amsthm}
-%\usepackage{graphicx}
+%\begin{itemize}
+%\item Wat is een logaritmische functie?
+%\item Hoe ziet het functievoorschrift van een logaritmische functie eruit?
+%\item Welke rekenregels voor logaritmen zijn er?
+%\item Hoe lossen we logaritmische vergelijkingen op?
+%\item Hoe kan je een logaritmische functie grafisch voorstellen?
+%\item Hoe bepaal je het tekenverloop van een logaritmische functie? 
+%\end{itemize}
 
-
-% \DeclareMathOperator{\unit}{u} \DeclareMathOperator{\comb}{comb}
-\DeclareMathOperator{\tri}{tri} \DeclareMathOperator{\rect}{rect}
-\DeclareMathOperator{\sgn}{sgn} \DeclareMathOperator{\ramp}{ramp}
-\DeclareMathOperator{\sinc}{sinc}
-
-
-\date{ }
-
-\makeatother
-
-\begin{document}
-
-\title{Logaritmische functies}
-\maketitle
-\begin{itemize}
-\item Wat is een logaritmische functie?
-\item Hoe ziet het functievoorschrift van een logaritmische functie eruit?
-\item Welke rekenregels voor logaritmen zijn er?
-\item Hoe lossen we logaritmische vergelijkingen op?
-\item Hoe kan je een logaritmische functie grafisch voorstellen?
-\item Hoe bepaal je het tekenverloop van een logaritmische functie? 
-\end{itemize}
-
-\section{Definities}
+\subsubsection{Definities}
 
 \noindent De logaritmische functie wordt gedefinieerd als de inverse
-van de exponentiële functie.
+van de exponenti\"ele functie.
 
 \noindent De logaritmische functie is van de vorm:
 
@@ -66,7 +35,7 @@ en ${\displaystyle x\in\mathbb{R}_{0}^{+}}$%
 \noindent $a$ noemen we het \textbf{grondtal} , en moet strikt positief
 en verschillend van 1 zijn.
 
-\noindent $x$ is een strikt positief reëel getal.
+\noindent $x$ is een strikt positief re\"eel getal.
 
 \medskip{}
 
@@ -75,14 +44,14 @@ en verschillend van 1 zijn.
 welke macht moet ik het grondtal $a$ verheffen om $x$ uit te komen?''\medskip{}
 
 
-\begin{figure}[H]
+\begin{figure}[h]
 linker figuur ${\displaystyle y=\log_{10}\left(x\right)=\log(x)}$
 en $y=10^{x}$ 
 
 rechter figuur: ${\displaystyle y=\log_{e}\left(x\right)=\ln(x)}$
 en $y=e^{x}$ 
 
-\includegraphics[scale=0.5]{\string"figures/log en exp\string".eps}
+\includegraphics[scale=0.5]{\string"2_elem_rekenvaardigheden_B/inputs/log en exp\string".eps}
 \end{figure}
 
 
@@ -113,7 +82,7 @@ ${\displaystyle \log_{3}\sqrt{3}=\log_{3}3^{\frac{1}{2}}=\frac{1}{2}}$
 ${\displaystyle \log_{5}\frac{1}{5}=\log_{5}5^{-1}=-1}$
 
 
-\section{Bijzondere gevallen}
+\subsubsection{Bijzondere gevallen}
 \begin{itemize}
 \item De \textbf{tiendelige of Briggse logaritme} is de logaritme met grondtal
 10. In de notatie wordt vaak het grondtal 10 weggelaten: ${\displaystyle y=\log_{10}\left(x\right)}=\log\left(x\right)$
@@ -127,7 +96,7 @@ notatie: ${\displaystyle y=\ln(x)}$
 bestaan niet!
 \end{itemize}
 
-\section{Rekenregels}
+\subsubsection{Rekenregels}
 
 \begin{tabular}{|l|}
 \hline 
@@ -152,7 +121,7 @@ Opmerkingen:
 \item voor de eenvoud hebben we enkele keren het grondtal weggelaten. 
 \item laat je niet verleiden, er bestaat geen eenvoudige formule voor ${\displaystyle \log\left(x+y\right)=\ldots}$
 \item ${\displaystyle \log\left(x^{n}\right)=\log\left(x.x.x.\:\ldots\:x\right)=\log x+\log x+\:\ldots\:+\log x=n\log x}$
-Toch niet zo moeilijk hé!?
+Toch niet zo moeilijk h/'e!?
 \item om een logaritme met grondtal a om te zetten naar een logaritme met
 grondtal c maken we gebruiken van de volgende eigenschap: ${\displaystyle \log_{a}x=\frac{\log_{c}x}{\log_{c}a}}$
 Hiermee vind je trouwens ook gemakkelijk het laatste rekenregeltje.
@@ -166,17 +135,17 @@ manier te schrijven. Zowel de notatie ${\displaystyle x=10^{log_{10}(x)}}$
 als ${\displaystyle x=\log_{10}10^{x}}$ worden regelmatig gebruikt.
 Hetzelfde geldt voor ${\displaystyle x=e^{log_{e}(x)}=e^{\ln x}}$
 en ${\displaystyle x=\log_{e}e^{x}=\ln e^{x}}$ . Het idee hierachter
-is dat de logaritmische en exponentiële functies elkaars inverse zijn,
+is dat de logaritmische en exponenti\"ele functies elkaars inverse zijn,
 waardoor ze elkaar opheffen als ze na elkaar worden toegepast op $x$.
 Maar let wel op met bijvoorbeeld ${\displaystyle \sqrt{x^{2}}\neq x}$
 maar wel ${\displaystyle \sqrt{x^{2}}=\left|x\right|}$(zie ook Module
 1 - Absolute waarde).
 \end{itemize}
 
-\section{Oplossen van logaritmische vergelijkingen}
+\subsubsection{Oplossen van logaritmische vergelijkingen}
 
-
-\subsection{Algemeen}
+\begin{itemize}
+\item{Algemeen}
 
 In sommige opgaves kom je logaritmische vergelijkingen tegen. Dit
 zijn vergelijkingen waar de onbekende voorkomt in een logaritmische
@@ -188,32 +157,32 @@ Stap 1: Noteer de vergelijking in haar standaardvorm: ${\displaystyle \log_{a}\l
 of ${\displaystyle \log_{a}\left(f(x)\right)=\log_{a}\left(g(x)\right)}$
 .
 
-Stap 2: Laat op beide leden van de vergelijking een geschikte exponentiële
+Stap 2: Laat op beide leden van de vergelijking een geschikte exponenti\"ele
 functie inwerken.
 
 Stap 3: Controleer of de bekomen oplossingen voldoen aan de voorwaarden:
 \begin{itemize}
-\item het grondtal moet strikt positief zijn, en verschillend van 1 zijn,
-en
-\item de ${\displaystyle \log_{a}\left(f(x)\right)}$ bestaat enkel als
-${\displaystyle f(x)>0}$ . 
+	\item het grondtal moet strikt positief zijn, en verschillend van 1 zijn,
+	en
+	\item de ${\displaystyle \log_{a}\left(f(x)\right)}$ bestaat enkel als
+	${\displaystyle f(x)>0}$ . 
 \end{itemize}
 Stap 4: Stop de uitkomst in de opgave en controleer.
 
 
-\subsection{Voorbeeld1: ${\displaystyle \log_{a}\left(f(x)\right)=\log_{a}\left(g(x)\right)}$ }
+\item{Voorbeeld1: ${\displaystyle \log_{a}\left(f(x)\right)=\log_{a}\left(g(x)\right)}$ }
 
 Los op: ${\displaystyle \log_{3}(x+4)+\log_{3}(x-2)=2\log_{3}x}$
 
 \[
 {\displaystyle \begin{split}{\displaystyle \log_{3}(x+4)+\log_{3}(x-2)=2\log_{3}x} &  &  &  & \text{ (stap 1)}\\
-\Longleftrightarrow & \log_{3}\left[\left(x+4\right)\left(x-2\right)\right] & = & \log_{3}x^{2}\\
-\Longleftrightarrow & 3^{\log_{3}\left[\left(x+4\right)\left(x-2\right)\right]} & = & 3^{\log_{3}x^{2}} & \text{ (stap 2)}\\
-\Longleftrightarrow & \left(x+4\right)\left(x-2\right) & = & x^{2}\\
-\Longleftrightarrow & x^{2}-2x+4x-8 & = & x^{2}\\
-\Longleftrightarrow & 2x-8 & = & 0\\
-\Longleftrightarrow & x & = & 4
-\end{split}
+	\Longleftrightarrow & \log_{3}\left[\left(x+4\right)\left(x-2\right)\right] & = & \log_{3}x^{2}\\
+	\Longleftrightarrow & 3^{\log_{3}\left[\left(x+4\right)\left(x-2\right)\right]} & = & 3^{\log_{3}x^{2}} & \text{ (stap 2)}\\
+	\Longleftrightarrow & \left(x+4\right)\left(x-2\right) & = & x^{2}\\
+	\Longleftrightarrow & x^{2}-2x+4x-8 & = & x^{2}\\
+	\Longleftrightarrow & 2x-8 & = & 0\\
+	\Longleftrightarrow & x & = & 4
+	\end{split}
 }
 \]
 
@@ -238,16 +207,16 @@ Opmerking: stap 2 kan je ook in gedachten doen, m.a.w. hoef je niet
 op te schrijven.
 
 
-\subsection{Voorbeeld2: ${\displaystyle \log_{a}\left(f(x)\right)=c}$ }
+\item{Voorbeeld2: ${\displaystyle \log_{a}\left(f(x)\right)=c}$ }
 
 Los op: ${\displaystyle \log_{(x+3)}(x+5)=2}$
 
 \[
 {\displaystyle \begin{split}{\displaystyle \log_{(x+3)}(x+5)=2} &  &  &  & \text{ (stap 1)}\\
-\Longleftrightarrow & (x+3)^{2} & = & x+5 & \textrm{definitie:}\:{\displaystyle y=\log_{a}x\Leftrightarrow a^{y}=x}\\
-\Longleftrightarrow & x^{2}+6x+9 & = & x+5 & \text{}\\
-\Longleftrightarrow & x^{2}+5x+4 & = & 0
-\end{split}
+	\Longleftrightarrow & (x+3)^{2} & = & x+5 & \textrm{definitie:}\:{\displaystyle y=\log_{a}x\Leftrightarrow a^{y}=x}\\
+	\Longleftrightarrow & x^{2}+6x+9 & = & x+5 & \text{}\\
+	\Longleftrightarrow & x^{2}+5x+4 & = & 0
+	\end{split}
 }
 \]
 
@@ -269,18 +238,18 @@ Stap 4: controleer je oplossing: ${\displaystyle \log_{(-1+3)}(-1+5)=2}$?
 ok. Maar ${\displaystyle \log_{(-4+3)}(-4+5)=2}$ gaat niet.
 
 
-\subsection{Voorbeeld3: het grondtal is onbekend}
+\item{Voorbeeld3: het grondtal is onbekend}
 
 Los op: ${\displaystyle \log_{a}250=3+\log_{a}2}$
 
 \[
 {\displaystyle \begin{split}{\displaystyle \log_{a}250=3+\log_{a}2}\\
-\Longleftrightarrow & {\displaystyle \log_{a}250-\log_{a}2} & = & 3\\
-\Longleftrightarrow & {\displaystyle \log_{a}\left(\frac{250}{2}\right)} & = & 3 & \text{}\\
-\Longleftrightarrow & {\displaystyle \log_{a}125} & = & 3\\
-\Longleftrightarrow & a^{3} & = & 125\\
-\Longleftrightarrow & a & = & \sqrt[3]{125}=5
-\end{split}
+	\Longleftrightarrow & {\displaystyle \log_{a}250-\log_{a}2} & = & 3\\
+	\Longleftrightarrow & {\displaystyle \log_{a}\left(\frac{250}{2}\right)} & = & 3 & \text{}\\
+	\Longleftrightarrow & {\displaystyle \log_{a}125} & = & 3\\
+	\Longleftrightarrow & a^{3} & = & 125\\
+	\Longleftrightarrow & a & = & \sqrt[3]{125}=5
+	\end{split}
 }
 \]
 
@@ -289,18 +258,18 @@ Alternatieve aanpak:
 
 \[
 {\displaystyle \begin{split}{\displaystyle \log_{a}250=3+\log_{a}2}\\
-\Longleftrightarrow & {\displaystyle \log_{a}250} & = & 3\log_{a}a+\log_{a}2 & (\textrm{infeite}\:\textrm{is}\:\log_{a}a=1)\\
-\Longleftrightarrow & {\displaystyle \log_{a}250} & = & \log_{a}a^{3}+\log_{a}2 & \text{}\\
-\Longleftrightarrow & {\displaystyle \log_{a}250} & = & \log_{a}\left(a^{3}.2\right)\\
-\Longleftrightarrow & 250 & = & 2a^{3}\\
-\Longleftrightarrow & a & = & \sqrt[3]{\frac{250}{2}}=5
-\end{split}
+	\Longleftrightarrow & {\displaystyle \log_{a}250} & = & 3\log_{a}a+\log_{a}2 & (\textrm{infeite}\:\textrm{is}\:\log_{a}a=1)\\
+	\Longleftrightarrow & {\displaystyle \log_{a}250} & = & \log_{a}a^{3}+\log_{a}2 & \text{}\\
+	\Longleftrightarrow & {\displaystyle \log_{a}250} & = & \log_{a}\left(a^{3}.2\right)\\
+	\Longleftrightarrow & 250 & = & 2a^{3}\\
+	\Longleftrightarrow & a & = & \sqrt[3]{\frac{250}{2}}=5
+	\end{split}
 }
 \]
 
 
 
-\subsection{Voorbeeld4: rekenen met zeer grote en kleine getallen}
+\item{Voorbeeld4: rekenen met zeer grote en kleine getallen}
 
 Uit hoeveel cijfers bestaat het getal ${\displaystyle 1995^{1995}}$
 ?
@@ -310,9 +279,9 @@ Stel ${\displaystyle x=1995^{1995}}$
 Dan is: 
 \[
 {\displaystyle \begin{split}\log_{10}x & = & \log_{10}\left(1995^{1995}\right)\\
- & = & 1995.\log_{10}\left(1995\right)\\
- & = & 6583,386\ldots &  & \text{}
-\end{split}
+	& = & 1995.\log_{10}\left(1995\right)\\
+	& = & 6583,386\ldots &  & \text{}
+	\end{split}
 }
 \]
 
@@ -334,75 +303,77 @@ Dan is:
 
 Besluit: $x$ is een geheel getal dat bestaat uit $6584$ cijfers
 
+\end{itemize}
 
-\section{De logaritmische functie}
 
+\subsubsection{De logaritmische functie}
 
-\subsection{Algemeen}
+\begin{itemize}
+\item{Algemeen}
 
 \noindent \textbf{Grafische voorstelling}
 \begin{itemize}
-\item Het domein van de logaritmische functie is $\mathbb{R}_{0}^{+}$,
-dus alle strikt positieve getallen, de grafiek ligt rechts van de
-Y-as.
-\item Het beeld van de logaritmische functie is ${\displaystyle \mathbb{R}}$.
-\item De punten $(1,0)$ en $(a,1)$ behoren steeds tot de logaritmische
-functie ${\displaystyle f(x)=\log_{a}x}$.
-\item Als het grondtal $a>1$ is het een stijgende functie.
-\item Als het grondtal $0<a<1$ is het een dalende functie.
-\item De grafieken ${\displaystyle y=\log_{a}x}$ en ${\displaystyle y=\log_{\frac{1}{a}}x}$
-zijn elkaars spiegelbeeld t.o.v. de X-as.
+	\item Het domein van de logaritmische functie is $\mathbb{R}_{0}^{+}$,
+	dus alle strikt positieve getallen, de grafiek ligt rechts van de
+	Y-as.
+	\item Het beeld van de logaritmische functie is ${\displaystyle \mathbb{R}}$.
+	\item De punten $(1,0)$ en $(a,1)$ behoren steeds tot de logaritmische
+	functie ${\displaystyle f(x)=\log_{a}x}$.
+	\item Als het grondtal $a>1$ is het een stijgende functie.
+	\item Als het grondtal $0<a<1$ is het een dalende functie.
+	\item De grafieken ${\displaystyle y=\log_{a}x}$ en ${\displaystyle y=\log_{\frac{1}{a}}x}$
+	zijn elkaars spiegelbeeld t.o.v. de X-as.
 \end{itemize}
 \begin{figure}
-\includegraphics[scale=0.5]{\string"figures/de logaritmische functie\string".eps}
+	\includegraphics[scale=0.5]{\string"2_elem_rekenvaardigheden_B/inputs/de logaritmische functie\string".eps}
 \end{figure}
 
 
 \noindent \textbf{Nulpunten}
 \begin{itemize}
-\item De logaritmische functie heeft 1 nulpunt: het punt (1,0) is het enige
-snijpunt met de X-as. 
-\item Er zijn geen snijpunten met de Y-as. De Y-as is de verticale asymptoot.
+	\item De logaritmische functie heeft 1 nulpunt: het punt (1,0) is het enige
+	snijpunt met de X-as. 
+	\item Er zijn geen snijpunten met de Y-as. De Y-as is de verticale asymptoot.
 \end{itemize}
 \noindent \textbf{Tekenverloop}
 
 \begin{tabular}{|c||c|c|c|c|c|}
-\hline 
-$x$ & 0 &  & 1 &  & ${\displaystyle \longrightarrow\mathbb{R}}$\tabularnewline
-\hline 
-\hline 
-${\displaystyle \log_{a}x}$ met $0<a<1$ & $/$ & + & 0 & - & \multicolumn{1}{c|}{}\tabularnewline
-\hline 
-${\displaystyle \log_{a}x}$ met $a>1$ & $/$ & - & 0 & + & \multicolumn{1}{c|}{}\tabularnewline
-\hline 
+	\hline 
+	$x$ & 0 &  & 1 &  & ${\displaystyle \longrightarrow\mathbb{R}}$\tabularnewline
+	\hline 
+	\hline 
+	${\displaystyle \log_{a}x}$ met $0<a<1$ & $/$ & + & 0 & - & \multicolumn{1}{c|}{}\tabularnewline
+	\hline 
+	${\displaystyle \log_{a}x}$ met $a>1$ & $/$ & - & 0 & + & \multicolumn{1}{c|}{}\tabularnewline
+	\hline 
 \end{tabular}
 
 
-\subsection{Voorbeeld: ${\displaystyle y=\log_{2}x}$}
+\item{Voorbeeld: ${\displaystyle y=\log_{2}x}$}
 
 \textbf{Grafische voorstelling}: (stap1) het grondtal is 2, en $2>0$,
 dus krijgen we een stijgende functie. Het punt $(a,1)$ is hier dus
 $(2,1)$ en behoort tot de functie ${\displaystyle y=\log_{2}x}$.\medskip{}
 
 
-\noindent \textbf{Nulpunten}: (stap2) er is altijd één nulpunt; de
+\noindent \textbf{Nulpunten}: (stap2) er is altijd /'e/'en nulpunt; de
 X-as wordt altijd gesneden in het punt $(1,0)$. De Y-as wordt nooit
 gesneden. De Y-as is de verticale asymptoot.\medskip{}
 
 
 \noindent \textbf{Tekenverloop}: (stap3) %
 \begin{tabular}{|c||c|c|c|c|c|}
-\hline 
-$x$ & 0 &  & 1 &  & ${\displaystyle \longrightarrow\mathbb{R}}$\tabularnewline
-\hline 
-\hline 
-${\displaystyle \log_{2}x}$ met $a=2>1$ & $/$ & - & 0 & + & \multicolumn{1}{c|}{}\tabularnewline
-\hline 
+	\hline 
+	$x$ & 0 &  & 1 &  & ${\displaystyle \longrightarrow\mathbb{R}}$\tabularnewline
+	\hline 
+	\hline 
+	${\displaystyle \log_{2}x}$ met $a=2>1$ & $/$ & - & 0 & + & \multicolumn{1}{c|}{}\tabularnewline
+	\hline 
 \end{tabular}
 
 \noindent \textbf{Grafiek}: (stap4) 
 \begin{figure}
-\includegraphics[scale=0.5]{\string"figures/voorbeeld logaritmische functie\string".eps}
+	\includegraphics[scale=0.5]{\string"2_elem_rekenvaardigheden_B/inputs/voorbeeld logaritmische functie\string".eps}
 \end{figure}
+\end{itemize}
 
-\end{document}

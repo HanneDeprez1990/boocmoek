@@ -1,0 +1,129 @@
+%\DeclareMathOperator{\tri}{tri} \DeclareMathOperator{\rect}{rect}
+%\DeclareMathOperator{\sgn}{sgn} \DeclareMathOperator{\ramp}{ramp}
+%\DeclareMathOperator{\sinc}{sinc}
+
+
+\subsection{Verschuiven en herschalen}
+
+%\begin{itemize}
+%\item Wat gebeurt er met de grafiek van een functie als we bij het argument
+%en/of bij de functie zelf, een getal optellen?
+%\item Wat gebeurt er met de grafiek van een functie als we het argument
+%en/of de functie zelf vermenigvuldigen met een getal?
+%\end{itemize}
+
+\subsubsection{Verschuiven}
+
+\noindent Wanneer we de grafiek van $y=f(x)$ kennen, kunnen we met
+verschuivingen (of translaties) de grafiek van $y=f(x+a)$ en $y=f(x)+a$
+daaruit afleiden (met $a\in\mathbb{R}$).
+
+\medskip{}
+
+
+\noindent De grafiek van $y=f(x+a)$ wordt verkregen uit de grafiek
+van $y=f(x)$ door alle punten op de grafiek met een afstand van a
+eenheden horizontaal te verschuiven (naar links als $a>0$, en naar
+rechts als $a<0$).
+
+\noindent Het lijkt misschien een beetje tegenstrijdig dat de grafiek
+van een functie naar rechts verschuift als je bij het argument $x$
+een negatief getal optelt. Maar kijk eens naar de sinus functie $f_{1}(x)=\sin(x)$
+in onderstaand voorbeeld. We weten dat de sinus functie onder andere
+een nulpunt heeft als het argument nul is, dus voor $x=0$. Als we
+van $x$ de waarde $\frac{\pi}{2}$ aftrekken, dan bekomen we terug
+datzelfde nulpunt als het argument nul is. Uit $x-\frac{\pi}{2}=0$
+volgt dat dit het geval zal zijn als $x=+\frac{\pi}{2}$. Met andere
+woorden, de functie $f_{2}(x)=\sin(x-\frac{\pi}{2})$ heeft dezelfde
+grafiek als de functie $f_{1}(x)=\sin(x)$ maar is $\frac{\pi}{2}$
+eenheden naar rechts verschoven.\medskip{}
+
+
+\begin{figure}
+	\centering
+	\begin{subfigure}{.48\linewidth}
+	\includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar links\string".eps}
+	\end{subfigure}
+	\begin{subfigure}{.48\linewidth}
+	 \includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar rechts\string".eps} 
+	\end{subfigure}
+\end{figure}
+
+\medskip{}
+
+
+\noindent De grafiek van $y=f(x)+a$ wordt verkregen uit de grafiek
+van $y=f(x)$ door alle punten op de grafiek met een afstand van a
+eenheden verticaal te verschuiven (naar beneden als $a<0$, en naar
+boven als $a>0$).
+
+\noindent \medskip{}
+
+
+%\begin{tabular}{ccc}
+%\includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal - naar omlaag\string".eps}  &  & \includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal -  naar omhoog\string".eps} \tabularnewline
+%\end{tabular}\medskip{}
+
+
+Een voorbeeld: hoe ziet de grafiek eruit van de functie $y=x^{2}+2x+3$
+?
+
+We herschrijven de functie als: $y=\left(x^{2}+2x+1\right)+2=\left(x+1\right)^{2}+2$
+
+We herkennen hierin de basisfunctie $y=x^{2}$. De gegeven functie
+stelt dus een parabool voor die over 1 eenheid naar links en 2 eenheden
+naar boven is verschoven.
+
+
+\subsubsection{Herschalen}
+
+\noindent Wanneer we de grafiek van $y=f(x)$ kennen, kunnen we met
+herschalen (of vermenigvuldigen) de grafiek van $y=f(ax)$ en $y=af(x)$
+daaruit afleiden (met $a\in\mathbb{R}$).
+
+\medskip{}
+
+
+\noindent De grafiek van $y=f(ax)$ wordt verkregen uit de grafiek
+van $y=f(x)$ door, bij gelijkblijvende $y$-co\"ordinaten, alle $x$-co\"ordinaten
+van de punten op de grafiek met een factor $\frac{1}{a}$ te vermenigvuldigen
+(openrekken als $0<a<1$, en inkrimpen als $a>1$).
+
+\noindent Voor $a=2$ bijvoorbeeld krimpt de grafiek in elkaar. Het
+is alsof de functie dubbel zo snel verloopt.
+
+\noindent \medskip{}
+
+
+\begin{tabular}{ccc}
+\includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - openrekken\string".eps}  &  & \includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - inkrimpen\string".eps} \tabularnewline
+\end{tabular}
+
+\noindent \medskip{}
+
+
+\noindent Een bijzonder geval treedt op als $a=-1$: de grafiek van
+$g(x)=f(-x)$ kan uit de grafiek van $f(x)$ worden verkregen door
+van alle punten op de grafiek de $x$-co\"ordinaten met -1 te vermenigvuldigen,
+dus door de grafiek van $f(x)$ te spiegelen ten opzichte van de $Y$-as.
+Op die manier kan je bijvoorbeeld heel eenvoudig afleiden dat de grafiek
+van de functie $g(x)=\sqrt{-x}$ bestaat en het spiegelbeeld is van
+$f(x)=\sqrt{x}$. Terwijl de functie $f(x)$ enkel gedefinieerd is
+voor alle positieve re\"ele getallen, is de functie $g(x)$ dit enkel
+voor alle negatieve re\"ele getallen.
+
+\medskip{}
+
+
+\noindent De grafiek van $y=af(x)$ wordt verkregen uit de grafiek
+van $y=f(x)$ door, bij gelijkblijvende $x$-co\"ordinaten, alle $y$-co\"ordinaten
+van de punten op de grafiek met een factor $a$ te vermenigvuldigen
+(inkrimpen als $0<a<1$, en openrekken als $a>1$).
+
+\noindent \medskip{}
+
+
+\begin{tabular}{ccc}
+\includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - inkrimpen\string".eps}  &  & \includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - openrekken\string".eps} \tabularnewline
+\end{tabular}\medskip{}
+
