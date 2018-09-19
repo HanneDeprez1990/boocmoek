@@ -29,9 +29,10 @@ verzameling van alle punten $(x\,,\,y=f(x))$ vormt de grafiek of
 kromme van de functie. De grafiek laat het verloop van de functie
 in een figuur zien.
 
-%\begin{figure}
-%\includegraphics[scale=2]{2_elem_rekenvaardigheden_B/inputs/2.1.15_figuur10}
-%\end{figure}
+\begin{figure}
+\centering
+\includegraphics[height=5cm]{2_elem_rekenvaardigheden_B/inputs/figuur10}
+\end{figure}
 
 \begin{table}
 	\centering
@@ -125,7 +126,10 @@ vlak zijn de afstandsco\"ordinaat $r$ en de hoekco\"ordinaat $\theta$.
 We noemen de afstand $r$ de radius of de voerstraal en de hoek $\theta$
 het argument.
 
-%\includegraphics{2_elem_rekenvaardigheden_B/inputs/Poolcoordinaten_wikipedia}
+\begin{figure}
+\centering
+\includegraphics{2_elem_rekenvaardigheden_B/inputs/Poolcoordinaten_wikipedia}
+\end{figure}
 
 Enkele opmerkingen:
 \begin{itemize}
@@ -155,23 +159,29 @@ werken met complexe getallen.
 cartesische co\"ordinaten naar poolco\"ordinaten of omgekeerd. Daarvoor
 gebruiken we het volgende stel transformatievergelijkingen:
 
-\begin{table}
-\begin{tabular}{|l|c|l|l|l|}
-	\hline 
-	cartesische co\"ordinaten &  & poolco\"ordinaten &  & \multirow{3}{*}{\includegraphics[scale=2]{\string"2_elem_rekenvaardigheden_B/inputs/Boek Lothar Papula - cartesische en pool coordinaten\string".eps}}\tabularnewline
-	\cline{1-4} 
-	gegeven P met $\left(x,y\right)$ & $\rightarrow$ & dan is $\begin{cases}
-	r=\sqrt{x^{2}+y^{2}}\\
-	\textrm{tg}\theta=\frac{y}{x}
-	\end{cases}$  &  & \tabularnewline
-	\cline{1-4} 
-	dan is $\begin{cases}
-	x=r.\cos\theta\\
-	y=r.\sin\theta
-	\end{cases}$ & $\leftarrow$ & gegeven P met $\left(r,\theta\right)$ &  & \tabularnewline
-	\hline 
-\end{tabular}\medskip{}
-\end{table}
+\begin{minipage}{.48\linewidth}
+%\begin{table}
+	\begin{tabular}{|l|c|l|}
+		\hline 
+		cartesische co\"ordinaten &  & poolco\"ordinaten  \\
+		\hline
+		gegeven P met $\left(x,y\right)$ & $\rightarrow$ & dan is $\begin{cases}
+		r=\sqrt{x^{2}+y^{2}}\\
+		\textrm{tg}\theta=\frac{y}{x}
+		\end{cases}$  \\
+		dan is $\begin{cases}
+		x=r.\cos\theta\\
+		y=r.\sin\theta
+		\end{cases}$ & $\leftarrow$ & gegeven P met $\left(r,\theta\right)$ \\
+		\hline 
+	\end{tabular}
+%\end{table}
+\end{minipage}
+\hspace{1cm}
+\begin{minipage}{.48\linewidth}
+	\centering
+	\includegraphics[width=0.7\linewidth]{2_elem_rekenvaardigheden_B/inputs/figuur9}
+\end{minipage}
 
 
 Opmerking: let op bij het berekenen van de hoek $\theta$. Je rekenmachine
@@ -196,26 +206,26 @@ $r_{1}=r\left(\theta_{1}\right)$ , ... Daarna tekenen we de punten
 met co\"ordinaten $\left(r_{1},\theta_{1}\right)$ , ... en verbinden
 deze d.m.v. een vloeiende lijn.
 
-%\begin{table}
-%\begin{tabular}{|c|c|c|}
-%	\hline 
-%	\begin{tabular}{|c|c|}
-%		\hline 
-%		$\theta$ & $r=r(\theta)$\tabularnewline
-%		\hline 
-%		\hline 
-%		$\theta_{1}$ & $r_{1}=r\left(\theta_{1}\right)$ \tabularnewline
-%		\hline 
-%		$\theta_{2}$ & $r_{2}=r\left(\theta_{2}\right)$ \tabularnewline
-%		\hline 
-%		$\vdots$ & $\vdots$\tabularnewline
-%		\hline 
-%	\end{tabular} &  & \includegraphics[scale=2]{\string"2_elem_rekenvaardigheden_B/inputs/Boek Lothar Papula - pool coordinaten - functie\string".eps}\tabularnewline
-%	\hline 
-%	&  & in de figuur zijn de hoeken aangeduid met $\varphi$ ipv $\theta$\tabularnewline
-%	\hline 
-%\end{tabular}
-%\end{table}
+\begin{minipage}{.48\linewidth}
+	\centering
+	\begin{tabular}{|c|c|}
+		\hline 
+		$\theta$ & $r=r(\theta)$\\
+		\hline 
+		\hline 
+		$\theta_{1}$ & $r_{1}=r\left(\theta_{1}\right)$ \\
+		\hline 
+		$\theta_{2}$ & $r_{2}=r\left(\theta_{2}\right)$ \\
+		\hline 
+		$\vdots$ & $\vdots$\\
+		\hline 
+	\end{tabular}
+\end{minipage}
+\begin{minipage}{.48\linewidth}
+\includegraphics[height=5cm]{2_elem_rekenvaardigheden_B/inputs/figuur11}\\
+In de figuur zijn de hoeken aangeduid met $\varphi$ ipv $\theta$
+\end{minipage}
+
 
 
 Voorbeeld 1: de spiraal van Archimedes
@@ -226,33 +236,34 @@ We stellen een functiewaardentabel op (tip: kies niet te veel, maar
 ook niet te weinig hoeken; de intervallen tussen de hoeken hoeft niet
 noodzakelijk overal even groot te zijn).
 
-%\begin{tabular}{|c|c|c|}
-%\hline 
-%\begin{tabular}{|c|c|}
-%\hline 
-%$\theta$ & $r=r(\theta)=\theta$\tabularnewline
-%\hline 
-%\hline 
-%$0$ & 0\tabularnewline
-%\hline 
-%$\frac{\pi}{4}$ & 0.785 \tabularnewline
-%\hline 
-%$\frac{\pi}{2}$ & 1.571\tabularnewline
-%\hline 
-%$3\frac{\pi}{4}$ & 2.356\tabularnewline
-%\hline 
-%$\pi$ & 3.142\tabularnewline
-%\hline 
-%$3\frac{\pi}{2}$ & 4.712\tabularnewline
-%\hline 
-%$2\pi$ & 6.283\tabularnewline
-%\hline 
-%\end{tabular} &  & \includegraphics{2_elem_rekenvaardigheden_B/inputs/2.1.15_figuur8.eps}\tabularnewline
-%\hline 
-%\end{tabular}
+\begin{minipage}{.48\linewidth}
+	\centering
+	\begin{tabular}{|c|c|}
+		\hline 
+		$\theta$ & $r=r(\theta)=\theta$\\
+		\hline 
+		\hline 
+		$0$ & 0\\
+		\hline 
+		$\frac{\pi}{4}$ & 0.785 \\
+		\hline 
+		$\frac{\pi}{2}$ & 1.571\\
+		\hline 
+		$3\frac{\pi}{4}$ & 2.356\\
+		\hline 
+		$\pi$ & 3.142\\
+		\hline 
+		$3\frac{\pi}{2}$ & 4.712\\
+		\hline 
+		$2\pi$ & 6.283\\
+		\hline 
+	\end{tabular}
+\end{minipage}
+\begin{minipage}{.48\linewidth}
+\includegraphics[height=5cm]{2_elem_rekenvaardigheden_B/inputs/figuur8}
+\end{minipage}
 
-
-Voorbeeld 2: de cardio/"ide
+Voorbeeld 2: de cardio\"ide
 
 Schets de kromme met vergelijking $r=1+\cos\theta$ waarbij $0\text{\textdegree}\leq\theta\leq360\text{\textdegree}$
 
@@ -260,7 +271,8 @@ We stellen een functiewaardentabel op. Wegens de symmetrie t.o.v.
 de X-as berekenen we slechts de radius-waarden tussen 0\textdegree{}
 en 180\textdegree .
 
-\begin{minipage}{5\linewidth}
+\begin{minipage}{0.5\linewidth}
+	\centering
 \begin{tabular}{|c|c|}
 \hline 
 $\theta$ & $r=r(\theta)$\\
@@ -282,10 +294,10 @@ $\theta$ & $r=r(\theta)$\\
 \hline 
 \end{tabular}
 \end{minipage}
-\begin{minipage}{.5\linewidth}
-	\begin{figure}
-	\includegraphics{2_elem_rekenvaardigheden_B/inputs/2.1.15_figuur8.eps}
-	\end{figure}
+\begin{minipage}{.48\linewidth}
+%	\begin{figure}
+	\includegraphics[height=5cm]{2_elem_rekenvaardigheden_B/inputs/figuur7.png}
+%	\end{figure}
 \end{minipage} 
 
 Voorbeeld 3: de cirkel

@@ -12,6 +12,9 @@
 \usepackage{textcomp}% for '\textdegree' macro
 \usepackage{amsthm}
 \usepackage{subcaption}
+\PassOptionsToPackage{normalem}{ulem}
+\usepackage{ulem}
+
 
 \begin{document}
 \addtocounter{page}{-1}
@@ -25,6 +28,9 @@
 \providecommand{\tabularnewline}{\\}
 
 \renewcommand{\filenaamlogo}{inputs/logo-innovationlab.png}
+
+\newcommand{\lyxmathsym}[1]{\ifmmode\begingroup\def\b@ld{bold}
+	\text{\ifx\math@version\b@ld\bfseries\fi#1}\endgroup\else#1\fi}
 
 %% In de volgende lijn importeer je (in pdf) de frontpagina. Die maken we apart aan in een uniforme stijl. Er worden andere kleuren gebruikt voor de leerlingenbundels en voor de lerarenbundels.
 %% Je kan de volgende regel veranderen in
