@@ -1,0 +1,132 @@
+\subsection{Afstand van een punt tot een rechte}
+\noindent
+
+De afstand $d(P;l)$ van een punt $P$ tot een rechte $l$ is de afstand van $P$ tot de loodrechte projectie $P'$ van $P$ op $l$.\\
+
+\noindent \underline{Voorbeeld 1:} Gegeven zijn een punt $P(2;-4)$ en de rechte $l$ met vergelijking $2x-5y+7=0$.
+De rechte $l'=PP'$ zal loodrecht staan op $l$.
+Omdat $\rico (l)=\frac {2}{5}$ moet $\rico (l')=-\frac {5}{2}$.
+De vergelijking van de rechte $PP'=l'$ is daarom
+\[
+y-(-4)=-\frac {5}{2} (x-2) \text { dus } y=-\frac {5}{2}x+1 \text { .}
+\]
+Het punt $P'$ is het snijpunt van $l$ en $l'$.
+De co\"ordinaten van $P'$ zijn daarom de oplossing van het stelsel
+\[
+\begin{cases}
+y=\frac {2}{5} x +\frac {7}{5} \\
+y=-\frac {5}{2} x +1
+\end{cases}
+\] 
+De $x$-co\"ordinaat van $P'$ is daardoor de oplossing van
+\[
+\frac {2}{5} x+\frac {7}{5} = -\frac {5}{2} x +1 \text { dus } x=-\frac {4}{29} \text { .}
+\]
+Door deze waarde van $x$ in te vullen in $y=-\frac {5}{2}+1$ (vergelijking van $l'$) bekom je de $y$-co\"ordinaat van $P'$.
+\[
+y=-\frac {5}{2}.(-\frac{4}{29})+1=\frac {39}{29}
+\]
+De co\"ordinaten van $P'$ zijn $(-\frac {4}{29}; \frac {39}{29 })$.
+
+De afstand van $P$ tot de rechte $l$ is de afstand van $P$ tot $P'$.
+Je bekomt als afstand
+\[
+\sqrt { \left( 2+\frac {4}{29}  \right)^2 + \left( -4-\frac {39}{29}  \right)^2  } =\frac {\sqrt { 62^2+155^2}}{29}=5,76 \text { .}
+\]\\
+
+Er is een heel eenvoudige formule waarmee je de afstand van een punt $P(x_0;y_0)$ tot een rechte $l$ met vergelijking $ax+by+c=0$ kunt uitrekenen.
+Je hoeft dan de vorige werkwijze in het voorbeeld niet telkens uit te voeren.
+Deze formule is
+\[
+d(P;l)=\frac { \vert ax_0+by_0+c \vert }{\sqrt {a^2+b^2}} \text { .}
+\]\\
+
+Pas je voorgaande formule toe op het voorbeeld dan bekom je
+\[
+d(P;l)=\frac { \vert 2.2-5.(-4)+7 \vert }{\sqrt {4+25}}=\frac {31}{\sqrt {29}}=5,76 \text { .}
+\]
+Je merkt dat je inderdaad dezelfde uitkomst bekomt.\\
+
+\noindent \underline{Voorbeeld 2:} Gegeven zijn de punten $A(-5;2)$, $B(-1;4)$ en $C(3;-2)$, zie Figuur \ref{fig4.2.14_fig1}.
+Bereken de oppervlakte van driehoek $ABC$.
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[height=7 cm]{4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1}
+\caption{Voorbeeld 2.}
+\label{fig4.2.14_fig1}
+\end{center}
+\end{figure} 
+
+We vatten het lijnstuk $[A;B]$ op als basis van de driehoek.
+Dan is $d(A;B)$ de lengte van de basis.
+De hoogte van de driehoek is dan de afstand $d(C;AB)$ van het punt $C$ tot de rechte $AB$.
+Je bekomt
+\[
+d(A;B)=\sqrt { (-1-(-5))^2+(4-2)^2}=\sqrt {20} \text { .}
+\]
+Een vergelijking van de rechte $AB$ is
+\[
+y-2=\frac {4-2}{-1-(-5)}(x-(-5)) \text { dus } 2y-x-9=0 \text { .}
+\]
+De afstand van $C$ tot de rechte $AB$ is dan
+\[
+d(C;AB)=\frac {\vert 2.(-2)-3-9 \vert}{\sqrt{4+1}}=\frac {16}{\sqrt {5}} \text { .}
+\]
+De oppervlakte van driehoek $ABC$ is dus gelijk aan
+\[
+\frac {d(A;B).d(C;AB)}{2}=\frac { \sqrt {20}.\frac {16}{\sqrt {5}}}{2}=16 \text { .}
+\]\\
+
+De bissectrices van twee niet evenwijdige rechten $l$ en $l'$ zijn de rechten die een hoek tussen $l$ en $l'$ in twee gelijke delen verdelen.
+Twee niet evenwijdige lijnen $l$ en $l'$ hebben twee bissectrices $b$ en $b'$ die loodrecht op elkaar staan, zie Figuur \ref{fig4.2.14_fig2}.
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[height=7 cm]{4_opp_inhoud_an_meetk/inputs/AMTekst6Fig2}
+\caption{Bisectrice.}
+\label{fig4.2.14_fig2}
+\end{center}
+\end{figure} 
+
+Er kan aangetoond worden dat deze twee rechten $b$ en $b'$ samen de verzameling is van alle punten $P$ in het vlak die evenver van de rechten $l$ en $l'$ liggen.
+Door middel van de formule voor de afstand van een punt tot een rechte kun je met die formule vergelijkingen voor die bissectrices vinden.\\
+
+\noindent \underline{Voorbeeld 3:} Stel vergelijkingen op van de bissectrices van de rechten $l$ en $l'$ gegeven door de volgende vergelijkingen.
+\[
+l \leftrightarrow 2x-5y+4=0 \text { en } l' \leftrightarrow3x+y-2=0 
+\]
+Een punt $P(x;y)$ behoort tot \'e\'en van de bissectrices $b$ en $b'$ als en alleen als $d(P;l)=d(P;l')$.
+Omdat
+\[
+d(P;l)=\frac { \vert 2x-5y+4 \vert }{\sqrt {4 + 25}} \text { en } d(P;l')=\frac { \vert 3x+y-2 \vert }{\sqrt {9+1}}
+\]
+bekom je dat $P$ op een bissectrice ligt als en alleen als
+\[
+\frac { \vert 2x-5y+4 \vert }{\sqrt {29}}=\frac { \vert 3x+y-2 \vert }{\sqrt {10}} \text { .}
+\]
+Laat je hierin de absolute waarde weg dan zijn de uitdrukkingen aan weerszijden van de gelijkheid gelijk of tegengesteld.
+Dit geeft aanleiding tot vergelijkingen van twee rechten: de bissectrices $b$ en $b'$.
+Deze vergelijkingen zijn:
+\begin{itemize}
+\item  voor $b$
+\[
+\frac {2x-5y+4}{\sqrt {29}}=\frac {3x+y-2}{\sqrt {10 }}
+\]
+\[
+(2\sqrt {10}-3\sqrt {29})x+(-5\sqrt {10}-\sqrt {29})y+(4\sqrt {10}+2\sqrt {29})=0
+\]
+\[
+-9,83x-21,20y+23,42
+\]
+\item voor $b'$
+\[
+\frac {2x-5y+4}{\sqrt {29}}=-\frac {3x+y-2}{\sqrt {10}}
+\]
+\[
+(2\sqrt {10}+3\sqrt {29})x+(-5\sqrt{10}+\sqrt{29})y+(4\sqrt{10}-2\sqrt{29})=0
+\]
+\end{itemize}
+\[
+22,48x-10,43y+1,88=0 \text { .}
+\]
