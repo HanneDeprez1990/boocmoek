@@ -1,0 +1,132 @@
+\documentclass{article}
+\usepackage{amsrefs}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{graphicx}
+
+\DeclareMathOperator{\dom}{dom}
+\newtheorem*{definitie}{Definitie} \newtheorem*{notatie}{Notatie} \newtheorem*{voorbeeld}{Voorbeeld} \newtheorem*{eigenschap}{Eigenschap}
+
+\title{Afgeleiden van veeltermfuncties}
+\date { }
+
+\begin{document}
+
+\maketitle \noindent
+
+\section{Afgeleide van een constante functie}
+
+Voor $c\in \mathbb{R}$ is $y=c$ het voorschrift van een constante functie.
+Intu\"itief (afgeleide geeft snelheid aan waarmee een functiewaarde verandert) is $D(c)=0$.\vspace{3 mm}
+
+\noindent Via de definitie:
+
+$y(a)=c$; $y(a+\Delta x)=c$
+
+dus $\frac{y(a+ \Delta x)-y(a)}{\Delta x}=\frac {c-c}{\Delta x}=0$.\vspace{2mm}
+
+\noindent In de limiet als $\Delta x$ nul wordt blijft dit 0.
+Je bekomt $D(c)=0$.
+
+\section{Afgeleide van de identieke functie}
+
+Het voorschrift $y=x$ is het voorschrift van de identieke functie.
+Waaraan is D(x) gelijk?\vspace{3mm}
+
+\noindent Via de definitie:
+
+$y(a)=a$; $y(a+\Delta x)=a+\Delta x$
+
+dus $\frac{y(a+\Delta x)-y(a)}{\Delta x}=\frac{a+\Delta x -a}{\Delta x}=1$.\vspace{2mm}
+
+\noindent In de limiet als als $\Delta x$ nul wordt blijft dit 1.
+Je bekomt $D(x)=1$.
+
+\section{Afgeleide van $y=x^2$}
+
+\noindent Voor $y=x^2$ is
+
+$y(a)=a^2$, $y(a+\Delta x)=(a+\Delta x)^2=a^2+2a\Delta x + \Delta x^2$
+
+dus $\frac{y(a+\Delta x)-y(a)}{\Delta x}=\frac{2a \Delta x +\Delta x^2}{\Delta x}=2a+ \Delta x$.
+
+\noindent In de limiet als $\Delta x$ nul wordt dan bekom je 2a.
+Je bekomt $Dy(a)=2a$ en daarom $D(x^2)=2x$.
+
+\section{Afgeleide van $y=x^n$}
+
+\noindent Algemeen geldt voor $n\in \mathbb{N}$ dat $D(x^n)=nx^{n-1}$.\vspace{3mm}
+
+Merk op, als $n=0$ dan geeft dit $D(x^0)=0x^{-1}=0$.
+Omdat $x^0=1$ geeft dit $D(1)=0$.
+Dat komt overeen met de afgeleide van een constante functie.
+
+\section{afgeleiden van veeltermfuncties}
+
+Uit de afgeleide van $y=x^n$ met $n\in \mathbb{N}$ volgt dat je door middel van de volgende twee rekenregels van alle veeltermfuncties de afgeleide kunt berekenen.
+
+\begin{eigenschap} Afgeleide van een som : \\
+$\boxed { D(f+g)=Df+Dg}$
+\end{eigenschap}
+
+\begin{eigenschap} Afgeleide van een functie vermenigvuldigd met een constante :
+$\boxed { D(cf)=cD(f)}$
+\end{eigenschap}
+
+\begin{voorbeeld}
+\begin{equation*}
+\begin{split}
+D(5x^3-&7x^2+18x-9)\\
+&=D(5x^3)+D(-7x^2)+D(18x)+D(9) \text{ (rekenregel som)}\\
+&=5D(x^3)-7D(x^2)+18D(x)+D(9) \text{ (rekenregel product met c)}\\
+&=5.3x^2-7.2x+18.1+0 \text{ $(D(x^n)=nx^{n-1})$}\\
+&=15x^2-14x+18
+\end{split}
+\end{equation*}
+\end{voorbeeld}
+
+\begin{voorbeeld}
+Bekijk terug de functie uit het beginvoorbeeld
+\[
+f(x)=1,5+50t-4,9t^2
+\]
+Met de rekenregels en afleiden van $x^n$ bekom je
+\[
+Df(x)=50-9,8t
+\]
+Merk op dat je door invullen vindt $Df(2)=50-9,8.2=30,4$.
+Dit is het resultaat dat we eerder gevonden hadden.
+\end{voorbeeld}
+
+Uit de twee rekenregels volgt ook
+\begin{eigenschap} Algeleide van een verschil
+
+$\boxed {D(f-g)=Df-Dg}$
+\end{eigenschap}\vspace{5 mm}
+\begin{eigenschap}
+De afgeleide $D(x^n)=nx^{n-1}$ geldt algemener voor alle $n\in \mathbb{R}$.
+\end{eigenschap}
+
+\begin{voorbeeld}
+$D(\sqrt[5]{x})=D(x^{1/5})=\frac{1}{5}x^{-4/5}=\frac{1}{5x^{4/5}}=\frac{1}{5\sqrt[5]{x^4}}$
+\end{voorbeeld}
+
+\begin{voorbeeld}
+$D(\frac{1}{x^3})=D(x^{-3})=-3x^{-4}=-\frac{3}{x^4}$
+\end{voorbeeld}
+
+\begin{voorbeeld}
+$D(\sqrt[3]{x^2}-5\sqrt{x^3})=D(\sqrt[3]{x^2})-5D(\sqrt{x^3})$
+
+\hspace{5mm} $=D(x^{2/3})-5D(x^{3/2})$
+
+\hspace{5mm} $=\frac{2}{3}x^{-1/3}-5\frac{3}{2}x^{1/2}=\frac{2}{3\sqrt[3]{x}}-\frac{15}{2}\sqrt{x}$
+\end{voorbeeld}
+
+
+
+
+
+
+\end{document}

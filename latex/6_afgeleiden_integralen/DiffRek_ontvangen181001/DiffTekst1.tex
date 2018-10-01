@@ -1,0 +1,79 @@
+\documentclass{article}
+\usepackage{amsrefs}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{graphicx}
+
+\DeclareMathOperator{\unit}{u} \DeclareMathOperator{\comb}{comb}
+\DeclareMathOperator{\tri}{tri} \DeclareMathOperator{\rect}{rect}
+\DeclareMathOperator{\sgn}{sgn} \DeclareMathOperator{\ramp}{ramp}
+\DeclareMathOperator{\sinc}{sinc}
+
+\title{Inleidend voorbeeld}
+\date { }
+
+\begin{document}
+
+\maketitle \noindent
+
+
+\noindent Een object wordt de hoogte in geschoten.
+volgende functie $x(t)$ geeft na $t$ seconden de hoogte van het object uitgedrukt in meter
+
+\[
+x(t)=1,5+50 t -4,9 t^2
+\]
+
+\noindent Met welke snelheid beweegt dat object naar boven 2 seconden na het schot?
+
+\section{Eerste benadering}
+
+Na 2 seconden is de hoogte $x(2)=1,5+50.2-4,9.2^2=81,9$ meter.\\
+Na 3 seconden is de hoogte $x(3)=1,5+50.3-4,9.3^2=107,4$ meter.\\
+Gedurende 1 seconde is het object $107,4-81,9=25,5$ meter verhoogd.
+Dit is een gemiddelde snelheid van 25,5 m/s. \vspace{5mm}
+
+\noindent Maar die snelheid neemt tijdens het verhogen wel geleidelijk af.
+We bekomen een betere benadering voor de snelheid 2 seconden na het schot door het tijdsverschil kleiner te nemen.
+
+\section{Tweede benadering}
+
+Na 2,5 seconden is de hoogte  $x(2,5)=1,5+50.2,5-4,9.2,5^2=95,875$ meter.\\
+Gedurende 0,5 seconden is het object $95,875-81,9=13,825$ meter verhoogd.
+Dit is een gemiddelde snelheid van $\frac{13,825}{0,5}=27,6$ m/s.
+
+\section{Derde benadering}
+
+Na 2,1 seconden is de hoogte $x(2,1)=1,5+50.2,1-4,9.2,1^2=84,891$ meter.\\
+Gedurende 0,1 seconden is het object $84,891-81,9=2,991$ meter verhoogd.
+Dit is een gemiddelde snelheid van $\frac{2,991}{0,1}=29,91$ m/s.
+
+\section{Alle benaderingen}
+
+Voor een tijdsverschil $\Delta t>0$ is de hoogte op het tijdstip $2+\Delta t$
+
+\[
+x(2+\Delta t) = 1,5+50 (2+ \Delta t) - 4,9 (2+ \Delta t)^2 = 81,9+30,4 \Delta t - 4,9 \Delta t^2
+\]
+
+\noindent Gedurende $\Delta t$ seconden is het object $30,4 \Delta t -4,9 \Delta t^2$ meter verhoogd.
+Dit is een gemiddelde snelheid van $\frac{30,4 \Delta t -4,9 \Delta t^2}{\Delta t}=30,4 -4,9 \Delta t$ m/s.\\
+
+\noindent Voor $\Delta t=1$; $\Delta t=0,5$ en $\Delta t=0,1$ geeft dit de reeds berekende benaderingen voor de snelheid van het object na 2 seconden.
+Hoe kleiner $\Delta t$ hoe beter die benadering.
+
+\section{Snelheid na 2 seconden}
+
+Door het vorige resultaat $\Delta t=0$ te nemen bekom je de snelheid van het object na 2 seconden.\\
+De snelheid van het object na 2 seconden is dus gelijk aan 30,4.\vspace{0,5 mm}
+
+Deze uitkomst is het limietgeval van de gemiddelde snelheid waarbij je het tijdsverschil $\Delta t$ naar 0 laat naderen.
+Dit getal geeft de afgeleide van de functie $x(t)$ voor $t=2$.\vspace{1 cm}
+
+Dit voorbeeld gaan we nu wiskundig abstract veralgemenen.
+
+
+
+
+\end{document}

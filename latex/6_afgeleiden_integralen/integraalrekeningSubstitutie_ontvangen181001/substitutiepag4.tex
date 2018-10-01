@@ -1,0 +1,130 @@
+\documentclass{article}
+\usepackage{amsrefs}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{graphicx}
+\usepackage{amssymb,latexsym}
+\usepackage{graphicx}
+\DeclareMathOperator{\dom}{dom}
+
+\begin{document}
+
+Je krijgt nog enkele oefeningen op het integreren door middel van substitutie.
+Als je de oefening opgelost hebt kun je nakijken of je de juiste oplossing gevonden hebt door de keuze "Wat is de oplossing?" te nemen.
+Als je vast loopt of niet weet hoe het komt dat je de juiste oplossing niet gevonden hebt dan kun je door de andere keuzes te maken zien hoe het verder moet of zien wat je fout gedaan hebt.
+
+\vspace {3mm}
+
+Bedoeling is dat die keuze een hyperlink is waarmee het antwoord op de vraag verschijnt.
+Als dit mogelijk is dan wil ik deze lijst later nog wat uitbreiden.
+
+\vspace{2mm}
+
+\begin{enumerate}
+
+\item $\int \frac{dx}{\sqrt[5]{1-4x}}$
+
+\begin{itemize}
+\item Welke substitutie?
+
+Antwoord: $u=1-4x$
+\item Welke integraal bekom je dan?
+
+Antwoord: Uit $du=-4dx$ volgt $dx=-\frac{du}{4}$.
+Je bekomt
+\[
+\int \frac{dx}{\sqrt[5]{1-4x}}=-\frac{1}{4}\int \frac{du}{\sqrt[5]{u} }
+\]
+
+\item Hoe bekom je daaruit de oplossing?
+
+Antwoord: 
+\[
+-\frac{1}{4}\int \frac{du}{\sqrt[5]{u}}=-\frac{1}{4}\int u^{-1/5}du = -\frac{1}{4}\frac{u^{4/5}}{4/5}+C=-\frac{5}{16}\sqrt[5]{1-4x}+C 
+\]
+
+\item Wat is de oplossing?
+
+\[
+-\frac{5}{16}\sqrt[5]{1-4x}+C 
+\]
+\end{itemize}
+
+
+\item $\int \frac{dx}{2x-9}$
+
+\begin{itemize}
+\item Welke substitutie?
+
+Antwoord: $u=2x-9$
+
+\item Welke integraal bekom je dan?
+
+Antwoord: Uit $du=2dx$ bekom je $dx=\frac{du}{2}$.
+Je bekomt
+\[
+\int \frac{dx}{2x-9}=\frac{1}{2} \int \frac{du}{u}
+\]
+
+\item Hoe bekom je daaruit de oplossing?
+
+Antwoord:
+\[
+\frac{1}{2} \int \frac{du}{u}=\frac{1}{2} \ln \vert u \vert+C=\frac{1}{2} \ln \vert 2x-9 \vert +C
+\]
+
+\item Wat is de oplossing?
+\[
+\frac{1}{2} \ln \vert 2x-9 \vert +C
+\]
+
+\end{itemize}
+
+\item $\int \frac{x^3dx}{\sqrt{x^2+2}}$
+
+\begin{itemize}
+\item Welke substitutie?
+
+Antwoord: $t=x^2+2$
+
+\item Welke integraal bekom je dan?
+
+Antwoord: $x^3dx=\frac{1}{2}.x^2.2xdx$
+
+Omdat $t=x^2+2$ is $x^2=t-2$ en $dt=2xdx$.
+Daardoor gaat $x^3dx$ vervangen worden door $\frac{1}{2}(t-2)dt$.
+
+Bovendien wordt $\sqrt{x^2+2}$ vervangen door $\sqrt{t}$ en je bekomt
+\[
+\int \frac{x^3dx}{\sqrt{x^2+2}}=\frac{1}{2} \int \frac{t-2}{\sqrt{t}}dt
+\]
+
+\item Hoe bekom je daaruit de oplossing?
+
+\[
+\frac{1}{2} \int \frac{t-2}{\sqrt{t}}dt=\frac{1}{2} \int \frac{t}{\sqrt{t}}dt - \frac{1}{2}\int \frac{2dt}{\sqrt{t}}=
+\]
+\[
+=\frac{1}{2} \int t^{1/2}dt - \int t^{-1/2}dt=\frac{k1}{2}\frac{t^{3/2}}{3/2}-\frac{t^{1/2}}{1/2}+C=\frac{1}{3} \sqrt{(x^2+1)^3}-2\sqrt{x^2+1}+C
+\]
+
+\item Wat is de oplossing?
+\[
+\frac{1}{3} \sqrt{(x^2+1)^3}-2\sqrt{x^2+1}+C
+\]
+
+\end{itemize}
+
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+\end{document}

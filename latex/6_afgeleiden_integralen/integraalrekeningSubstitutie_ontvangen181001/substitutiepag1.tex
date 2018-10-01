@@ -1,0 +1,83 @@
+\documentclass{article}
+\usepackage{amsrefs}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{graphicx}
+\usepackage{amssymb,latexsym}
+\usepackage{graphicx}
+
+\begin{document}
+
+Aan de hand van voorbeelden zie je hoe je de kettingregel voor het afleiden kunt gebruiken om onbepaalde integralen op te lossen.
+Dit gebruik van de kettingregel is de basis voor de methode van substitutie bij het berekenen van onbepaalde integralen.\\
+
+De onbepaalde integraal $\int (x-2)^3dx$ is heel eenvoudig om uit te rekenen omdat het de onbepaalde integraal is van een veeltermfunctie.
+Je moet dan wel eerst de 3-de macht uitrekenen:
+\[
+(x-2)^3=x^3-6x^2+12x-8 \text { .}
+\]
+Je bekomt dan
+\[
+\int (x-2)^3dx=\int (x^3-6x^2+12x-8)dx = \frac{x^4}{4}-2x^3+6x^2-8x+C \text { .}
+\]
+
+In principe kun je op dezelfde manier $\int (x-2)^{300}dx$ uitrekenen.
+Maar het uitschrijven van $(x-2)^{300}$ is een hele klus.
+Je leest nu hoe je door de kettingregel van het afleiden te gebruiken deze klus kunt ontwijken.\\
+
+De kettingregel voor het afleiden is
+\[
+D(g(f(x)))=Dg(f(x)).Df(x) \text { .}
+\]
+Omdat per definitie
+\[
+\int D(g(f(x)))=g(f(x))+C
+\]
+volgt hieruit dat
+\[
+\int Dg(f(x))Df(x)dx =g(f(x))+C \text { .}
+\]
+
+\noindent (Het lijkt mij het beste dat dit; samen met het voorgaande; voorgedaan wordt op een filmpje)
+
+Als je $g(x)=\frac{x^{301}}{301}$ neemt dan is $Dg(x)=x^{300}$.
+Neem je dan $f(x)=x-2$ dan is $Dg(f(x))=(x-2)^{300}$.
+Omdat $Df(x)=1$ bekom met deze functies $f$ en $g$
+\[
+\int (x-2)^{300}dx = \int Dg(f(x))Df(x)dx = g(f(x))+C=\frac{(x-2)^{301}}{301}+C \text { .}
+\]
+
+Nog een voorbeeldje: $\int \sqrt[3]{x+7} dx$.
+
+Een functie $g(x)$ waarvoor $Dg(x)=\sqrt[3]{x}$ behoort tot $\int \sqrt[3]{x} dx=\int x^{1/3}dx=\frac{x^{4/3}}{4/3}+C$.
+Hieruit volgt dat $g(x)=\frac{3 \sqrt[3]{x^4}}{4}$ een functie is waarvoor $Dg(x)=\sqrt[3 ]{x}$.
+Neem je $f(x)=x+7$ dan is $Df(x)=1$ en dan bekom je met deze functies $f$ en $g$
+\[
+\int \sqrt[3]{x+7}dx=\int Dg(f(x))Df(x)dx = g(f(x))+C=\frac{3\sqrt[3]{(x+7)^4}}{4}+C \text { .}
+\]
+
+Nog een laatste voorbeeldje in dit inleidend deel: $\int \sin(2x-5)dx$.
+
+Een functie $g(x)$ waarvoor $Dg(x)=sin(x)$ is $g(x)=-cos(x)$.
+Neem je $f(x)=2x-5$ dan is $Df(x)=2$.
+Schrijf daarom de integraal als volgt:
+\[
+\int \sin(2x-5)dx=\int \sin(2x-5).\frac{1}{2}.2dx=\frac{1}{2} \int \sin(2x-5)2dx \text { .}
+\]
+Je bekomt met die functies $f$ en $g$ dat
+\[
+\int \sin(2x-5)2dx = \int Dg(f(x)).Df(x)dx=g(f(x))+C=-\cos(2x-5)+C \text { .}
+\]
+\vspace{2mm}
+
+Je merkt aan deze voorbeelden dat de kettingregel van het afleiden kan helpen om onbepaalde integralen op te lossen.
+Deze werkwijze wordt duidelijker als we dit herleiden tot de methode van substitutie.
+Om deze methode te verantwoorden gebruiken we differentialen die we op de volgende pagina eerst defini\"eren.
+Je kunt los van de definitie van een differentiaal hier ook louter formeel mee rekenen.
+
+
+
+
+\end{document}

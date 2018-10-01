@@ -1,0 +1,48 @@
+\documentclass{article}
+\usepackage{amsrefs}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{graphicx}
+\usepackage{amssymb,latexsym}
+\usepackage{graphicx}
+
+\begin{document}
+
+Een staaf heeft de vorm van een lange cilinder met een doorsnede met oppervlakte 1 en met lengte $L$.
+Indien de samenstelling van het materiaal waaruit die staaf vervaardigd is overal hetzelfde is dan heet die staaf homogeen.
+De massa van de staaf kun je dan vinden als de je massa $m$ kent van zulke staaf met lengte 1; de massa van de staaf is dan gelijk aan $m.L$.
+
+Veronderstel nu dat de staaf niet homogeen is maar dat je op iedere plaats wel weet wat de massa van zulke staaf met lengte 1 zou zijn als de staaf wel homogeen zou zijn zoals op die betreffende plaats. Dit is de massadichtheid $\rho$ op die plaats.
+Je stelt de staaf voor op een geijkte rechte met 0 in het ene uiteinde en $L$ in het andere (zie figuur \ref{figuur11.1Wis1}.
+\begin{figure}[h]
+\begin{center}
+\includegraphics[height=30 mm]{figuur11_1Wis1.pdf}
+\caption{Voorstelling van de staaf } \label{figuur11.1Wis1}
+\end{center}
+\end{figure}
+Iedere $x \in [0;L]$ komt overeen met een plaats op de staaf en we noteren $\rho (x)$ voor de massadichtheid op die plaats van de staaf.
+Je bekomt een functie $\rho : [0;L] \subset \mathbb{R} \rightarrow \mathbb{R} : x \rightarrow \rho (x)$.
+
+Je veronderstelt dat de samenstelling van het materiaal van de staaf geleidelijk verandert.
+Wiskundig vertaal je dat in: je veronderstelt dat $\rho$ een continue functie is.
+
+Je wil de massa van de volledige staaf vinden uit deze functie $\rho$.
+Daartoe beschouw je een tweede functie $m : [0;L] \subset \mathbb{R} \rightarrow \mathbb{R} : x \rightarrow m(x)$.
+Hierbij is $m(x)$ de massa van de staaf als je de staaf zou doorknippen op de plaats die overeenkomt met $x$ en je neemt het stuk waar de plaats die overeenkomt met 0 bij behoort.
+Je zoekt dan $m(L)$; dit is de massa van de volledige staaf.
+
+Indien je de staaf doorknipt op de plaatsen die overeenkomen met $x$ en $x+\Delta x$ (met $\Delta x>0$) dan is de massa van dat stukje tussen die twee doorgeknipte plaatsen $m(x+\Delta x)-m(x)$.
+Dit is de different $\Delta m(x)$.
+Als je $\Delta x$ heel klein neemt dan kun je dat stukje staaf opvatten als ongeveer homogeen met massadichtheid $\rho (x)$.
+Omdat de lengte van dat stukje $\Delta x$ is bekom je als massa van dat stukje ongeveer $\rho (x).\Delta x$.
+Dit is de eerste graadsveelterm met constante term die een goede benadering is voor $\Delta m(x)$ als $\Delta x$ klein is.
+Het is dus de differentiaal van de functie $m$ in $x$, je besluit dus $dm(x)=\rho (x).\Delta x$.
+Omdat per definitie $dm(x)=Dm(x).\Delta x$ (zie Definitie \ref{definitie10.6Wis1}) bekom je $Dm(x)=\rho (x)$.
+
+Wiskundig bekom je het volgende besluit.
+Je zoekt de waarde $m(L)$ van een functie $m$ op $[0;L]$ waarvan je weet dat $m(0)=0$ en $Dm(x)=\rho (x)$ voor alle $x \in [0;L]$.
+In het bijzonder heb je een functie $m$ nodig waarvan de afgeleide $\rho$ gegeven is.
+
+\end{document}

@@ -1,0 +1,134 @@
+\documentclass{article}
+\usepackage{amsrefs}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{graphicx}
+\usepackage{amssymb,latexsym}
+\usepackage{graphicx}
+\DeclareMathOperator{\dom}{dom}
+
+\begin{document}
+
+Je krijgt nog enkele oefeningen op het berekenen van integralen door middel van parti\"ele integratie.
+Als je de oefening opgelost hebt kun je nakijken of je de juiste oplossing gevonden hebt door de keuze "Wat is de oplossing?" te nemen.
+Als je vast loopt of niet weet hoe het komt dat je de juiste oplossing niet gevonden hebt dan kun je door de andere keuzes te maken zien hoe het verder moet of zien wat je fout gedaan hebt. 
+
+\vspace {3mm}
+
+Voor de makers van de cursus : Bedoeling is dat die keuze een link is waarmee het antwoord op de vraag verschijnt.Met andere woorden na iedere opgave zouden de punten links moeten zijn en de antwoorden pas te voorschijn mogen komen als je die link kiest.
+Het is de bedoeling dat dit later met nog wat oefeningen wordt uitgebreid.
+
+\vspace{2mm}
+
+\begin{enumerate}
+
+\item Bereken $\int x^3e^{-5x}dx$
+
+\begin{itemize}
+\item Wat neem je voor $u$ en wat neem je voor $dv$ als je parti\"ele integratie $\int udv = uv -\int vdu$ gebruikt?
+
+Antwoord : Neem $u=x^3$ en $dv=e^{-5x}dx$.
+
+\item Wat zijn dan $du$ en $v$?
+
+Antwoord : $du=3x^2dx$ en uit $\int e^{-5x}dx=-\frac {e^{-5x}}{5} +C$ vind je dat je $v=-\frac {e^{-5x}}{5}$ kunt nemen.
+
+\item Wat bekom je als resultaat van deze partiële integratie?
+
+Antwoord : $\int x^3e^{-5x}dx = - \frac {x^3e^{-5x}}{5}+\frac {3}{5} \int x^2e^{-5x}dx$
+
+\item Wat bekom je als je op die nieuwe integraal dezelfde soort van parti\"ele integratie toepast?
+
+Antwoord : Je stelt $u=x^2$ en dus $du=2xdx$ en opnieuw $dv=e^{-5x}dx$ en dus $v=-\frac {e^{-5x}}{5}$.
+Je bekomt $\int x^2e^{-5x}dx =  - \frac {x^2e^{-5x}}{5}+\frac {2}{5} \int xe^{-5x}dx$
+
+\item Wat bekom je als je op die nieuwe integraal nogmaals parti\"ele integratie toepast?
+
+Antwoord : $\int xe^{-5x}dx = - \frac {xe^{-5x}}{5}+\frac {1}{5} \int e^{-5x}dx= - \frac {xe^{-5x}}{5}-\frac{1}{25}e^{-5x}+C$
+
+\item Wat bekom je voor de integraal die je moet oplossen?
+
+Antwoord : $\int x^3e{-5x}dx = - \frac {x^3e^{-5x}}{5}+\frac {3}{5} \left(  - \frac {x^2e^{-5x}}{5}+\frac {2}{5} \left( - \frac {xe^{-5x}}{5}-\frac{1}{25}e^{-5x}+C  \right)   \right)+C
+$
+
+\item Wat is de oplossing?
+
+Antwoord : $\int x^3e^{-5x}dx = \left( -\frac{x^3}{5}-\frac{3x^2}{25}-\frac{6x}{125}-\frac{6}{625}   \right)e^{-5x}+C$
+
+\end{itemize}
+
+\item Bereken $\int \sqrt[3]{x^5} \ln x dx$
+
+\begin{itemize}
+
+\item Wat neem je voor $u$ en wat neem je voor $dv$ als je parti\"ele integratie $\int udv = uv -\int vdu$ gebruikt?
+
+Antwoord : Neem $u= \ln x$ en $dv=\sqrt[3]{x^5}dx$ .
+
+\item Wat zijn dan $du$ en $v$?
+
+Antwoord : $du=\frac{dx}{x}$ en uit $\int \sqrt[3]{x^5}dx=\int x^{5/3}dx=\frac{x^{8/3}}{8/3}+C$ bekom je dat je kan nemen $v=\frac{3x^{8/3}}{8}$.
+
+\item Wat bekom je als resultaat van deze parti\"ele integratie?
+
+Antwoord : $\int \sqrt[3]{x^5} \ln x dx=\frac{3x^{8/3}}{8} \ln x-\frac{3}{8}\int x^{8/3}\frac{1}{x}dx$
+
+\item Wat bekom je als oplossing van die nieuwe integraal?
+
+Antwoord : $\int x^{8/3}\frac{1}{x}dx=\int x^{5/3}dx=\frac{x^{8/3}}{8/3}+C=\frac{3x^{8/3}}{8}+C$
+
+\item Wat bekom je voor de integraal die je moet oplossen?
+
+Antwoord :  $\int \sqrt[3]{x^5} \ln x dx=\frac{3x^{8/3}}{8} \ln x-\frac{3}{8}\left( \frac{3x^{8/3}}{8}  \right)+C$
+
+\item Wat is de oplossing?
+
+Antwoord :  $\int \sqrt[3]{x^5} \ln x dx= \frac{3}{8} \sqrt[3]{x^8} \left( \ln x -\frac {3}{8}  \right) +C$
+
+\end{itemize}
+
+\item Bereken $\int e^{-x/2}\sin \left( \frac{x}{3}  \right)dx$
+
+\begin{itemize}
+
+\item Wat neem je voor $u$ en wat neem je voor $dv$ als je parti\"ele integratie $\int udv = uv -\int vdu$ gebruikt?
+
+Antwoord : Neem $u=e^{-x/2}$ en $dv=\sin \left( \frac{x}{3}  \right)dx$ (je mag ook $u=\sin \left( \frac{x}{3}  \right)$ en $dv=e^{-x/2}dx$ nemen).
+
+\item Wat zijn dan $du$ en $v$?
+
+Antwoord : $du=-\frac{e^{-x/2}}{2}dx$ en uit $\int \sin \left( \frac{x}{3}  \right)dx=-3 \cos \left( \frac{x}{3}  \right)+C$ vind je dat je $v=-3 \cos \left( \frac{x}{3}  \right)$ kan nemen.
+
+\item Wat bekom je als resultaat van deze parti\"ele integratie?
+
+Antwoord :  $\int e^{-x/2}\sin \left( \frac{x}{3}  \right)dx=-3e^{-x/2} \cos \left( \frac{x}{3}  \right)-\frac{3}{2} \int e^{-x/2}\cos \left( \frac{x}{3}  \right)dx$
+
+\item Wat bekom je als je op die nieuwe integraal dezelfde soort van parti\"ele integratie toepast?
+
+Antwoord: Je neemt opnieuw $u=e^{-x/2}$ en dus $du=-\frac{e^{-x/2}}{2}dx$ en $dv=\cos \left( \frac{x}{3}  \right)dx$ waaruit je bekomt $v=3 \sin \left( \frac{x}{3}  \right)$.
+Je bekomt $\int e^{-x/2}\cos \left( \frac{x}{3}  \right)dx=3e^{-x/2}\sin \left( \frac{x}{3}  \right)+\frac{3}{2}\int e^{-x/2}\sin \left( \frac{x}{3}  \right)dx$.
+
+\item Wat bekom je voor de integraal die je moet oplossen?
+
+Antwoord: $\int e^{-x/2}\sin \left( \frac{x}{3}  \right)dx=-3e^{-x/2} \cos \left( \frac{x}{3}  \right)-\frac{3}{2} \left(  3e^{-x/2}\sin \left( \frac{x}{3}  \right)+\frac{3}{2}\int e^{-x/2}\sin \left( \frac{x}{3}  \right)dx \right)$
+
+\item Wat bekom je als je de integraal in het rechterlid mee naar het linkerlid brengt?
+
+Antwoord : $\left(  1+\frac{9}{4} \right)\int e^{-x/2}\sin \left( \frac{x}{3}  \right)dx=-3e^{-x/2} \cos \left( \frac{x}{3}  \right)-\frac{9}{2} e^{-x/2}\sin \left( \frac{x}{3}  \right)+C$
+
+\item Wat is de oplossing?
+
+Antwoord: $\int e^{-x/2}\sin \left( \frac{x}{3}  \right)dx=\frac{4}{13}e^{-x/2} \left( -3 \cos \left( \frac{x}{3}  \right)-\frac{9}{2}\sin \left( \frac{x}{3}  \right) \right)+C$
+
+\end{itemize}
+
+\end{enumerate}
+
+
+
+
+
+
+\end{document}

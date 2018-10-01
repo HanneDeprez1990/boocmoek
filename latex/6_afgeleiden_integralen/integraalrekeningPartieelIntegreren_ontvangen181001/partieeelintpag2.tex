@@ -1,0 +1,119 @@
+\documentclass{article}
+\usepackage{amsrefs}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{graphicx}
+\usepackage{amssymb,latexsym}
+\usepackage{graphicx}
+\DeclareMathOperator{\dom}{dom}
+
+\begin{document}
+
+\begin{itemize}
+\item Hoe bekom je de regel van parti\"ele integratie uit de productregel voor het afleiden?
+\item Hoe gebruik je parti\"ele integratie om onbepaalde integralen uit te rekenen?
+\end{itemize}
+
+\noindent (Deze uitleg en het eerste voorbeeld zou als filmpje op de MOOC kunnen geplaatst worden)
+De productregel voor het afleiden is
+\[
+D(f(x)g(x))=Df(x).g(x)+f(x).Dg(x) \text { .}
+\]
+Je kunt dit ook schrijven als
+\[
+f(x)Dg(x)=D(f(x)g(x))-g(x)Df(x) \text { .}
+\]
+Omdat per definitie $\int D(f(x)g(x))dx = f(x)g(x)+C$ bekom je hieruit \vspace{5mm}
+
+\fbox{
+\begin{minipage}{8 cm}
+\[
+\int f(x)Dg(x)dx=f(x)g(x)-\int g(x)Df(x)dx
+\]
+\end{minipage}}\vspace{0,5 cm}
+
+We noteren dit met differentialen.
+We stellen $u=f(x)$ en $v=g(x)$ zodat $du=Df(x)dx$ en $dv=Dg(x)dx$.
+Je bekomt dan \vspace{5mm}
+
+\fbox{
+\begin{minipage}{5 cm}
+\[
+\int udv=uv-\int vdu
+\]
+\end{minipage}}\vspace{0,5 cm}
+
+We passen dit nu toe op het beginvoorbeeld $\int x \sin x dx$.
+
+Stel $u=x$ en $dv=\sin x dx$.
+Je vindt $v$ uit $\int \sin x dx=-\cos x + C$ dus $v=-\cos x$.
+Er geldt $du = Dx .dx=dx$.
+
+Je bekomt
+\[
+\int x \sin x dx = \int udv=uv-\int vdu=
+\]
+\[
+=-x \cos x- \int -\cos x dx = -x \cos x + \int \cos x dx=- x \cos x + \sin x +C \text { .}
+\]
+\vspace{2mm}
+
+\noindent Nog een voorbeeld: $\int x e^x dx$.
+
+Stel $u=x$ en $dv=e^xdx$.
+Je vindt $v$ uit $\int e^xdx=e^x+C$, dus $v=e^x$.
+Er geldt $du=dx$.
+Je bekomt
+\[
+\int xe^xdx=xe^x-\int e^xdx=xe^x-e^x+C \text { .}
+\]
+\vspace{2mm}
+
+Het is belangrijk goed na te denken over de keuze van $u$ en $v$. Voor het oplossen van $\int x \sin x dx$ zou je ook volgende keuze kunnen maken:
+
+Stel $u=\sin x$ en $dv=xdx$.
+Uit $dv=xdx$ en $\int xdx = \frac{x^2}{2}+C$ bekom je $v=\frac{x^2}{2}$.
+Uit $u=\sin x$ bekom je $du=\cos x dx$.
+Je bekomt
+\[
+\int x \sin x dx=\frac{x^2}{2} \sin x-\int \frac{x^2}{2} \cos x dx \text { .}
+\]
+Dit is correct, maar je moet $\int x \sin x dx$ vinden en je probeert dat te doen met $\int x^2 \cos xdx$.
+Deze laatste integraal is door de factor $x^2$ in plaats van de factor $x$ moeilijker dan de integraal die je wil oplossen.
+Dit komt omdat je een verkeerde keuze maakt van $u$ en van $v$.
+Je  moet $u$ afleiden en $v$ vind je door te integreren.
+Dit moet er voor zorgen dat de integraal die je daarna nog moet uitrekenen er eenvoudiger uitziet dan de oorspronkelijke integraal.\\
+
+Nog een voorbeeld : $\int x^2 \ln x dx$.
+
+Als  je $x^2$ gaat afleiden dan wordt dit $2x$; dit is eenvoudiger. 
+Je moet dan wel $\ln x$ integreren maar je kent $\int \ln x dx$ mogelijk nog niet.
+
+Als je $x^2$ gaat integreren dan wordt dit $\frac{x^3}{3}$; dit is moeilijker.
+Maar je moet dan $\ln x$ afleiden en $D (\ln x) = \frac{1}{x}$.
+Dit is veel eenvoudiger.
+
+Daaruit volgt dat de laatste keuze toch de meest geschikte is.
+
+$u=\ln x$ en dus $du=\frac{dx}{x}$.
+
+$dv=x^2dx$ en dus $v=\frac{x^3}{3}$.
+
+Hieruit bekom je
+\[
+\int x^2 \ln x dx=\frac{x^3}{3} \ln x-\int \frac{x^3}{3}\frac{1}{x}dx=
+\]
+\[
+=\frac{x^3}{3} \ln x-\frac{1}{3} \int x^2 dx=\frac{x^3}{3} \ln x -\frac{x^3}{9}+C \text { .}
+\]
+
+
+
+
+
+
+
+
+\end{document}

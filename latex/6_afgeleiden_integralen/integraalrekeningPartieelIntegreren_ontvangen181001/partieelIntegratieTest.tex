@@ -1,0 +1,326 @@
+\documentclass{article}
+\usepackage{amsrefs}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{graphicx}
+\usepackage{amssymb,latexsym}
+\usepackage{graphicx}
+
+\newtheorem{opgave}{Opgave}
+\newtheorem*{oplossing}{Oplossing}
+
+\title{Test Integraalrekening Parti\"ele integratie}
+\date { }
+
+\begin{document}
+
+
+\maketitle \noindent
+
+\begin{opgave}
+Parti\"ele integratie is het toepassen van de regel $\int udv = uv - \int vdu$.
+In de integraal $\int e^{2x}\cos (5x)dx$ opgevat als $\int udv$ neem je $u=e^{2x}$ en $dv=\cos (5x)dx$.
+Wat wordt $\int vdu$?
+
+\vspace{2mm}
+\begin{enumerate}[a]
+\item $10\int e^{2x}\sin (5x)dx$
+\item $\frac{2}{5} \int e^{2x}\sin (5x) dx$
+\item $\frac{5}{2} \int e^{2x}\sin (5x)dx$
+\end{enumerate}
+\end{opgave}
+
+ \begin{oplossing}
+b
+\end{oplossing}
+
+Verantwoording : Je bekomt $du=2e^{2x}dx$ en uit $\int cos (5x)dx=\frac{1}{5} \sin (5x)+C$ bekom je dat je kan nemen $v=\frac{1}{5} \sin (5x)$.
+
+\begin{opgave}
+Parti\"ele integratie is het toepassen van de regel $\int udv = uv - \int vdu$.
+In de integraal $\int x^2 \arcsin (3x)dx$ opgevat als $\int udv$ neem je $u=\arcsin (3x)$ en $dv=x^2 dx$.
+Wat wordt $\int vdu$?
+
+\begin{enumerate}[a]
+\item $\int \frac {x^3}{\sqrt{1-9x^2}}dx$
+\item $\int x^3 \arccos (3x) dx$
+\item $\int \frac{6x}{\sqrt {1-9x^2}}dx$
+\end{enumerate}
+\end{opgave}
+
+\begin{oplossing}
+a
+\end{oplossing}
+
+Verantwoording : Je bekomt $du = \frac{1}{\sqrt {1-9x^2}}3dx$ en uit $\int x^2dx=\frac {x^3}{3}+C$ vind je dat je kan nemen $v=\frac {x^3}{3}$.
+
+\begin{opgave}
+Parti\"ele integratie is het toepassen van de regel $\int udv = uv - \int vdu$.
+In de integraal $\int \sqrt[3]{x}\ln xdx$ opgevat als $\int udv$ neem je $u=\ln x$ en $dv=\sqrt[3]{x}dx$.
+Wat wordt $\int vdu$?
+
+\begin{enumerate}[a]
+\item $\frac{1}{3} \int \frac {dx}{\sqrt[3]{x^5}}dx$
+\item $\frac{4}{3} \int \sqrt[3]{x^7}dx$
+\item $\frac{3}{4} \int \sqrt[3]{x} dx$
+\end{enumerate}
+
+
+\end{opgave}
+
+\begin{oplossing}
+c
+\end{oplossing}
+
+Verantwoording : Je bekomt $du = \frac{1}{x}dx$ en uit $\int \sqrt[3]{x}dx=\frac {3\sqrt[3]{x^4}}{4}+C$ vind je dat je kan nemen $v=\frac {3\sqrt[3]{x^4}}{4}$.
+
+
+\begin{opgave}
+Parti\"ele integratie is het toepassen van de regel $\int udv = uv - \int vdu$.
+In de integraal $\int x^3e^{4x}dx$ opgevat als $\int udv$ neem je $u=x^3$ en $dv=e^{4x}dx$.
+Wat wordt $\int vdu$?
+
+\begin{enumerate}[a]
+\item $\frac{1}{4} \int x^4e^{4x}dx$
+\item $3 \int x^2e^{4x}dx$
+\item $\frac{3}{4} \int x^2e^{4x}dx$
+\end{enumerate}
+
+
+
+\end{opgave}
+
+\begin{oplossing}
+c
+\end{oplossing}
+
+Verantwoording : Je bekomt $du=3x^2dx$ en uit $\int e^{4x}dx=\frac{e^{4x}}{4}+C$ vind je dat je kan nemen $v=\frac {e^{4x}}{4}$.
+
+\begin{opgave}
+Parti\"ele integratie is het toepassen van de regel $\int udv = uv - \int vdu$.
+In de integraal $\int \sin \left(  \frac{x}{3} \right)e^{-2x/5}dx$ opgevat als $\int udv$ neem je $u=\sin \left( \frac{x}{3}  \right)$ en $dv=e^{-2x/5}dx$.
+
+\noindent Je bekomt $\int \sin \left(  \frac{x}{3} \right)e^{-2x/5}dx=a.f\left(  \frac{x}{3} \right)e^{-2x/5}+b\int g\left( \frac{x}{3}  \right)e^{-2x/5}dx$. Hierin staat $f$ en $g$ voor de functie $\sin $ of $\cos $.
+Wat zijn $f$ en $g$ en de waarden van $a$ en $b$?\vspace{3mm}
+
+\noindent $f \text { is } \cdots$; $g \text { is } \cdots$; $a= \cdots$; $b=\cdots $ \vspace{1mm}
+
+\noindent Een aantal van deze getallen kunnen 0 en/of 1 zijn. Je mag enkel gehele getallen of breuken van gehele getallen ingeven en je moet zoveel mogelijk vereenvoudigen. Bij een breuk die negatief is plaats je het minteken in de teller.
+\end{opgave}
+
+\begin{oplossing}
+$f \text { is } \sin $; $g \text { is } \cos $; $a = \frac{-5}{2}$; $b= \frac {-5}{6}$
+\end{oplossing}
+
+Verantwoording : Je bekomt $du=\frac{1}{3}\cos \left( \frac{x}{3} \right) dx$ en uit $\int e^{-2x/5}dx=-\frac {5}{2} e^{-2x/5}+C$ vind je dat je kan nemen $v=-\frac{5}{2} e^{-2x/5}$.
+
+\begin{opgave}
+Parti\"ele integratie is het toepassen van de regel $\int udv = uv - \int vdu$.
+In de integraal $\int x^3 \cos \left( \frac{2x}{5}  \right) dx$ opgevat als $\int udv$ neem je $u=x^3$ en $dv=\cos \left( \frac{2x}{5} \right)dx$.
+
+\noindent Je bekomt $\int x^3 \cos \left( \frac{2x}{5}  \right) dx=a.x^b.f\left(  \frac{2x}{5} \right)+c\int x^d.g\left( \frac{2x}{5}  \right)dx$. Hierin staat $f$ en $g$ voor de functie $\sin $ of $\cos $.
+Wat zijn $f$ en $g$ en de waarden van $a$; $b$; $c$ en $d$?\vspace{3mm}
+
+\noindent $f \text { is } \cdots $; $g \text { is } \cdots$; $a= \cdots $; $b= \cdots $; $c= \cdots $; $d= \cdots $
+\end{opgave}
+
+\begin{oplossing}
+$f \text { en } g \text { zijn } \sin $; $a=\frac{5}{2}$; $b=3$; $c=\frac{-15}{2}$; $d=2$
+\end{oplossing}
+
+Verantwoording : Je bekomt $du=3x^2dx$ en uit $\int \cos \left( \frac{2x}{5}  \right)=\frac{5}{2} \sin \left( \frac{2x}{5}  \right)+C$ vind je dat je kan nemen $v=\frac{5}{2} \sin \left(  \frac{2x}{5}  \right)$
+
+\begin{opgave}
+Bij het toepassen van parti\"ele integratie $\int udv=uv-\int vdu$ bekom je
+\[
+\int x^3 \ln ^2 xdx=\frac{x^4 \ln^2x}{4}-\frac{1}{2}\int x^3\ln xdx \text { .}
+\]
+Wat neem je voor $u$?
+
+\begin{enumerate}[a]
+\item $u=x^3$
+\item $u=\ln^2x$
+\item $u=\ln x$
+\end{enumerate}
+
+\begin{oplossing}
+b
+\end{oplossing}
+
+
+\end{opgave}
+
+Verantwoording : Neem je $u=\ln^2 x$ dan is $du=\frac{2\ln x}{x} dx$ en dan moet je ook nemen $dv=x^3dx$. Uit $\int x^3dx=\frac{x^4}{4}+C$ vind je dan dat je $v=\frac{x^4}{4}$ kan nemen.
+
+\begin{opgave}
+Bij het toepassen van parti\"ele integratie $\int udv=uv-\int vdu$ bekom je
+\[
+\int e^{-x}\cos \left( \frac{3x}{7}  \right)dx=-e^{-x}\cos \left( \frac{3x}{7}  \right)-\frac{3}{7}\int e^{-x}\sin \left( \frac{3x}{7}  \right)dx \text { .}
+\]
+Wat neem je voor $u$?
+
+\begin{enumerate}[a]
+\item $u=sin \left( \frac{3x}{7}  \right)$
+\item $u=e^{-x}$
+\item $u=\cos \left( \frac{3x}{7}  \right)$
+\end{enumerate}
+
+\end{opgave}
+
+\begin{oplossing}
+c
+\end{oplossing}
+
+Verantwoording : Neem je $u=\cos \left( \frac{3x}{7}  \right)$ dan bekom je $du=-\frac{3}{7}\sin \left(  \frac{3x}{7} \right)dx$ en dan moet je $dv=e^{-x}dx$ nemen.
+Uit $\int e^{-x}dx=-e^{-x}+C$ bekom je dat je $v=-e^{-x}$ kan nemen.
+
+\begin{opgave}
+Bij het toepassen van parti\"ele integratie $\int udv=uv-\int vdu$ bekom je
+\[
+\int x \arctan (5x)dx=\frac{x^2 \arctan (5x)}{2}-\frac{5}{2}\int \frac{x^2dx}{1+25x^2}dx \text { .}
+\]
+Wat neem je voor $u$?
+
+\begin{enumerate}[a]
+\item $u=x\arctan (5x)$
+\item $u=\arctan (5x)$
+\item $u=x$
+\end{enumerate}
+
+\end{opgave}
+
+\begin{oplossing}
+b
+\end{oplossing}
+
+Verantwoording : Neem je $u=\arctan (5x)$ dan bekom je $du = \frac{5dx}{1+25x^2}$ en dan moet je $dv=xdx$ nemen.
+Uit $\int xdx=\frac{x^2}{2}+C$ vind je dat je $v=\frac{x^2}{2}$ kan nemen.
+
+
+\begin{opgave}
+
+\[
+\int x^2 \cos \left(  \frac{x}{5} \right) dx=a x^3 \sin \left( \frac{x}{5}  \right) + b x^3 \cos \left( \frac{x}{5}   \right) + c x^2 \sin \left( \frac{x}{5}  \right) + d x^2 \cos \left( \frac{x}{5}   \right)+
+\]
+\[
+ + e x \sin \left( \frac{x}{5}  \right) + f x \cos \left( \frac{x}{5}   \right) + g\sin \left( \frac{x}{5}  \right) + h \cos \left( \frac{x}{5}   \right) + C
+\] \vspace{3mm}
+\noindent $a= \cdots $; $b= \cdots $; $c= \cdots $; $d= \cdots $; $e=\cdots $; $f=\cdots $; $g=\cdots $; $h= \cdots $ \vspace{1mm}
+
+\noindent Een aantal van deze getallen kunnen 0 en/of 1 zijn. Je mag enkel gehele getallen of breuken van gehele getallen ingeven en je moet zoveel mogelijk vereenvoudigen. Bij een breuk die negatief is plaats je het minteken in de teller.
+\end{opgave}
+
+\begin{oplossing}
+$a=b=d=e=h=0$; $c=5$; $f=50$; $g=-250$
+\end{oplossing}
+
+Verantwoording : Stel $u=x^2$, dan is $du=2xdx$ en stel $dv=\cos \left( \frac{x}{5}  \right)dx$ en dus $v=5 \sin \left( \frac{x}{5} \right)$.
+Dit geeft 
+\[
+\int x^2 \cos \left(  \frac{x}{5} \right) dx = 5x^2 \sin \left(  \frac{x}{5} \right) - 10 \int x \sin \left( \frac{x}{5}  \right)dx
+\]
+Je stelt daarna $u=x$ en dus $du=dx$ en $dv=\sin \left(  \frac{x}{5} \right) dx$ en dus $v=-5 \cos \left( \frac{x}{5}  \right)$.
+Dit geeft
+\[
+ \int x \sin \left( \frac{x}{5}  \right)dx=-5x \cos \left( \frac{x}{5}  \right) +5 \int \cos \left( \frac{x}{5}  \right)dx =
+\]
+\[
+= -5x \cos \left( \frac{x}{5}  \right) +25 \sin \left( \frac{x}{5} \right)+C \text { .}
+\]
+Je bekomt
+\[
+\int x^2 \cos \left(  \frac{x}{5} \right) dx = 5x^2 \sin \left(  \frac{x}{5} \right) + 50 x \cos \left( \frac{x}{5}  \right) -250 \sin \left( \frac{x}{5} \right)+C \text { .}
+\]
+
+
+
+\begin{opgave}
+\[
+\int x \arctan (6x)dx=ax^2 \arctan (6x) + bx \arctan (6x) + c \arctan (6x)+d x^2 + ex+C
+\]\vspace{3mm}
+
+\noindent $a= \cdots$; $b=\cdots$; $c= \cdots $; $d= \cdots $; $e = \cdots $\vspace{1mm}
+
+\noindent Een aantal van deze getallen kunnen 0 en/of 1 zijn. Je mag enkel gehele getallen of breuken van gehele getallen ingeven en je moet zoveel mogelijk vereenvoudigen. Bij een breuk die negatief is plaats je het minteken in de teller.
+\end{opgave}
+
+\begin{oplossing}
+$b=d=0$; $a=\frac{1}{2}$; $c=\frac{1}{72}$; $e=-\frac{1}{12}$
+\end{oplossing}
+
+Verantwoording : Stel $u=\arctan (6x)$ en dus $du=\frac{6dx}{1+36x^2}$ en stel $dv=xdx$ en dus $v=\frac{x^2}{2}$.
+Je bekomt
+\[
+\int x \arctan (6x)dx=\frac{x^2 \arctan (6x)}{2}-3\int \frac{x^2dx}{1+36x^2} \text { .}
+\]
+De resterende integraal herschrijf je als
+\[
+\int \frac{x^2dx}{1+36x^2}=\frac{1}{36}\int \frac{36x^2dx}{1+36x^2}=\frac{1}{36}\left( \int \frac{1+36x^2dx}{1+36x^2}  -\int \frac{dx}{1+36x^2} \right)=
+\]
+\[
+=\frac{1}{36} \left(  \int dx - \int \frac{dx}{1+36x^2} \right)=\frac{1}{36} \left( x  - \int \frac{dx}{1+36x^2} \right) \text { .}
+\]
+Deze laatste integraal los je als volgt op door gebruik te maken van substitutie $t=6x$ en $dt=6dx$:
+\[
+\int \frac{dx}{1+36x^2}=\int \frac{dx}{1+(6x)^2}=\frac{1}{6} \int \frac{dt}{1+t^2}=\frac{1}{6}\arctan (t)+C=\frac{1}{6} \arctan (6x)+C \text { .}
+\]
+Je bekomt
+\[
+\int x \arctan (6x)dx=\frac{x^2 \arctan (6x)}{2}-\frac{x}{12}+\frac{\arctan (6x)}{72}+C \text { .}
+\]
+
+\begin{opgave}
+\[
+\int e^{-3x}\sin \left( \frac{9x}{5}  \right)dx=e^{-3x} \left(  a \cos \left( \frac{9x}{5}  \right) +b \sin \left( \frac{9x}{5}  \right) \right)+C
+\]
+ Wat zijn $a$ en $b$?\vspace{3mm}
+
+\noindent $a= \cdots$; $b=\cdots$\vspace{1mm}
+
+\noindent Een aantal van deze getallen kunnen 0 en/of 1 zijn. Je mag enkel gehele getallen of breuken van gehele getallen ingeven en je moet zoveel mogelijk vereenvoudigen. Bij een breuk die negatief is plaats je het minteken in de teller.
+\end{opgave}
+
+\begin{oplossing}
+$a=\frac{-15}{52}$; $b=\frac{-25}{52}$
+\end{oplossing}
+
+Verantwoording : Je neemt $u=e^{-3x}$ en dus $du=-3e^{-3x}dx$ en $dv=\sin \left( \frac{9x}{5}  \right)dx$ en dus $v=-\frac{5}{9} \cos \left( \frac{9x}{5}  \right)$.
+Je bekomt
+\[
+\int e^{-3x}\sin \left( \frac{9x}{5}  \right)dx=-\frac{5}{9} e^{-3x}\cos \left(  \frac{9x}{5} \right)-\frac{5}{3} \int e^{-3x}\cos \left( \frac{9x}{5}  \right)dx \text { .}
+\]
+Voor de nieuwe integraal neem je opnieuw $u=e^{-3x}$ en dus $du=-3e^{-3x}dx$ en $dv=\cos \left( \frac{9x}{5}  \right)dx$ en dus $v=\frac{5}{9} \sin \left(  \frac{9x}{5} \right)$
+Je bekomt
+\[
+\int e^{-3x}\cos \left( \frac{9x}{5}  \right)dx=\frac{5}{9}e^{-3x}\sin \left( \frac{9x}{5}  \right)+\frac{5}{3} \int e^{-3x}\sin \left( \frac{9x}{5}  \right)dx
+\]
+en dus
+\[
+\int e^{-3x}\sin \left( \frac{9x}{5}  \right)dx=-\frac{5}{9} e^{-3x}\cos \left(  \frac{9x}{5} \right)-\frac{25}{27}e^{-3x}\sin \left( \frac{9x}{5}  \right)-\frac{25}{27} \int e^{-3x}\sin \left( \frac{9x}{5}  \right)dx \text { .}
+\]
+Hieruit bekom je
+\[
+\left(1+\frac{25}{27}\right)\int e^{-3x}\sin \left( \frac{9x}{5}  \right)dx=-\frac{5}{9} e^{-3x}\cos \left(  \frac{9x}{5} \right)-\frac{25}{27}e^{-3x}\sin \left( \frac{9x}{5}  \right)+C
+\]
+en daaruit
+\[
+\int e^{-3x}\sin \left( \frac{9x}{5}  \right)dx=-\frac{15}{52} e^{-3x}\cos \left(  \frac{9x}{5} \right)-\frac{25}{52}e^{-3x}\sin \left( \frac{9x}{5}  \right)+C \text { .}
+\]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}

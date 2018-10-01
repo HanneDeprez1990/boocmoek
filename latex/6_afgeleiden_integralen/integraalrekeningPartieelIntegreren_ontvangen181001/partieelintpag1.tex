@@ -1,0 +1,84 @@
+\documentclass{article}
+\usepackage{amsrefs}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{graphicx}
+\usepackage{amssymb,latexsym}
+\usepackage{graphicx}
+\DeclareMathOperator{\dom}{dom}
+
+\begin{document}
+
+Aan de hand van een voorbeeld zie je hoe je de productregel voor het afleiden kunt gebruiken om onbepaalde integralen op te lossen.
+Dit gebruik van de productregel is de basis voor de methode van parti\"ele integratie bij het berekenen van onbepaalde integralen.\\
+
+De onbepaalde integraal van een som van functies is de som van de individuele onbepaalde integralen:
+\[
+\int (f(x)+g(x))dx=\int f(x)dx + \int g(x)dx \text { .}
+\]
+Vele voorbeelden tonen aan dat de onbepaalde integraal van een product van functies niet het product van de individuele onbepaalde integralen is.
+Bijvoorbeeld:
+\[
+\int x^2dx = \frac{x^3}{3}+C
+\]
+maar $x^2=x.x$ en $\int xdx=\frac{x^2}{2}+C$ dus
+\[
+\int x^2dx \neq \left( \int xdx \right)^2 \text { .}
+\]
+Dit komt omdat de afgeleide van een product van functies niet gelijk is aan het product van de afgeleiden van de individuele functies.
+
+Wel geldt
+\[
+D\left( f(x)g(x) \right)=Df(x).g(x)+f(x).Dg(x) \text { .}
+\]
+Volgend voorbeeld toont aan dat deze productregel van het afleiden wel kan helpen bij het berekenen van onbepaalde integralen.\\
+
+\noindent (Dit voorbeeld opnemen uitgelegd in een filmpje?)
+
+We willen de onbepaalde integraal $\int x\sin xdx$ oplossen.
+
+Uit de productregel van het afleiden weten we dat
+\[
+D(x\sin x)=Dx.\sin x+x.D(\sin x)=\sin x +x \cos x \text { .}
+\]
+Per definitie is
+\[
+\int D(x \sin x)dx=x \sin x +C
+\]
+en dus
+\[
+\int \left( \sin x +x \cos x \right) dx = x \sin x +C \text { .}
+\]
+Omdat $x \cos x = \left( \sin x +x \cos x \right)- \sin x$ bekom je hieruit
+\[
+\int x \cos x dx = \int \left( \sin x + x \cos x) \right) dx - \int \sin x dx= x \sin x + \cos x +C \text { .}
+\]
+
+Je merkt dat je in plaats van de gezochte integraal de integraal met $\cos$ in plaats van $\sin$ vindt.
+Dit geeft aan dat je de gezochte integraal kunt vinden door te starten met
+\[
+D(x \cos x)=Dx.\cos x+x.D(\cos x)=\cos x -x \sin x \text { .}
+\]
+Dit geeft dan
+\[
+\int \left( \cos x - x \sin x \right)dx=\int D(x \cos x)dx=x \cos x +C
+\]
+en omdat $x \sin x = \cos x - \left( \cos x - x \sin x \right)$ vind je
+\[
+\int x \sin x dx = \int \cos x dx- \int \left( \cos x-x \sin x \right) dx=\sin x - x \cos x +C \text { .}
+\]
+
+Je merkt dus dat de productregel voor het afleiden kan helpen om onbepaalde integralen op te lossen.
+Maar in het voorbeeld werken we niet op een gericht wijze.
+We gaan uit de productregel voor het afleiden de methode van parti\"ele integratie bekomen.
+Dit geeft een meer systematische wijze om de productregel van het afleiden te gebruiken bij het onbepaald integreren.
+
+
+
+
+
+
+
+\end{document}

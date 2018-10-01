@@ -1,0 +1,83 @@
+\documentclass{article}
+\usepackage{amsrefs}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{graphicx}
+\usepackage{amssymb,latexsym}
+\usepackage{graphicx}
+\DeclareMathOperator{\dom}{dom}
+
+\begin{document}
+
+Je leest nog enkele voorbeelden op het berekenen van integralen door middel van substitutie.
+
+\vspace{2mm}
+
+\begin{enumerate}
+
+\item $\int e^{5x}dx$
+
+Stel je $u=5x$ dan is $du=5dx$.
+
+Je vervangt dan $dx$ door $\frac{du}{5}$ en je bekomt
+\[
+\int e^{5x}dx=\int e^u\frac{du}{5}=\frac{1}{5} \int e^udu=\frac{1}{5} e^u+C=\frac{1}{5}e^{5x}+C \text { .}
+\]
+
+\item $\int \frac{dx}{1+9x^2}$
+
+Deze integraal lijkt sterk op $\int \frac{dt}{1+t^2}=\arctan t+C$.
+
+Stel $u=3x$, dan is $du=\frac{du}{3}$ en je bekomt
+\[
+\int \frac{dx}{1+9x^2}=\int \frac{1}{1+u^2} \frac{du}{3} =\frac{1}{3} \int \frac{du}{1+u^2}=
+\]
+\[
+=\frac{1}{3} \arctan u+C=\frac{1}{3} \arctan (3x)+C \text { .}
+\]
+
+\item $\int \frac{xdx}{\sqrt{16-x^4}}$
+
+Als je substitutie $u=16-x^4$ overweegt dan bekom je $du=-4x^3dx$.
+In de teller staat enkel $x$.
+
+De teller suggereert daarom eerder $u=x^2$ te gebruiken.
+
+Omdat je $\int \frac{dt}{\sqrt {1-t^2}}=\arcsin t+C$ kent schrijf je 
+\[
+16-x^4=16\left( 1-\frac{x^4}{16} \right)=16 \left( 1-\left( \frac{x^2}{4} \right)^2 \right) \text { .}
+\]
+De integraal die je moet oplossen is dus
+\[
+\int \frac{xdx}{\sqrt{16-x^4}}=\int \frac{xdx}{\sqrt {16 \left( 1-\left( \frac{x^2}{4} \right)^2 \right)   }}=\frac{1}{4} \int \frac{xdx}{ \sqrt{ 1-\left( \frac{x^2}{4} \right)^2   }} \text { .}
+\]
+Stel $u=\frac{x^2}{4}$, dan is $du =\frac{xdx}{2}$ en dus $xdx=2du$.
+De integraal wordt $\frac{1}{4} \int \frac{2du}{\sqrt {1-u^2}}$, dus
+\[
+\int \frac{xdx}{\sqrt{16-x^4}}=\frac{1}{2} \int \frac{du}{\sqrt {1-u^2}}=\frac{1}{2} \arcsin u+C=\frac{1}{2} \arcsin \left( \frac{x^2}{4} \right)+C \text { .}
+\]
+
+\item $\int \frac{(\arctan x)^3dx}{1+x^2}$
+
+Stel $u=\arctan x$.
+Dan is $du=\frac{dx}{1+x^2}$ en je bekomt
+\[
+\int \frac{(\arctan x)^3dx}{1+x^2}=\int u^3du=\frac{u^4}{4}+C=\frac{(\arctan x)^4}{4}+C \text { .}
+\]
+
+
+\end{enumerate}
+
+\vspace{3mm}
+
+\noindent Je merkt dat de juiste keuze maken bij substitutie wel wat oefenen vergt.
+
+
+
+
+
+
+
+\end{document}

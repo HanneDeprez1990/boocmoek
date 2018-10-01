@@ -1,0 +1,80 @@
+\documentclass{article}
+\usepackage{amsrefs}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{graphicx}
+
+\newtheorem*{voorbeeld}{Voorbeeld} \newtheorem*{eigenschap}{Eigenschap}
+
+\title{Eenvoudige rekenregels}
+\date { }
+
+\begin{document}
+
+\maketitle \noindent
+
+\noindent Uit $D(f+g)=Df+Dg$ bekom je
+
+\begin{eigenschap} Onbepaalde integraal van een som : \\
+$\boxed { \int (f(x)+g(x))dx = \int f(x)dx + \int g(x)dx}$
+\end{eigenschap}
+
+\noindent Uit $D(cf)=cDf$ ($c$ is een getal) bekom je
+
+\begin{eigenschap} Onbepaalde integraal van een functie vermenigvuldigd met een constante :\\
+$\boxed { \int cf(x)dx = c \int f(x)dx}$
+\end{eigenschap}
+
+\noindent Met behulp van deze eigenschappen kun je alle integralen van veeltermfuncties uitrekenen.
+
+\begin{voorbeeld}
+\begin{equation*}
+\begin{split}
+\int (7x^3-4x^2+9x+13)dx\\
+&=\int 7x^3dx+\int -4x^2dx+\int 9xdx + \int 13dx \text{ (rekenregel som)}\\
+&= 7\int x^3dx -4 \int x^2dx+9\int xdx + 13 \int dx \text{ (rekenregel product met c)}\\
+&= \frac{7x^4}{4} -\frac{4x^3}{3} + \frac{9x^2}{2} +13 x+C \text{ ($\int x^n dx=\frac{x^{n+1}}{n+1}+C$)}\\
+\end{split}
+\end{equation*}
+\end{voorbeeld}
+
+\begin{voorbeeld} Het eerste voorbeeld uit de Actimath cursus uit 1.4.1
+\end{voorbeeld}
+
+\noindent Algemener kun je onbepaalde integralen uitrekenen van de vorm zoals in het volgende voorbeeld.
+
+\begin{voorbeeld}
+\begin{equation*}
+\begin{split}
+\int (7\sqrt[3]{x^5}+\frac{2}{\sqrt[5]{x}}-\frac{3}{x})dx\\
+&=\int (7x^{5/3}+2x^{-1/5}-\frac{3}{x})dx\\
+&=7\int x^{5/3}dx+2\int x^{-1/5}dx-3\int \frac{dx}{x}\\
+&= \frac{7x^{8/3}}{8/3}+\frac{2x^{4/5}}{4/5}-3\ln \vert x \vert +C\\
+&= \frac{21\sqrt[3]{x^8}}{8}+\frac{5\sqrt[5]{x^4}}{2}-3 \ln \vert x \vert +C\\
+\end{split}
+\end{equation*}
+\end{voorbeeld}
+
+\noindent Sommige sommen zie je direct zoals in volgend voorbeeld
+
+\begin{voorbeeld} 2-de voorbeeld uit de cursus Actimath in 1.4.1 blz 6
+\end{voorbeeld}
+
+\noindent Andere sommen zie je niet zo direct zoals in volgend voorbeeld
+
+\begin{voorbeeld}
+\begin{equation*}
+\begin{split}
+\int \tan ^2 x dx\\
+&=\int \frac{\sin^2 x}{cos ^2 x}dx\\
+&= \int \frac{1-\cos^2 x}{\cos ^2 x} dx \text { (hoofdformule van goniometrie)}\\
+&= \int \left( \frac{1}{\cos^2 x} -1 \right)dx\\
+&= \int \frac{1}{\cos ^2 x} - \int dx\\
+&= \tan x -x +C\\
+\end{split}
+\end{equation*}
+\end{voorbeeld}
+
+
+\end{document}

@@ -1,0 +1,263 @@
+\documentclass{article}
+\usepackage{amsrefs}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{graphicx}
+
+\DeclareMathOperator{\dom}{dom}
+\newtheorem*{definitie}{Definitie} \newtheorem*{notatie}{Notatie} \newtheorem*{voorbeeld}{Voorbeeld} \newtheorem*{eigenschap}{Eigenschap}
+
+\title{Oefeningen op berekenen van afgeleiden}
+\date { }
+
+\begin{document}
+
+Je krijgt nog enkele oefeningen op het berekenen van afgeleiden.
+Als je de oefening opgelost hebt kun je nakijken of je de juiste oplossing gevonden hebt door de keuze "Wat is de oplossing?" te nemen.
+Als je vast loopt of niet weet hoe het komt dat je de juiste oplossing niet gevonden hebt dan kun je door de andere keuzes te maken zien hoe het verder moet of zien wat je fout gedaan hebt. 
+
+\vspace {3mm}
+
+Voor de makers van de cursus : Bedoeling is dat die keuze een link is waarmee het antwoord op de vraag verschijnt.Met andere woorden na iedere opgave zouden de punten links moeten zijn en de antwoorden pas te voorschijn mogen komen als je die link kiest.
+
+\vspace{2mm}
+
+\begin{enumerate}
+
+\item Bereken $D \left( 5\sqrt[7] {x^{10}}+\frac {2}{\sqrt[4]{x^7}}-9 \left( \frac {1}{\sqrt [3]{x}}  \right)^5 \right)$
+
+\begin{itemize}
+\item Hoe schrijf je dit zodat je afgeleiden van machten van $x$ moet uitrekenen?
+
+Antwoord : $D \left(  5x^{10/7}+2x^{-7/4}-9x^{-5/3}  \right)$
+
+\item Wat is het resultaat van het toepassen van de regel voor het afleiden van machten ($D(x^a)=ax^{a-1}$)?
+
+Antwoord : $5\frac{10}{7}x^{3/7}+2\left( -\frac{7}{4} \right)x^{-11/4}-9\left(  -\frac{5}{3}  \right) x^{-8/3}$
+
+\item Wat is de oplossing?
+
+Antwoord : $\frac {50}{7}\sqrt[7]{x^3}-\frac{7}{2\sqrt[4]{x^{11}}}+\frac{15}{\sqrt[3]{x^8}}$
+
+\end{itemize}
+
+\item Bereken $D \left(  3 \sqrt[5]{\frac{1}{1-2x^3}}+4\frac{1}{\sqrt[3]{x^2-3x+1}}-9\sqrt{(5x-7)^3}  \right)$
+
+\begin{itemize}
+
+\item Hoe schrijf je dit zodat je afgeleiden van machten van veeltermen moet uitrekenen?
+
+Antwoord : $D \left( 3 \left(  1-2x^3 \right)^{-1/5}+4 \left( x^2-3x+1  \right)^{-1/3}-9 \left(  5x-7 \right)^{3/2}  \right)$
+
+\item Wat bekom je als je die machten afleidt? 
+
+Antwoord : $3\left(- \frac{1}{5} \right)\left( 1-2x^3  \right)^{-4/5}D\left( 1-2x^3  \right)+4\left( -\frac{1}{3}  \right)\left( x^2-3x+1  \right)^{-4/3}D\left( x^2-3x+1  \right)-9\frac{3}{2}\left( 5x-7  \right)^{1/2}D(5x-7)$ (denk eraan dat je na het afleiden van de machten door het gebruik van de kettingregel die veeltermen nog moet afleiden).
+
+\item Wat bekom je als je die veeltermen nog afleidt?
+
+Antwoord : $3\left(- \frac{1}{5} \right)\left( 1-2x^3  \right)^{-4/5}\left( -6x^2  \right)+4\left( -\frac{1}{3}  \right)\left( x^2-3x+1  \right)^{-4/3}\left(2 x-3  \right)-9\frac{3}{2}\left( 5x-7  \right)^{1/2}5$
+
+\item Wat is de oplossing?
+
+Antwoord : $\frac{18x^2}{5\sqrt[5]{\left( 1-2x^3 \right) ^4}}-\frac{8x-12}{3\sqrt[3]{\left( x^2-3x+1 \right)^4}}+\frac{135 \sqrt{5x-7}}{2}$
+
+\end{itemize}
+
+\item Bereken $D \left( \sqrt[6]{\frac{1}{\sin ^5x}}  \right)$
+
+\begin{itemize}
+
+\item Hoe schrijf je dit als een machtsverheffing die je moet afleiden?
+
+Antwoord : $D \left( (\sin x)^{-5/6}  \right)$
+
+\item Wat bekom je als die macht afleidt? 
+
+Antwoord : $-\frac{5}{6} (\sin x)^{-11/6} D(\sin x)$ (denk eraan dat je na het afleiden van de macht door het gebruik van de kettingregel de sinusfunctie nog moet afleiden).
+
+\item Wat bekom je nadat je ook de sinusfunctie nog afleidt?
+
+Antwoord : $-\frac{5}{6} (\sin x)^{-11/6} \cos x$
+
+\item Wat is de oplossing?
+
+Antwoord : $-\frac{5 \cos x}{6 \sqrt[6]{\sin ^{11}x}}$
+
+\end{itemize}
+
+\item $D \left( \cos \left( \frac {1}{\sqrt[3]{1+x^2}}  \right)  \right)$
+
+\begin{itemize}
+
+\item Welke functie moet je als eerste afleiden en wat bekom je dan?
+
+Antwoord : Je moet eerst de functie $\cos$ afleiden. Je bekomt dan
+\[
+-\sin \left(  \frac{1}{\sqrt[3]{1+x^2}} \right) D \left(  \frac{1}{\sqrt[3]{1+x^2}} \right) 
+\]
+Denk er aan dat je na het afleiden van de cosinusfunctie vanwege de kettingregel de functie nog moet afleiden waarop de cosinus werkt.
+
+\item welke macht moet je vervolgens afleiden en wat bekom je dan?
+
+Antwoord : Omdat $\frac{1}{\sqrt[3]{1+x^2}}=\left( 1+x^2  \right)^{-1/3}$ moet je een macht $-1/3$ afleiden. Je bekomt
+\[
+-\sin \left(  \frac{1}{\sqrt[3]{1+x^2}} \right) \left( -\frac{1}{3}  \right) \left( 1+x^2  \right)^{-4/3}D\left( 1+x^2  \right)
+\]
+
+\item Wat bekom je als je ook die veelterm afleidt?
+
+Antwoord : $-\sin \left(  \frac{1}{\sqrt[3]{1+x^2}} \right) \left( -\frac{1}{3}  \right) \left( 1+x^2  \right)^{-4/3}2x$
+
+\item Wat is de oplossing?
+
+Antwoord : $\frac {2x\sin \left( \frac {1}{\sqrt[3]{1+x^2}} \right)}{3 \sqrt[3]{\left( 1+x^2  \right) ^4}}$
+
+\end{itemize}
+
+\item $D \left( \frac {1}{1+e^{5x}} \right)$
+
+\begin{itemize}
+
+\item Wat bekom je na het gebruik van de rekenregel $D \left( \frac{1}{f(x)} \right)=-\frac {1}{f(x)^2}Df(x)$?
+
+Antwoord : $-\frac{1}{\left( 1+e^{5x}  \right)^2}D \left ( 1+e^{5x} \right)$
+
+\item Wat bekom je door het afleiden van de $e$-macht?
+
+Antwoord : $-\frac{1}{\left( 1+e^{5x}  \right)^2}e^{5x}D(5x)$ (denk aan het gebruik van de kettingregel).
+
+\item Wat bekom je als afgeleide?
+
+Antwoord : $-\frac{1}{\left( 1+e^{5x}  \right)^2}e^{5x}5$
+
+\item Wat is de oplossing?
+
+Antwoord : $-\frac {5e^{5x}}{\left( 1+e^{5x}  \right)^2}$
+
+\end{itemize}
+
+\item $D \left( \cos \left( \tan \left(  x^4 \right)  \right)  \right)$
+
+\begin{itemize}
+
+\item Wat bekom je nadat je de eerste keer de kettingregel gebruikt?
+
+Antwoord : $-\sin \left( \tan \left(  x^4  \right)  \right)D \left( \tan \left( x^4  \right)  \right)$
+
+\item Wat bekom je nadat je de tweede keer de kettingregel gebruikt?
+
+Antwoord : $-\sin \left( \tan \left(  x^4  \right)  \right)\frac{1}{\cos^2 \left( x^4  \right)}D\left(  x^4 \right)$
+
+\item Wat bekom je nadat je de derde keer de kettingregel gebruikt?
+
+Antwoord :  $-\sin \left( \tan \left(  x^4  \right)  \right)\frac{1}{\cos^2 \left( x^4  \right)}4x^3$
+
+\item Wat is de oplossing?
+
+Antwoord : $-\frac{4x^3\sin \left( \tan \left(  x^4  \right)  \right)}{\cos^2 \left( x^4  \right)}$
+
+\end{itemize}
+
+\item $D \left(  \sin \left(  e^{\arctan \left(  \frac{1}{x}  \right) } \right)  \right)$
+
+\begin{itemize}
+
+\item Wat bekom je nadat je de eerste keer de kettingregel toepast?
+
+Antwoord : $\cos \left(  e^{arctan \left(  \frac{1}{x}  \right) } \right) D \left(  e^{\arctan \left(  \frac{1}{x}  \right) }  \right)$
+
+\item Wat bekom je nadat je de tweede keer de kettingregel toepast?
+
+Antwoord : $\cos \left(  e^{arctan \left(  \frac{1}{x}  \right) } \right) e^{\arctan \left(  \frac{1}{x}  \right) }D \left( \arctan \left(  \frac{1}{x}  \right)  \right)$
+
+\item Wat bekom je nadat je de derde keer de kettingregel toepast?
+
+Antwoord : $\cos \left(  e^{arctan \left(  \frac{1}{x}  \right) } \right) e^{\arctan \left(  \frac{1}{x}  \right) }\frac{1}{1+\left( \frac{1}{x}  \right)^2}D\left( \frac{1}{x}  \right)$
+
+\item Wat bekom je nadat je de vierde keer de kettingregel toepast?
+
+Antwoord :  $\cos \left(  e^{arctan \left(  \frac{1}{x}  \right) } \right) e^{\arctan \left(  \frac{1}{x}  \right) }\frac{1}{1+\left( \frac{1}{x}  \right)^2}\left( -\frac{1}{x^2}  \right)$
+
+\item Wat is de oplossing?
+
+Antwoord: $-\frac{ \cos \left(  e^{arctan \left(  \frac{1}{x}  \right) } \right)  e^{\arctan \left(  \frac{1}{x}  \right) }  }{ 1+x^2  }$
+
+\end{itemize}
+
+\item $D \left(  \sin \left( x^3  \right) e^{5x}  \right)$
+
+\begin{itemize}
+
+\item Wat bekom je door het toepassen van de rekenregel van de afgeleide van een product ($D(uv)=uDv+vDu$)?
+
+Antwoord : $\sin \left( x^3  \right)D\left( e^{5x}  \right)+e^{5x}D\left(  \sin \left(  x^3 \right)  \right)$
+
+\item Wat bekom je als je op de twee afgeleiden de kettingregel toepast?
+
+Antwoord : $\sin \left( x^3  \right)e^{5x}D(5x)+e^{5x}\cos \left(  x^3 \right)D \left( x^3 \right)$
+
+\item Wat is de oplossing?
+
+Antwoord : $5\sin \left( x^3  \right)e^{5x}+3x^2e^{5x}\cos \left(  x^3 \right)$
+
+\end{itemize}
+
+\item $D \left( \arcsin (7x)\log_5 (1+9x)   \right)$
+
+\begin{itemize}
+
+\item Wat bekom je door het toepassen van de rekenregel van de afgeleide van een product?
+
+Antwoord : $\arcsin (7x)D \left( \log_5(1+9x)  \right)+\log_5(1+9x)D \left(  \arcsin(7x)  \right)$
+
+\item Wat bekom je als je op de twee afgeleiden de kettingregel toepast?
+
+Antwoord :  $\arcsin (7x)\frac{\ln 5}{1+9x}D(1+9x)+\log_5(1+9x)\frac{1}{\sqrt{1-(7x)^2}}D(1+7x)$
+
+\item Wat is de oplossing?
+
+Antwoord : $\frac{9 \left( \ln 5  \right)\arcsin (7x)}{1+9x}+\frac{7\log_5(1+9x)}{\sqrt{1-49x^2}}$
+
+\end{itemize}
+
+\item $D \left( \frac{\arctan \left( x^3  \right)}{\cos (4x-1)}  \right)$
+
+\begin{itemize}
+
+\item Wat bekom je door het toepassen van de rekenregel van de afgeleide van een deling ($D \left(  \frac{u}{v} \right)=\frac {vDu-uDv}{v^2}$)?
+
+Antwoord : $\frac {\cos (4x-1) D \left(  \arctan \left( x^3 \right)  \right)-\arctan \left( x^3 \right)D\left( \cos (4x-1)  \right)}{\cos ^2(4x-1)}$
+
+\item Wat bekom je als je op de twee afgeleiden de kettingregel toepast?
+
+Antwoord : $\frac {\cos (4x-1) \frac{1}{1+x^6}D\left( x^3 \right)-\arctan \left( x^3 \right)\left(- \sin (4x-1)  \right)D(4x-1)}{\cos ^2(4x-1)}$
+
+\item Wat is de oplossing?
+
+Antwoord : $\frac {3x^2\cos (4x-1) +4(1+x^6)\arctan \left( x^3 \right) \sin (4x-1)}{(1+x^6)\cos ^2(4x-1)}$
+
+\end{itemize}
+
+\item $D \left(  \frac{\sin \left( x^5  \right)}{\cos ^5 (x)}  \right)$
+
+\begin{itemize}
+
+\item Wat bekom je door het toepassen van de rekenregel van de afgeleide van een deling?
+
+Antwoord : $\frac {\cos ^5(x)D\left( \sin \left(  x^5  \right)  \right)-\sin \left(  x^5 \right)D\left( \cos^5(x)  \right)}{\cos ^{10}(x)}$
+
+\item Wat bekom je als je op de twee afgeleiden de kettingregel toepast?
+
+Antwoord : $\frac {\cos ^5(x) \cos \left(  x^5  \right) D\left( x^5 \right)-\sin \left(  x^5 \right)5 \cos^4(x) D(\cos (x))}{\cos ^{10}(x)}$
+
+\item Wat is de oplossing?
+
+Antwoord : $\frac {5x^4\cos ^5(x) \cos \left(  x^5  \right)+\sin \left(  x^5 \right)5 \cos^4(x) \sin (x)}{\cos ^{10}(x)}$
+
+\end{itemize}
+
+
+\end{enumerate}
+
+\end{document}
