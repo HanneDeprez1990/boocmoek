@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  20 SEP 2018 15:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  4 OCT 2018 16:16
 entering extended mode
 **./mooc_naslagwerk180918.tex
 (mooc_naslagwerk180918.tex
@@ -1041,29 +1041,29 @@ Package: ulem 2012/05/18
 (mooc_naslagwerk180918.aux)
 \openout1 = `mooc_naslagwerk180918.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 32.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    ... okay on input line 32.
 \AtBeginShipoutBox=\box55
-Package hyperref Info: Link coloring OFF on input line 29.
+Package hyperref Info: Link coloring OFF on input line 32.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1073,9 +1073,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count156
 )
-LaTeX Info: Redefining \ref on input line 29.
-LaTeX Info: Redefining \pageref on input line 29.
-LaTeX Info: Redefining \nameref on input line 29.
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
 
 ABD: EveryShipout initializing macros
 (C:\Users\u0092745\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
@@ -1117,41 +1117,41 @@ Package caption Info: End \AtBeginDocument code.
 <inputs/frontcover.pdf, id=6, 554.79266pt x 782.925pt>
 File: inputs/frontcover.pdf Graphic file (type pdf)
 <use inputs/frontcover.pdf>
-Package pdftex.def Info: inputs/frontcover.pdf  used on input line 49.
+Package pdftex.def Info: inputs/frontcover.pdf  used on input line 52.
 (pdftex.def)             Requested size: 554.7913pt x 782.9231pt.
 File: inputs/frontcover.pdf Graphic file (type pdf)
 <use inputs/frontcover.pdf>
-Package pdftex.def Info: inputs/frontcover.pdf  used on input line 49.
+Package pdftex.def Info: inputs/frontcover.pdf  used on input line 52.
 (pdftex.def)             Requested size: 554.7913pt x 782.9231pt.
 <inputs/frontcover.pdf, id=9, page=1, 554.79266pt x 782.925pt>
 File: inputs/frontcover.pdf Graphic file (type pdf)
 <use inputs/frontcover.pdf, page 1>
-Package pdftex.def Info: inputs/frontcover.pdf , page1 used on input line 49.
+Package pdftex.def Info: inputs/frontcover.pdf , page1 used on input line 52.
 (pdftex.def)             Requested size: 554.7913pt x 782.9231pt.
 File: inputs/frontcover.pdf Graphic file (type pdf)
 <use inputs/frontcover.pdf, page 1>
-Package pdftex.def Info: inputs/frontcover.pdf , page1 used on input line 49.
+Package pdftex.def Info: inputs/frontcover.pdf , page1 used on input line 52.
 (pdftex.def)             Requested size: 598.35448pt x 844.39957pt.
 File: inputs/frontcover.pdf Graphic file (type pdf)
 <use inputs/frontcover.pdf, page 1>
-Package pdftex.def Info: inputs/frontcover.pdf , page1 used on input line 49.
+Package pdftex.def Info: inputs/frontcover.pdf , page1 used on input line 52.
 (pdftex.def)             Requested size: 598.35448pt x 844.39957pt.
 File: inputs/frontcover.pdf Graphic file (type pdf)
 <use inputs/frontcover.pdf, page 1>
-Package pdftex.def Info: inputs/frontcover.pdf , page1 used on input line 49.
+Package pdftex.def Info: inputs/frontcover.pdf , page1 used on input line 52.
 (pdftex.def)             Requested size: 598.35448pt x 844.39957pt.
 File: inputs/frontcover.pdf Graphic file (type pdf)
 <use inputs/frontcover.pdf, page 1>
-Package pdftex.def Info: inputs/frontcover.pdf , page1 used on input line 49.
+Package pdftex.def Info: inputs/frontcover.pdf , page1 used on input line 52.
 (pdftex.def)             Requested size: 598.35448pt x 844.39957pt.
  [0
 
  <./inputs/frontcover.pdf>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 53.
+LaTeX Font Info:    Try loading font information for U+msa on input line 56.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 53.
+LaTeX Font Info:    Try loading font information for U+msb on input line 56.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1160,17 +1160,29 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <inputs/logo-innovationlab.png, id=54, 401.5pt x 377.41pt>
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 72.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 78.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
  [1{C:/Users/u0092745/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
  <./inputs/logo-innovationlab.png>]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 130.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 144.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [2])
+ [2]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 216.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [3]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 260.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [4])
 \tf@toc=\write6
 \openout6 = `mooc_naslagwerk180918.toc'.
 
@@ -1180,127 +1192,409 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [3]
+ [5]
 Hoofdstuk .
 (1_elem_rekenvaardigheden_A/module_1_2.tex
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 28.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 27.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [4
+ [6
 
 ]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 101.
-
-(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [5]
-
-LaTeX Warning: Command \texttimes invalid in math mode on input line 116.
-
-
-LaTeX Warning: Command \texttimes invalid in math mode on input line 116.
-
-
-LaTeX Warning: Command \texttimes invalid in math mode on input line 116.
-
-
-LaTeX Warning: Command \texttimes invalid in math mode on input line 116.
-
-Missing character: There is no Ö in font cmr12!
-Missing character: There is no Ö in font cmr12!
-
-LaTeX Warning: Command \texttimes invalid in math mode on input line 127.
-
-
-LaTeX Warning: Command \texttimes invalid in math mode on input line 127.
-
-
-LaTeX Warning: Command \texttimes invalid in math mode on input line 127.
-
-
-LaTeX Warning: Command \texttimes invalid in math mode on input line 127.
-
-
-LaTeX Warning: Command \texttimes invalid in math mode on input line 127.
-
-
-LaTeX Warning: Command \texttimes invalid in math mode on input line 127.
-
-Missing character: There is no Ö in font cmr12!
-Missing character: There is no Ö in font cmr12!
-Missing character: There is no Ö in font cmr12!
-File: inputs/logo-innovationlab.png Graphic file (type png)
-<use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 168.
-
-(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[6]
-File: inputs/logo-innovationlab.png Graphic file (type png)
-<use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 242.
-
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 89.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
  [7]
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 127.
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 127.
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 127.
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 127.
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 127.
+
+
+LaTeX Warning: Command \texttimes invalid in math mode on input line 127.
+
+Missing character: There is no Ö in font cmr12!
+Missing character: There is no Ö in font cmr12!
+Missing character: There is no Ö in font cmr12!
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 316.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 165.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [8]
+[8]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 239.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [9]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 304.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [10]
 Overfull \hbox (20.29007pt too wide) in paragraph at lines 331--343
 []$[]$ 
  []
 
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 379.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 376.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[9]
+[11]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 442.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 435.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [10]
+ [12]
 Overfull \hbox (57.7923pt too wide) in paragraph at lines 466--475
 []$[]$ 
  []
 
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 494.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 487.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[11]
+[13]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 581.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 574.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [12]
+ [14]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 651.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 646.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [13]
+ [15]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 718.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 710.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [14])) (2_elem_rekenvaardigheden_B/module_2.tex
+ [16])) (2_elem_rekenvaardigheden_B/module_2.tex
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [15]
+ [17]
 Hoofdstuk .
 (2_elem_rekenvaardigheden_B/module_2_1.tex
-(2_elem_rekenvaardigheden_B/module_2_1_8.tex
+(2_elem_rekenvaardigheden_B/module_2_1_1.tex
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 55.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [18
+
+]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 122.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [19]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 197.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [20])
+(2_elem_rekenvaardigheden_B/module_2_1_2.tex
+<2_elem_rekenvaardigheden_B/inputs/reeel_vb1.jpg, id=408, 574.39594pt x 332.743
+12pt>
+File: 2_elem_rekenvaardigheden_B/inputs/reeel_vb1.jpg Graphic file (type jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/reeel_vb1.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/reeel_vb1.jpg  used 
+on input line 8.
+(pdftex.def)             Requested size: 245.5831pt x 142.26378pt.
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 37.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [21 <./2_elem_rekenvaardigheden_B/inputs/reeel_vb1.jpg>]
+<2_elem_rekenvaardigheden_B/inputs/reeel_vb2.jpg, id=415, 695.59875pt x 468.249
+37pt>
+File: 2_elem_rekenvaardigheden_B/inputs/reeel_vb2.jpg Graphic file (type jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/reeel_vb2.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/reeel_vb2.jpg  used 
+on input line 74.
+(pdftex.def)             Requested size: 211.33473pt x 142.26378pt.
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 116.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [22 <./2_elem_rekenvaardigheden_B/inputs/reeel_vb2.jpg>]
+<2_elem_rekenvaardigheden_B/inputs/reeel_vb3.jpg, id=421, 679.03688pt x 283.057
+5pt>
+File: 2_elem_rekenvaardigheden_B/inputs/reeel_vb3.jpg Graphic file (type jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/reeel_vb3.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/reeel_vb3.jpg  used 
+on input line 123.
+(pdftex.def)             Requested size: 341.28938pt x 142.26378pt.
+) (2_elem_rekenvaardigheden_B/module_2_1_3.tex
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 20.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [23 <./2_elem_rekenvaardigheden_B/inputs/reeel_vb3.jpg>]
+<2_elem_rekenvaardigheden_B/inputs/verloop_vb1.jpg, id=427, 473.51906pt x 419.3
+1656pt>
+File: 2_elem_rekenvaardigheden_B/inputs/verloop_vb1.jpg Graphic file (type jpg)
+
+<use 2_elem_rekenvaardigheden_B/inputs/verloop_vb1.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/verloop_vb1.jpg  use
+d on input line 31.
+(pdftex.def)             Requested size: 224.90942pt x 199.16928pt.
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 81.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [24 <./2_elem_rekenvaardigheden_B/inputs/verloop_vb1.jpg>]
+<2_elem_rekenvaardigheden_B/inputs/verloop_vb2.jpg, id=438, 385.44pt x 378.6646
+9pt>
+File: 2_elem_rekenvaardigheden_B/inputs/verloop_vb2.jpg Graphic file (type jpg)
+
+<use 2_elem_rekenvaardigheden_B/inputs/verloop_vb2.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/verloop_vb2.jpg  use
+d on input line 129.
+(pdftex.def)             Requested size: 339.49852pt x 333.5264pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 155.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[25]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 193.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [26 <./2_elem_rekenvaardigheden_B/inputs/verloop_vb2.jpg>]
+<2_elem_rekenvaardigheden_B/inputs/verloop_vb3.jpg, id=452, 362.85562pt x 368.8
+7813pt>
+File: 2_elem_rekenvaardigheden_B/inputs/verloop_vb3.jpg Graphic file (type jpg)
+
+<use 2_elem_rekenvaardigheden_B/inputs/verloop_vb3.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/verloop_vb3.jpg  use
+d on input line 196.
+(pdftex.def)             Requested size: 339.49852pt x 345.14131pt.
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 225.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [27 <./2_elem_rekenvaardigheden_B/inputs/verloop_vb3.jpg>])
+(2_elem_rekenvaardigheden_B/module_2_1_4.tex
+<2_elem_rekenvaardigheden_B/inputs/constantefuncties.jpg, id=460, 271.76532pt x
+ 164.86594pt>
+File: 2_elem_rekenvaardigheden_B/inputs/constantefuncties.jpg Graphic file (typ
+e jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/constantefuncties.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/constantefuncties.jp
+g  used on input line 40.
+(pdftex.def)             Requested size: 234.51395pt x 142.26378pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 64.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[28 <./2_elem_rekenvaardigheden_B/inputs/constantefuncties.jpg>]
+<2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties1.jpg, id=470, 347.79938
+pt x 307.1475pt>
+File: 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties1.jpg Graphic file 
+(type jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties1.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties
+1.jpg  used on input line 76.
+(pdftex.def)             Requested size: 161.0935pt x 142.26378pt.
+<2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties2.jpg, id=471, 584.1825p
+t x 176.15813pt>
+File: 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties2.jpg Graphic file 
+(type jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties2.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties
+2.jpg  used on input line 97.
+(pdftex.def)             Requested size: 485.0pt x 146.2542pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 146.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[29 <./2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties1.jpg>]
+<2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties3.jpg, id=484, 362.85562
+pt x 245.41687pt>
+File: 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties3.jpg Graphic file 
+(type jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties3.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties
+3.jpg  used on input line 150.
+(pdftex.def)             Requested size: 210.34567pt x 142.26378pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 183.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[30 <./2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties2.jpg> <./2_elem_r
+ekenvaardigheden_B/inputs/eerstegraadsfuncties3.jpg>]
+<2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties1.jpg, id=494, 466.74374
+pt x 310.91156pt>
+File: 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties1.jpg Graphic file 
+(type jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties1.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties
+1.jpg  used on input line 191.
+(pdftex.def)             Requested size: 339.49852pt x 226.15703pt.
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 221.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [31 <./2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties1.jpg>]
+<2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties2.jpg, id=501, 435.12563
+pt x 455.45157pt>
+File: 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties2.jpg Graphic file 
+(type jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties2.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties
+2.jpg  used on input line 230.
+(pdftex.def)             Requested size: 217.56227pt x 227.72522pt.
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 302.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [32 <./2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties2.jpg>]
+<2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties3.jpg, id=508, 349.305pt
+ x 423.83344pt>
+File: 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties3.jpg Graphic file 
+(type jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties3.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties
+3.jpg  used on input line 333.
+(pdftex.def)             Requested size: 242.5pt x 294.24324pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (2_elem_rekenvaardigheden_B/module_2_1_7.tex
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 7.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [33]
+<2_elem_rekenvaardigheden_B/inputs/veeltermfuncties1.jpg, id=516, 373.395pt x 2
+75.52937pt>
+File: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties1.jpg Graphic file (typ
+e jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties1.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties1.jp
+g  used on input line 25.
+(pdftex.def)             Requested size: 192.7991pt x 142.26378pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2_elem_rekenvaardigheden_B/inputs/veeltermfuncties2.jpg, id=517, 423.83344pt x
+ 329.73187pt>
+File: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties2.jpg Graphic file (typ
+e jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties2.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties2.jp
+g  used on input line 33.
+(pdftex.def)             Requested size: 182.86566pt x 142.26378pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 46.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[34 <./2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties3.jpg>]
+<2_elem_rekenvaardigheden_B/inputs/veeltermfuncties3.jpg, id=524, 423.83344pt x
+ 278.54062pt>
+File: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties3.jpg Graphic file (typ
+e jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties3.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties3.jp
+g  used on input line 54.
+(pdftex.def)             Requested size: 216.47554pt x 142.26378pt.
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 70.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [35 <./2_elem_rekenvaardigheden_B/inputs/veeltermfuncties1.jpg> <./2_elem_reke
+nvaardigheden_B/inputs/veeltermfuncties2.jpg> <./2_elem_rekenvaardigheden_B/inp
+uts/veeltermfuncties3.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 142.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[36]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 212.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [37]
+<2_elem_rekenvaardigheden_B/inputs/veeltermfuncties4.jpg, id=542, 215.30438pt x
+ 176.91093pt>
+File: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties4.jpg Graphic file (typ
+e jpg)
+<use 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties4.jpg>
+Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties4.jp
+g  used on input line 239.
+(pdftex.def)             Requested size: 291.00296pt x 239.13527pt.
+) (2_elem_rekenvaardigheden_B/module_2_1_8.tex
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 7.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [38 <./2_elem_rekenvaardigheden_B/inputs/veeltermfuncties4.jpg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
@@ -1310,30 +1604,28 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 54.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 87.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [16
-
-]
+ [39]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 132.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 162.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [17]
+ [40]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 208.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 228.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [18]
+ [41]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 335.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
 
-[19]) (2_elem_rekenvaardigheden_B/module_2_1_9.tex
+[42]) (2_elem_rekenvaardigheden_B/module_2_1_9.tex
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/voorbee
 ld machtswortel - 01".eps>
 (epstopdf)                    date: 2017-06-21 14:47:16
@@ -1348,7 +1640,7 @@ eden_B/inputs/voorbeeld machtswortel - 01".eps>
 (epstopdf)             \includegraphics on input line 28.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswortel - 01"-eps-converted-
-to.pdf, id=306, 429.605pt x 308.15125pt>
+to.pdf, id=565, 429.605pt x 308.15125pt>
 File: "2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswortel - 01"-eps-conve
 rted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswortel - 01"-eps-conver
@@ -1356,15 +1648,6 @@ ted-to.pdf>
 Package pdftex.def Info: "2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswor
 tel - 01"-eps-converted-to.pdf  used on input line 28.
 (pdftex.def)             Requested size: 214.80197pt x 154.07524pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: inputs/logo-innovationlab.png Graphic file (type png)
-<use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 44.
-(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[20]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/voorbee
 ld machtswortel - 02".eps>
 (epstopdf)                    date: 2017-06-21 14:47:18
@@ -1379,7 +1662,7 @@ eden_B/inputs/voorbeeld machtswortel - 02".eps>
 (epstopdf)             \includegraphics on input line 56.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswortel - 02"-eps-converted-
-to.pdf, id=311, 824.07875pt x 470.75874pt>
+to.pdf, id=566, 824.07875pt x 470.75874pt>
 File: "2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswortel - 02"-eps-conve
 rted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswortel - 02"-eps-conver
@@ -1387,6 +1670,12 @@ ted-to.pdf>
 Package pdftex.def Info: "2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswor
 tel - 02"-eps-converted-to.pdf  used on input line 56.
 (pdftex.def)             Requested size: 412.03836pt x 235.3788pt.
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 57.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [43 <./2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswortel - 01-eps-conve
+rted-to.pdf>]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/voorbee
 ld irrationale functie - 01".eps>
 (epstopdf)                    date: 2017-06-21 14:47:20
@@ -1401,7 +1690,7 @@ aardigheden_B/inputs/voorbeeld irrationale functie - 01".eps>
 (epstopdf)             \includegraphics on input line 85.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/voorbeeld irrationale functie - 01"-eps-con
-verted-to.pdf, id=312, 507.8975pt x 533.995pt>
+verted-to.pdf, id=575, 507.8975pt x 533.995pt>
 File: "2_elem_rekenvaardigheden_B/inputs/voorbeeld irrationale functie - 01"-ep
 s-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/voorbeeld irrationale functie - 01"-eps
@@ -1411,24 +1700,25 @@ le functie - 01"-eps-converted-to.pdf  used on input line 85.
 (pdftex.def)             Requested size: 253.94814pt x 266.99684pt.
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 86.
-(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [21 <./2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswortel - 01-eps-conve
-rted-to.pdf> <./2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswortel - 02-e
-ps-converted-to.pdf>]
-File: inputs/logo-innovationlab.png Graphic file (type png)
-<use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 139.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 115.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [22 <./2_elem_rekenvaardigheden_B/inputs/voorbeeld irrationale functie - 01-ep
-s-converted-to.pdf>]
+ [44 <./2_elem_rekenvaardigheden_B/inputs/voorbeeld machtswortel - 02-eps-conve
+rted-to.pdf>]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 214.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 160.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [23]
+
+[45 <./2_elem_rekenvaardigheden_B/inputs/voorbeeld irrationale functie - 01-eps
+-converted-to.pdf>]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 237.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [46]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/voorbee
 ld irrationale functie - 02".eps>
 (epstopdf)                    date: 2017-06-21 14:47:20
@@ -1443,7 +1733,7 @@ aardigheden_B/inputs/voorbeeld irrationale functie - 02".eps>
 (epstopdf)             \includegraphics on input line 304.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/voorbeeld irrationale functie - 02"-eps-con
-verted-to.pdf, id=337, 457.71pt x 728.7225pt>
+verted-to.pdf, id=596, 457.71pt x 728.7225pt>
 File: "2_elem_rekenvaardigheden_B/inputs/voorbeeld irrationale functie - 02"-ep
 s-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/voorbeeld irrationale functie - 02"-eps
@@ -1457,35 +1747,34 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 311.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 372.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[24]
+[47]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 372.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [25 <./2_elem_rekenvaardigheden_B/inputs/voorbeeld irrationale functie - 02-ep
+ [48 <./2_elem_rekenvaardigheden_B/inputs/voorbeeld irrationale functie - 02-ep
 s-converted-to.pdf>]) (2_elem_rekenvaardigheden_B/module_2_1_10.tex
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 49.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 64.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
 
-[26]
-File: inputs/logo-innovationlab.png Graphic file (type png)
-<use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 137.
-
-(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [27]
+[49]
 Overfull \hbox (23.77582pt too wide) in paragraph at lines 143--145
 []\OT1/cmr/m/n/12 een veel ge-bruikte be-wer-king is het wor-tel-vrij ma-ken va
 n de noe-men, bv.: $[]$ 
  []
 
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 145.
 
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[50]
 Overfull \hbox (14.13397pt too wide) in paragraph at lines 158--160
 []\OT1/cmr/m/n/12 Stap 1: No-teer de ver-ge-lij-king in haar stan-daard-vorm: $
 []$ of $[]$ of $[]$ 
@@ -1497,10 +1786,10 @@ Package amsmath Warning: Cannot use `split' here;
 
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 180.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 194.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[28]
+[51]
 
 Package amsmath Warning: Cannot use `split' here;
 (amsmath)                trying to recover with `aligned' on input line 203.
@@ -1511,10 +1800,10 @@ Package amsmath Warning: Cannot use `split' here;
 
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 237.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 258.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[29]
+[52]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/de expo
 nentiele functie".eps>
 (epstopdf)                    date: 2017-06-21 14:48:28
@@ -1529,7 +1818,7 @@ _B/inputs/de exponentiele functie".eps>
 (epstopdf)             \includegraphics on input line 270.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/de exponentiele functie"-eps-converted-to.p
-df, id=370, 706.64pt x 414.54875pt>
+df, id=629, 706.64pt x 414.54875pt>
 File: "2_elem_rekenvaardigheden_B/inputs/de exponentiele functie"-eps-converted
 -to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/de exponentiele functie"-eps-converted-
@@ -1537,13 +1826,6 @@ to.pdf>
 Package pdftex.def Info: "2_elem_rekenvaardigheden_B/inputs/de exponentiele fun
 ctie"-eps-converted-to.pdf  used on input line 270.
 (pdftex.def)             Requested size: 353.31914pt x 207.27386pt.
-File: inputs/logo-innovationlab.png Graphic file (type png)
-<use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 284.
-
-(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [30 <./2_elem_rekenvaardigheden_B/inputs/de exponentiele functie-eps-converted
--to.pdf>]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/voorbee
 ld exponentiele functie".eps>
 (epstopdf)                    date: 2017-06-21 14:48:30
@@ -1558,7 +1840,7 @@ igheden_B/inputs/voorbeeld exponentiele functie".eps>
 (epstopdf)             \includegraphics on input line 311.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/voorbeeld exponentiele functie"-eps-convert
-ed-to.pdf, id=380, 527.9725pt x 406.51875pt>
+ed-to.pdf, id=630, 527.9725pt x 406.51875pt>
 File: "2_elem_rekenvaardigheden_B/inputs/voorbeeld exponentiele functie"-eps-co
 nverted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/voorbeeld exponentiele functie"-eps-con
@@ -1566,7 +1848,13 @@ verted-to.pdf>
 Package pdftex.def Info: "2_elem_rekenvaardigheden_B/inputs/voorbeeld exponenti
 ele functie"-eps-converted-to.pdf  used on input line 311.
 (pdftex.def)             Requested size: 263.9856pt x 203.25887pt.
-) (2_elem_rekenvaardigheden_B/module_2_1_11.tex
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 313.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [53 <./2_elem_rekenvaardigheden_B/inputs/de exponentiele functie-eps-converted
+-to.pdf>]) (2_elem_rekenvaardigheden_B/module_2_1_11.tex
 Underfull \hbox (badness 10000) in paragraph at lines 32--32
 []$[]$ \OT1/cmr/m/n/12 met
  []
@@ -1584,7 +1872,7 @@ exp"-eps-converted-to.pdf>
  en exp".eps>
 (epstopdf)             \includegraphics on input line 54.
 Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/log en exp"-eps-converted-to.pdf, id=381, 9
+<"2_elem_rekenvaardigheden_B/inputs/log en exp"-eps-converted-to.pdf, id=639, 9
 92.70876pt x 424.58624pt>
 File: "2_elem_rekenvaardigheden_B/inputs/log en exp"-eps-converted-to.pdf Graph
 ic file (type pdf)
@@ -1602,9 +1890,9 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 64.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 80.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[31 <./2_elem_rekenvaardigheden_B/inputs/voorbeeld exponentiele functie-eps-con
+[54 <./2_elem_rekenvaardigheden_B/inputs/voorbeeld exponentiele functie-eps-con
 verted-to.pdf>]
 Overfull \hbox (12.90956pt too wide) in paragraph at lines 89--93
 []\OT1/cmr/m/n/12 De \OT1/cmr/bx/n/12 na-tuur-lijke of Ne-pe-ri-aanse lo-ga-rit
@@ -1616,7 +1904,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 117.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[32 <./2_elem_rekenvaardigheden_B/inputs/log en exp-eps-converted-to.pdf>]
+[55 <./2_elem_rekenvaardigheden_B/inputs/log en exp-eps-converted-to.pdf>]
 Overfull \hbox (32.5755pt too wide) in paragraph at lines 156--159
 []\OT1/cmr/m/n/12 Stap 1: No-teer de ver-ge-lij-king in haar stan-daard-vorm: $
 []$ of $[]$
@@ -1627,7 +1915,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 167.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[33]
+[56]
 
 Package amsmath Warning: Cannot use `split' here;
 (amsmath)                trying to recover with `aligned' on input line 185.
@@ -1641,7 +1929,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 243.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[34]
+[57]
 
 Package amsmath Warning: Cannot use `split' here;
 (amsmath)                trying to recover with `aligned' on input line 252.
@@ -1659,7 +1947,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 319.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[35]
+[58]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/de loga
 ritmische functie".eps>
 (epstopdf)                    date: 2017-06-21 14:48:54
@@ -1674,7 +1962,7 @@ n_B/inputs/de logaritmische functie".eps>
 (epstopdf)             \includegraphics on input line 328.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/de logaritmische functie"-eps-converted-to.
-pdf, id=410, 624.3325pt x 652.4375pt>
+pdf, id=669, 624.3325pt x 652.4375pt>
 File: "2_elem_rekenvaardigheden_B/inputs/de logaritmische functie"-eps-converte
 d-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/de logaritmische functie"-eps-converted
@@ -1687,7 +1975,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 354.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [36 <./2_elem_rekenvaardigheden_B/inputs/de logaritmische functie-eps-converte
+ [59 <./2_elem_rekenvaardigheden_B/inputs/de logaritmische functie-eps-converte
 d-to.pdf>]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/voorbee
 ld logaritmische functie".eps>
@@ -1703,7 +1991,7 @@ digheden_B/inputs/voorbeeld logaritmische functie".eps>
 (epstopdf)             \includegraphics on input line 376.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/voorbeeld logaritmische functie"-eps-conver
-ted-to.pdf, id=420, 521.95pt x 522.95375pt>
+ted-to.pdf, id=678, 521.95pt x 522.95375pt>
 File: "2_elem_rekenvaardigheden_B/inputs/voorbeeld logaritmische functie"-eps-c
 onverted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/voorbeeld logaritmische functie"-eps-co
@@ -1716,7 +2004,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 44.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [37 <./2_elem_rekenvaardigheden_B/inputs/voorbeeld logaritmische functie-eps-c
+ [60 <./2_elem_rekenvaardigheden_B/inputs/voorbeeld logaritmische functie-eps-c
 onverted-to.pdf>]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Figuur2
 0 - periodieke functie".eps>
@@ -1732,7 +2020,7 @@ gheden_B/inputs/Figuur20 - periodieke functie".eps>
 (epstopdf)             \includegraphics on input line 46.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Figuur20 - periodieke functie"-eps-converte
-d-to.pdf, id=429, 876.27374pt x 301.125pt>
+d-to.pdf, id=688, 876.27374pt x 301.125pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Figuur20 - periodieke functie"-eps-con
 verted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Figuur20 - periodieke functie"-eps-conv
@@ -1754,7 +2042,7 @@ _B/inputs/Figuur21 - sinusfunctie".eps>
 (epstopdf)             \includegraphics on input line 69.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Figuur21 - sinusfunctie"-eps-converted-to.p
-df, id=430, 843.15pt x 301.125pt>
+df, id=689, 843.15pt x 301.125pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Figuur21 - sinusfunctie"-eps-converted
 -to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Figuur21 - sinusfunctie"-eps-converted-
@@ -1776,7 +2064,7 @@ en_B/inputs/Figuur22 - cosinusfunctie".eps>
 (epstopdf)             \includegraphics on input line 85.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Figuur22 - cosinusfunctie"-eps-converted-to
-.pdf, id=431, 843.15pt x 301.125pt>
+.pdf, id=690, 843.15pt x 301.125pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Figuur22 - cosinusfunctie"-eps-convert
 ed-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Figuur22 - cosinusfunctie"-eps-converte
@@ -1789,7 +2077,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 87.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
 
-[38 <./2_elem_rekenvaardigheden_B/inputs/Figuur20 - periodieke functie-eps-conv
+[61 <./2_elem_rekenvaardigheden_B/inputs/Figuur20 - periodieke functie-eps-conv
 erted-to.pdf> <./2_elem_rekenvaardigheden_B/inputs/Figuur21 - sinusfunctie-eps-
 converted-to.pdf>]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Figuur2
@@ -1806,7 +2094,7 @@ en_B/inputs/Figuur23 - tangensfunctie".eps>
 (epstopdf)             \includegraphics on input line 101.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Figuur23 - tangensfunctie"-eps-converted-to
-.pdf, id=444, 843.15pt x 301.125pt>
+.pdf, id=703, 843.15pt x 301.125pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Figuur23 - tangensfunctie"-eps-convert
 ed-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Figuur23 - tangensfunctie"-eps-converte
@@ -1828,7 +2116,7 @@ eden_B/inputs/Figuur24 - cotangensfunctie".eps>
 (epstopdf)             \includegraphics on input line 121.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Figuur24 - cotangensfunctie"-eps-converted-
-to.pdf, id=445, 843.15pt x 301.125pt>
+to.pdf, id=704, 843.15pt x 301.125pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Figuur24 - cotangensfunctie"-eps-conve
 rted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Figuur24 - cotangensfunctie"-eps-conver
@@ -1841,7 +2129,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 123.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [39 <./2_elem_rekenvaardigheden_B/inputs/Figuur22 - cosinusfunctie-eps-convert
+ [62 <./2_elem_rekenvaardigheden_B/inputs/Figuur22 - cosinusfunctie-eps-convert
 ed-to.pdf> <./2_elem_rekenvaardigheden_B/inputs/Figuur23 - tangensfunctie-eps-c
 onverted-to.pdf>])
 (2_elem_rekenvaardigheden_B/module_2_1_13.tex
@@ -1849,9 +2137,9 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 55.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [40 <./2_elem_rekenvaardigheden_B/inputs/Figuur24 - cotangensfunctie-eps-conve
+ [63 <./2_elem_rekenvaardigheden_B/inputs/Figuur24 - cotangensfunctie-eps-conve
 rted-to.pdf>]
-<2_elem_rekenvaardigheden_B/inputs/Arcsine_Arccosine_svg.png, id=466, 180.675pt
+<2_elem_rekenvaardigheden_B/inputs/Arcsine_Arccosine_svg.png, id=725, 180.675pt
  x 331.2375pt>
 File: 2_elem_rekenvaardigheden_B/inputs/Arcsine_Arccosine_svg.png Graphic file 
 (type png)
@@ -1859,7 +2147,7 @@ File: 2_elem_rekenvaardigheden_B/inputs/Arcsine_Arccosine_svg.png Graphic file
 Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/Arcsine_Arccosine_sv
 g.png  used on input line 110.
 (pdftex.def)             Requested size: 180.67455pt x 331.23668pt.
-<2_elem_rekenvaardigheden_B/inputs/Arctangent_Arccotangent_svg.png, id=468, 316
+<2_elem_rekenvaardigheden_B/inputs/Arctangent_Arccotangent_svg.png, id=727, 316
 .18124pt x 195.73125pt>
 File: 2_elem_rekenvaardigheden_B/inputs/Arctangent_Arccotangent_svg.png Graphic
  file (type png)
@@ -1872,16 +2160,16 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 153.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [41]
+ [64]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 153.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [42 <./2_elem_rekenvaardigheden_B/inputs/Arcsine_Arccosine_svg.png> <./2_elem_
+ [65 <./2_elem_rekenvaardigheden_B/inputs/Arcsine_Arccosine_svg.png> <./2_elem_
 rekenvaardigheden_B/inputs/Arctangent_Arccotangent_svg.png>])
 (2_elem_rekenvaardigheden_B/module_2_1_14.tex
-<2_elem_rekenvaardigheden_B/inputs/Absolute_value_svg.png, id=482, 602.25pt x 4
+<2_elem_rekenvaardigheden_B/inputs/Absolute_value_svg.png, id=740, 602.25pt x 4
 01.5pt>
 File: 2_elem_rekenvaardigheden_B/inputs/Absolute_value_svg.png Graphic file (ty
 pe png)
@@ -1893,8 +2181,8 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 44.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [43 <./2_elem_rekenvaardigheden_B/inputs/Absolute_value_svg.png>]
-<2_elem_rekenvaardigheden_B/inputs/Signum_function_svg.png, id=489, 248.93pt x 
+ [66 <./2_elem_rekenvaardigheden_B/inputs/Absolute_value_svg.png>]
+<2_elem_rekenvaardigheden_B/inputs/Signum_function_svg.png, id=748, 248.93pt x 
 199.74625pt>
 File: 2_elem_rekenvaardigheden_B/inputs/Signum_function_svg.png Graphic file (t
 ype png)
@@ -1905,26 +2193,31 @@ png  used on input line 64.
 ) (2_elem_rekenvaardigheden_B/module_2_1_15.tex
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Verschu
 iven - horizontaal - naar links".eps>
-(epstopdf)                    date: 2017-08-15 13:03:18
-(epstopdf)                    size: 1209233 bytes
+(epstopdf)                    date: 2018-09-28 15:44:36
+(epstopdf)                    size: 80110 bytes
 (epstopdf)             Output file: <"2_elem_rekenvaardigheden_B/inputs/Verschu
 iven - horizontaal - naar links"-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-19 13:49:49
-(epstopdf)                    size: 22673 bytes
+(epstopdf)                    date: 2018-10-04 10:06:45
+(epstopdf)                    size: 29358 bytes
 (epstopdf)             Command: <epstopdf --outfile="2_elem_rekenvaardigheden_B
 /inputs/Verschuiven - horizontaal - naar links"-eps-converted-to.pdf "2_elem_re
 kenvaardigheden_B/inputs/Verschuiven - horizontaal - naar links".eps>
 (epstopdf)             \includegraphics on input line 45.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar links"-eps
--converted-to.pdf, id=490, 409.53pt x 274.02374pt>
+-converted-to.pdf, id=749, 522.95375pt x 161.60374pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar links
 "-eps-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar links"
 -eps-converted-to.pdf>
 Package pdftex.def Info: "2_elem_rekenvaardigheden_B/inputs/Verschuiven - horiz
 ontaal - naar links"-eps-converted-to.pdf  used on input line 45.
-(pdftex.def)             Requested size: 212.61937pt x 142.26378pt.
+(pdftex.def)             Requested size: 460.39223pt x 142.26378pt.
+
+Overfull \hbox (227.5943pt too wide) in paragraph at lines 45--46
+[][] 
+ []
+
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Verschu
 iven - horizontaal - naar rechts".eps>
 (epstopdf)                    date: 2017-08-15 13:03:18
@@ -1939,7 +2232,7 @@ ekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar rechts".eps>
 (epstopdf)             \includegraphics on input line 48.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar rechts"-ep
-s-converted-to.pdf, id=491, 409.53pt x 274.02374pt>
+s-converted-to.pdf, id=750, 409.53pt x 274.02374pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar recht
 s"-eps-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar rechts
@@ -1954,7 +2247,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 57.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[44 <./2_elem_rekenvaardigheden_B/inputs/Signum_function_svg.png>]
+[67 <./2_elem_rekenvaardigheden_B/inputs/Signum_function_svg.png>]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Verschu
 iven - verticaal - naar omlaag".eps>
 (epstopdf)                    date: 2017-08-15 13:03:18
@@ -1969,7 +2262,7 @@ envaardigheden_B/inputs/Verschuiven - verticaal - naar omlaag".eps>
 (epstopdf)             \includegraphics on input line 62.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal - naar omlaag"-eps-
-converted-to.pdf, id=498, 409.53pt x 274.02374pt>
+converted-to.pdf, id=757, 409.53pt x 274.02374pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal - naar omlaag"
 -eps-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal - naar omlaag"-
@@ -1991,7 +2284,7 @@ envaardigheden_B/inputs/Verschuiven - verticaal - naar omhoog".eps>
 (epstopdf)             \includegraphics on input line 65.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal - naar omhoog"-eps-
-converted-to.pdf, id=499, 409.53pt x 274.02374pt>
+converted-to.pdf, id=758, 409.53pt x 274.02374pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal - naar omhoog"
 -eps-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal - naar omhoog"-
@@ -2013,7 +2306,7 @@ envaardigheden_B/inputs/Herschalen - horizontaal - openrekken".eps>
 (epstopdf)             \includegraphics on input line 103.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - openrekken"-eps-
-converted-to.pdf, id=500, 409.53pt x 274.02374pt>
+converted-to.pdf, id=759, 409.53pt x 274.02374pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - openrekken"
 -eps-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - openrekken"-
@@ -2035,7 +2328,7 @@ nvaardigheden_B/inputs/Herschalen - horizontaal - inkrimpen".eps>
 (epstopdf)             \includegraphics on input line 106.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - inkrimpen"-eps-c
-onverted-to.pdf, id=501, 409.53pt x 274.02374pt>
+onverted-to.pdf, id=760, 409.53pt x 274.02374pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - inkrimpen"-
 eps-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - inkrimpen"-e
@@ -2056,7 +2349,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 119.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[45 <./2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar links
+[68 <./2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar links
 -eps-converted-to.pdf> <./2_elem_rekenvaardigheden_B/inputs/Verschuiven - horiz
 ontaal - naar rechts-eps-converted-to.pdf> <./2_elem_rekenvaardigheden_B/inputs
 /Verschuiven - verticaal - naar omlaag-eps-converted-to.pdf> <./2_elem_rekenvaa
@@ -2075,7 +2368,7 @@ aardigheden_B/inputs/Herschalen - verticaal - inkrimpen".eps>
 (epstopdf)             \includegraphics on input line 129.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - inkrimpen"-eps-con
-verted-to.pdf, id=520, 409.53pt x 274.02374pt>
+verted-to.pdf, id=798, 409.53pt x 274.02374pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - inkrimpen"-ep
 s-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - inkrimpen"-eps
@@ -2097,7 +2390,7 @@ vaardigheden_B/inputs/Herschalen - verticaal - openrekken".eps>
 (epstopdf)             \includegraphics on input line 132.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - openrekken"-eps-co
-nverted-to.pdf, id=521, 409.53pt x 274.02374pt>
+nverted-to.pdf, id=799, 409.53pt x 274.02374pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - openrekken"-e
 ps-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - openrekken"-ep
@@ -2111,7 +2404,7 @@ Overfull \hbox (2.61108pt too wide) in paragraph at lines 128--134
  []
 
 ) (2_elem_rekenvaardigheden_B/module_2_1_16.tex
-<2_elem_rekenvaardigheden_B/inputs/figuur10.png, id=522, 255.5949pt x 152.2488p
+<2_elem_rekenvaardigheden_B/inputs/figuur10.png, id=800, 255.5949pt x 152.2488p
 t>
 File: 2_elem_rekenvaardigheden_B/inputs/figuur10.png Graphic file (type png)
 <use 2_elem_rekenvaardigheden_B/inputs/figuur10.png>
@@ -2122,7 +2415,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 59.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [46 <./2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - openrekken
+ [69 <./2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - openrekken
 -eps-converted-to.pdf> <./2_elem_rekenvaardigheden_B/inputs/Herschalen - horizo
 ntaal - inkrimpen-eps-converted-to.pdf> <./2_elem_rekenvaardigheden_B/inputs/He
 rschalen - verticaal - inkrimpen-eps-converted-to.pdf> <./2_elem_rekenvaardighe
@@ -2132,7 +2425,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 114.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [47 <./2_elem_rekenvaardigheden_B/inputs/figuur10.png>]
+ [70 <./2_elem_rekenvaardigheden_B/inputs/figuur10.png>]
 Package epstopdf Info: Source file: <2_elem_rekenvaardigheden_B/inputs/Poolcoor
 dinaten_wikipedia.eps>
 (epstopdf)                    date: 2017-08-17 18:40:46
@@ -2147,7 +2440,7 @@ B/inputs/Poolcoordinaten_wikipedia.eps>
 (epstopdf)             \includegraphics on input line 131.
 Package epstopdf Info: Output file is already uptodate.
 <2_elem_rekenvaardigheden_B/inputs/Poolcoordinaten_wikipedia-eps-converted-to.p
-df, id=548, 220.825pt x 189.70876pt>
+df, id=826, 220.825pt x 189.70876pt>
 File: 2_elem_rekenvaardigheden_B/inputs/Poolcoordinaten_wikipedia-eps-converted
 -to.pdf Graphic file (type pdf)
 <use 2_elem_rekenvaardigheden_B/inputs/Poolcoordinaten_wikipedia-eps-converted-
@@ -2160,7 +2453,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 155.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [48 <./2_elem_rekenvaardigheden_B/inputs/Poolcoordinaten_wikipedia-eps-convert
+ [71 <./2_elem_rekenvaardigheden_B/inputs/Poolcoordinaten_wikipedia-eps-convert
 ed-to.pdf>]
 Overfull \hbox (35.25848pt too wide) in paragraph at lines 158--161
 \OT1/cmr/m/n/12 Soms is het han-dig of nood-za-ke-lijk om over te stap-pen van 
@@ -2172,7 +2465,7 @@ Overfull \hbox (61.32507pt too wide) in paragraph at lines 164--179
 [][] 
  []
 
-<2_elem_rekenvaardigheden_B/inputs/figuur9.png, id=558, 229.3368pt x 126.7134pt
+<2_elem_rekenvaardigheden_B/inputs/figuur9.png, id=835, 229.3368pt x 126.7134pt
 >
 File: 2_elem_rekenvaardigheden_B/inputs/figuur9.png Graphic file (type png)
 <use 2_elem_rekenvaardigheden_B/inputs/figuur9.png>
@@ -2184,14 +2477,14 @@ Overfull \hbox (14.27077pt too wide) in paragraph at lines 162--185
 []$[]$   $[]$ 
  []
 
-<2_elem_rekenvaardigheden_B/inputs/figuur11.png, id=559, 197.538pt x 132.0132pt
+<2_elem_rekenvaardigheden_B/inputs/figuur11.png, id=836, 197.538pt x 132.0132pt
 >
 File: 2_elem_rekenvaardigheden_B/inputs/figuur11.png Graphic file (type png)
 <use 2_elem_rekenvaardigheden_B/inputs/figuur11.png>
 Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/figuur11.png  used o
 n input line 225.
 (pdftex.def)             Requested size: 212.89476pt x 142.26378pt.
-<2_elem_rekenvaardigheden_B/inputs/figuur8.png, id=560, 349.0641pt x 259.4493pt
+<2_elem_rekenvaardigheden_B/inputs/figuur8.png, id=837, 349.0641pt x 259.4493pt
 >
 File: 2_elem_rekenvaardigheden_B/inputs/figuur8.png Graphic file (type png)
 <use 2_elem_rekenvaardigheden_B/inputs/figuur8.png>
@@ -2203,9 +2496,9 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 266.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[49 <./2_elem_rekenvaardigheden_B/inputs/figuur9.png> <./2_elem_rekenvaardighed
+[72 <./2_elem_rekenvaardigheden_B/inputs/figuur9.png> <./2_elem_rekenvaardighed
 en_B/inputs/figuur11.png>]
-<2_elem_rekenvaardigheden_B/inputs/figuur7.png, id=567, 185.9748pt x 201.6333pt
+<2_elem_rekenvaardigheden_B/inputs/figuur7.png, id=845, 185.9748pt x 201.6333pt
 >
 File: 2_elem_rekenvaardigheden_B/inputs/figuur7.png Graphic file (type png)
 <use 2_elem_rekenvaardigheden_B/inputs/figuur7.png>
@@ -2218,14 +2511,14 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 30.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
 
-[50 <./2_elem_rekenvaardigheden_B/inputs/figuur8.png> <./2_elem_rekenvaardighed
+[73 <./2_elem_rekenvaardigheden_B/inputs/figuur8.png> <./2_elem_rekenvaardighed
 en_B/inputs/figuur7.png>]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 124.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [51]
+ [74]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Het Lim
 ietbegrip".eps>
 (epstopdf)                    date: 2017-05-17 16:29:04
@@ -2240,7 +2533,7 @@ ts/Het Limietbegrip".eps>
 (epstopdf)             \includegraphics on input line 143.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip"-eps-converted-to.pdf, id=
-579, 357.335pt x 414.54875pt>
+857, 357.335pt x 414.54875pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip"-eps-converted-to.pdf
  Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip"-eps-converted-to.pdf>
@@ -2262,7 +2555,7 @@ gheden_B/inputs/Het Limietbegrip - voorbeeld1".eps>
 (epstopdf)             \includegraphics on input line 155.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip - voorbeeld1"-eps-converte
-d-to.pdf, id=580, 555.07375pt x 412.54124pt>
+d-to.pdf, id=858, 555.07375pt x 412.54124pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip - voorbeeld1"-eps-con
 verted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip - voorbeeld1"-eps-conv
@@ -2275,7 +2568,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 172.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [52 <./2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip-eps-converted-to.pdf
+ [75 <./2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip-eps-converted-to.pdf
 > <./2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip - voorbeeld1-eps-conver
 ted-to.pdf>]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Het Lim
@@ -2292,7 +2585,7 @@ gheden_B/inputs/Het Limietbegrip - voorbeeld2".eps>
 (epstopdf)             \includegraphics on input line 181.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip - voorbeeld2"-eps-converte
-d-to.pdf, id=593, 564.1075pt x 419.5675pt>
+d-to.pdf, id=871, 564.1075pt x 419.5675pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip - voorbeeld2"-eps-con
 verted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip - voorbeeld2"-eps-conv
@@ -2305,7 +2598,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 236.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [53 <./2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip - voorbeeld2-eps-con
+ [76 <./2_elem_rekenvaardigheden_B/inputs/Het Limietbegrip - voorbeeld2-eps-con
 verted-to.pdf>]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Continu
  - vb1".eps>
@@ -2320,7 +2613,7 @@ Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Continu
 Continu - vb1".eps>
 (epstopdf)             \includegraphics on input line 276.
 Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/Continu - vb1"-eps-converted-to.pdf, id=603
+<"2_elem_rekenvaardigheden_B/inputs/Continu - vb1"-eps-converted-to.pdf, id=881
 , 447.6725pt x 399.4925pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Continu - vb1"-eps-converted-to.pdf Gr
 aphic file (type pdf)
@@ -2341,7 +2634,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 292.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[54 <./2_elem_rekenvaardigheden_B/inputs/Continu - vb1-eps-converted-to.pdf>]
+[77 <./2_elem_rekenvaardigheden_B/inputs/Continu - vb1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Continu
  - vb2".eps>
 (epstopdf)                    date: 2017-05-02 12:05:12
@@ -2355,7 +2648,7 @@ Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Continu
 Continu - vb2".eps>
 (epstopdf)             \includegraphics on input line 306.
 Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/Continu - vb2"-eps-converted-to.pdf, id=613
+<"2_elem_rekenvaardigheden_B/inputs/Continu - vb2"-eps-converted-to.pdf, id=890
 , 490.83376pt x 370.38374pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Continu - vb2"-eps-converted-to.pdf Gr
 aphic file (type pdf)
@@ -2376,7 +2669,7 @@ Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Continu
 Continu - vb3".eps>
 (epstopdf)             \includegraphics on input line 339.
 Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/Continu - vb3"-eps-converted-to.pdf, id=614
+<"2_elem_rekenvaardigheden_B/inputs/Continu - vb3"-eps-converted-to.pdf, id=891
 , 478.78876pt x 404.51125pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Continu - vb3"-eps-converted-to.pdf Gr
 aphic file (type pdf)
@@ -2397,7 +2690,7 @@ Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Continu
 Continu - vb4".eps>
 (epstopdf)             \includegraphics on input line 372.
 Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/Continu - vb4"-eps-converted-to.pdf, id=615
+<"2_elem_rekenvaardigheden_B/inputs/Continu - vb4"-eps-converted-to.pdf, id=892
 , 570.13pt x 414.54875pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Continu - vb4"-eps-converted-to.pdf Gr
 aphic file (type pdf)
@@ -2411,7 +2704,7 @@ Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 373.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
 
-[55 <./2_elem_rekenvaardigheden_B/inputs/Continu - vb2-eps-converted-to.pdf> <.
+[78 <./2_elem_rekenvaardigheden_B/inputs/Continu - vb2-eps-converted-to.pdf> <.
 /2_elem_rekenvaardigheden_B/inputs/Continu - vb3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Continu
  - vb5".eps>
@@ -2426,7 +2719,7 @@ Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Continu
 Continu - vb5".eps>
 (epstopdf)             \includegraphics on input line 431.
 Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/Continu - vb5"-eps-converted-to.pdf, id=628
+<"2_elem_rekenvaardigheden_B/inputs/Continu - vb5"-eps-converted-to.pdf, id=906
 , 401.5pt x 345.29pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Continu - vb5"-eps-converted-to.pdf Gr
 aphic file (type pdf)
@@ -2440,7 +2733,7 @@ Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 483.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
 
-[56 <./2_elem_rekenvaardigheden_B/inputs/Continu - vb4-eps-converted-to.pdf> <.
+[79 <./2_elem_rekenvaardigheden_B/inputs/Continu - vb4-eps-converted-to.pdf> <.
 /2_elem_rekenvaardigheden_B/inputs/Continu - vb5-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Asympto
 ot - horizontaal".eps>
@@ -2456,7 +2749,7 @@ _B/inputs/Asymptoot - horizontaal".eps>
 (epstopdf)             \includegraphics on input line 501.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Asymptoot - horizontaal"-eps-converted-to.p
-df, id=641, 574.145pt x 410.53375pt>
+df, id=919, 574.145pt x 410.53375pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Asymptoot - horizontaal"-eps-converted
 -to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Asymptoot - horizontaal"-eps-converted-
@@ -2470,7 +2763,7 @@ Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 542.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
 
-[57 <./2_elem_rekenvaardigheden_B/inputs/Asymptoot - horizontaal-eps-converted-
+[80 <./2_elem_rekenvaardigheden_B/inputs/Asymptoot - horizontaal-eps-converted-
 to.pdf>]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Asympto
 ot - oneindig".eps>
@@ -2486,7 +2779,7 @@ inputs/Asymptoot - oneindig".eps>
 (epstopdf)             \includegraphics on input line 559.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Asymptoot - oneindig"-eps-converted-to.pdf,
- id=650, 576.1525pt x 368.37625pt>
+ id=928, 576.1525pt x 368.37625pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Asymptoot - oneindig"-eps-converted-to
 .pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Asymptoot - oneindig"-eps-converted-to.
@@ -2522,7 +2815,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 607.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[58 <./2_elem_rekenvaardigheden_B/inputs/Asymptoot - oneindig-eps-converted-to.
+[81 <./2_elem_rekenvaardigheden_B/inputs/Asymptoot - oneindig-eps-converted-to.
 pdf>]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Asympto
 ot - verticaal".eps>
@@ -2538,7 +2831,7 @@ ot - verticaal"-eps-converted-to.pdf>
 (epstopdf)             \includegraphics on input line 661.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Asymptoot - verticaal"-eps-converted-to.pdf
-, id=659, 643.40375pt x 586.19pt>
+, id=937, 643.40375pt x 586.19pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Asymptoot - verticaal"-eps-converted-t
 o.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Asymptoot - verticaal"-eps-converted-to
@@ -2555,13 +2848,13 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 668.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[59]
+[82]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 713.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [60 <./2_elem_rekenvaardigheden_B/inputs/Asymptoot - verticaal-eps-converted-t
+ [83 <./2_elem_rekenvaardigheden_B/inputs/Asymptoot - verticaal-eps-converted-t
 o.pdf>]
 Overfull \hbox (15.95349pt too wide) in paragraph at lines 782--802
 [][] 
@@ -2572,13 +2865,13 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 804.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[61]
+[84]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 859.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [62]
+ [85]
 Overfull \hbox (59.6602pt too wide) in paragraph at lines 865--866
 []$[] [] \OT1/cmr/m/n/12 = []\OML/cmm/m/it/12 a[]x[] [] \OT1/cmr/m/n/12 = []\OM
 L/cmm/m/it/12 a[]x[]\OT1/cmr/m/n/12 (1 +
@@ -2589,7 +2882,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 941.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[63]
+[86]
 Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/exponen
 tiele functie - a groter dan 1".eps>
 (epstopdf)                    date: 2017-05-17 16:29:08
@@ -2604,7 +2897,7 @@ envaardigheden_B/inputs/exponentiele functie - a groter dan 1".eps>
 (epstopdf)             \includegraphics on input line 1002.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/exponentiele functie - a groter dan 1"-eps-
-converted-to.pdf, id=688, 576.1525pt x 368.37625pt>
+converted-to.pdf, id=966, 576.1525pt x 368.37625pt>
 File: "2_elem_rekenvaardigheden_B/inputs/exponentiele functie - a groter dan 1"
 -eps-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/exponentiele functie - a groter dan 1"-
@@ -2626,7 +2919,7 @@ kenvaardigheden_B/inputs/exponentiele functie - a kleiner dan 1".eps>
 (epstopdf)             \includegraphics on input line 1002.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/exponentiele functie - a kleiner dan 1"-eps
--converted-to.pdf, id=689, 576.1525pt x 370.38374pt>
+-converted-to.pdf, id=967, 576.1525pt x 370.38374pt>
 File: "2_elem_rekenvaardigheden_B/inputs/exponentiele functie - a kleiner dan 1
 "-eps-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/exponentiele functie - a kleiner dan 1"
@@ -2648,7 +2941,7 @@ kenvaardigheden_B/inputs/Logaritmische functie - a groter dan 1".eps>
 (epstopdf)             \includegraphics on input line 1025.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Logaritmische functie - a groter dan 1"-eps
--converted-to.pdf, id=690, 454.69875pt x 407.5225pt>
+-converted-to.pdf, id=968, 454.69875pt x 407.5225pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Logaritmische functie - a groter dan 1
 "-eps-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Logaritmische functie - a groter dan 1"
@@ -2670,7 +2963,7 @@ ekenvaardigheden_B/inputs/Logaritmische functie - a kleiner dan 1".eps>
 (epstopdf)             \includegraphics on input line 1025.
 Package epstopdf Info: Output file is already uptodate.
 <"2_elem_rekenvaardigheden_B/inputs/Logaritmische functie - a kleiner dan 1"-ep
-s-converted-to.pdf, id=691, 448.67625pt x 419.5675pt>
+s-converted-to.pdf, id=969, 448.67625pt x 419.5675pt>
 File: "2_elem_rekenvaardigheden_B/inputs/Logaritmische functie - a kleiner dan 
 1"-eps-converted-to.pdf Graphic file (type pdf)
 <use "2_elem_rekenvaardigheden_B/inputs/Logaritmische functie - a kleiner dan 1
@@ -2683,7 +2976,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1042
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [64 <./2_elem_rekenvaardigheden_B/inputs/exponentiele functie - a groter dan 1
+ [87 <./2_elem_rekenvaardigheden_B/inputs/exponentiele functie - a groter dan 1
 -eps-converted-to.pdf> <./2_elem_rekenvaardigheden_B/inputs/exponentiele functi
 e - a kleiner dan 1-eps-converted-to.pdf>]
 File: inputs/logo-innovationlab.png Graphic file (type png)
@@ -2691,7 +2984,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1082
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [65 <./2_elem_rekenvaardigheden_B/inputs/Logaritmische functie - a groter dan 
+ [88 <./2_elem_rekenvaardigheden_B/inputs/Logaritmische functie - a groter dan 
 1-eps-converted-to.pdf> <./2_elem_rekenvaardigheden_B/inputs/Logaritmische func
 tie - a kleiner dan 1-eps-converted-to.pdf>]
 File: inputs/logo-innovationlab.png Graphic file (type png)
@@ -2699,7 +2992,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1172
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [66]
+ [89]
 Overfull \hbox (188.0605pt too wide) in paragraph at lines 1178--1181
 []\OT1/cmr/m/n/12 We ma-ken te-rug on-der-scheid tus-sen de li-miet gaande naar
  $+\OMS/cmsy/m/n/12 1$ \OT1/cmr/m/n/12 en $\OMS/cmsy/m/n/12  1$\OT1/cmr/m/n/12 
@@ -2711,13 +3004,13 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1239
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[67]
+[90]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1296
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [68]
+ [91]
 Overfull \hbox (24.43994pt too wide) in paragraph at lines 1308--1312
 []$[]$ 
  []
@@ -2739,12 +3032,12 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1347
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[69])) (3_gonio_complexe_getallen/module_3.tex
+[92])) (3_gonio_complexe_getallen/module_3.tex
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [70]
+ [93]
 Hoofdstuk .
 (3_gonio_complexe_getallen/module_3_2.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--8
@@ -2760,15 +3053,15 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 26.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[71
+[94
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 38--41
 
  []
 
-<3_gonio_complexe_getallen/inputs/complex-getal-1.jpg, id=741, 523.9575pt x 352
-.31625pt>
+<3_gonio_complexe_getallen/inputs/complex-getal-1.jpg, id=1019, 523.9575pt x 35
+2.31625pt>
 File: 3_gonio_complexe_getallen/inputs/complex-getal-1.jpg Graphic file (type j
 pg)
 <use 3_gonio_complexe_getallen/inputs/complex-getal-1.jpg>
@@ -2789,13 +3082,13 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 55.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[72 <./3_gonio_complexe_getallen/inputs/complex-getal-1.jpg>]
+[95 <./3_gonio_complexe_getallen/inputs/complex-getal-1.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-<3_gonio_complexe_getallen/inputs/complex-getal-2.jpg, id=748, 496.85625pt x 35
-4.57469pt>
+<3_gonio_complexe_getallen/inputs/complex-getal-2.jpg, id=1025, 496.85625pt x 3
+54.57469pt>
 File: 3_gonio_complexe_getallen/inputs/complex-getal-2.jpg Graphic file (type j
 pg)
 <use 3_gonio_complexe_getallen/inputs/complex-getal-2.jpg>
@@ -2826,9 +3119,9 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 89.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[73 <./3_gonio_complexe_getallen/inputs/complex-getal-2.jpg>]
-<3_gonio_complexe_getallen/inputs/complex-getal-3-optelling.jpg, id=754, 487.82
-25pt x 347.04657pt>
+[96 <./3_gonio_complexe_getallen/inputs/complex-getal-2.jpg>]
+<3_gonio_complexe_getallen/inputs/complex-getal-3-optelling.jpg, id=1032, 487.8
+225pt x 347.04657pt>
 File: 3_gonio_complexe_getallen/inputs/complex-getal-3-optelling.jpg Graphic fi
 le (type jpg)
 <use 3_gonio_complexe_getallen/inputs/complex-getal-3-optelling.jpg>
@@ -2845,9 +3138,9 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 112.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[74 <./3_gonio_complexe_getallen/inputs/complex-getal-3-optelling.jpg>]
-<3_gonio_complexe_getallen/inputs/complex-getal-4-complex-toegevoegde.jpg, id=7
-60, 502.87875pt x 553.31718pt>
+[97 <./3_gonio_complexe_getallen/inputs/complex-getal-3-optelling.jpg>]
+<3_gonio_complexe_getallen/inputs/complex-getal-4-complex-toegevoegde.jpg, id=1
+038, 502.87875pt x 553.31718pt>
 File: 3_gonio_complexe_getallen/inputs/complex-getal-4-complex-toegevoegde.jpg 
 Graphic file (type jpg)
 <use 3_gonio_complexe_getallen/inputs/complex-getal-4-complex-toegevoegde.jpg>
@@ -2869,7 +3162,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 142.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[75 <./3_gonio_complexe_getallen/inputs/complex-getal-4-complex-toegevoegde.jpg
+[98 <./3_gonio_complexe_getallen/inputs/complex-getal-4-complex-toegevoegde.jpg
 >]
 Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
@@ -2880,8 +3173,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--160
 
  []
 
-<3_gonio_complexe_getallen/inputs/complex-getal-5-goniometrisch.jpg, id=766, 52
-0.94624pt x 356.0803pt>
+<3_gonio_complexe_getallen/inputs/complex-getal-5-goniometrisch.jpg, id=1044, 5
+20.94624pt x 356.0803pt>
 File: 3_gonio_complexe_getallen/inputs/complex-getal-5-goniometrisch.jpg Graphi
 c file (type jpg)
 <use 3_gonio_complexe_getallen/inputs/complex-getal-5-goniometrisch.jpg>
@@ -2896,7 +3189,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 182.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[76]
+[99]
 Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
@@ -2916,13 +3209,13 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 206.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[77 <./3_gonio_complexe_getallen/inputs/complex-getal-5-goniometrisch.jpg>]
+[100 <./3_gonio_complexe_getallen/inputs/complex-getal-5-goniometrisch.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
 
-<3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld1.jpg, id=776, 469.002
-18pt x 335.00156pt>
+<3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld1.jpg, id=1054, 469.00
+218pt x 335.00156pt>
 File: 3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld1.jpg Graphic fil
 e (type jpg)
 <use 3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld1.jpg>
@@ -2934,8 +3227,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--215
 
  []
 
-<3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld2.jpg, id=777, 475.024
-69pt x 344.03531pt>
+<3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld2.jpg, id=1055, 475.02
+469pt x 344.03531pt>
 File: 3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld2.jpg Graphic fil
 e (type jpg)
 <use 3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld2.jpg>
@@ -2950,8 +3243,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--230
 
  []
 
-<3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld3.jpg, id=778, 495.350
-63pt x 344.78813pt>
+<3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld3.jpg, id=1056, 495.35
+063pt x 344.78813pt>
 File: 3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld3.jpg Graphic fil
 e (type jpg)
 <use 3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld3.jpg>
@@ -2971,7 +3264,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 246.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[78 <./3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld1.jpg>]
+[101 <./3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld1.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 259--261
 
  []
@@ -2981,8 +3274,8 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 262.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[79 <./3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld2.jpg> <./3_goni
-o_complexe_getallen/inputs/complex-getal-voorbeeld3.jpg>]
+[102 <./3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld2.jpg> <./3_gon
+io_complexe_getallen/inputs/complex-getal-voorbeeld3.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 266--267
 
  []
@@ -3017,8 +3310,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 295--296
 
  []
 
-<3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld4.jpg, id=794, 481.047
-18pt x 338.76563pt>
+<3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld4.jpg, id=1072, 481.04
+718pt x 338.76563pt>
 File: 3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld4.jpg Graphic fil
 e (type jpg)
 <use 3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld4.jpg>
@@ -3038,7 +3331,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 311.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[80]
+[103]
 Underfull \hbox (badness 10000) in paragraph at lines 317--318
 
  []
@@ -3068,9 +3361,9 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 337.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[81 <./3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld4.jpg>]
-<3_gonio_complexe_getallen/inputs/complex-getal-6-optelling-exp.jpg, id=807, 49
-5.35063pt x 346.29375pt>
+[104 <./3_gonio_complexe_getallen/inputs/complex-getal-voorbeeld4.jpg>]
+<3_gonio_complexe_getallen/inputs/complex-getal-6-optelling-exp.jpg, id=1085, 4
+95.35063pt x 346.29375pt>
 File: 3_gonio_complexe_getallen/inputs/complex-getal-6-optelling-exp.jpg Graphi
 c file (type jpg)
 <use 3_gonio_complexe_getallen/inputs/complex-getal-6-optelling-exp.jpg>
@@ -3102,7 +3395,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 363.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[82 <./3_gonio_complexe_getallen/inputs/complex-getal-6-optelling-exp.jpg>]
+[105 <./3_gonio_complexe_getallen/inputs/complex-getal-6-optelling-exp.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
  []
@@ -3132,8 +3425,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 391--392
 
  []
 
-<3_gonio_complexe_getallen/inputs/product-grafisch.jpg, id=813, 529.22719pt x 3
-89.20406pt>
+<3_gonio_complexe_getallen/inputs/product-grafisch.jpg, id=1091, 529.22719pt x 
+389.20406pt>
 File: 3_gonio_complexe_getallen/inputs/product-grafisch.jpg Graphic file (type 
 jpg)
 <use 3_gonio_complexe_getallen/inputs/product-grafisch.jpg>
@@ -3145,7 +3438,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 404.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[83]
+[106]
 Underfull \hbox (badness 10000) in paragraph at lines 406--407
 
  []
@@ -3175,7 +3468,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 425.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[84 <./3_gonio_complexe_getallen/inputs/product-grafisch.jpg>]
+[107 <./3_gonio_complexe_getallen/inputs/product-grafisch.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 440--441
 
  []
@@ -3200,7 +3493,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 468.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[85]
+[108]
 Underfull \hbox (badness 10000) in paragraph at lines 470--471
 
  []
@@ -3235,7 +3528,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 527.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[86]
+[109]
 Underfull \hbox (badness 10000) in paragraph at lines 530--531
 
  []
@@ -3250,8 +3543,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 542--543
 
  []
 
-<3_gonio_complexe_getallen/inputs/derdemachtswortels-voorbeeld.jpg, id=833, 548
-.80031pt x 431.36156pt>
+<3_gonio_complexe_getallen/inputs/derdemachtswortels-voorbeeld.jpg, id=1111, 54
+8.80031pt x 431.36156pt>
 File: 3_gonio_complexe_getallen/inputs/derdemachtswortels-voorbeeld.jpg Graphic
  file (type jpg)
 <use 3_gonio_complexe_getallen/inputs/derdemachtswortels-voorbeeld.jpg>
@@ -3278,7 +3571,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 569.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[87]
+[110]
 Underfull \hbox (badness 10000) in paragraph at lines 569--570
 
  []
@@ -3308,7 +3601,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 580.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[88 <./3_gonio_complexe_getallen/inputs/derdemachtswortels-voorbeeld.jpg>]
+[111 <./3_gonio_complexe_getallen/inputs/derdemachtswortels-voorbeeld.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 581--582
 
  []
@@ -3323,25 +3616,25 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [89]
+ [112]
 Hoofdstuk .
 (4_opp_inhoud_an_meetk/module_4_2.tex (4_opp_inhoud_an_meetk/module_4_2_1.tex
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig1.png, id=848, 524.71031pt x 121.95563
-pt>
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig1.png, id=1126, 524.71031pt x 121.9556
+3pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig1.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig1.png  used on
  input line 12.
 (pdftex.def)             Requested size: 244.83644pt x 56.9055pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig2.png, id=849, 385.56046pt x 24.93315p
-t>
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig2.png, id=1127, 385.56046pt x 24.93315
+pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig2.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig2.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig2.png  used on
  input line 23.
 (pdftex.def)             Requested size: 308.00754pt x 19.91692pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3.png, id=850, 526.96875pt x 132.495pt
->
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3.png, id=1128, 526.96875pt x 132.495p
+t>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3.png  used on
@@ -3355,12 +3648,12 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 49.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[90
+[113
 
  <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig1.png> <./4_opp_inhoud_an_meetk/inp
 uts/AMTekst1Fig2.png (PNG copy)>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png, id=861, 451.6875pt x 340.27126p
-t>
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png, id=1138, 451.6875pt x 340.27126
+pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png  used on
@@ -3370,8 +3663,8 @@ Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png  used on
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig8.png, id=862, 647.41875pt x 459.96844
-pt>
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig8.png, id=1139, 647.41875pt x 459.9684
+4pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig8.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig8.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig8.png  used on
@@ -3380,8 +3673,8 @@ Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig8.png  used on
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png, id=863, 638.385pt x 234.8775pt>
-
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png, id=1140, 638.385pt x 234.8775pt
+>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png  used on
@@ -3392,16 +3685,16 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 128.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[91 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig10.png, id=872, 609.77812pt x 203.2593
-7pt>
+[114 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig10.png, id=1150, 609.77812pt x 203.259
+37pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig10.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig10.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig10.png  used o
 n input line 140.
 (pdftex.def)             Requested size: 256.06784pt x 85.35826pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig11.png, id=873, 618.05907pt x 162.6075
-pt>
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig11.png, id=1151, 618.05907pt x 162.607
+5pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig11.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig11.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig11.png  used o
@@ -3416,17 +3709,17 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 163.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[92 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png> <./4_opp_inhoud_an_meetk/
-inputs/AMTekst1Fig8.png>]) (4_opp_inhoud_an_meetk/module_4_2_3.tex
-<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig1.png, id=881, 526.96875pt x 332.74312
-pt>
+[115 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png> <./4_opp_inhoud_an_meetk
+/inputs/AMTekst1Fig8.png>]) (4_opp_inhoud_an_meetk/module_4_2_3.tex
+<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig1.png, id=1159, 526.96875pt x 332.7431
+2pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig1.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig1.png  used on
  input line 12.
 (pdftex.def)             Requested size: 485.0pt x 306.25938pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig2.png, id=883, 451.6875pt x 278.54062p
-t>
+<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig2.png, id=1161, 451.6875pt x 278.54062
+pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig2.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig2.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig2.png  used on
@@ -3436,40 +3729,40 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 44.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [93 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png> <./4_opp_inhoud_an_meetk
-/inputs/AMTekst1Fig10.png>]
+ [116 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png> <./4_opp_inhoud_an_meet
+k/inputs/AMTekst1Fig10.png>]
 
-LaTeX Warning: Text page 94 contains only floats.
+LaTeX Warning: Text page 117 contains only floats.
 
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 44.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[94 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig11.png> <./4_opp_inhoud_an_meetk
-/inputs/AMTekst2Fig1.png> <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig2.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig3.png, id=903, 451.6875pt x 301.8778pt
->
+[117 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig11.png> <./4_opp_inhoud_an_meet
+k/inputs/AMTekst2Fig1.png> <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig2.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig3.png, id=1181, 451.6875pt x 301.8778p
+t>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig3.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig3.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig3.png  used on
  input line 65.
 (pdftex.def)             Requested size: 212.8583pt x 142.26378pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png, id=905, 576.65437pt x 384.6872p
-t>
+<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png, id=1183, 576.65437pt x 384.6872
+pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png  used on
  input line 75.
 (pdftex.def)             Requested size: 339.49852pt x 226.488pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig5.png, id=907, 166.37157pt x 205.5178p
-t>
+<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig5.png, id=1185, 166.37157pt x 205.5178
+pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig5.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig5.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig5.png  used on
  input line 91.
 (pdftex.def)             Requested size: 116.39896pt x 143.78935pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png, id=908, 451.6875pt x 304.13625p
-t>
+<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png, id=1186, 451.6875pt x 304.13625
+pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png  used on
@@ -3481,9 +3774,9 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 11.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [95 <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig3.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png, id=918, 451.6875pt x 296.60812p
-t>
+ [118 <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig3.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png, id=1196, 451.6875pt x 296.60812
+pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png  used on
@@ -3493,17 +3786,17 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 28.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [96 <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png> <./4_opp_inhoud_an_meetk
-/inputs/AMTekst2Fig5.png> <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig2.png, id=929, 582.67688pt x 384.6872p
-t>
+ [119 <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png> <./4_opp_inhoud_an_meet
+k/inputs/AMTekst2Fig5.png> <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig2.png, id=1206, 582.67688pt x 384.6872
+pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig2.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig2.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig2.png  used on
  input line 46.
 (pdftex.def)             Requested size: 339.49852pt x 224.14595pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig3.png, id=931, 578.91281pt x 383.93437
-pt>
+<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig3.png, id=1208, 578.91281pt x 383.9343
+7pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig3.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig3.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig3.png  used on
@@ -3513,16 +3806,16 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 67.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [97 <./4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png, id=940, 451.6875pt x 304.13625p
-t>
+ [120 <./4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png, id=1218, 451.6875pt x 304.13625
+pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png  used on
  input line 72.
 (pdftex.def)             Requested size: 339.49852pt x 228.60745pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig5.png, id=942, 451.6875pt x 359.84438p
-t>
+<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig5.png, id=1220, 451.6875pt x 359.84438
+pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig5.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig5.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig5.png  used on
@@ -3540,18 +3833,18 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 97.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[98 <./4_opp_inhoud_an_meetk/inputs/AMTekst3Fig2.png> <./4_opp_inhoud_an_meetk/
-inputs/AMTekst3Fig3.png>]
+[121 <./4_opp_inhoud_an_meetk/inputs/AMTekst3Fig2.png> <./4_opp_inhoud_an_meetk
+/inputs/AMTekst3Fig3.png>]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 104.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [99 <./4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png> <./4_opp_inhoud_an_meetk
-/inputs/AMTekst3Fig5.png>])
+ [122 <./4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png> <./4_opp_inhoud_an_meet
+k/inputs/AMTekst3Fig5.png>])
 (4_opp_inhoud_an_meetk/module_4_2_6.tex
-<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png, id=957, 602.25pt x 231.86626pt>
-
+<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png, id=1235, 602.25pt x 231.86626pt
+>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png  used on
@@ -3561,9 +3854,9 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 34.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [100 <./4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png>]
-<4_opp_inhoud_an_meetk/inputs/AMtekst4Fig2.png, id=964, 356.0803pt x 103.88812p
-t>
+ [123 <./4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png>]
+<4_opp_inhoud_an_meetk/inputs/AMtekst4Fig2.png, id=1242, 356.0803pt x 103.88812
+pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMtekst4Fig2.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMtekst4Fig2.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMtekst4Fig2.png  used on
@@ -3574,8 +3867,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--61
 
  []
 
-<4_opp_inhoud_an_meetk/inputs/AMtekst4Fig3.png, id=965, 602.25pt x 322.20375pt>
-
+<4_opp_inhoud_an_meetk/inputs/AMtekst4Fig3.png, id=1243, 602.25pt x 322.20375pt
+>
 File: 4_opp_inhoud_an_meetk/inputs/AMtekst4Fig3.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMtekst4Fig3.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMtekst4Fig3.png  used on
@@ -3585,7 +3878,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 78.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[101 <./4_opp_inhoud_an_meetk/inputs/AMtekst4Fig2.png>]
+[124 <./4_opp_inhoud_an_meetk/inputs/AMtekst4Fig2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 85--91
 
  []
@@ -3595,9 +3888,9 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 117.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[102 <./4_opp_inhoud_an_meetk/inputs/AMtekst4Fig3.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig4.png, id=980, 602.25pt x 371.88937pt>
-
+[125 <./4_opp_inhoud_an_meetk/inputs/AMtekst4Fig3.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig4.png, id=1257, 602.25pt x 371.88937pt
+>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig4.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig4.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig4.png  used on
@@ -3618,9 +3911,9 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 162.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[103 <./4_opp_inhoud_an_meetk/inputs/AMTekst4Fig4.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png, id=988, 525.46312pt x 372.64218
-pt>
+[126 <./4_opp_inhoud_an_meetk/inputs/AMTekst4Fig4.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png, id=1266, 525.46312pt x 372.6421
+8pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png  used on
@@ -3636,9 +3929,9 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 9.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [104 <./4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png, id=996, 334.24875pt x 322.20375
-pt>
+ [127 <./4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png, id=1274, 334.24875pt x 322.2037
+5pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png  used on
@@ -3649,8 +3942,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-<4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png, id=998, 385.44pt x 357.58594pt>
-
+<4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png, id=1276, 385.44pt x 357.58594pt
+>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png  used on
@@ -3660,8 +3953,8 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 56.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[105 <./4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png, id=1007, 462.97969pt x 458.4628
+[128 <./4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png, id=1285, 462.97969pt x 458.4628
 1pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png>
@@ -3672,7 +3965,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 94.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [106 <./4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png>]
+ [129 <./4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 94--96
 
  []
@@ -3687,7 +3980,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 123.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[107 <./4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png>]
+[130 <./4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 129--132
 
  []
@@ -3702,7 +3995,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 20.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [108] (4_opp_inhoud_an_meetk/module_4_2_14.tex
+ [131] (4_opp_inhoud_an_meetk/module_4_2_14.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
@@ -3721,12 +4014,12 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 43.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[109]
+[132]
 Underfull \hbox (badness 10000) in paragraph at lines 47--49
 
  []
 
-<4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png, id=1030, 537.50812pt x 368.8781
+<4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png, id=1307, 537.50812pt x 368.8781
 3pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png>
@@ -3742,8 +4035,8 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 80.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[110 <./4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst6Fig2.png, id=1038, 336.50719pt x 202.5065
+[133 <./4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst6Fig2.png, id=1315, 336.50719pt x 202.5065
 6pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig2.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig2.png>
@@ -3760,9 +4053,9 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 115.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[111 <./4_opp_inhoud_an_meetk/inputs/AMTekst6Fig2.png>])
+[134 <./4_opp_inhoud_an_meetk/inputs/AMTekst6Fig2.png>])
 (4_opp_inhoud_an_meetk/module_4_2_15.tex
-<4_opp_inhoud_an_meetk/inputs/AMTekst7Fig1.png, id=1045, 268.75406pt x 147.5512
+<4_opp_inhoud_an_meetk/inputs/AMTekst7Fig1.png, id=1322, 268.75406pt x 147.5512
 5pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig1.png>
@@ -3778,8 +4071,8 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 35.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[112 <./4_opp_inhoud_an_meetk/inputs/AMTekst7Fig1.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst7Fig2.png, id=1054, 453.19313pt x 371.1365
+[135 <./4_opp_inhoud_an_meetk/inputs/AMTekst7Fig1.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst7Fig2.png, id=1331, 453.19313pt x 371.1365
 7pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig2.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig2.png>
@@ -3791,12 +4084,12 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 120.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [113 <./4_opp_inhoud_an_meetk/inputs/AMTekst7Fig2.png>]
+ [136 <./4_opp_inhoud_an_meetk/inputs/AMTekst7Fig2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
-<4_opp_inhoud_an_meetk/inputs/AMTekst7Fig3.png, id=1065, 293.59688pt x 195.7312
+<4_opp_inhoud_an_meetk/inputs/AMTekst7Fig3.png, id=1342, 293.59688pt x 195.7312
 5pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig3.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig3.png>
@@ -3816,19 +4109,19 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 177.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[114]
+[137]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 216.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [115 <./4_opp_inhoud_an_meetk/inputs/AMTekst7Fig3.png>])))
+ [138 <./4_opp_inhoud_an_meetk/inputs/AMTekst7Fig3.png>])))
 (5_vglen_ongelijkheden_stelsels_matrices/module_5.tex
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [116]
+ [139]
 Hoofdstuk .
 (5_vglen_ongelijkheden_stelsels_matrices/module_5_1.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -3839,7 +4132,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 26.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[117
+[140
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 29--30
@@ -3850,7 +4143,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 35.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[118]
+[141]
 Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
@@ -3874,7 +4167,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 75.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[119]
+[142]
 Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
@@ -3884,25 +4177,25 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 120.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[120]
+[143]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 169.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [121]
+ [144]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 172.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [122]
+ [145]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 214.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [123]
+ [146]
 Underfull \hbox (badness 10000) in paragraph at lines 220--223
 
  []
@@ -3917,7 +4210,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 241.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[124]
+[147]
 Underfull \hbox (badness 10000) in paragraph at lines 274--275
 
  []
@@ -3932,13 +4225,13 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 281.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[125]
+[148]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 325.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [126]
+ [149]
 Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
  []
@@ -3953,13 +4246,13 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 372.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[127]
+[150]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 374.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [128]
+ [151]
 Overfull \hbox (3.15974pt too wide) in paragraph at lines 397--398
 \OT1/cmr/m/n/12 Sommige ho-ge-re-graads-ver-ge-lij-kin-gen kun-nen op-ge-lost w
 or-den door een slimme sub-sti-tu-tie. Neem
@@ -3970,7 +4263,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 415.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[129]
+[152]
 Underfull \hbox (badness 10000) in paragraph at lines 437--438
 
  []
@@ -3990,13 +4283,13 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 469.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[130]
+[153]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 471.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [131]
+ [154]
 Underfull \hbox (badness 10000) in paragraph at lines 482--483
 
  []
@@ -4021,13 +4314,13 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 515.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[132]
+[155]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 572.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [133]
+ [156]
 Underfull \hbox (badness 10000) in paragraph at lines 625--626
 
  []
@@ -4042,7 +4335,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 634.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[134]
+[157]
 Underfull \hbox (badness 10000) in paragraph at lines 653--654
 
  []
@@ -4062,7 +4355,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 695.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[135]
+[158]
 Underfull \hbox (badness 10000) in paragraph at lines 709--710
 
  []
@@ -4072,7 +4365,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 733.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[136]
+[159]
 Underfull \hbox (badness 10000) in paragraph at lines 744--745
 
  []
@@ -4082,7 +4375,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 768.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[137]
+[160]
 Underfull \hbox (badness 10000) in paragraph at lines 778--779
 
  []
@@ -4092,8 +4385,8 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 811.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[138]) (5_vglen_ongelijkheden_stelsels_matrices/module_5_2.tex
-<5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-1.jpg, id=1186, 47
+[161]) (5_vglen_ongelijkheden_stelsels_matrices/module_5_2.tex
+<5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-1.jpg, id=1462, 47
 4.27188pt x 474.27188pt>
 File: 5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-1.jpg Graphic
  file (type jpg)
@@ -4109,7 +4402,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 18.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[139]
+[162]
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
@@ -4118,8 +4411,8 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 49.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[140 <./5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-1.jpg>]
-<5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2.jpg, id=1196, 49
+[163 <./5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-1.jpg>]
+<5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2.jpg, id=1473, 49
 3.845pt x 407.27156pt>
 File: 5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2.jpg Graphic
  file (type jpg)
@@ -4127,7 +4420,7 @@ File: 5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2.jpg Graphic
 Package pdftex.def Info: 5_vglen_ongelijkheden_stelsels_matrices/inputs/matrice
 s-fig-2.jpg  used on input line 74.
 (pdftex.def)             Requested size: 246.92189pt x 203.63527pt.
-<5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-3.jpg, id=1197, 48
+<5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-3.jpg, id=1474, 48
 6.31688pt x 412.54124pt>
 File: 5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-3.jpg Graphic
  file (type jpg)
@@ -4143,7 +4436,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 96.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[141 <./5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2.jpg>]
+[164 <./5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
@@ -4169,20 +4462,20 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 111.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[142 <./5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-3.jpg>]
+[165 <./5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-3.jpg>]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 177.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
 
-[143]
+[166]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 245.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [144]
+ [167]
 Underfull \hbox (badness 10000) in paragraph at lines 263--264
 
  []
@@ -4207,7 +4500,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 323.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[145]
+[168]
 Underfull \hbox (badness 10000) in paragraph at lines 416--417
 
  []
@@ -4217,7 +4510,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 418.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[146]
+[169]
 Underfull \hbox (badness 10000) in paragraph at lines 427--428
 
  []
@@ -4232,7 +4525,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 471.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[147]
+[170]
 Underfull \hbox (badness 10000) in paragraph at lines 485--487
 
  []
@@ -4257,7 +4550,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 515.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[148]
+[171]
 Underfull \hbox (badness 10000) in paragraph at lines 520--521
 
  []
@@ -4292,7 +4585,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 549.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[149]
+[172]
 Underfull \hbox (badness 10000) in paragraph at lines 563--564
 
  []
@@ -4302,19 +4595,19 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 613.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[150]
+[173]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 659.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [151]
+ [174]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 706.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [152]
+ [175]
 Underfull \hbox (badness 10000) in paragraph at lines 747--749
 
  []
@@ -4324,7 +4617,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 753.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[153]
+[176]
 Underfull \hbox (badness 10000) in paragraph at lines 757--758
 
  []
@@ -4349,7 +4642,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 793.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[154]
+[177]
 Underfull \hbox (badness 10000) in paragraph at lines 823--826
 
  []
@@ -4364,7 +4657,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 834.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[155]
+[178]
 Underfull \hbox (badness 10000) in paragraph at lines 842--843
 
  []
@@ -4389,13 +4682,13 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 880.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[156]
+[179]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 888.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [157]
+ [180]
 Underfull \hbox (badness 10000) in paragraph at lines 905--906
 
  []
@@ -4429,7 +4722,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 938.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[158]
+[181]
 Underfull \hbox (badness 10000) in paragraph at lines 944--945
 
  []
@@ -4464,7 +4757,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 985.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[159]
+[182]
 Underfull \hbox (badness 10000) in paragraph at lines 986--987
 
  []
@@ -4489,7 +4782,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1022
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[160]
+[183]
 Overfull \hbox (1.10931pt too wide) in paragraph at lines 1034--1035
 \OT1/cmr/m/n/12 te-kent dat $\OML/cmm/m/it/12 rang\OT1/cmr/m/n/12 (\OML/cmm/m/i
 t/12 A\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 n$\OT1/cmr/m/n/12 , $\OML/cmm/m/it/1
@@ -4507,13 +4800,13 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1065
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[161]
+[184]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1126
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [162]
+ [185]
 Underfull \hbox (badness 10000) in paragraph at lines 1128--1129
 
  []
@@ -4523,13 +4816,13 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1144
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[163]
+[186]
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1187
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [164]
+ [187]
 Underfull \hbox (badness 10000) in paragraph at lines 1206--1207
 
  []
@@ -4553,7 +4846,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1254
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[165]
+[188]
 Underfull \hbox (badness 10000) in paragraph at lines 1256--1257
 
  []
@@ -4568,7 +4861,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1282
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[166]
+[189]
 Underfull \hbox (badness 10000) in paragraph at lines 1296--1301
 
  []
@@ -4583,7 +4876,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1335
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[167]
+[190]
 Underfull \hbox (badness 10000) in paragraph at lines 1378--1380
 
  []
@@ -4593,7 +4886,7 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1380
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[168]
+[191]
 Underfull \hbox (badness 10000) in paragraph at lines 1410--1411
 
  []
@@ -4608,105 +4901,510 @@ File: inputs/logo-innovationlab.png Graphic file (type png)
 Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1418
 .
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
-[169]
+[192]
 Underfull \hbox (badness 10000) in paragraph at lines 1420--1422
 
  []
 
-)) (6_afgeleiden_integralen/module_6.tex)
+)) (6_afgeleiden_integralen/module_6.tex
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 77.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [170]
+ [193]
+Hoofdstuk .
+(6_afgeleiden_integralen/module_6_1.tex
+<6_afgeleiden_integralen/inputs/graf.JPG, id=1615, 226.59656pt x 146.79843pt>
+File: 6_afgeleiden_integralen/inputs/graf.JPG Graphic file (type jpg)
+<use 6_afgeleiden_integralen/inputs/graf.JPG>
+Package pdftex.def Info: 6_afgeleiden_integralen/inputs/graf.JPG  used on input
+ line 18.
+(pdftex.def)             Requested size: 219.59784pt x 142.26378pt.
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 32.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [194
+
+ <./6_afgeleiden_integralen/inputs/graf.JPG>]
+Overfull \hbox (10.71661pt too wide) in paragraph at lines 44--45
+[][] 
+ []
+
+
+Overfull \hbox (10.71661pt too wide) in paragraph at lines 51--52
+[][] 
+ []
+
+<6_afgeleiden_integralen/inputs/grafTang.JPG, id=1623, 225.09094pt x 142.28156p
+t>
+File: 6_afgeleiden_integralen/inputs/grafTang.JPG Graphic file (type jpg)
+<use 6_afgeleiden_integralen/inputs/grafTang.JPG>
+Package pdftex.def Info: 6_afgeleiden_integralen/inputs/grafTang.JPG  used on i
+nput line 69.
+(pdftex.def)             Requested size: 225.08693pt x 142.26378pt.
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 86.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[195 <./6_afgeleiden_integralen/inputs/grafTang.JPG>]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 141.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [196]
+Overfull \hbox (5.11287pt too wide) in paragraph at lines 145--147
+[][][] []\OT1/cmr/m/it/12 Af-ge-leide van een func-tie ver-me-nig-vul-digd met 
+een con-stante : $[]$ 
+ []
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 206.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[197]
+Overfull \hbox (18.01642pt too wide) in paragraph at lines 243--244
+[]\OT1/cmr/m/n/12 Antwoord : $3 [] [][] \OML/cmm/m/it/12 D [] \OT1/cmr/m/n/12 +
+ 4 [] [][] \OML/cmm/m/it/12 D [] \OMS/cmsy/m/n/12  
+ []
+
+
+Overfull \hbox (34.62724pt too wide) in paragraph at lines 247--248
+[]\OT1/cmr/m/n/12 Antwoord : $3 [] [][] [] + 4 [] [][] [] \OMS/cmsy/m/n/12   \O
+T1/cmr/m/n/12 9[] [][] 5$ 
+ []
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 265.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[198]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 336.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [199]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 410.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [200]
+<6_afgeleiden_integralen/inputs/dalend.JPG, id=1672, 439.4016pt x 327.624pt>
+File: 6_afgeleiden_integralen/inputs/dalend.JPG Graphic file (type jpg)
+<use 6_afgeleiden_integralen/inputs/dalend.JPG>
+Package pdftex.def Info: 6_afgeleiden_integralen/inputs/dalend.JPG  used on inp
+ut line 461.
+(pdftex.def)             Requested size: 190.8029pt x 142.26378pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 476.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[201]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 514.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [202 <./6_afgeleiden_integralen/inputs/dalend.JPG>]
+<6_afgeleiden_integralen/inputs/verloop_vb2.jpg, id=1689, 385.44pt x 378.66469p
+t>
+File: 6_afgeleiden_integralen/inputs/verloop_vb2.jpg Graphic file (type jpg)
+<use 6_afgeleiden_integralen/inputs/verloop_vb2.jpg>
+Package pdftex.def Info: 6_afgeleiden_integralen/inputs/verloop_vb2.jpg  used o
+n input line 528.
+(pdftex.def)             Requested size: 242.5pt x 238.23645pt.
+)
+(6_afgeleiden_integralen/module_6_2.tex
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 15.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [203 <./6_afgeleiden_integralen/inputs/verloop_vb2.jpg>]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 67.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [204]
+Overfull \hbox (14.63324pt too wide) in paragraph at lines 132--133
+[][] 
+ []
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 135.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[205]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 147.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [206]
+Overfull \hbox (26.21487pt too wide) detected at line 159
+[]
+ []
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 198.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[207]
+<6_afgeleiden_integralen/inputs/integraal1.jpg, id=1721, 444.2196pt x 269.5671p
+t>
+File: 6_afgeleiden_integralen/inputs/integraal1.jpg Graphic file (type jpg)
+<use 6_afgeleiden_integralen/inputs/integraal1.jpg>
+Package pdftex.def Info: 6_afgeleiden_integralen/inputs/integraal1.jpg  used on
+ input line 219.
+(pdftex.def)             Requested size: 242.5pt x 147.16pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--227
+
+ []
+
+<6_afgeleiden_integralen/inputs/integraal2.JPG, id=1723, 492.8814pt x 296.0661p
+t>
+File: 6_afgeleiden_integralen/inputs/integraal2.JPG Graphic file (type jpg)
+<use 6_afgeleiden_integralen/inputs/integraal2.JPG>
+Package pdftex.def Info: 6_afgeleiden_integralen/inputs/integraal2.JPG  used on
+ input line 230.
+(pdftex.def)             Requested size: 236.83607pt x 142.26378pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 240.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[208 <./6_afgeleiden_integralen/inputs/integraal1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+
+ []
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 286.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[209 <./6_afgeleiden_integralen/inputs/integraal2.JPG>]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 330.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [210]
+<6_afgeleiden_integralen/inputs/integraal4.png, id=1747, 401.5pt x 398.48875pt>
+
+File: 6_afgeleiden_integralen/inputs/integraal4.png Graphic file (type png)
+<use 6_afgeleiden_integralen/inputs/integraal4.png>
+Package pdftex.def Info: 6_afgeleiden_integralen/inputs/integraal4.png  used on
+ input line 362.
+(pdftex.def)             Requested size: 242.5pt x 240.68817pt.
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 373.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [211]
+
+LaTeX Warning: Reference `fig:int:3' on page 212 undefined on input line 377.
+
+<6_afgeleiden_integralen/inputs/integraal3.png, id=1755, 702.625pt x 282.05376p
+t>
+File: 6_afgeleiden_integralen/inputs/integraal3.png Graphic file (type png)
+<use 6_afgeleiden_integralen/inputs/integraal3.png>
+Package pdftex.def Info: 6_afgeleiden_integralen/inputs/integraal3.png  used on
+ input line 386.
+(pdftex.def)             Requested size: 339.49852pt x 136.28806pt.
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 397.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[212 <./6_afgeleiden_integralen/inputs/integraal4.png>])
+(6_afgeleiden_integralen/module_6_3.tex
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 1.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [213 <./6_afgeleiden_integralen/inputs/integraal3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 63.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[214]
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 134.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[215]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 207.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [216]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 264.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [217]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 341.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [218]
+Overfull \hbox (5.53021pt too wide) detected at line 358
+[] \OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/c
+mm/m/it/12 Dg\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/
+12 dx \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\O
+T1/cmr/m/n/12 )\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/
+n/12 ) \OMS/cmsy/m/n/12   [] \OML/cmm/m/it/12 g\OT1/cmr/m/n/12 (\OML/cmm/m/it/1
+2 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 Df\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/
+cmr/m/n/12 )\OML/cmm/m/it/12 dx
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--414
+
+ []
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 414.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[219]
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+
+ []
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 465--466
+[][] 
+ []
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 475.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[220]
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--507
+
+ []
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 507--508
+[][] 
+ []
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 539.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[221]
+Underfull \hbox (badness 10000) in paragraph at lines 566--566
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 566--566
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 566--566
+
+ []
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 566--567
+[][] 
+ []
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 599.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[222]
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 658.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [223]
+Overfull \hbox (14.77809pt too wide) in paragraph at lines 697--698
+[]\OT1/cmr/m/n/12 Antwoord: $[] \OML/cmm/m/it/12 e[] [] [] dx \OT1/cmr/m/n/12 =
+ \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 e[] [] [] \OMS/cmsy/m/n/12
+   [] []$ 
+ []
+
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 724.
+
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+[224]))
+File: inputs/logo-innovationlab.png Graphic file (type png)
+<use inputs/logo-innovationlab.png>
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 80.
+(pdftex.def)             Requested size: 24.18501pt x 22.73pt.
+ [225]
 Hoofdstuk .
 (inputs/oplossingen-zonder-ster.tmp)
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 88.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 91.
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [171
+ [226
 
 ]
 Hoofdstuk .
 (inputs/oplossingen-alle.tmp)
-<inputs/backcover.pdf, id=1342, 554.79266pt x 782.925pt>
+<inputs/backcover.pdf, id=1841, 554.79266pt x 782.925pt>
 File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf>
-Package pdftex.def Info: inputs/backcover.pdf  used on input line 100.
+Package pdftex.def Info: inputs/backcover.pdf  used on input line 103.
 (pdftex.def)             Requested size: 554.7913pt x 782.9231pt.
 File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf>
-Package pdftex.def Info: inputs/backcover.pdf  used on input line 100.
+Package pdftex.def Info: inputs/backcover.pdf  used on input line 103.
 (pdftex.def)             Requested size: 554.7913pt x 782.9231pt.
-<inputs/backcover.pdf, id=1345, page=1, 554.79266pt x 782.925pt>
+<inputs/backcover.pdf, id=1844, page=1, 554.79266pt x 782.925pt>
 File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf, page 1>
-Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 100.
+Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 103.
 (pdftex.def)             Requested size: 554.7913pt x 782.9231pt.
 File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf, page 1>
-Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 100.
+Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 103.
 (pdftex.def)             Requested size: 598.35448pt x 844.39957pt.
 File: inputs/logo-innovationlab.png Graphic file (type png)
 <use inputs/logo-innovationlab.png>
-Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 100.
+Package pdftex.def Info: inputs/logo-innovationlab.png  used on input line 103.
 
 (pdftex.def)             Requested size: 24.18501pt x 22.73pt.
- [172
+ [227
 
 ]
 File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf, page 1>
-Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 100.
+Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 103.
 (pdftex.def)             Requested size: 598.35448pt x 844.39957pt.
 File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf, page 1>
-Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 100.
+Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 103.
 (pdftex.def)             Requested size: 598.35448pt x 844.39957pt.
 File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf, page 1>
-Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 100.
+Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 103.
 (pdftex.def)             Requested size: 598.35448pt x 844.39957pt.
- [173 <./inputs/backcover.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
+ [228 <./inputs/backcover.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
 
 (mooc_naslagwerk180918.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 102.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 105.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
- 22123 strings out of 492973
- 418156 string characters out of 3135923
- 493357 words of memory out of 3000000
- 24963 multiletter control sequences out of 15000+200000
- 19379 words of font info for 74 fonts, out of 3000000 for 9000
+ 22516 strings out of 492973
+ 428326 string characters out of 3135923
+ 495394 words of memory out of 3000000
+ 25104 multiletter control sequences out of 15000+200000
+ 20047 words of font info for 76 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,20n,80p,833b,970s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,20n,80p,833b,1026s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\u0092745\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
 00\tcrm0800.pk> <C:\Users\u0092745\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
 appen\ec\dpi600\tcrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmbsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on mooc_naslagwerk180918.pdf (174 pages, 4818490 bytes).
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/eurosym/feymr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/symbols/msbm10.pfb>
+Output written on mooc_naslagwerk180918.pdf (229 pages, 6650801 bytes).
 PDF statistics:
- 1519 PDF objects out of 1728 (max. 8388607)
- 397 named destinations out of 1000 (max. 500000)
- 528 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2068 PDF objects out of 2073 (max. 8388607)
+ 598 named destinations out of 1000 (max. 500000)
+ 653 words of extra memory for PDF output out of 10000 (max. 10000000)
 
