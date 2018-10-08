@@ -1,7 +1,25 @@
 \section{Bewerkingen}
 
 \subsection{Volgorde van bewerkingen}
-TODO
+Om een opgave juist te kunnen oplossen, is het noodzakelijk om de volgorde van de bewerkingen te respecteren:
+
+\begin{enumerate}
+	\item \textbf{H}aakjes
+	\item \textbf{M}achten en worteltrekken
+	\item \textbf{W}issel van teken
+	\item \textbf{V}ermenigvuldigen en \textbf{d}elen (dezelfde prioriteit)
+	\item \textbf{O}ptellen en \textbf{a}ftrekken (dezelfde prioriteit)
+\end{enumerate}
+
+Let op! Haakjes staan voor deelopgaven die je eerst moet maken, hierop moet je inzoomen.
+
+\emph{Opmerkingen}
+\begin{itemize}
+	\item Bewerkingen met dezelfde prioriteit worden van links naar rechts uitgevoerd.
+	\item Een ezelsbruggetje om dit te onthouden: \textbf{H}oe \textbf{M}oeten \textbf{W}ij \textbf{V}an \textbf{D}e \textbf{O}nvoldoendes \textbf{A}fkomen?
+	\item Machtsverheffen gaat voor op tekenwisseling: als je $-5^2$ moet uitrekenen, doe je eerst $5^2=25$ en daarna pas je op het resultaat de tekenwisseling toe zodat het antwoord $-25$ wordt.
+	\item Bedoel je echter het kwadraat van $-5$ dan noteer je $(-5)^2=(-5).(-5)=25$
+\end{itemize}
 
 \subsection{Volgorde van bewerkingen - voorbeeld 1}
 Zie filmpje MOOC.
@@ -10,11 +28,163 @@ Zie filmpje MOOC.
 Zie filmpje MOOC.
 
 \subsection{Rekenen met machten of exponenten}
-TODO
+\emph{Wat is een macht?}
+De vermenigvuldiging is ingevoerd om de schrijfwijze bij een optelling te vereenvoudigen. Immers:
+\begin{equation*}
+\underbrace{4+4+4+4+4+4}_{\text{6 maal}}
+\end{equation*}
+was vervelend om te schrijven. Omdat de 4 zesmaal voorkomt, werd dit $6 \cdot 4$.
+
+Later werd er dan ook gedefinieerd wat het betekende om kommagetallen met mekaar te vermenigvuldigen.
+
+Machten zijn ingevoerd om volgende schrijfwijzes eenvoudiger te maken:
+\begin{equation*}
+\underbrace{4 \cdot 4\cdot4\cdot4\cdot4\cdot4}_{\text{6 maal}}
+\end{equation*}
+In plaats van een som van dezelfde getallen, hebben we nu een product van dezelfde getallen.
+
+Verkort geschreven wordt dit: $4^6$
+
+Een macht bestaat uit twee delen: een exponent, hier $6$ en een grondtal, hier $4$.
+
+Het grondtal mag (mits enkele uitzonderingen) elk re\"eel getal zijn. De exponent mag eigenlijk (ook weer met enkele uitzonderingen) elk re\"eel getal zijn. Om de volgorde van bewerkingen uit te leggen, gebruiken we in dit hoofdstuk enkel natuurlijke (gehele) exponenten.
+
+\begin{voorbeeld}
+	\begin{equation*}
+	12+3^2 \cdot 4 : 2 - 8 : 4 + 3 - 5^2
+	\end{equation*}
+	Hoe pakken we dit nu aan? We zien dat er enkele machten in staan, dus die rekenen we eerst uit. Vervolgens rekenen we alle vermenigvuldigingen en delingen uit, van links naar rechts. Dan doen we alle optellingen en aftrekkingen, van links naar rechts.
+	\begin{equation*}
+	\begin{array}{lllr}
+	12+\underbrace{3^2}_{9} \cdot 4 : 2 - 8 : 4 + 3 - \underbrace{5^2}_{25} &=& 12+ \underbrace{9 \cdot 4}_{36} : 2 - \underbrace{8 : 4}_{2} + 3 - 25 & \text{vermenigvuldigen en delen} \\
+	&=& 12+ \underbrace{36 : 2}_{18} - 2 + 3 - 25 & \text{vermenigvuldigen en delen} \\
+	&=& \underbrace{12+18} _{30} - 2 + 3 - 25 & \text{optellen en aftrekken} \\
+	&=& \underbrace{30 - 2}_{28} + 3 - 25 & \text{optellen en aftrekken} \\
+	&=& \underbrace{28+3}_{31} - 25 & \text{optellen en aftrekken} \\
+	&=& 31 - 25 & \text{optellen en aftrekken} \\
+	&=& 6 &  \\
+	\end{array}
+	\end{equation*}
+\end{voorbeeld}
+
 
 \subsection{Werken met haakjes}
-TODO
+\emph{Wat als er haakjes staan?}
 
+Haakjes zijn nuttig om aan te duiden dat de bewerking ertussen eerst moet gebeuren. Haakjes zullen dus voorrang hebben op alles.
+
+\fbox{\begin{minipage}{\linewidth}
+	Onthoud \\
+	
+	Los eerst alles tussen de haakjes op!	
+	\end{minipage}}
+
+Haken symboliseren in feite een deelopgave. Ze verplichten je eerst die deelopgave op te lossen, vooraleer je de grote oplossing mag starten.
+
+
+\begin{voorbeeld}
+\begin{equation*}
+6 \cdot (4+5) = 6 \cdot 9 = 54
+\end{equation*}	
+	
+In deze opgave is $(4 + 5)$ de deelopgave, dus die los je eerst op en je vult het resultaat in. 
+Dan ga je gewoon verder met de rest van de opgave.
+
+Even vergelijken wat er gebeurt als er geen haken staan, dus dan moet je eerst de vermenigvuldiging uitwerken:
+
+\begin{equation*}
+6 \cdot 4+5 = 24+5=29
+\end{equation*}	
+
+Iets totaal anders!
+
+Let op: $6 \cdot (4+5) \ne 6\cdot 4+5$
+
+\end{voorbeeld}
+
+\begin{voorbeeld}
+
+\begin{equation*}
+\begin{array}{ccrl}
+20 : 4 \cdot 5 &=& 20:20 =1 & \text{is fout,} \\
+20 : 4 \cdot 5 &=& 5 \cdot 5 =25 & \text{is juist.}
+\end{array}
+\end{equation*}
+	
+Dit soort fouten kan je voorkomen door (zelf) haakjes te gebruiken:
+
+\begin{equation*}
+(20 : 4) \cdot 5 = 5 \cdot 5 = 25
+\end{equation*}
+
+Een andere manier om dit soort problemen te omzeilen is door “delen door 4” te vervangen door “vermenigvuldigen met een vierde” en vervolgens van links naar rechts te rekenen:
+
+\begin{equation*}
+20 : 4 \cdot 5 = 20 \cdot \frac{1}{4} \cdot 5 = 25
+\end{equation*}
+
+Dit geldt ook voor de optelling en de aftrekking:
+
+\begin{equation*}
+\begin{array}{ccrl}
+5-3+1 &=& 5-4 =1 & \text{is fout,} \\
+5-3+1 &=& 2+1=3 & \text{is juist.}
+\end{array}
+\end{equation*}
+
+Dit soort fouten kan je voorkomen door (zelf) haakjes te gebruiken:
+
+\begin{equation*}
+(5-3)+1 = 2+1=3 
+\end{equation*}
+
+Een andere manier is om dit soort problemen te omzeilen is door “aftrekken van plus 3” te vervangen door “optellen met min drie” en vervolgens van links naar rechts te rekenen:
+
+\begin{equation*}
+5-3+1 = 5+(-3)+1=3 
+\end{equation*}
+
+\end{voorbeeld}
+
+\emph{Wat als er meerdere haakjes zijn?}
+
+\fbox{\begin{minipage}{\linewidth}
+Soms kunnen er meerdere haakjes voorkomen. Er geldt dan de volgende regel: Bij meerdere haakjes, werk je eerst de binnenste uit, en dan werk je naar buiten. 
+
+Wat is er eigenlijk aan de hand? In de deelopgave van de buitenste haakjes staan er nog meer haakjes. Dit is in feite een deelopgave in een deelopgave.
+
+\begin{enumerate}
+	\item Je start met die binnenste deelopgave.
+	\item Je vult de uitkomst van die deelopgave in.
+	\item Je gaat verder met de volgende deelopgave.
+	\item Je vult dit weer in.
+	\item Enzoverder!
+\end{enumerate}
+	\end{minipage}
+}
+
+\begin{voorbeeld}
+\begin{equation*}
+((3+6)-4^2)\cdot 2
+\end{equation*}
+Dit voorbeeld heeft verschillende haken (deelopgaven). Je ziet de buitenste haken. Daar is de deelopgave dus:
+\begin{equation*}
+((3+6)-4^2)
+\end{equation*}
+Binnen deze deelopgave staan nieuwe haken, dus die moet je weer eerst uitrekenen, we starten dus met het uitrekenen van de binnenste haken:
+\begin{equation*}
+\begin{array}{cclr}
+\left( \underbrace{(3+6)}_{9}-4^2\right)\cdot 2 &=& \left( 9-\underbrace{4^2}_{16}\right)\cdot 2 & \text{machten binnen de haakjes} \\
+&=& \underbrace{(9-16)}_{-7}\cdot 2 & \text{haken} \\
+&=& -7 \cdot 2 & \text{min maal plus is min} \\
+&=& -14
+\end{array}
+\end{equation*}
+Let dus goed op in dit voorbeeld. Je moet haken altijd eerst uitrekenen, van binnen naar buiten.
+
+Je moet een deelopgave (die binnen de haken staat) zelf behandelen als een opgave en dus de volgorde van bewerkingen daarbinnen toepassen.
+
+\end{voorbeeld}
 \subsection{Begrippen tegengestelde en omgekeerde van een getal}
 
 \subsubsection{Tegengestelde}
