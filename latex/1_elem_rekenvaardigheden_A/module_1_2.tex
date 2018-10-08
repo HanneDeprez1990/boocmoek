@@ -13,7 +13,7 @@ Om een opgave juist te kunnen oplossen, is het noodzakelijk om de volgorde van d
 
 Let op! Haakjes staan voor deelopgaven die je eerst moet maken, hierop moet je inzoomen.
 
-\emph{Opmerkingen}
+\subsubsection{Opmerkingen}
 \begin{itemize}
 	\item Bewerkingen met dezelfde prioriteit worden van links naar rechts uitgevoerd.
 	\item Een ezelsbruggetje om dit te onthouden: \textbf{H}oe \textbf{M}oeten \textbf{W}ij \textbf{V}an \textbf{D}e \textbf{O}nvoldoendes \textbf{A}fkomen?
@@ -28,7 +28,7 @@ Zie filmpje MOOC.
 Zie filmpje MOOC.
 
 \subsection{Rekenen met machten of exponenten}
-\emph{Wat is een macht?}
+\subsubsection{Wat is een macht?}
 De vermenigvuldiging is ingevoerd om de schrijfwijze bij een optelling te vereenvoudigen. Immers:
 \begin{equation*}
 \underbrace{4+4+4+4+4+4}_{\text{6 maal}}
@@ -69,7 +69,7 @@ Het grondtal mag (mits enkele uitzonderingen) elk re\"eel getal zijn. De exponen
 
 
 \subsection{Werken met haakjes}
-\emph{Wat als er haakjes staan?}
+\subsubsection{Wat als er haakjes staan?}
 
 Haakjes zijn nuttig om aan te duiden dat de bewerking ertussen eerst moet gebeuren. Haakjes zullen dus voorrang hebben op alles.
 
@@ -146,7 +146,7 @@ Een andere manier is om dit soort problemen te omzeilen is door “aftrekken van
 
 \end{voorbeeld}
 
-\emph{Wat als er meerdere haakjes zijn?}
+\subsubsection{Wat als er meerdere haakjes zijn?}
 
 \fbox{\begin{minipage}{\linewidth}
 Soms kunnen er meerdere haakjes voorkomen. Er geldt dan de volgende regel: Bij meerdere haakjes, werk je eerst de binnenste uit, en dan werk je naar buiten. 
@@ -247,14 +247,611 @@ met het omgekeerde.
 
 
 \subsection{Rekenen met wortels}
-TODO
+\subsubsection{Vierkantswortels}
 
+
+Het meest gekende type van wortel is de vierkantswortel. De vierkantswortel geeft de mogelijkheid om een antwoord te vinden op de vraag: welk getal heeft als kwadraat 4? Een mogelijk antwoord is het getal 2. De vierkantswortel is de 'omgekeerde' bewerking van het kwadraat.
+\begin{equation*}
+\begin{array}{ccccccc}
+\sqrt{9} &=& 3 & \text{want} & 3^2 &=& 9 \\
+\sqrt{1} &=& 1 & \text{want} & 1^2 &=& 1 \\
+\sqrt{0} &=& 0 & \text{want} & 0^2 &=& 0 
+\end{array}
+\end{equation*}
+
+$\sqrt{-4}$ bestaat niet, want er is geen re\"eel getal dat als kwadraat een negatief getal heeft.
+
+Je ziet dus duidelijk dat je geen vierkantswortel kan nemen van een strikt negatief getal. Een kwadraat is immers altijd positief.
+
+Een vierkantswortel kan je nemen van elk positief re\"eel getal. Je kan dus ook $\sqrt{2}=1,4142\ldots$ berekenen. 
+Dit is geen 'mooi' getal, maar het kwadraat is wel 2.
+
+Eigenlijk is er nog een tweede oplossing voor het probleem "Welk getal heeft als kwadraat $4$?"
+Immers, $-2$ is ook een juiste oplossing. $(-2)^2=4$, want het kwadraat van een negatief getal is positief. We spreken echter af dat het symbool van de vierkantswortel altijd een positief getal uitdrukt. Wil je dan toch een negatief getal, dan schrijf je bijvoorbeeld $-\sqrt{4}$, je zet er dus een minteken voor.
+
+
+\begin{definitie}
+	Een vierkantswortel van een positief re\"eel getal $x$, genoteerd als $\sqrt{x}$, is een positief re\"eel getal dat als kwadraat het getal $x$ heeft.
+\end{definitie}
+
+Vierkantswortels en kwadraten 'heffen mekaar op', of althans, dat lijkt zo: $\sqrt{3^2}=3$. Maar laat je niet vangen! $\sqrt{(-2)^2}$ is niet gelijk aan $-2$, maar gelijk aan $2$. \textbf{Vierkantswortels zijn altijd positief!} Reken voor de veiligheid altijd de haakjes uit, en gebruik niet een 'trucje' als de kwadraat en de wortel schrappen:
+\begin{equation*}
+\sqrt{(-2)^2}=\sqrt{4}=2
+\end{equation*}
+
+\subsubsection{Derdemachtswortels}
+
+Als je een symbool hebt voor de omgekeerde bewerking van het kwadraat, is er ook eentje voor de derde macht. Dit noemen we de derdemachtswortel.
+
+\begin{equation*}
+\begin{array}{ccccccc}
+\sqrt[3]{8} &=& 2 & \text{want} & 2^3 &=& 8 \\
+\sqrt[3]{1000} &=& 10 & \text{want} & 10^3 &=& 1000 \\
+\sqrt[3]{1} &=& 1 & \text{want} & 1^3 &=& 1 \\
+\sqrt[3]{0} &=& 0 & \text{want} & 0^3 &=& 0 
+\end{array}
+\end{equation*}
+
+
+Wat gebeurt er met negatieve getallen? Negatieve getallen hebben geen vierkantswortel, maar wel een derdemachtswortel. 
+De derde macht van een negatief getal is zelf negatief, dus kan de omgekeerde bewerking wel!
+
+\begin{equation*}
+\begin{array}{ccccccc}
+\sqrt[3]{-8} &=& -2 & \text{omdat} & (-2)^3 &=& -8 \\
+\sqrt[3]{-1} &=& -1 & \text{want} & (-1)^3 &=& -1 \\
+\end{array}
+\end{equation*}
+
+Net zoals bij vierkantswortels, hoeft een derdemachtswortel niet 'uit te komen', je kan het dus nemen van eender welk re\"eel getal.
+
+\begin{definitie}
+	Een derdemachtswortel van een re\"eel getal $x$, genoteerd als $\sqrt[3]{x}$, is het re\"ele getal dat als 3de macht het getal $x$ heeft.
+\end{definitie}
+
+
+\subsubsection{Hogere machtswortels}
+
+
+Ook voor hogere machten bestaat er een omgekeerde bewerking, namelijk de hogere machtswortels. Deze noteer je op gelijkaardige manier. 
+De vijfdemachtswortel van $2$ noteer je dan:
+\begin{equation*}
+\sqrt[5]{2}
+\end{equation*}
+
+Je moet hierbij het volgende onthouden:
+
+\fbox{\begin{minipage}{\linewidth}
+Onthoud
+
+\begin{itemize}
+	\item Een even machtswortel (waartoe ook de vierkantswortel behoort) kan je enkel nemen van positieve re\"ele getallen en is zelf positief.
+	\item Een oneven machtswortel kan je nemen van elk re\"eel getal, en kan dus positief of negatief zijn.
+\end{itemize}	
+\end{minipage}
+}
+
+\subsubsection{Rekenregel}
+
+De belangrijkste rekenregel met wortels is:
+
+\fbox{\begin{minipage}{\linewidth}
+		De wortel van een product, is het product van de wortels.
+	\end{minipage}
+}
+
+Voorbeelden:
+\begin{eqnarray*}
+\sqrt{4 \cdot 9} &=& \sqrt{4}\cdot \sqrt{9} = 2 \cdot 3 = 6 \\
+\sqrt[3]{2 \cdot 27} &=& \sqrt[3]{2} \cdot \sqrt[3]{27} = \sqrt[3]{2} \cdot 3 = 3 \sqrt[3]{2}
+\end{eqnarray*}
+
+Je gebruikt deze regel erg vaak om wortels te vereenvoudigen. Bij het vereenvoudigen van een wortel probeer je wat er onder de wortel staat zo klein mogelijk te maken. Een mogelijke vraag is dus: vereenvoudig $\sqrt{200}$. Van $200$ kan je niet gemakkelijk een vierkantswortel nemen. Er is echter een factor van $200$ waarvan dat wel kan, namelijk $100$, dus zonder je die factor af:
+\begin{equation*}
+\sqrt{200}=\sqrt{100 \cdot 2} = \sqrt{100} \cdot \sqrt{2} = 10\sqrt{2}
+\end{equation*}
+
+Omdat $\sqrt{2}$ niet meer te vereenvoudigen is, is $10\sqrt{2}$ de meest eenvoudige vorm. Het is dus een kwestie van goede factoren te vinden die het nemen van een wortel makkelijker maken. Twee andere voorbeelden:
+
+\begin{eqnarray*}
+	\sqrt{20} &=& \sqrt{4 \cdot 5} = \sqrt{4}\cdot \sqrt{5} = 2\sqrt{5}\\
+	\sqrt{90} &=& \sqrt{9 \cdot 10} = \sqrt{9} \cdot \sqrt{10} = \sqrt{3} \cdot \sqrt{10}
+\end{eqnarray*}
+
+
+In feite breng je het 'kwadraat buiten de vierkantswortel'. Deze regel werkt dus voor alle machtswortels, dus vierkantswortels, derdemachtswortels, enzoverder. Het enige waar je mee moet opletten is dat alles bestaat. Hou er rekening mee dat je vierkantswortels (en andere even hogere machtswortels) niet kan nemen van negatieve getallen.
+
+Getallen die dezelfde wortel hebben, noemen we \textbf{gelijksoortig}. Zo zijn  $2\sqrt{3}$ en $4\sqrt{3}$ gelijksoortig, maar zijn $4\sqrt{5}$ en $2\sqrt{2}$ dat niet. Gelijksoortige getallen kan je optellen:
+Het werkt een beetje zoals eenheden. Je kan $3m^2$ en $5m^2$ optellen, maar $3m^2$ en $8cm^2$ niet zo gemakkelijk. Dan moet je ze eerst omzetten. Dat doe je dan ook bij wortels door ze te vereenvoudigen:
+\begin{equation*}
+\sqrt{27}+2\cdot\sqrt{3}=\sqrt{9 \cdot 3}+2\cdot \sqrt{3}=3\cdot\sqrt{3}+2\cdot\sqrt{3}=5 \cdot \sqrt{3}
+\end{equation*}
+
+\fbox{\begin{minipage}{\linewidth}
+Onthoud \\
+
+Heel belangrijk! Er bestaat geen regel voor de wortel van een som!
+
+\begin{equation*}
+\sqrt{a+b}\ne \sqrt{a} + \sqrt{b}
+\end{equation*}
+	\end{minipage}
+}
+
+
+Een voorbeeld dat dit inderdaad niet klopt:
+\begin{itemize}
+	\item $\sqrt{9+16}=\sqrt{25}=5$
+	\item $\sqrt{9}+\sqrt{16}=3+4=7$
+\end{itemize}
+
+Maak dus geen fout zoals $\sqrt{x^2+4}=x+2$
+
+\subsubsection{Rationale exponenten}
+
+We hebben bij machten reeds gesproken over natuurlijke en gehele exponenten. Rationale getallen kunnen ook een exponent vormen. Dit zullen uiteindelijk een type wortel zijn. Een eerste rationale macht heb je al gezien, een voorbeeld:
+
+\begin{equation*}
+2^{1/2}=\sqrt{2}
+\end{equation*}
+
+De exponent $1/2$ symboliseert de vierkantswortel. De exponent $1/3$ zal de derdemachtswortel symboliseren.
+
+
+\begin{definitie}
+	
+\begin{itemize}
+\item De noemer van de breuk van een rationale exponent symboliseert een machtswortel.
+\item De teller van de breuk van een rationale exponent symboliseert een macht.
+\end{itemize}
+\end{definitie}
+
+Wat betekent dit nu? Als ik een getal, zeg $5$,verhef tot een breuk, zeg $2/3$, dan doe ik twee dingen:
+
+\begin{enumerate}
+	\item De noemer van de breuk is 3, dus ik moet een derdemachtswortel nemen.
+	\item De teller van de breuk is 2, dus ik moet een tweede macht nemen (een kwadraat dus).
+\end{enumerate}
+
+Bijgevolg:
+
+\begin{equation*}
+5^{2/3} = (\sqrt[3]{5})^2 \text{ of } \sqrt[3]{5^2}
+\end{equation*}
+
+Belangrijk is dat het getal dat je tot de macht verheft, zowel een wortel als een macht over zichzelf heen krijgt, de volgorde van de twee maakt niet uit. Vaak gebruiken we de eerste schrijfwijze, omdat het dan duidelijker is als er vereenvoudigingen mogelijk zijn:
+\begin{equation*}
+8^{2/3} = (\sqrt[2]{8})^2 = (2)^2 = 4
+\end{equation*}
+
+In symbolen:
+
+\begin{equation*}
+a^{m/n} = (\sqrt[n]{a})^m = \sqrt[n]{a^m}
+\end{equation*}
+
+Breuken kunnen negatief zijn. Dezelfde regel als bij negatieve exponenten geldt ook voor breuken. Je neemt de positieve breuk als exponent, maar zet het geheel in de noemer van een breuk:
+
+\begin{equation*}
+2^{-2/3}= \frac{1}{2^{2/3}}
+\end{equation*}
+
+\fbox{\begin{minipage}{\linewidth}
+	Rekenregels \\
+	
+	\begin{enumerate}
+		\item De macht van een product is het product van de machten.
+		\begin{equation*}
+		(8 \cdot 5)^{\frac{4}{3}}=8^{\frac{4}{3}} \cdot 5^{\frac{4}{3}}
+		\end{equation*}
+		\item Product van machten met hetzelfde grondgetal is grondgetal verheffen tot som van de exponenten.
+		\begin{eqnarray*}
+		2^{\frac{1}{2}} \cdot 2^{\frac{1}{3}} &=& 2^{\frac{1}{2}+\frac{1}{3}} = 2^{\frac{5}{6}+\frac{2}{6}} = 2^{\frac{5}{6}} \\
+		3^{\frac{2}{3}} \cdot 3^{\frac{-1}{3}} &=& 3^{\frac{2}{3}-\frac{1}{3}} = 3^{\frac{1}{3}} 
+		\end{eqnarray*}
+		\item Macht tot een macht verheffen is grondgetal verheffen tot product van de exponenten.
+		\begin{eqnarray*}
+			(2^{\frac{2}{3}})^{2} &=& 2^{\frac{2}{3} \cdot 2} = 2^{\frac{4}{3}} \\
+			(3^{\frac{3}{4}})^{\frac{2}{5}} &=& 3^{\frac{3}{4} \cdot \frac{2}{5}} = 3^{\frac{6}{20}} =  3^{\frac{3}{10}}\\
+			(5^{\frac{3}{2}})^{2} &=& 5^{\frac{3}{2} \cdot 2} = 5^{3} = 125
+		\end{eqnarray*}
+		\item Een breuk tot een macht verheffen is tellen en noemer tot die macht verheffen.
+		\begin{equation*}
+		(\frac{5}{7})^{\frac{3}{4}}=\frac{5^{\frac{3}{4}}}{7^{\frac{3}{4}}}
+		\end{equation*}
+	\end{enumerate}
+	\end{minipage}
+}
 
 \subsection{Rekenen met breuken}
-TODO
+
+Een breuk is een bijzondere schrijfwijze van een rationaal getal. Een breuk laat ons toe om elk rationaal getal nauwkeurig te noteren. Eenvoudige rekentoestellen geven steeds kommagetallen weer (die al dan niet rationale getallen voorstellen). Een kommagetal is echter vaak een afronding en daarom niet steeds nauwkeurig genoeg. Rekenen met kommagetallen is voor veel mensen een stuk gemakkelijker dan rekenen met breuken, maar omdat breuken nodig zijn om nauwkeurig te kunnen rekenen, moet je de basisbewerkingen ook goed kunnen uitvoeren bij breuken.
+
+\subsubsection{Gelijke breuken}
+
+
+Een breuk stelt steeds een quoti\"ent voor. Een quoti\"ent is een deeltal gedeeld door een deler. Bijvoorbeeld:
+\begin{equation*}
+4:2
+\end{equation*}
+Hier is $4$ het deeltal, en $2$ de deler. In breukvorm zou dit zijn:
+\begin{equation*}
+\frac{4}{2}
+\end{equation*}
+Een breuk bestaat uit een teller (boven), een breukstreep en een noemer (onder). Er gelden de volgende overeenkomsten:
+
+\begin{itemize}
+	\item teller = deeltal
+	\item breukstreep = 'gedeeld door'-teken
+	\item noemer = deler
+\end{itemize}
+Het kan ook met haakjes $(4+5):2=\frac{4+5}{2}$.
+
+Het deeltal is hier $(4+5)$ (omdat het tussen haakjes staat), en de deler is hier $2$. Je merkt dus dat in de volgorde van bewerkingen, je eerst de teller moet uitrekenen, en dan pas het quoti\"ent mag maken!
+
+Als je de bewerking $18:4$ uitvoert, vind je dezelfde oplossing als $9:2$, namelijk 4,5. Deze quoti\"enten worden voorgesteld door breuken, we zeggen dan ook dat deze breuken \textbf{gelijk} zijn:
+\begin{equation*}
+\frac{18}{4}=\frac{9}{2}
+\end{equation*}
+Je kan gelijke breuken maken door in teller \textbf{EN} noemer te vermenigvuldigen of te delen door hetzelfde getal. Je zoekt de \textbf{grootste gemene deler}, afgekort ggd, van teller en noemer. (De ggd van 2 getallen is het grootste getal dat beide getallen deelt.)
+\begin{equation*}
+\frac{36}{48}
+\end{equation*}
+De teller is $36$, de noemer is $48$. Ze hebben als grootste gemene deler $12$ (maak je geen zorgen als je dit niet meteen ziet). Dat betekent dus dat je de teller en de noemer kan delen door $12$ en toch een gelijke breuk bekomt:
+\begin{equation*}
+\frac{36}{48}=\frac{3}{4}
+\end{equation*}
+
+
+Vaak zie je deze stap niet zo snel in 1 keer. Een breuk kan ook in meerdere keren aangepast worden. Zo zie je misschien niet meteen de ggd $12$, maar heb je vast wel de gemeenschappelijke deler $2$ gezien. Je kan de oefening dus stapsgewijze oplossen door telkens een nieuwe deler te vinden.
+
+\begin{equation*}
+\frac{36}{48}=\frac{18}{24}=\frac{9}{12}=\frac{3}{4}
+\end{equation*}
+
+De volgorde waarin je deze delers vindt, maakt niet uit. Zo had je bijvoorbeeld ook eerst kunnen delen door $3$. De grootte is ook van geen belang. Misschien had je $6$ als gemene deler gevonden. Het enige wat belangrijk is, is:
+
+
+\fbox{
+\begin{minipage}{\linewidth}
+Onthoud \\
+
+Je verkrijgt gelijke breuken door teller en noemer te \textbf{delen of vermenigvuldigen met hetzelfde getal}.
+
+\end{minipage}
+}
+
+Een breuk waarbij de teller en noemer geen gemeenschappelijke delers meer hebben, noemen we een \textbf{vereenvoudigde breuk}. Bij veel opgaven wordt gevraagd of verwacht men om de breuk zo ver mogelijk te vereenvoudigen. Vergeet dit dus niet!
+
+\subsubsection{Breuken optellen en aftrekken}
+
+
+De belangrijkste regel hier is:
+
+\fbox{\begin{minipage}{\linewidth}
+Rekenregel \\
+
+Enkel breuken op dezelfde noemer kan je optellen of aftrekken.
+
+	\end{minipage}
+}
+
+
+Breuken met dezelfde noemer tel je op door de tellers op te tellen en de \textbf{noemer te houden}. De noemer verandert dus niet! Voor aftrekken geldt dezelfde regel, maar moet je natuurlijk de tellers van mekaar aftrekken.
+
+\begin{eqnarray*}
+\frac{3}{5}+\frac{4}{5}=&=& \frac{3+4}{5}=\frac{7}{5} \\
+\frac{3}{5}-\frac{4}{5}=&=& \frac{3-4}{5}=\frac{-1}{5} \\
+\end{eqnarray*}
+
+Natuurlijk zullen breuken niet altijd dezelfde noemer hebben. Omdat panikeren geen optie is, moet je de noemers gelijk maken. Je kan dit doen door bij elke breuk apart, teller en noemer met hetzelfde getal te vermenigvuldigen, en zo dat de noemers gelijk worden. Bijvoorbeeld:
+
+\begin{equation*}
+\frac{5}{6}+\frac{7}{8}
+\end{equation*}
+
+Je wilt dat beide breuken een gelijke noemer hebben. We zoeken die gemeenschappelijke noemer. Het gemakkelijkste is als gemeenschappelijke noemer het product te nemen van de noemers, namelijk $6 \cdot 8=48$.
+
+We maken dus in de eerste breuk $\frac{5}{6}$ de noemer $48$ door de noemer te vermenigvuldigen met $8$. Om de breuk gelijk te maken, moeten we ook de teller vermenigvuldigen met $8$. Voor de tweede breuk  doen we hetzelfde, maar nu vermenigvuldigen we teller en noemer met $6$:
+
+\begin{equation*}
+\frac{5}{6}=\frac{5 \cdot 8}{6 \cdot 8} =\frac{40}{48} \text{ en } \frac{7}{8}=\frac{7 \cdot 6}{8 \cdot 6} =\frac{42}{48}
+\end{equation*}
+
+We hebben nu twee breuken met gelijke noemer, dus kunnen we die optellen. Alles tesamen:
+\begin{equation*}
+\frac{5}{6}+\frac{7}{8}=\frac{40}{48}+\frac{42}{48}=\frac{40+42}{48}=\frac{82}{48}=\frac{41}{24}
+\end{equation*}
+De laatste stap is een vereenvoudiging! Dit was hier toevallig mogelijk door teller en noemer te delen door $2$. 
+Probeer telkens je einduitkomst zo ver mogelijk te vereenvoudigen!
+
+Een tweede manier om een gelijke noemer te krijgen is door de methode van het kleinste gemene veelvoud, afgekort kgv. (Het kgv van 2 getallen is het kleinste getal dat een veelvoud is van allebei de getallen.) Het kgv van $6$ en $8$ is $24$. $24$ is een veelvoud van $6$, maar ook van $8$. Het is bovendien het kleinste getal dat zulk een veelvoud is. We kiezen dus als gemeenschappelijke noemer het getal $24$. Dat betekent dat we in de breuk  moeten vermenigvuldigen met $4$, en voor de breuk $\frac{7}{8}$ teller en noemer vermenigvuldigen met $3$:
+
+\begin{equation*}
+\frac{5}{6} = \frac{5 \cdot 4}{6 \cdot 4}=\frac{20}{24} \text{ en } \frac{7}{8}=\frac{7 \cdot 3}{8 \cdot 3}=\frac{21}{24}
+\end{equation*}
+
+
+Opnieuw vinden we twee breuken met gelijke noemers, die kunnen we dus optellen:
+
+\begin{equation*}
+\frac{5}{6}+\frac{7}{8}=\frac{20}{24}+\frac{21}{24}=\frac{41}{24}
+\end{equation*}
+
+De uitkomst is meteen in vereenvoudigde vorm. Dit heb je vaak als je de methode van het kgv toepast. Dit is niet altijd even gemakkelijk. Je mag zelf kiezen hoe je het doet.
+
+Tot slot nog een voorbeeld met drie breuken:
+
+\begin{equation*}
+\begin{array}{cclr}
+\frac{1}{2}-\frac{1}{3}+\frac{1}{9} &=& (\frac{1}{2}-\frac{1}{3})+\frac{1}{9} & \text{sommen en verschillen van links naar rechts} \\
+&=& (\frac{1 \cdot 3}{2 \cdot 3}-\frac{1\cdot 2}{3 \cdot 2})+\frac{1}{9} & \text{de gemeenschappelijke noemer wordt $2 \cdot 3$} \\
+&=& (\frac{3}{6}-\frac{2}{6})+\frac{1}{9} &  \\
+&=& (\frac{3-2}{6})+\frac{1}{9} &  \text{breuken met dezelfde noemer} \\
+& & & \text{aftrekken door verschil van tellers}  \\
+&=& \frac{1}{6}+\frac{1}{9} &   \\
+&=& \frac{1\cdot 3}{6\cdot 3}+\frac{1\cdot 2}{9\cdot 2} & \text{gemeenschappelijke noemer wordt het} \\
+& & & \text{kgv van $6$ en $9$: $18=6 \cdot 3 = 9 \cdot 2$} \\
+&=& \frac{3}{18}+\frac{2}{18} &   \\
+&=& \frac{3+2}{18} & \text{breuken met dezelfde noemer optellen door som van tellers}\\
+&=& \frac{5}{18}
+\end{array}
+\end{equation*}
+
+Bij deze opgave had je in plaats van het kgv van $6$ en $9$ ook gewoon $6\cdot 9=54$ als gelijke noemer kunnen nemen. Dat is wel al een groot getal om mee te rekenen. Bovendien zou je de einduitkomst moeten vereenvoudigen. Probeer waar mogelijk het kgv te nemen.
+
+\fbox{\begin{minipage}{\linewidth}
+	Onthoud\\
+	
+	Breuken kan je enkel optellen of aftrekken als je ze op gelijke noemer brengt!	
+	
+	\end{minipage}
+}
+
+
+
+\subsubsection{Breuken vermenigvuldigen}
+
+Breuken vermenigvuldigen is een stuk eenvoudiger dan breuken optellen.
+
+
+\fbox{\begin{minipage}{\linewidth}
+		Rekenregel \\
+		
+		Je vermenigvuldigt gewoon tellers met tellers, en noemers met noemers.
+		
+	\end{minipage}
+}
+
+\begin{equation*}
+\frac{2}{3}\cdot \frac{4}{5} = \frac{2 \cdot 4}{3 \cdot 5} = \frac{8}{15}
+\end{equation*}
+
+Je kan natuurlijk ook breuken vermenigvuldigen met gehele getallen:
+
+\begin{equation*}
+3\cdot \frac{1}{4} = \frac{3}{1} \cdot \frac{1}{4} = \frac{3 \cdot 1}{1 \cdot 4} = \frac{3}{4}
+\end{equation*}
+
+
+\subsubsection{Tegengestelde van een breuk}
+
+Het tegengestelde van een breuk bereken je door het minteken in de teller te zetten. Dit is duidelijker in een voorbeeld:
+
+\begin{equation*}
+-\frac{3+5}{7}=\frac{-(3+5)}{7}
+\end{equation*}
+
+Merk op dat ik de teller zelf tussen haakjes zet. Je moet immers de min voor de \textbf{HELE} teller zetten. Veel studenten maken immers de volgende fout:
+
+\begin{equation*}
+-\frac{3+5}{7}=\frac{-3+5}{7}
+\end{equation*}
+
+Dit is NIET juist!
+
+\fbox{\begin{minipage}{\linewidth}
+Onthoud\\
+
+Een minteken voor de breuk zet je voor de hele teller. Gebruik haakjes!
+		
+	\end{minipage}
+}
+
+
+Omgekeerd moet je dus ook opletten, als er 1 getal in de teller een minteken heeft, mag je dat minteken niet zomaar zonder meer voor de hele breuk plaatsen!
+
+\begin{equation*}
+\frac{-2+5}{4} \ne -\frac{2+5}{4}
+\end{equation*}
+
+Het minteken in kwestie mag je ook uit de noemer halen zoals in volgend voorbeeld:
+\begin{equation*}
+\frac{6}{-5}=-\frac{6}{5}
+\end{equation*}
+
+Maar net zoals met de teller, vergis je niet:
+
+\begin{equation*}
+\frac{6}{-2+3} \ne \frac{6}{2+3}
+\end{equation*}
+
+\subsubsection{Breuken delen}
+
+Breuk delen door een getal
+
+\fbox{\begin{minipage}{\linewidth}
+Onthoud \\
+
+Een breuk gedeeld door een getal is de noemer vermenigvuldigen met dat getal.
+		
+	\end{minipage}
+}
+
+Toegepast in een voorbeeld:
+
+\begin{equation*}
+\frac{2}{3}:5=\frac{2}{3 \cdot 5} = \frac{2}{15}
+\end{equation*}
+
+Je plaatst het getal waar je door deelt mee in de noemer. Merk op dat je de hele noemer vermenigvuldigt met dat getal:
+
+\begin{equation*}
+\frac{2}{3+2}:5=\frac{2}{(3+2) \cdot 5} = \frac{2}{25}
+\end{equation*}
+
+Delen door een breuk
+
+Volgende regel geldt:
+
+\fbox{\begin{minipage}{\linewidth}
+Rekenregel \\
+
+Delen door een breuk is vermenigvuldigen met het omgekeerde van die breuk.
+		
+	\end{minipage}
+}
+
+
+Dit is een eenvoudig toe te passen regel:
+
+\begin{equation*}
+\begin{array}{cclr}
+\frac{4}{5} : \frac{2}{3} &=& \frac{4}{5} \cdot \frac{3}{2} & \text{delen door een breuk is vermenigvuldigen met het omgekeerde van die breuk} \\
+&=& \frac{12}{10} & \text{breuken vermenigvuldigen is tellers en noemers vermenigvuldigen} \\
+&=& \frac{6}{5} & \text{teller en noemer zijn deelbaar door 2}
+\end{array}
+\end{equation*}
+
+Soms is de deling niet geheel duidelijk als er breuken in een breuk staan:
+\begin{equation*}
+\frac{\frac{2}{3}}{\frac{3}{4}}
+\end{equation*}
+
+Belangrijk is dat je een goede scheiding maakt tussen tellers en noemers, maak je breukstreep breed genoeg. Deze breuk symboliseert de deling.
+\begin{equation*}
+\frac{2}{3}:\frac{3}{4}
+\end{equation*}
+Dus eigenlijk:
+\begin{equation*}
+\frac{\frac{2}{3}}{\frac{3}{4}}=\frac{2}{3}:\frac{3}{4}=\frac{2}{3} \cdot \frac{4}{3} = \frac{8}{9}
+\end{equation*}
 
 \subsection{Rekenen met logaritmen}
-TODO
+Een logaritme wordt gedefinieerd als:
+
+
+\begin{definitie}
+	Voor $a\in \mathbb{R}_0^+\setminus\{1\}$ en $x\in \mathbb{R}_0^+$ geldt dat
+	\begin{equation*}
+	\log_{a}(x) = y \text{ als en slechts als } a^y=x
+	\end{equation*}
+\end{definitie}
+
+$a$ noemen we het grondtal, dat strikt positief en verschillend van 1 dient te zijn. $x$ dient een strikt positief re\"eel getal te zijn.
+
+Om de uitkomst van $\log_{a}(x) = y$ te vinden, stel je jezelf de vraag:
+
+Tot welke macht $y$ moet ik $a$ verheffen om $x$ te bekomen?
+
+Voorbeelden
+Een voorbeeld: $\log_{2}8=3$ omdat $3$ de macht is waartoe ik $2$ dien te verheffen om $8$ te bekomen.
+
+Andere voorbeelden:
+\begin{eqnarray*}
+\log_{10}(100)&=&2 \\
+\log_{4}(16)&=&2 \\
+\log_{3}(9)&=&2 \\
+\log_{3}(\sqrt{3})&=&\log_{3}(3^{\frac{1}{2}})=\frac{1}{2} \\
+\log_{5}(\frac{1}{5})&=&\log_{5}(5^{-1})=-1 \\
+\end{eqnarray*}
+
+\subsubsection{Bijzondere gevallen}
+
+De \emph{tiendelige} of \emph{Briggse} logaritme is de logaritme met grondtal $10$.
+
+Vaak laat men het grondtal $10$ weg in de notatie:
+
+\begin{definitie}
+	Voor $x \in \mathbb{R}_0^+$ geldt dat
+	\begin{equation*}
+	\log(x)=y \text{ als en slechts al } 10^y=x.
+	\end{equation*}
+
+\end{definitie}
+
+De \emph{natuurlijke} of \emph{Neperiaanse} logaritme is de logaritme met grondtal $e$, met $e=2.71828182845\ldots$.
+
+\begin{definitie}
+	Voor $x \in \mathbb{R}_0^+$ geldt dat
+	\begin{equation*}
+	\ln(x)=y \text{ als en slechts als } e^y=x.
+	\end{equation*}
+\end{definitie}
+
+Tot slot:
+
+\fbox{
+	\begin{minipage}{\linewidth}
+	Rekenregel \\
+	
+	\begin{equation*}
+	\log_{a}a=1
+	\end{equation*}
+	
+	aangezien de macht waartoe ik $a$ dien te verheffen om $a$ te bekomen, 1 is.	
+	
+	\begin{equation*}
+	\log_{a}1=0
+	\end{equation*}
+	
+	onafhankelijk voor de waarde van $a$ (met $a \in \mathbb{R}_0^+ \setminus \{1\}$) aangezien $0$ de macht is waartoe ik $a$ dien te verheffen om $1$ te bekomen.
+	\end{minipage}
+}
+
+
+
+
+\subsubsection{Grafische voorstelling}
+
+$y=\log_{a}(x)$ is de inverse functie van $y=a^x$. Grafisch uit zich dit door spiegeling van de grafieken tegenover de eerste bissectrice $y=x$, zie ook Figuur \ref{fig:logfunc1}.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.5\linewidth]{1_elem_rekenvaardigheden_A/inputs/logFunc1}
+	\caption{Grafische voorstelling van $y=\log_{a}(x)$.}
+	\label{fig:logfunc1}
+\end{figure}
+
+
+\subsubsection{Grafische voorstelling van de Neperiaanse logaritme}
+
+$y=\ln x$ is de inverse functie van $y=e^x$. Grafisch uit zich dit door spiegeling van de grafieken tegenover de eerste bissectrice $y=x$, zie ook Figuur \ref{fig:logfunc2}.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.5\linewidth]{1_elem_rekenvaardigheden_A/inputs/logFunc2}
+	\caption{Grafische voorstelling van de Neperiaanse logaritme.}
+	\label{fig:logfunc2}
+\end{figure}
+
+
+\subsubsection{Rekenregels:}
+
+\fbox{\begin{minipage}{\linewidth}
+	Rekenregels: \\
+	
+	\begin{eqnarray*}
+	\log_{a}(x \cdot y) &=& \log_{a}(x) + \log_{a}(y) \\
+	\log_{a}(\frac{x}{y}) &=& \log_{a}(x) - \log_{a}(y) \\
+	\log_{a}(x^n) &=& n \cdot \log_{a}(x) \\
+	\log_{a}(\sqrt[n]{x}) &=& \frac{1}{n}\log_{a}(x) \\
+	\log_{a}(b) &=& \frac{1}{\log_{b}(a)} 
+	\end{eqnarray*}
+	\end{minipage}
+}
+
+
 
 \subsection{Algebra: het rekenen met letters}
 
