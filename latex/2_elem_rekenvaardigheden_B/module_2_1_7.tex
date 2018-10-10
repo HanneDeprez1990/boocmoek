@@ -1,24 +1,26 @@
-\subsection{Veeltermfuncties}
+\subsection{Veeltermfuncties of polynoomfuncties}
+\label{sec:vtf}
 
-\subsubsection{Veeltermfuncties of polynoomfuncties}
+\textbf{Functievoorschrift}
 
-\emph{Definitie}
-
-Een veelterm- of polynoomfunctie heeft als functievoorschrift een veelterm in 1 onbekende, dus
+\begin{definitie}
+	Een veelterm- of polynoomfunctie heeft als functievoorschrift een veelterm in 1 onbekende, dus
 $f(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\ldots+a_{2}x^{2}+a_{1}x+a_{0}$
 met $a_{n}\in\mathbb{R}_{0}$ en $a_{n-1},\ldots,a_{0}\in\mathbb{R}$. De constanten $a_{i}$ noemen we de \textbf{co\"effici\"enten}.
 
+\end{definitie}
+
 De (meestal eerste) term met de hoogste macht bepaalt de \textbf{graad} van de veeltermfunctie.
 
-\emph{Voorbeelden}
-
-$f(x)=2x^{4}-5x^{3}+10x$ , $f(x)=x^{3}$ 
+\begin{voorbeeld}
+	$f(x)=2x^{4}-5x^{3}+10x$ , $f(x)=x^{3}$ 
+\end{voorbeeld}
 
 \textbf{Grafische voorstelling}
 
-\noindent Het domein van een veeltermfunctie is: $\textrm{dom}f=\mathbb{R}$
+Het domein van een veeltermfunctie is: $\textrm{dom}f=\mathbb{R}$
 
-\noindent De grafieken van de elementaire machtsfuncties $y=x^{n}$
+De grafieken van de elementaire machtsfuncties $y=x^{n}$
 met positieve exponent zijn hieronder weergegeven:
 
 \begin{figure}[h]
@@ -26,7 +28,7 @@ met positieve exponent zijn hieronder weergegeven:
 \end{figure}
 
 
-\noindent De grafieken van de elementaire machtsfuncties $y=x^{-n}=\frac{1}{x^{n}}$
+De grafieken van de elementaire machtsfuncties $y=x^{-n}=\frac{1}{x^{n}}$
 met negatieve exponent zijn hieronder weergegeven:
 
 \begin{figure}[h]
@@ -36,17 +38,18 @@ met negatieve exponent zijn hieronder weergegeven:
 
 \textbf{Nulwaarden}
 
-\noindent Een $n$\textsuperscript{de} graadsveeltermfunctie met oneven
+ Een $n$\textsuperscript{de} graadsveeltermfunctie met oneven
 $n$ heeft minimum $1$ en maximum $n$ snijpunten met de $x$-as.
 
-\noindent Een $n$\textsuperscript{de} graadsveeltermfunctie met even
+ Een $n$\textsuperscript{de} graadsveeltermfunctie met even
 $n$ heeft minimum $0$ en maximum $n$ snijpunten met de $x$-as. De grafiek
 kan namelijk helemaal boven of onder de $x$-as liggen, en dus geen
 snijpunten hebben met de $x$-as.
 
-\emph{Voorbeeld}
 
-De functie $f$ met voorschrift $f(x)=2x^{4}-3x^{3}-x^{2}+x$ uit Figuur \ref{fig:vt:vb1}
+
+\begin{voorbeeld}
+	De functie $f$ met voorschrift $f(x)=2x^{4}-3x^{3}-x^{2}+x$ uit Figuur \ref{fig:vt:vb1}
 is een 4\textsuperscript{de} graadsvergelijking en heeft in dit geval
 4 snijpunten met de $x$-as:
 
@@ -56,7 +59,9 @@ is een 4\textsuperscript{de} graadsvergelijking en heeft in dit geval
 \label{fig:vt:vb1}
 \end{figure}
 
-\textbf{Nulwaarden vinden}
+\end{voorbeeld}
+
+Nulwaarden vinden
 
 De nulwaarden voor een veeltermfunctie vinden we door het
 functievoorschrift te ontbinden in een product van factoren met ten
@@ -73,7 +78,8 @@ een lineaire en een kwadratische functie is immers gekend. Het teken
 van een veeltermfunctie is het product van de tekens van de factoren.
 
 
-\emph{Voorbeeld (een tweedegraadsfunctie verleiden door substitutie)}
+\begin{voorbeeld}
+	 (een tweedegraadsfunctie verleiden door substitutie)
 
 Deze methode is toepasbaar bij bikwadratische vergelijkingen. Dit
 zijn vergelijkingen van de vorm $ax^{4}+bx^{2}+c=0$. Dit type van
@@ -82,16 +88,16 @@ met behulp van de substitutiemethode. Stel hierbij $x^{2}=t$.
 
 We bekijken de veelterm $f(x)=4x^{4}-5x^{2}+1$
 
-\textbf{Nulwaarden}
+Nulwaarden
 
-\noindent We bepalen de nulwaarden door de veelterm te ontbinden in
+ We bepalen de nulwaarden door de veelterm te ontbinden in
 factoren, gebruik makend van de substitutiemethode:\\
 
 \begin{equation*}
 4x^{4}-5x^{2}+1=0  \underrightarrow{x^{2}=t}  4t^{2}-5t+1=0
 \end{equation*}
 
-\noindent We bekomen een kwadratische vergelijking. Hiervan zijn de
+ We bekomen een kwadratische vergelijking. Hiervan zijn de
 nulpunten:
 \begin{eqnarray*}
 t_{1}=\frac{-b+\sqrt{D}}{2a}&=&\frac{-(-5)+\sqrt{9}}{2.4}=1 \\
@@ -113,7 +119,7 @@ De gegeven vergelijking kan dus ook geschreven worden als:
 f(x)=4x^{4}-5x^{2}+1=(x-1)(x+1)(x-\frac{1}{2})(x+\frac{1}{2})
 \end{equation*}
 
-\textbf{Tekenverloop}
+Tekenverloop
 
 Maak \'e\'en overzichtelijke tabel met bovenaan alle nulpunten
 in stijgende volgorde. Per rij onderzoek je het teken van elke factor
@@ -132,14 +138,16 @@ $f(x)$ & $+$ & $0$ & $-$ & $0$ & $+$ & $0$ & $-$ & $0$ & $+$\\
 \end{tabular}
 \end{center}
 
+\end{voorbeeld}
 
-\emph{Voorbeeld 2 (ontbinden in factoren)}
+\begin{voorbeeld}
+	(ontbinden in factoren)
 
 We bekijken de veelterm $f(x)=3x^{3}-4x^{2}-6x+8$
 
-\textbf{Nulpunten}
+Nulwaarden
 
-We bepalen de nulpunten door de veelterm te ontbinden in
+We bepalen de nulwaarden door de veelterm te ontbinden in
 factoren. Soms kunnen we gebruik maken van merkwaardige producten
 of, zoals in dit geval, door het groeperen van gemeenschappelijke
 termen:
@@ -151,16 +159,16 @@ termen:
  & = & (x-\sqrt{2})(x+\sqrt{2})(3x-4)
 \end{eqnarray*}
 
-\noindent De gegeven vergelijking $3x^{3}-4x^{2}-6x+8=0$ heeft dus
+ De gegeven vergelijking $3x^{3}-4x^{2}-6x+8=0$ heeft dus
 3 nulpunten:
 
 \begin{equation*}
 x_{1}=\sqrt{2}, x_{2}=-\sqrt{2} \text{ en } x_{3}=\frac{4}{3}
 \end{equation*}
 
-\textbf{Tekenverloop}
+Tekenverloop
 
-Maak \'e\'en overzichtelijke tabel met bovenaan alle nulpunten
+%Maak \'e\'en overzichtelijke tabel met bovenaan alle nulpunten
 in stijgende volgorde. Per rij onderzoek je het teken van elke factor
 van $f(x)$. Het teken van $f(x)$ is dan het product van deze tekens.
 
@@ -177,11 +185,14 @@ $f(x)$ & $-$ & $0$ & $+$ & $0$ & $-$ & $0$ & + \\
 \end{center}
 
 
-\emph{Voorbeeld 3 (regel van Horner)}
+\end{voorbeeld}
+
+\begin{voorbeeld}
+	 (regel van Horner)
 
 We bekijken de veelterm $f(x)=x^{4}-4x^{3}+5x^{2}-4x+4$
 
-\textbf{Nulpunten}
+Nulpunten
 
 We bepalen de nulpunten door de veelterm te ontbinden in
 factoren gebruik makend van de regel van Horner.
@@ -195,11 +206,11 @@ Dus de factor $(x-2)$ kan afgesplitst worden. De co\"effici\"enten
 van de resterende veelterm vinden we via de regel van Horner:
 
 \begin{center}
-\begin{tabular}{r||rrrrr}
+\begin{tabular}{r|rrrrr}
 	& $1$ & $-4$ & $5$ & $-4$ & $4$\\
 	$\mathbf{2}$ & $\downarrow$ & $2$ & $-4$ & $2$ & $-4$\\
 	\hline  
-	& $1$ & $-2$ & $1$ & \multicolumn{1}{r|}{$-2$} & $\mathbf{0}$\\
+	& $1$ & $-2$ & $1$ & \multicolumn{1}{r||}{$-2$} & $\mathbf{0}$\\
 \end{tabular}	
 \end{center}
 
@@ -214,11 +225,11 @@ De co\"effici\"enten van de resterende veelterm vinden we terug via de
 regel van Horner:
 
 \begin{center}
-\begin{tabular}{r||rrrr}
+\begin{tabular}{r|rrrr}
 	& $1$ & $-2$ & $1$ & $-2$\\
 	$\mathbf{2}$ & $\downarrow$ & $2$ & $0$ & $2$\\
 	\hline 
-	& $1$ & $0$ & \multicolumn{1}{r|}{$1$} & $\mathbf{0}$\\
+	& $1$ & $0$ & \multicolumn{1}{r||}{$1$} & $\mathbf{0}$\\
 \end{tabular}
 \end{center}
 
@@ -242,14 +253,14 @@ en in het punt $x=2$ raakt deze veelterm de $x$-as),zie ook Figuur \ref{fig:vt:v
 \end{figure}
 
 
-\textbf{Tekenverloop}
+Tekenverloop
 
 Maak \'e\'en overzichtelijke tabel met bovenaan alle nulpunten
 in stijgende volgorde. Per rij onderzoek je het teken van elke factor
 van $f(x)$. Het teken van $f(x)$ is dan het product van deze tekens.
 
 \begin{center}
-\begin{tabular}{c||c|c|c}
+\begin{tabular}{c||ccc}
 $x$ &  & $2$ & \\
 \hline 
 $(x-2)^{2}$ & $+$ & $0$ & \multicolumn{1}{c}{$+$}\\
@@ -258,3 +269,5 @@ $(x^{2}+1)$ & +&+&+\\
 $f(x)$ & $+$ & $0$ & $+$\\
 \end{tabular}
 \par\end{center}
+
+\end{voorbeeld}

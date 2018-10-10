@@ -38,7 +38,7 @@
 
 \newcommand{\titel}{Boek van de MOOC}
 
-\newcommand{\filenaamlogo}{inputs/KULEUVEN_CMYK_LOGO}
+\newcommand{\filenaamlogo}{KULEUVEN_CMYK_LOGO}
 %\parbox[position][height][inner-pos]{width}{text}
 \newcommand{\insertlogo}{\parbox[c][0.95cm][c]{0.85cm}{\includegraphics[width=0.85cm]{\filenaamlogo}}}
 
@@ -263,7 +263,7 @@
 }
 
 
-\newcommand{\gewonefiguur}[2]{\begin{center}\includegraphics[#1]{inputs/#2}\end{center}}
+\newcommand{\gewonefiguur}[2]{\begin{center}\includegraphics[#1]{#2}\end{center}}
 
 %%%%%%%%%%%% Tabellen %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%% De structuur is als volgt: \begin{tabel}{Al of niet de ondertitel van de tabel}\begin{tabular}[pos]{table spec} ... \end{tabular}\end{tabel} %%%%
@@ -274,6 +274,8 @@
 \newenvironment{tabel}[1]{\begin{center}\refstepcounter{tabelnr}\renewcommand{\tabeltitel}{#1}}{\ifthenelse{\equal{\tabeltitel}{}}%
 {\nopagebreak\vspace{1ex}\par Tabel \thetabelnr\end{center}}%
 {\nopagebreak\vspace{1ex}\par Tabel \thetabelnr.\ \tabeltitel\end{center}}}
+
+\newenvironment{tabel*}[1]{\begin{center}\refstepcounter{tabelnr}\renewcommand{\tabeltitel}{#1}\end{center}}
 
 %%%%%%%%% Instelling van de opsommingen %%%%%%%%%%%%%%%
 

@@ -1,35 +1,35 @@
 \subsection{Eerste- en tweedegraadsfuncties}
+\label{sec:eerste_tweede}
 
 \subsubsection{Constante functies}
 
-\emph{Definitie}
+\begin{definitie}
+	Functievoorschrift: $f(x)=a$ met $a\in\mathbb{R}$
+\end{definitie}
 
-Functievoorschrift: $f(x)=a$ met $a\in\mathbb{R}$
+%\uline{Voorbeeld}: $f(x)=2$
 
-%\noindent \uline{Voorbeeld}: $f(x)=2$
-
-Grafische voorstelling van de constante functie
+\textbf{Grafische voorstelling van de constante functie}
 met vergelijking $f(x)=a$ is een horizontale rechte, waarbij de $y$-as
 wordt gesneden in het punt $(0,a)$.
 
-%\noindent Alle afgeleiden zijn overal nul, er zijn geen extrema, geen
+%Alle afgeleiden zijn overal nul, er zijn geen extrema, geen
 %buigpunten...
 
 Tekenverloop: Zie Tabel \ref{tab:ct}.
 
-\begin{table}[h]
-	\centering\begin{tabular}{c||c}
+\begin{tabel}{Tekenverloop van een constante functie}
+	\begin{tabular}{c||c}
 		$x$ & \\
 		\hline 
 		$f(x)$ & teken van $a$\\
 	\end{tabular}
-	\caption{Tekenverloop van een constante functie.}
 	\label{tab:ct}
-\end{table}
+\end{tabel}
 
-\emph{Voorbeeld}
 
-Gegeven de functie: $f(x)=\frac{1}{2}$, zie Figuur \ref{fig:ct}. 
+\begin{voorbeeld}
+	Gegeven de functie: $f(x)=\frac{1}{2}$, zie Figuur \ref{fig:ct}. 
 
 Grafische voorstelling:
 \begin{itemize}
@@ -55,21 +55,25 @@ Zie Tabel \ref{tab:ct_vb}.
 \label{tab:ct_vb}
 \end{table}
 
+\end{voorbeeld}
 
 \subsubsection{Eerstegraadsfuncties of lineaire functies}
 
 
-\emph{Definitie}
 
-Functievoorschrift: $f(x)=ax+b$ met $a\in\mathbb{R}_{0}$
+
+\begin{definitie}
+	Functievoorschrift: $f(x)=ax+b$ met $a\in\mathbb{R}_{0}$
 en $b\in\mathbb{R}$.
 
-\emph{Voorbeelden}
+\end{definitie}
 
- $f(x)=10x+1$ , $f(x)=8-5x$ , $f(x)=3x$
 
-\emph{Grafische voorstelling van de lineaire functie
-	is een rechte.} 
+\begin{voorbeeld}
+	 $f(x)=10x+1$ , $f(x)=8-5x$ , $f(x)=3x$
+\end{voorbeeld}
+
+Grafische voorstelling van de lineaire functie is een rechte.
 Zie Figuur \ref{fig:eerstegr}.
 
 \begin{figure}[h]
@@ -83,14 +87,14 @@ Zie Figuur \ref{fig:eerstegr}.
 	\item Het beeld van deze lineaire functie is: $\textrm{bld} f = \mathbb{R}$.
 \end{itemize}
 
-\noindent De rechte wordt bepaald door de \textbf{richtingsco\"effici\"ent}
+De rechte wordt bepaald door de \textbf{richtingsco\"effici\"ent}
 (de \textbf{rico}) \textquoteleft $a$\textquoteright{} en de intercept
 \textquoteleft $b$\textquoteright . De rico bepaalt de helling van
 de rechte. Als $x$ met 1 eenheid toeneemt, dan neemt $y$ met $a$
 eenheden toe. Hoe groter de absolute waarde van de rico $a$, hoe
 steiler de rechte.
 \begin{itemize}
-\item een positieve rico, hoort bij een stijgende rechte
+\item een positieve rico hoort bij een stijgende rechte
 \item een negatieve rico hoort bij een dalende rechte
 \end{itemize}
 \begin{figure}[h]
@@ -101,20 +105,20 @@ steiler de rechte.
 
 Zie Figuur \ref{fig:rico}.
 
-\noindent Een rechte evenwijdig met de $x$-as heeft een rico gelijk
+Een rechte evenwijdig met de $x$-as heeft een rico gelijk
 aan 0. Dit is in feite de constante functie $f(x)=b$.
 
-\noindent Een rechte evenwijdig met de $y$-as heeft geen rico (in
+Een rechte evenwijdig met de $y$-as heeft geen rico (in
 dit geval zou $m=\infty$ moeten zijn). 
 
 Nulpunten: het snijpunt met de $x$-as is het
 punt $(-\frac{b}{a},0)$.
 
-%\noindent \uline{De eerste afgeleide} van $f(x)$ is $f^{'}(x)=(mx+b)^{'}=m$.
+%\uline{De eerste afgeleide} van $f(x)$ is $f^{'}(x)=(mx+b)^{'}=m$.
 %Dit betekent dat de eerste afgeleide ons meteen vertelt of het om
 %een stijgende of een dalende rechte gaat.
 %
-%\noindent Er zijn geen extrema, geen buigpunten...
+%Er zijn geen extrema, geen buigpunten...
 
 Tekenverloop: Zie Tabel \ref{tab:eerst_agr0} en \ref{tab:eerst_akl0}.
 \begin{table}[h]
@@ -127,19 +131,17 @@ Tekenverloop: Zie Tabel \ref{tab:eerst_agr0} en \ref{tab:eerst_akl0}.
 \label{tab:eerst_agr0}
 \end{table}
 
-\begin{table}[h]
+\begin{tabel}{Tekenverloop voor $a<0$.}
 	\centering\begin{tabular}{c||c|c|c}
 		$x$ &  & $-\frac{b}{a}$ & \\
 		\hline 
 		$f(x)$ & + & 0 & -\\
 	\end{tabular}
-	\caption{Tekenverloop voor $a<0$.}
 	\label{tab:eerst_akl0}
-\end{table}
+\end{tabel}
 
-\emph{Voorbeeld}
-
-Gegeven de functie: $f(x)=-2x+3$, zie Figuur \ref{fig:eerste_vb_graf}.
+\begin{voorbeeld}
+	Gegeven de functie: $f(x)=-2x+3$, zie Figuur \ref{fig:eerste_vb_graf}.
 
 Grafische voorstelling:
 \begin{itemize}
@@ -155,37 +157,39 @@ Grafische voorstelling:
 
 Nulpunten:
 
-\noindent We lossen de vergelijking $y=f(x)=-2x+3=0$ op en vinden:
+We lossen de vergelijking $y=f(x)=-2x+3=0$ op en vinden:
 $x=\frac{3}{2}$. Het snijpunt met de $x$-as is het punt $(\frac{3}{2},0)$.
 
 Tekenverloop: zie Tabel \ref{tab:eerste_vb}.
 
-\begin{table}[h]
-\centering
+\begin{tabel}{Voorbeeld eerstegraadsfunctie: tekenverloop}
 \begin{tabular}{c||c|c|c}
 	$x$ &  & $\frac{3}{2}$ & \\
 	\hline 
 	$f(x)$ & $+$ & 0 & $-$\\
 \end{tabular}
-\caption{Voorbeeld eerstegraadsfunctie: tekenverloop}
 \label{tab:eerste_vb}	
-\end{table}
+\end{tabel}
 
+\end{voorbeeld}
 
 \subsubsection{Tweedegraadsfuncties of kwadratische functies}
 
 
-\emph{Definitie}
 
-Functievoorschrift: $f(x)=ax^{2}+bx+c$ met $a\in\mathbb{R}_{0}$
+\begin{definitie}
+	Functievoorschrift: $f(x)=ax^{2}+bx+c$ met $a\in\mathbb{R}_{0}$
 en $b,c\in\mathbb{R}$ 
 
-\emph{Voorbeelden}
-$f(x)=3x^{2}+10x+1$ , $f(x)=-2x^{2}+5$
-, $f(x)=x^{2}$
+\end{definitie}
 
-\emph{Grafische voorstelling van de kwadratische functie
-is een parabool.}
+\begin{voorbeeld}
+	$f(x)=3x^{2}+10x+1$ , $f(x)=-2x^{2}+5$
+, $f(x)=x^{2}$
+\end{voorbeeld}
+
+Grafische voorstelling van de kwadratische functie
+is een parabool.
 Zie Figuur \ref{fig:tweede}
 \begin{figure}[h]
 \centering{}\includegraphics[width=.7\linewidth]{2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties1.jpg}
@@ -194,10 +198,10 @@ Zie Figuur \ref{fig:tweede}
 \end{figure}
 
 \begin{itemize}
-\item \noindent als $a>0$ is de top van de \textbf{dalparabool} het minimum
-\item \noindent als $a<0$ is de top van de \textbf{bergparabool} het maximum
+\item als $a>0$ is de top van de \textbf{dalparabool} het minimum
+\item als $a<0$ is de top van de \textbf{bergparabool} het maximum
 \end{itemize}
-\noindent Hoe groter de absolute waarde van $a$, hoe smaller de opening
+Hoe groter de absolute waarde van $a$, hoe smaller de opening
 van de parabool is.
 
 De verticale lijn door de top is de \textbf{symmetrieas}.
@@ -227,13 +231,13 @@ De parabool raakt met zijn top de $x$-as in \'e\'en punt.
 parabool ligt ofwel boven ofwel onder de $x$-as.
 \end{itemize}
 \begin{figure}[h]
-\centering{}\includegraphics[scale=0.5]{2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties2.jpg} 
+\centering{}\includegraphics[scale=0.8]{2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties2.jpg} 
 \caption{Grafische voorstelling van tweedegraadsfuncties voor verschillende waarden van $a$ en $D$.}
 \label{fig:tweede:gevallen}
 \end{figure}
 
 
-%\noindent \uline{Opmerking}: stellen we de eerste afgeleide gelijk
+%\uline{Opmerking}: stellen we de eerste afgeleide gelijk
 %aan nul, dan vinden we de $x$-co\"ordinaat van de top: $f^{'}(x)=(ax^{2}+bx+c)^{'}=2ax+b=0$
 %of $x=-\frac{b}{2a}$ . Het teken van de eerste afgeleide zegt ons
 %of de functie (links en rechts van de top) stijgt of daalt. Tenslotte,
@@ -297,9 +301,8 @@ $f(x)$ & teken van $a$\\
 %\end{tabular}
 
 
-\emph{Voorbeeld}
-
-Gegeven de functie $f$ met voorschrift: $f(x)=-x^{2}-5x+6$ 
+\begin{voorbeeld}
+	Gegeven de functie $f$ met voorschrift: $f(x)=-x^{2}-5x+6$ 
 
 Grafische voorstelling:
 \begin{itemize}
@@ -315,12 +318,12 @@ is daarom: $\textrm{bld}f=]-\infty;12,25]$
 
 Nulpunten:
 
-\noindent We lossen de vergelijking $y=f(x)=-x^{2}-5x+6=0$ op d.m.v.
+We lossen de vergelijking $y=f(x)=-x^{2}-5x+6=0$ op d.m.v.
 de abc formule. We berekenen daarvoor eerst de discriminant $D$:
 
 $D=b^{2}-4ac=(-5)^{2}-4.(-1).6=25+24=49$
 
-\noindent Omdat $D>0$ zijn er 2 re\"ele oplossingen, dus 2 snijpunten
+Omdat $D>0$ zijn er 2 re\"ele oplossingen, dus 2 snijpunten
 met de $x$-as. Deze zijn:
 \begin{itemize}
 \item $x_{1}=\frac{-b+\sqrt{D}}{2a}=\frac{-(-5)+\sqrt{49}}{2.(-1)}=-6$
@@ -339,13 +342,13 @@ en de top ligt boven de $x$-as (want het is een bergparabool), zie ook Figuur \r
 Tekenverloop:
 Zie Tabel \ref{tab:tweede:vb}
 
-\begin{table}[h]
-	\centering
+\begin{tabel}{Voorbeeld tweedegraadsfuncties: tekenverloop}
 \begin{tabular}{c||c|c|c|c|c}
 	$x$ &  & $-6$ &  & $1$ & \\
 	\hline 
 	$f(x)$ & $-$ & 0 & $+$ & 0 & $-$\\
 \end{tabular}
-\caption{Voorbeeld tweedegraadsfuncties: tekenverloop}
 \label{tab:tweede:vb}	
-\end{table}
+\end{tabel}
+
+\end{voorbeeld}

@@ -21,92 +21,87 @@ $y$-waarde toe. Met $x_{0}$ komt bijvoorbeeld $y_{0}$ overeen volgens
 $y_{0}=f(x_{0})$. Het getallenpaar $(x_{0}\,,\,y_{0})$ kunnen we
 als punt P in een rechthoekig of cartesisch co\"ordinatenstelsel tekenen.
 De twee co\"ordinaat-assen staan loodrecht op elkaar, de horizontale
-as noemen we de X-as en de verticale as de Y-as. Het snijpunt is de
+as noemen we de $x$-as en de verticale as de $y$-as. Het snijpunt is de
 oorsprong O.
 
-\noindent Voor ieder getallenpaar krijgen we precies \'e\'en punt. De
+Voor ieder getallenpaar krijgen we precies \'e\'en punt. De
 verzameling van alle punten $(x\,,\,y=f(x))$ vormt de grafiek of
 kromme van de functie. De grafiek laat het verloop van de functie
 in een figuur zien.
 
-\begin{figure}
-\centering
-\includegraphics[height=5cm]{2_elem_rekenvaardigheden_B/inputs/figuur10}
-\end{figure}
+\gewonefiguur{height=5cm}{2_elem_rekenvaardigheden_B/inputs/figuur10}
 
-\begin{table}
+\begin{tabel*}{}
 	\centering
-\begin{tabular}{|c|l|l|}
-	\hline 
+\begin{tabular}{cll}
 	We zeggen dat: & $x_{0},y_{0}$  & zijn de rechthoekige of cartesische co\"ordinaten\\
-	\hline 
 	& $x_{0}$  & is de abscis van het punt P\\
-	\hline 
 	& $y_{0}$ & is de ordinaat van het punt P\\
-	\hline 
 \end{tabular}
-\end{table}
+\end{tabel*}
 
-
-\noindent Het cartesisch co\"ordinatenstelsel is de gebruikelijke manier
+Het cartesisch co\"ordinatenstelsel is de gebruikelijke manier
 om een punt in een vlak aan te duiden. Omdat in dit platte vlak twee
 co\"ordinaten nodig zijn om een punt vast te leggen, zeggen we dat een
-vlak tweedimensionaal is. In feite is 'de dimensie van een ruimte'
+vlak tweedimensionaal is. In feite is \textquoteleft de dimensie van een ruimte\textquoteright \
 het aantal co\"ordinaten dat nodig is om de plaats van alle punten in
 die ruimte precies te kunnen bepalen. Zo bestaat de klassieke 3D-ruimte
 uit 3 dimensies en zijn er dus 3 co\"ordinaten $(x,y,z)$ nodig om de
 plaats van elk punt \'e\'enduidig te beschrijven. 
 
-\textbf{Parametervoorstelling van een functie}
+\subsubsection{Parametervoorstelling van een functie}
 
-\noindent Het is bij de wiskundige beschrijving van een bewegend lichaam
+Het is bij de wiskundige beschrijving van een bewegend lichaam
 vaak handig om de positie van het lichaam weer te geven door cartesische
 co\"ordinaten die zelf een functie van de tijd zijn. We noteren dan:
-\[
-x=x(t)\:,\;y=y(t)\quad\textrm{met}\:t_{1}\leq t\leq t_{2}
-\]
 
-\noindent We noemen een dergelijke voorstelling met een hulpvariabele
+\begin{equation*}
+x=x(t)\:,\;y=y(t)\quad\textrm{met}\:t_{1}\leq t\leq t_{2}
+\end{equation*}
+
+We noemen een dergelijke voorstelling met een hulpvariabele
 $t$ de parametervoorstelling van een functie. In de natuurwetenschappen
 en de techniek betekent de parameter $t$ meestal de tijd of een hoek.
 
-\noindent We krijgen voor iedere waarde van t uit het interval $t_{1}\leq t\leq t_{2}$
-precies \'e\'en punt van de kromme.\medskip{}
+We krijgen voor iedere waarde van t uit het interval $t_{1}\leq t\leq t_{2}$
+precies \'e\'en punt van de kromme.
 
 
-\noindent Voorbeeld 1: de horizontale worp
+\begin{voorbeeld}
+	de horizontale worp
 
-\noindent een lichaam wordt van een bepaalde hoogte horizontaal met
+een lichaam wordt van een bepaalde hoogte horizontaal met
 een constante beginsnelheid $v_{0}$ weggeworpen. T.g.v. de zwaartekracht
 verloopt de beweging vervolgens als een parabool (parabolische baan).
 De parametervergelijkingen van deze beweging zijn:
 
-\[
+\begin{equation*}
 x=v_{0}t\:,\;y=\frac{1}{2}gt^{2}\quad\textrm{met}\:t\geq0
-\]
+\end{equation*}
 
 
-\noindent Door het elimineren van de parameter vinden we de expliciete
+Door het elimineren van de parameter vinden we de expliciete
 vergelijking van de grafiek (parabool). Dit doen we door t uit de
 vergelijking van $x$ te halen en te substitueren in de vergelijking
-van $y$:
+van $y$: uit $x=v_{0}t$ volgt dat $t=\frac{x}{v_{0}}$ zodat \begin{equation*}
+y=\frac{1}{2}gt^{2}=\frac{1}{2}g\left(\frac{x}{v_{0}}\right)^{2}=\frac{g}{2v_{0}^{2}}x
+\end{equation*}
 
-uit $x=v_{0}t$ volgt dat $t=\frac{x}{v_{0}}$ zodat $y=\frac{1}{2}gt^{2}=\frac{1}{2}g\left(\frac{x}{v_{0}}\right)^{2}=\frac{g}{2v_{0}^{2}}x$
+\end{voorbeeld}
 
-
-\noindent Voorbeeld 2: de cirkel
+\begin{voorbeeld}
+	de cirkel
 
 Een veel gebruikte parametrisatie voor de cirkel met vergelijking
 $x^{2}+y^{2}=R^{2}$ is de volgende:
 
-\noindent 
-\[
+\begin{equation*}
 x=R\cos(t)\:,\;y=R\sin(t)\quad\textrm{met}\:0\leq t<2\pi
-\]
+\end{equation*}
 
-
-Opmerkingen:
-\begin{itemize}
+\begin{opmerking}
+	\ \\
+	\begin{itemize}
 \item de parameter $t$ stelt nu een hoek voor (uitgedrukt in radialen).
 Omdat $t=0$ en $t=2\pi$ hetzelfde punt voorstellen, zal men meestal
 $2\pi$ niet opnemen in het interval. Vandaar het $<$ en niet nog
@@ -116,8 +111,12 @@ de cirkel te bekomen moeten we de parameter t elimineren. Daarvoor
 gebruiken we een trucje. We weten dat voor elke hoek $\alpha$ de
 goniometrische grondformule geldt: $\cos^{2}\alpha+\sin^{2}\alpha=1$.
 Substitueren we nu $\cos(t)=\frac{x}{R}$ en $\sin(t)=\frac{y}{R}$
-in de grondformule dan bekomen we inderdaad $x^{2}+y^{2}=R^{2}$ .
+in de grondformule dan bekomen we inderdaad $x^{2}+y^{2}=R^{2}$.
 \end{itemize}
+
+\end{opmerking}
+\end{voorbeeld}
+
 
 \subsubsection{Poolco\"ordinaten}
 
@@ -135,45 +134,43 @@ Enkele opmerkingen:
 \begin{itemize}
 \item we defini\"eren de voerstraal $r$ steeds positief, dus $r\geq0$.
 \item we defini\"eren de hoek $\theta$ positief als de pijl van de positieve
-X-as naar de plaatsvector van P tegen de klok in draait (andersom
+$x$-as naar de plaatsvector van P tegen de klok in draait (andersom
 is de hoek negatief). Een hoek $\theta$ is \'e\'enduidig bepaald op veelvouden
 van 360\textdegree{} (of veelvouden van $2\pi$ in radialen) na. Meestal
 wordt de hoek $\theta$ gegeven in het interval $0\text{\textdegree}\leq\theta\leq360\text{\textdegree}$
-of $0\leq\theta\leq2\pi$. I.p.v. de Griekse letter theta ($\theta$
-) wordt ook vaak de letter phi ( $\varphi$ ) als hoekaanduiding gebruikt.
-\item de X- en Y-as maken geen deel uit van dit co\"ordinatenstelsel. We tekenen
+of $0\leq\theta\leq2\pi$. I.p.v. de Griekse letter theta ($\theta$) wordt ook vaak de letter phi ($\varphi$) als hoekaanduiding gebruikt.
+\item de $x$- en $y$-as maken geen deel uit van dit co\"ordinatenstelsel. We tekenen
 echter wel vaak een horizontale en verticale hulplijn om het uitzetten
 van de hoeken te vergemakkelijken.
 \item het poolco\"ordinatenstelsel is een kromlijnig co\"ordinatenstelsel: de
 co\"ordinaatlijnen zijn concentrische cirkels met de oorsprong O als
 middelpunt en langs stralen die radiaal vanuit O lopen. We noemen
-de oorsprong ook vaak 'de pool' en de X-as de 'poolas'.
+de oorsprong ook vaak \textquoteleft de pool\textquoteright\ en de $x$-as de \textquoteleft poolas\textquoteright.
 \item de pool (dus de oorsprong O) heeft als voerstraal $r=0$ terwijl de
 hoek $\theta$ onbepaald is.
 \item poolco\"ordinaten worden ook gebruikt bij het voorstellen van en het
 werken met complexe getallen.
 \end{itemize}
 
-
-\noindent Soms is het handig of noodzakelijk om over te stappen van
+Soms is het handig of noodzakelijk om over te stappen van
 cartesische co\"ordinaten naar poolco\"ordinaten of omgekeerd. Daarvoor
 gebruiken we het volgende stel transformatievergelijkingen:
 
+\vspace{1cm}
+
 \begin{minipage}{.48\linewidth}
 %\begin{table}
-	\begin{tabular}{|l|c|l|}
-		\hline 
+	\begin{tabular}{lcl}
 		cartesische co\"ordinaten &  & poolco\"ordinaten  \\
 		\hline
 		gegeven P met $\left(x,y\right)$ & $\rightarrow$ & dan is $\begin{cases}
 		r=\sqrt{x^{2}+y^{2}}\\
-		\textrm{tg}\theta=\frac{y}{x}
+		\tan\theta=\frac{y}{x}
 		\end{cases}$  \\
 		dan is $\begin{cases}
 		x=r.\cos\theta\\
 		y=r.\sin\theta
 		\end{cases}$ & $\leftarrow$ & gegeven P met $\left(r,\theta\right)$ \\
-		\hline 
 	\end{tabular}
 %\end{table}
 \end{minipage}
@@ -183,23 +180,23 @@ gebruiken we het volgende stel transformatievergelijkingen:
 	\includegraphics[width=0.7\linewidth]{2_elem_rekenvaardigheden_B/inputs/figuur9}
 \end{minipage}
 
+\vspace{1cm}
 
-Opmerking: let op bij het berekenen van de hoek $\theta$. Je rekenmachine
-zal als resultaat van de $\textrm{Arctg}\left(\frac{y}{x}\right)$
+\begin{opmerking}
+let op bij het berekenen van de hoek $\theta$. Je rekenmachine
+zal als resultaat van de $\textrm{Arctan}\left(\frac{y}{x}\right)$
 een hoek geven in het 1ste of 4de kwadrant. Je moet dus zelf, bij
 het resultaat van je rekenmachine nog 180\textdegree{} of $\pi$ optellen
 als het punt P in het 2de of 3de kwadrant ligt.
+\end{opmerking}
 
-\noindent De voorstelling van een functie in poolco\"ordinaten
+De voorstelling van een functie in poolco\"ordinaten
 
-\noindent Een functie (kromme) in poolco\"ordinaten wordt beschreven
-door een vergelijking van de vorm:
-\[
-r=r(\theta)
-\]
+Een functie (kromme) in poolco\"ordinaten wordt beschreven
+door een vergelijking van de vorm: $r=r(\theta)$
 
 
-\noindent We stellen een functiewaardentabel op voordat we de grafiek
+We stellen een functiewaardentabel op voordat we de grafiek
 van de functie tekenen. Voor verschillende waarden $\theta_{1}$ ,
 $\theta_{2}$ , $\theta_{3}$ , ... berekenen we de bijhorende voerstralen
 $r_{1}=r\left(\theta_{1}\right)$ , ... Daarna tekenen we de punten
@@ -208,17 +205,12 @@ deze d.m.v. een vloeiende lijn.
 
 \begin{minipage}{.48\linewidth}
 	\centering
-	\begin{tabular}{|c|c|}
-		\hline 
+	\begin{tabular}{c|c}
 		$\theta$ & $r=r(\theta)$\\
 		\hline 
-		\hline 
 		$\theta_{1}$ & $r_{1}=r\left(\theta_{1}\right)$ \\
-		\hline 
 		$\theta_{2}$ & $r_{2}=r\left(\theta_{2}\right)$ \\
-		\hline 
 		$\vdots$ & $\vdots$\\
-		\hline 
 	\end{tabular}
 \end{minipage}
 \begin{minipage}{.48\linewidth}
@@ -228,7 +220,8 @@ In de figuur zijn de hoeken aangeduid met $\varphi$ ipv $\theta$
 
 
 
-Voorbeeld 1: de spiraal van Archimedes
+\begin{voorbeeld}
+	de spiraal van Archimedes
 
 Schets de kromme met vergelijking $r=\theta$ waarbij $0\leq\theta\leq2\pi$
 
@@ -238,60 +231,44 @@ noodzakelijk overal even groot te zijn).
 
 \begin{minipage}{.48\linewidth}
 	\centering
-	\begin{tabular}{|c|c|}
-		\hline 
+	\begin{tabular}{c|c}
 		$\theta$ & $r=r(\theta)=\theta$\\
 		\hline 
-		\hline 
 		$0$ & 0\\
-		\hline 
-		$\frac{\pi}{4}$ & 0.785 \\
-		\hline 
-		$\frac{\pi}{2}$ & 1.571\\
-		\hline 
-		$3\frac{\pi}{4}$ & 2.356\\
-		\hline 
-		$\pi$ & 3.142\\
-		\hline 
-		$3\frac{\pi}{2}$ & 4.712\\
-		\hline 
-		$2\pi$ & 6.283\\
-		\hline 
+		$\frac{\pi}{4}$ & 0,785 \\
+		$\frac{\pi}{2}$ & 1,571\\
+		$3\frac{\pi}{4}$ & 2,356\\
+		$\pi$ & 3,142\\
+		$3\frac{\pi}{2}$ & 4,712\\
+		$2\pi$ & 6,283\\
 	\end{tabular}
 \end{minipage}
 \begin{minipage}{.48\linewidth}
 \includegraphics[height=5cm]{2_elem_rekenvaardigheden_B/inputs/figuur8}
 \end{minipage}
 
-Voorbeeld 2: de cardio\"ide
+\end{voorbeeld}
+\begin{voorbeeld}
+	de cardio\"ide
 
 Schets de kromme met vergelijking $r=1+\cos\theta$ waarbij $0\text{\textdegree}\leq\theta\leq360\text{\textdegree}$
 
 We stellen een functiewaardentabel op. Wegens de symmetrie t.o.v.
-de X-as berekenen we slechts de radius-waarden tussen 0\textdegree{}
+de $x$-as berekenen we slechts de radius-waarden tussen 0\textdegree{}
 en 180\textdegree .
 
 \begin{minipage}{0.5\linewidth}
 	\centering
-\begin{tabular}{|c|c|}
-\hline 
+\begin{tabular}{c|c}
 $\theta$ & $r=r(\theta)$\\
 \hline 
-\hline 
 0\textdegree{} & 2\\
-\hline 
-30\textdegree{} & 1.866\\
-\hline 
-60\textdegree{} & 1.5\\
-\hline 
+30\textdegree{} & 1,866\\
+60\textdegree{} & 1,5\\
 90\textdegree{} & 1\\
-\hline 
-120\textdegree{} & 0.5\\
-\hline 
-150\textdegree{} & 0.134\\
-\hline 
+120\textdegree{} & 0,5\\
+150\textdegree{} & 0,134\\
 180\textdegree{} & 0\\
-\hline 
 \end{tabular}
 \end{minipage}
 \begin{minipage}{.48\linewidth}
@@ -300,7 +277,10 @@ $\theta$ & $r=r(\theta)$\\
 %	\end{figure}
 \end{minipage} 
 
-Voorbeeld 3: de cirkel
+\end{voorbeeld}
+
+\begin{voorbeeld}
+	de cirkel
 
 Schets de kromme met vergelijking $r=2$ waarbij $0\text{\textdegree}\leq\theta<360\text{\textdegree}$
 
@@ -312,3 +292,4 @@ ingewikkeldere notatie: $x^{2}+y^{2}=2^{2}$. Schrijven we $y$ expliciet
 dan zien we meteen ook dat dit eigenlijk geen functie is (met elke
 $x$-waarde komen immers 2 $y$-waarden overeen): $y=\pm\sqrt{4-x^{2}}$
 
+\end{voorbeeld}

@@ -2,80 +2,83 @@
 
 \subsubsection{Absolute en relatieve extrema}
 
-\emph{Definitie}
 
-\noindent Een functie $f$ heeft een \textbf{absoluut maximum} $f(x_{0})$
+\begin{definitie}
+	Een functie $f$ heeft een \textbf{absoluut maximum} $f(x_{0})$
 in het punt $x_{0}\in\textrm{dom}\:f$, als voor alle $x\in\textrm{dom}\:f$
 geldt dat $f(x_{0})\geqslant f(x)$
 
-\noindent Een functie $f$ heeft een \textbf{absoluut minimum} $f(x_{0})$
+Een functie $f$ heeft een \textbf{absoluut minimum} $f(x_{0})$
 in het punt $x_{0}\in\textrm{dom}\:f$, als voor alle $x\in\textrm{dom}\:f$
 geldt dat $f(x_{0})\leqslant f(x)$
 
-\noindent Een functie $f$ heeft een \textbf{relatief of lokaal maximum}
+Een functie $f$ heeft een \textbf{relatief of lokaal maximum}
 in het punt $x_{0}$, indien er een open interval $I$ bestaat rond
 het punt $x_{0}$ zodat voor alle $x$ in het interval $I$ geldt
 dat $f(x_{0})\geqslant f(x)$
 
-\noindent Een functie $f$ heeft een \textbf{relatief of lokaal minimum}
+Een functie $f$ heeft een \textbf{relatief of lokaal minimum}
 in het punt $x_{0}$, indien er een open interval $I$ bestaat rond
 het punt $x_{0}$ zodat voor alle $x$ in het interval $I$ geldt
 dat $f(x_{0})\leqslant f(x)$
 
-\medskip{}
+\end{definitie}
 
 
-\emph{Voorbeeld}
-
-\begin{figure}[h]
+\begin{voorbeeld}
+	\begin{figure}[h]
 \centering{}\includegraphics[height=7cm]{2_elem_rekenvaardigheden_B/inputs/verloop_vb1.jpg} 
 \caption{Voorbeeld absolute en relatieve extrema.}
 \label{fig:vb1}
 \end{figure}
 
 
-Voor de functie in gegeven in Figuur \ref{fig:vb1} zijn \noindent $x_{1},\:x_{2},\:x_{3},\:x_{4},\:x_{5}$ relatieve
+Voor de functie in gegeven in Figuur \ref{fig:vb1} zijn $x_{1},\:x_{2},\:x_{3},\:x_{4},\:x_{5}$ relatieve
 of lokale extrema. Hiervan zijn $x_{4}$ en $x_{5}$ absolute extrema.
 
-\noindent $x_{1},\:x_{3},\:x_{5}$ zijn relatieve of lokale maxima.
+$x_{1},\:x_{3},\:x_{5}$ zijn relatieve of lokale maxima.
 Hiervan is $x_{5}$ een absoluut maximum.
 
-\noindent $x_{2},\:x_{4}$ zijn relatieve of lokale minima. Hiervan
+$x_{2},\:x_{4}$ zijn relatieve of lokale minima. Hiervan
 is $x_{4}$ een absoluut minimum.
 
+\end{voorbeeld}
 
 \subsubsection{Stijgen, dalen en extrema}
 
-\noindent De eerste afgeleide speelt een belangrijke rol bij het onderzoek
+De eerste afgeleide speelt een belangrijke rol bij het onderzoek
 naar het verloop van een functie. Men zal dus het tekenverloop van
 deze afgeleide onderzoeken.
 
-\medskip{}
-\emph{Definitie}
 
-\noindent Als de eerste afgeleide $f^{'}(x)>0$ is in een interval,
+
+
+\begin{definitie}
+	Als de eerste afgeleide $f^{'}(x)>0$ is in een interval,
 dan zal deze functie in dat interval \textbf{stijgen}.
 
-\noindent Als de eerste afgeleide $f^{'}(x)<0$ is in een interval,
+Als de eerste afgeleide $f^{'}(x)<0$ is in een interval,
 dan zal deze functie in dat interval \textbf{dalen}.
 
-\noindent De functie zal een relatief of lokaal extremum (maximum
+De functie zal een relatief of lokaal extremum (maximum
 of minimum) bereiken waar de kromme overgaat van een stijgende functie
 naar een dalende functie of omgekeerd.
 
-\noindent Een functie $f(x)$ heeft in het punt $(x_{0},y_{0})$ een
+Een functie $f(x)$ heeft in het punt $(x_{0},y_{0})$ een
 extremum als in dat punt aan de volgende voorwaarden voldaan is:
 
-\textbullet{} als $f^{'}(x_{0})=0$ en $f^{''}(x_{0})>0$ zal het
-extremum een minimum zijn, en
-
-\textbullet{} als $f^{'}(x_{0})=0$ en $f^{''}(x_{0})<0$ zal het
-extremum een maximum zijn.
-
-\bigskip{}
-
-\emph{Opmerkingen}
 \begin{itemize}
+\item als $f^{'}(x_{0})=0$ en $f^{''}(x_{0})>0$ zal het
+extremum een minimum zijn, en
+\item als $f^{'}(x_{0})=0$ en $f^{''}(x_{0})<0$ zal het
+extremum een maximum zijn.
+\end{itemize}
+
+\end{definitie}
+
+\begin{opmerking}
+	\ \\
+	\begin{itemize}
 \item Opmerking 1: in een extremum bezit de functie een horizontale
 raaklijn (aangezien $f^{'}(x_{0})=0$ is).
 \item Opmerking 2: indien $f^{'}(x_{0})=0$ en ook $f^{''}(x_{0})=0$
@@ -86,29 +89,33 @@ nul is moeten we naar de eerstvolgende afgeleide gaan kijken die niet
 nul is. Stel dat deze van de n$^{de}$ orde is, dus $f^{(n)}(x_{0})\neq0$
 . Als dan n even is, is er in $x_{0}$ een lokaal minimum als $f^{(n)}(x_{0})>0$
 , en een lokaal maximum als $f^{(n)}(x_{0})<0$ . Is de n$^{de}$
-oneven dan is $x_{0}$ terug een buigpunt. Tip: als je dit moeilijk
+oneven dan is $x_{0}$ terug een buigpunt. 
+
+Tip: als je dit moeilijk
 kan onthouden, denk dan aan de eenvoudige functies $f(x)=x^{2}$ en
 $f(x)=x^{3}$ . De functie $x^{2}$ heeft een minimum in nul, terwijl
 $x^{3}$ in de oorsprong een buigpunt heeft.
 \end{itemize}
 
+\end{opmerking}
 
-\emph{Voorbeeld}
 
-\noindent Onderzoek het stijgen en dalen van volgende functie $f$ met voorschrift: $f(x)=x^{3}-3x^{2}$, zie figuur \ref{fig:vb2}.
 
-\noindent De eerste afgeleide $f^{'}(x)=3x^{2}-6x$ is nul als $3x^{2}-6x=3x(x-2)=0$, dus als $x=0$ of als $x=2$.
+\begin{voorbeeld}
+	Onderzoek het stijgen en dalen van volgende functie $f$ met voorschrift: $f(x)=x^{3}-3x^{2}$, zie figuur \ref{fig:vb2}.
 
-\noindent Om de $y$-co\"ordinaat van deze extrema punten te vinden
+De eerste afgeleide $f^{'}(x)=3x^{2}-6x$ is nul als $3x^{2}-6x=3x(x-2)=0$, dus als $x=0$ of als $x=2$.
+
+Om de $y$-co\"ordinaat van deze extrema punten te vinden
 vullen we $x=0$ en $x=2$ in in de functie $f(x)$. Dit geeft: $f(0)=0$
 en $f(2)=-4$.
 
-\noindent De functie $f$ zal in de punten $(0,0)$ en $(2,-4)$ een
+De functie $f$ zal in de punten $(0,0)$ en $(2,-4)$ een
 extremum bezitten. In het punt $(0,0)$ is dit een maximum en in het
 punt $(2,-4)$ een minimum. De raaklijn is in die punten ook telkens
 horizontaal.
 
-\noindent Aangezien de eerste afgeleide een tweedegraadsfunctie is,
+Aangezien de eerste afgeleide een tweedegraadsfunctie is,
 zullen we het tekenverloop van de tweedegraadsfunctie toepassen, zie Tabel \ref{tab:stijgen}.
 
 \begin{table}
@@ -131,30 +138,36 @@ zullen we het tekenverloop van de tweedegraadsfunctie toepassen, zie Tabel \ref{
 \label{fig:vb2}
 \end{figure}
 
+\end{voorbeeld}
+
 \subsubsection{Convex, concaaf en buigpunten}
 
-\noindent Ook de tweede afgeleide speelt een belangrijke rol bij het
+Ook de tweede afgeleide speelt een belangrijke rol bij het
 onderzoek naar het verloop van een functie. Men zal dus ook het tekenverloop
-van de tweede afgeleide onderzoeken.\medskip{}
+van de tweede afgeleide onderzoeken.
 
-\emph{Definitie}
 
-\noindent Als de tweede afgeleide $f^{''}(x)>0$ is in een interval,
+\begin{definitie}
+	Als de tweede afgeleide $f^{''}(x)>0$ is in een interval,
 dan zal de functie in dat interval \textbf{hol of concaaf} zijn (symbool:
 $\bigcup$).
 
-\noindent Als de tweede afgeleide $f^{''}(x)<0$ is in een interval,
+Als de tweede afgeleide $f^{''}(x)<0$ is in een interval,
 dan zal de functie in dat interval \textbf{bol of convex} zijn (symbool:
 $\bigcap$).
 
-\noindent Punten waar de kromme overgaat van convex naar concaaf of
+Punten waar de kromme overgaat van convex naar concaaf of
 omgekeerd, noemt men \textbf{buigpunten}. In een buigpunt verandert
 dus de tweede afgeleide van teken. Een functie $f(x)$ heeft in het
 punt $(x_{0},y_{0})$ een buigpunt als in dat punt aan de volgende
 voorwaarden voldaan zijn: $f^{''}(x_{0})=0$ en $f^{'''}(x_{0})\neq0$
 
-\emph{Opmerkingen}
-\begin{itemize}
+\end{definitie}
+
+
+\begin{opmerking}
+	\ \\
+	\begin{itemize}
 	\item Opmerking 1: in een buigpunt snijdt de raaklijn de kromme,
 	deze raaklijn noemt men de buigraaklijn.
 	
@@ -162,20 +175,22 @@ voorwaarden voldaan zijn: $f^{''}(x_{0})=0$ en $f^{'''}(x_{0})\neq0$
 	is een buigpunt nooit een extremum.
 \end{itemize}
 
-\emph{Voorbeelden}
+\end{opmerking}
 
-\noindent \uline{Voorbeeld 1}: Onderzoek het hol en bol zijn van
+
+\begin{voorbeeld}
+	Onderzoek het hol en bol zijn van
 de functie $f$ met voorschrift $f(x)=x^{3}-3x^{2}$, zie figuur \ref{fig:vb3}.
 
-\noindent De eerste afgeleide is $f^{'}(x)=3x^{2}-6x$ 
+De eerste afgeleide is $f^{'}(x)=3x^{2}-6x$ 
 
-\noindent De tweede afgeleide is $f^{''}(x)=6x-6$ en is nul als $6x-6=6(x-1)=0$
+De tweede afgeleide is $f^{''}(x)=6x-6$ en is nul als $6x-6=6(x-1)=0$
 , en dus als $x=1$.
 
-\noindent Om de $y$-co\"ordinaat van dit buigpunt te vinden vullen
+Om de $y$-co\"ordinaat van dit buigpunt te vinden vullen
 we $x=1$ in in de functie $f(x)$. Dit geeft: $f(1)=-2$.
 
-\noindent Aangezien de tweede afgeleide een eerstegraadsfunctie is,
+Aangezien de tweede afgeleide een eerstegraadsfunctie is,
 zullen we het tekenverloop van de eerstegraadsfunctie toepassen, zie Tabel \ref{tab:convex}.
 
 \begin{table}
@@ -198,32 +213,36 @@ zullen we het tekenverloop van de eerstegraadsfunctie toepassen, zie Tabel \ref{
 \label{fig:vb3}
 \end{figure}
 
-\noindent \uline{Voorbeeld 2}: wat kan je zeggen over de functie $f$ met voorschrift
+\end{voorbeeld}
+\begin{voorbeeld}
+	Wat kan je zeggen over de functie $f$ met voorschrift
 $f(x)=x^{3}$ in het punt waar $x=0$ is?
 
-\noindent De eerste afgeleide is $f^{'}(x)=3x^{2}$ en is nul als
+De eerste afgeleide is $f^{'}(x)=3x^{2}$ en is nul als
 $x=0$. Dus $x=0$ kan een extremum zijn.
 
-\noindent De tweede afgeleide is $f^{''}(x)=6x$ en is nul als $x=0$.
+De tweede afgeleide is $f^{''}(x)=6x$ en is nul als $x=0$.
 We kunnen niks zeggen; we moeten naar de eerstvolgende afgeleide gaan
 kijken die niet nul is.
 
-\noindent De derde afgeleide is $f^{'''}(x)=6$. De derde orde afgeleide
+De derde afgeleide is $f^{'''}(x)=6$. De derde orde afgeleide
 (n=3 is oneven) is niet nul, dus het punt $x=0$ is een buigpunt (en
 geen extremum).
 
-\medskip{}
+\end{voorbeeld}
 
-
-\noindent \uline{Voorbeeld 3}: zoek de buigpunten van de functie $f$ met voorschrift
+\begin{voorbeeld}
+	Zoek de buigpunten van de functie $f$ met voorschrift
 $f(x)=\cos(x)$.
 
-\noindent De eerste afgeleide is $f^{'}(x)=-\sin(x)$. De nulpunten
+De eerste afgeleide is $f^{'}(x)=-\sin(x)$. De nulpunten
 van $\sin x$ zijn $\{x=n\pi\:\textrm{met}\:n\in\mathbb{Z}\}$. In
 deze punten kan $f(x)=\cos(x)$ een extremum bereiken.
 
-\noindent De tweede afgeleide is $f^{''}(x)=-\cos(x)$. De nulpunten
+De tweede afgeleide is $f^{''}(x)=-\cos(x)$. De nulpunten
 van $\cos(x)$ zijn $\{x=\frac{\pi}{2}+n\pi\:\textrm{met}\:n\in\mathbb{Z}\}$.
 In deze punten verandert de cosinus en dus ook de tweede afgeleide
 van teken, dus dit zijn buigpunten. M.a.w. de nulpunten van de functie
 $f(x)=\cos(x)$ zijn tevens de buigpunten (dit geldt ook voor de sinus).
+
+\end{voorbeeld}
