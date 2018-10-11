@@ -420,10 +420,7 @@ Laten we eerst naar een voorbeeld kijken.
 \begin{voorbeeld}
 Stel $f(x)= 1-\frac{1}{x\text{\texttwosuperior}}$
 
-\begin{figure}[h]
-\centering{}\includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Asymptoot - horizontaal\string"} 
-\end{figure}
-
+\gewonefiguur{height=5cm}{2_elem_rekenvaardigheden_B/inputs/AsymptootHorizontaal}
 
 We stellen vast dat naarmate $x$ toeneemt, $f(x)$ waarden
 aanneemt die onbeperkt dicht bij 1 komen te liggen. Hetzelfde gebeurt
@@ -470,9 +467,7 @@ gaande naar $\text{\textminus\ensuremath{\infty}}$ gewoon naar $0$
 gaat. Dus de rechte met vergelijking $y=0$ is hier dan een horizontale
 asymptoot.
 
-\begin{figure}[h]
-\centering{}\includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Asymptoot - oneindig\string".eps} 
-\end{figure}
+\gewonefiguur{height=5cm}{2_elem_rekenvaardigheden_B/inputs/AsymptootOneindig}
 
 Algemeen:
 
@@ -502,23 +497,16 @@ We kunnen alvast zeggen dat $b\in\overline{\mathbb{R}}$.
 \begin{voorbeeld}
 	Als voorbeeld beschouwen we de functie $f(x)={\displaystyle \frac{5x\text{\texttwosuperior}-5x}{x-1}}={\displaystyle \frac{5x(x-1)}{x-1}}$ 
 
-\begin{figure}[h]
-\centering{}\includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Continu - vb3\string".eps} 
-\end{figure}
+\gewonefiguur{height=5cm}{2_elem_rekenvaardigheden_B/inputs/Continuvb3}
 
 Wanneer we het argument $x$ laten naderen tot 1, dan stellen
 we vast dat $f(x)$ nadert naar 5, en dit zowel langs de linker als
 langs de rechterkant van 1.
 
-
-
-
 We schrijven: ${\displaystyle \lim_{\overset{x\rightarrow1}{<}}}{\displaystyle \frac{5x\text{\texttwosuperior}-5x}{x-1}}=5$
 en ${\displaystyle \lim_{\overset{x\rightarrow1}{>}}}{\displaystyle \frac{5x\text{\texttwosuperior}-5x}{x-1}}=5$ 
 
 \end{voorbeeld}
-
-
 
 Algemeen:
 
@@ -530,7 +518,6 @@ als het argument $x$ maar dicht genoeg nabij $a$ komt.
 {\displaystyle \lim_{\overset{x\rightarrow a}{>}}}f(x)=b & \Leftrightarrow & \forall\varepsilon>0,\:\exists\delta>0:\:x\in]a,a+\delta[\:\Rightarrow\left|f(x)-b\right|<\varepsilon\\
 \end{eqnarray*}
 
-
 Hierbij gaat men ervan uit dat men eerst $\varepsilon$ vrij (willekeurig
 klein) gekozen heeft en dat men dan $\delta$ bepaalt in functie van
 de gekozen $\varepsilon$ .
@@ -539,9 +526,6 @@ Het gebruik van deze definitie veronderstelt dat $f(x)$ gedefinieerd
 is in een omgeving van $a$ , maar niet noodzakelijk in $a$ zelf
 (herinner je dat de limietberekenaar niet ge\"interesseerd is in $f(a)$
 )! 
-
-
-
 
 Even terzijde: aangezien in bovenstaand voorbeeld zowel
 de linker- als rechterlimiet bestaan en gelijk zijn, bestaat de limiet:
@@ -555,25 +539,20 @@ de functiewaarde gelijk aan de limiet (zodat de nieuwe, uitgebreide
 functie nu wel overal gedefinieerd is, en bovendien overal continu
 is). We spreken dan van een ophefbare discontinu\"iteit.
 
-
-
-
 De ``nieuwe'' functie $f(x)$ wordt nu gedefinieerd als:
 $f(x):\:\begin{cases}
 x\rightarrow\frac{5x\text{\texttwosuperior}-5x}{x-1} & \quad\mathrm{als}\:x\neq1\\
 x\rightarrow5 & \quad\mathrm{als}\:x=1
 \end{cases}$
 
-
-
-
 Uiteraard is het ook mogelijk dat $f(x)$ onbeperkt toeneemt
-als $x$ onbeperkt nadert tot $a$. Als voorbeeld bekijken we de functie
+als $x$ onbeperkt nadert tot $a$. 
+
+\begin{voorbeeld}
+Als voorbeeld bekijken we de functie
 $f(x)=\frac{1}{x}$.
 
-\begin{figure}[h]
-\centering{}\includegraphics[height=5cm]{\string"2_elem_rekenvaardigheden_B/inputs/Asymptoot - verticaal\string".eps} 
-\end{figure}
+\gewonefiguur{height=5cm}{2_elem_rekenvaardigheden_B/inputs/AsymptootVerticaal}
 
 Nadert $x$ langs rechts naar $0$, dit wil zeggen langs
 waarden die groter zijn dan nul, dan worden de functiewaarden onbegrensd
@@ -589,9 +568,7 @@ langs links naar $0$ nadert.
 We schrijven: ${\displaystyle \lim_{\overset{x\rightarrow0}{>}}}{\displaystyle \frac{1}{x}}={\displaystyle \frac{1}{0^{+}}}=+\infty$
 en ${\displaystyle \lim_{\overset{x\rightarrow0}{<}}}{\displaystyle \frac{1}{x}}={\displaystyle \frac{1}{0^{-}}}=-\infty$
 
-
-
-
+\end{voorbeeld}
 Algemeen:
 
 Indien de waarden van $f(x)$ onbeperkt toenemen als $x$ maar dicht
@@ -604,8 +581,6 @@ genoeg bij $a$ komt, zegt men:
 
 Hierbij gaat men ervan uit dat men eerst $n$ vrij gekozen heeft en
 dat men dan $\delta$ bepaalt in functie van de gekozen $n$ .
-
-
 
 De verticale rechte met vergelijking $x=a$ noemen we de \textbf{verticale
 asymptoot} van de functie $f(x)$. In ons voorbeeld met de functie
@@ -625,34 +600,24 @@ en voor $x\rightarrow0^{+}$ naar $+\infty$ benadert.
 
 \subsection{Linkerlimiet en rechterlimiet}
 
-Soms is de waarde van ${\displaystyle \lim_{x\to a}}f(x)$ afhankelijk
+Soms is de waarde van $\lim_{x\to a}f(x)$ afhankelijk
 van de manier waarop we naar $a$ naderen. We maken in dat geval een
 onderscheid tussen
 
-
-
 \begin{table}[h]
 \centering
-\begin{tabular}{|l|c|l|}
-	\hline 
-	\multirow{2}{*}{de linkerlimiet} & ${\displaystyle \lim_{\overset{x\rightarrow a}{<}}}f(x)$ & we naderen $a$ langs de te kleine kant van $a$ ($\lyxmathsym{\textquotedblleft}<\lyxmathsym{\textquotedblright}$)\\
-	\cline{2-3} 
-	& ${\displaystyle \lim_{x\uparrow a}}f(x)$ & $x$ stijgt tot aan de waarde van $a$\\
-	\hline 
-	\multirow{2}{*}{de rechterlimiet} & ${\displaystyle \lim_{\overset{x\rightarrow a}{>}}}f(x)$ & we naderen $a$ langs de te grote kant van $a$ $(\lyxmathsym{\textquotedblleft}>\lyxmathsym{\textquotedblright}$)\\
-	\cline{2-3} 
-	& ${\displaystyle \lim_{x\downarrow a}}f(x)$ & $x$ daalt tot aan de waarde van $a$\\
-	\hline 
+\begin{tabular}{lcl}
+	\multirow{2}{*}{de linkerlimiet} & $\lim_{\overset{x\rightarrow a}{<}}f(x)$ & we naderen $a$ langs de te kleine kant van $a$ ($\lyxmathsym{\textquotedblleft}<\lyxmathsym{\textquotedblright}$)\\
+	& $\lim_{x\uparrow a}f(x)$ & $x$ stijgt tot aan de waarde van $a$\\
+	\multirow{2}{*}{de rechterlimiet} & $\lim_{\overset{x\rightarrow a}{>}}f(x)$ & we naderen $a$ langs de te grote kant van $a$ $(\lyxmathsym{\textquotedblleft}>\lyxmathsym{\textquotedblright}$)\\
+	& $\lim_{x\downarrow a}f(x)$ & $x$ daalt tot aan de waarde van $a$\\
 \end{tabular}
 \end{table}
-
-
-
 
 Wanneer de linker- en rechterlimiet van elkaar verschillen,
 zeggen we dat de limiet niet bestaat. 
 
-Enkel als ${\displaystyle \lim_{\overset{x\rightarrow a}{<}}}f(x)={\displaystyle \lim_{\overset{x\rightarrow a}{>}}}f(x)={\displaystyle \lim_{x\to a}}f(x)=b\;(\in\mathbb{R})$
+Enkel als $\lim_{\overset{x\rightarrow a}{<}}f(x)=\lim_{\overset{x\rightarrow a}{>}}f(x)=\lim_{x\to a}f(x)=b\;(\in\mathbb{R})$
 zeggen we dat \textbf{de} limiet bestaat.
 
 Zie ook het paragraafje over \emph{continu versus discontinu}.
@@ -678,12 +643,12 @@ Stel de functie $g(x)=\sqrt{x-4}$
 Deze functie bestaat enkel voor $x\geq4$ (we schrijven $dom\,g=[4,+\infty[$
 )
 
-We berekenen de linkerlimiet: ${\displaystyle \lim_{\overset{x\rightarrow4}{<}}}\sqrt{x-4}$
+We berekenen de linkerlimiet: $\lim_{\overset{x\rightarrow4}{<}}\sqrt{x-4}$
 maar deze bestaat niet.
 
-We berekenen de rechterlimiet: ${\displaystyle \lim_{\overset{x\rightarrow4}{>}}}\sqrt{x-4}=0$ 
+We berekenen de rechterlimiet: $\lim_{\overset{x\rightarrow4}{>}}\sqrt{x-4}=0$ 
 
-We kunnen besluiten dat de limiet ${\displaystyle \lim_{x\to4}}\sqrt{x-4}$
+We kunnen besluiten dat de limiet $\lim_{x\to4}\sqrt{x-4}$
 niet bestaat (enkel de rechterlimiet bestaat wel).
 
 \end{voorbeeld}
@@ -694,64 +659,57 @@ In de onderstelling dat de limieten bestaan en eindig zijn gelden
 de onderstaande rekenregels.
 
 De limieten van $f(x)$ en $g(x)$ bestaan en zijn eindig,
-dus: ${\displaystyle \lim_{x\to a}}f(x)=F$ en ${\displaystyle \lim_{x\to a}}g(x)=G$.
+dus: $\lim_{x\to a}f(x)=F$ en $\lim_{x\to a}g(x)=G$.
 
-%\begin{table}[h]
-%	\centering
-	\begin{tabular}{|l|l|l|}
-		\hline 
-		1 & ${\displaystyle \lim_{x\to a}}c=c$ & met $c$ een constante ($c\in\mathbb{R}$)\\
-		\hline 
-		2 & ${\displaystyle \lim_{x\to a}}x=a$ & \\
-		\hline 
-		3 & ${\displaystyle \lim_{x\to a}}c.f(x)={\displaystyle c.\lim_{x\to a}}f(x)=c.F$ & met $c\in\mathbb{R}$\\
-		\hline 
-		4 & ${\displaystyle \lim_{x\to a}}\left[f(x)\pm g(x)\right]={\displaystyle \lim_{x\to a}}f(x)\pm{\displaystyle \lim_{x\to a}}g(x)=F\pm G$ & \\
-		\hline 
-		5 & ${\displaystyle \lim_{x\to a}}\left[f(x).g(x)\right]={\displaystyle \lim_{x\to a}}f(x).{\displaystyle \lim_{x\to a}}g(x)=F.G$ & \\
-		\hline 
-		6 & ${\displaystyle \lim_{x\to a}}{\displaystyle \left[\frac{f(x)}{g(x)}\right]}=\frac{{\displaystyle \lim_{x\to a}}f(x)}{{\displaystyle \lim_{x\to a}}g(x)}={\displaystyle \frac{F}{G}}$ & mits ${\displaystyle \lim_{x\to a}}g(x)\neq0$\\
-		\hline 
-		7 & ${\displaystyle \lim_{x\to a}}\left[f\left(g(x)\right)\right]=f\left({\displaystyle \lim_{x\to a}}g(x)\right)$ & mits $f$ continu is in het punt ${\displaystyle \lim_{x\to a}}g(x)=b$ \\
-		\hline 
-		& hier kunnen nog enkele eigenschappen bijkomen & \\
-		\hline 
+\begin{ftrekenregel}
+	\begin{tabel*}{}
+	\centering
+	\begin{tabular}{ll}
+
+		1 & $\lim_{x\to a}c=c$ met $c$ een constante ($c\in\mathbb{R}$)\\
+
+		2 & $\lim_{x\to a}x=a$  \\
+
+		3 & $\lim_{x\to a}c\cdot f(x)=c\cdot \lim_{x\to a}f(x)=c\cdot F$  met $c\in\mathbb{R}$\\
+
+		4 & $\lim_{x\to a}\left[f(x)\pm g(x)\right]=\lim_{x\to a}f(x)\pm\lim_{x\to a}g(x)=F\pm G$  \\
+
+		5 & $\lim_{x\to a}\left[f(x)\cdot g(x)\right]=\lim_{x\to a}f(x)\cdot \lim_{x\to a}g(x)=F\cdot G$  \\
+
+		6 & $\lim_{x\to a}\left[\frac{f(x)}{g(x)}\right]=\frac{\lim_{x\to a}f(x)}{\lim_{x\to a}g(x)}=\frac{F}{G}$  mits $\lim_{x\to a}g(x)\neq0$\\
+
+		7 & $\lim_{x\to a}\left[f\left(g(x)\right)\right]=f\left(\lim_{x\to a}g(x)\right)$  mits $f$ continu is in het punt $\lim_{x\to a}g(x)=b$ \\
+
+
 	\end{tabular}
-%\end{table}
-
-
-
+\end{tabel*}
+\end{ftrekenregel}
 
 Eigenschap 7 in woorden: het omwisselen van het nemen van
 de limiet en het nemen van de functiewaarde door de functie $f$ is
 enkel toegestaan als $f$ een continue functie is in het betreffende
-punt. We zeggen ook wel eens 'de limiet passeert de functie $f$'.
-
-
-
+punt. We zeggen ook wel eens \textquoteleft de limiet passeert de functie $f$\textquoteright.
 
 \textbf{Tip1}: de rekenregels voor $\infty$ zijn vrij eenvoudig
-te onthouden en te gebruiken als $(+)\infty$ gelezen wordt als 'een
-heel groot (positief) getal', $-\infty$ als 'een heel groot negatief
-getal', $0^{+}$ als 'een heel klein positief getal en tenslotte $0^{-}$
-als 'een heel klein negatief getal'.
+te onthouden en te gebruiken als $(+)\infty$ gelezen wordt als \textquoteleft een
+heel groot (positief) getal\textquoteright, $-\infty$ als 'een heel groot negatief
+getal', $0^{+}$ als \textquoteleft een heel klein positief getal\textquoteright en tenslotte $0^{-}$
+als \textquoteleft een heel klein negatief getal\textquoteright.
 
 \textbf{Tip2}: lees bijvoorbeeld de rekenregels 4, 5 en 6 ook eens
 op een andere manier: ``de limiet van een som, is de som van de limieten''
 ...
 
-
-
-
-Enkele eenvoudige voorbeelden:
-\begin{itemize}
-\item ${\displaystyle \lim_{x\to+\infty}}\frac{x}{4}=\frac{1}{4}{\displaystyle \lim_{x\to+\infty}}x=\frac{1}{4}.(+\infty)=+\infty$
-\item ${\displaystyle \lim_{x\to3}}\left[(x-2)(x+1)\right]={\displaystyle \lim_{x\to3}}(x-2).{\displaystyle \lim_{x\to3}}(x+1)=1.4=4$
-\item ${\displaystyle \lim_{x\to3}}(x\text{\texttwosuperior}-x-2)={\displaystyle \lim_{x\to3}}x\text{\texttwosuperior}-{\displaystyle \lim_{x\to3}}x-2.{\displaystyle \lim_{x\to3}}1=9-3-2=4$
-\item ${\displaystyle \lim_{\overset{x\rightarrow0}{>}}}\left(2x-\frac{1}{x}\right)={\displaystyle \lim_{\overset{x\rightarrow0}{>}}}2x-{\displaystyle \lim_{\overset{x\rightarrow0}{>}}}\frac{1}{x}=2.0-\left(+\infty\right)=-\infty$
-\item ${\displaystyle \lim_{x\to a}}\left[\cos\left(g(x)\right)\right]=\cos\left({\displaystyle \lim_{x\to a}}g(x)\right)$
-\item ${\displaystyle \lim_{x\to a}}\left[e^{f(x)}\right]=e^{{\displaystyle \lim_{x\to a}}f(x)}$
-\end{itemize}
+\begin{voorbeeld}
+\begin{eqnarray*}
+\lim_{x\to+\infty}\frac{x}{4}&=&\frac{1}{4} \lim_{x\to+\infty}x=\frac{1}{4}\cdot (+\infty)=+\infty\\
+\lim_{x\to3}\left[(x-2)(x+1)\right]&=& \lim_{x\to3}(x-2)\cdot  \lim_{x\to3}(x+1)=1\cdot 4=4\\
+\lim_{x\to3}(x\text{\texttwosuperior}-x-2)&=& \lim_{x\to3}x\text{\texttwosuperior}- \lim_{x\to3}x-2\cdot  \lim_{x\to3}1=9-3-2=4\\
+\lim_{\overset{x\rightarrow0}{>}}\left(2x-\frac{1}{x}\right)&=& \lim_{\overset{x\rightarrow0}{>}}2x- \lim_{\overset{x\rightarrow0}{>}}\frac{1}{x}=2\cdot 0-\left(+\infty\right)=-\infty\\
+\lim_{x\to a}\left[\cos\left(g(x)\right)\right]&=&\cos\left( \lim_{x\to a}g(x)\right)\\
+\lim_{x\to a}\left[e^{f(x)}\right]&=&e^{\lim_{x\to a}f(x)}
+\end{eqnarray*}
+\end{voorbeeld}
 
 \subsection{Berekenen van limieten}
 
@@ -759,39 +717,44 @@ Enkele eenvoudige voorbeelden:
 
 Een veeltermfunctie van n\textsuperscript{de} graad:
 
-$f(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\ldots+a_{2}x^{2}+a_{1}x+a_{0}$ met
-$a_{n}\in\mathbb{R}_{0}$ en $a_{n-1},\ldots,a_{0}\in\mathbb{R}$
-
-
-
+\begin{equation*}
+f(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\ldots+a_{2}x^{2}+a_{1}x+a_{0}\text{ met }
+a_{n}\in\mathbb{R}_{0}\text{ en }a_{n-1},\ldots,a_{0}\in\mathbb{R}
+\end{equation*}
 
 Elke veeltermfunctie is continu over $\mathbb{R}$ (want
-het domein is immers $\mathbb{R}$)
+het domein is immers $\mathbb{R}$).
 
 De limiet voor $x$ gaande naar $a\in\overline{\mathbb{R}}$
 van een veeltermfunctie is gelijk aan de functiewaarde (m.a.w. vervang
 overal $x$ door $a$):
 
-${\displaystyle \lim_{x\to a}}\left(a_{n}x^{n}+a_{n-1}x^{n-1}+\ldots+a_{2}x^{2}+a_{1}x+a_{0}\right)=f(a)$
-
-
-
+\begin{equation*}
+\lim_{x\to a}\left(a_{n}x^{n}+a_{n-1}x^{n-1}+\ldots+a_{2}x^{2}+a_{1}x+a_{0}\right)=f(a)
+\end{equation*}
 
 Een speciaal geval is de limiet voor $x$ gaande naar oneindig.
 In dit geval is het infeite enkel de hoogste graad term die van belang
 is. Kijk maar:
 
-${\displaystyle \lim_{x\to+\infty}}\left(a_{n}x^{n}+a_{n-1}x^{n-1}+\ldots+a_{1}x+a_{0}\right)={\displaystyle \lim_{x\to+\infty}}a_{n}x^{n}\left(1+\frac{a_{n-1}x^{n-1}}{a_{n}x^{n}}+\ldots+\frac{a_{1}x}{a_{n}x^{n}}+\frac{a_{0}}{a_{n}x^{n}}\right)={\displaystyle \lim_{x\to+\infty}}a_{n}x^{n}(1+0+\ldots+0)={\displaystyle \lim_{x\to+\infty}}a_{n}x^{n}$
+\begin{eqnarray*}
+\lim_{x\to+\infty}\left(a_{n}x^{n}+a_{n-1}x^{n-1}+\ldots+a_{1}x+a_{0}\right)&=& \lim_{x\to+\infty}a_{n}x^{n}\left(1+\frac{a_{n-1}x^{n-1}}{a_{n}x^{n}}+\ldots+\frac{a_{1}x}{a_{n}x^{n}}+\frac{a_{0}}{a_{n}x^{n}}\right) \\
+&=& \lim_{x\to+\infty}a_{n}x^{n}(1+0+\ldots+0)\\
+&=& \lim_{x\to+\infty}a_{n}x^{n}
+\end{eqnarray*}
 
 
-
-
-\uline{Voorbeelden}:
-
-${\displaystyle \lim_{x\to+\infty}}\left(-x\text{\textthreesuperior}+6x+14\right)={\displaystyle \lim_{x\to+\infty}}x\text{\textthreesuperior}\left(-1+\frac{6x}{x\text{\textthreesuperior}}+\frac{14}{x\text{\textthreesuperior}}\right)={\displaystyle \lim_{x\to+\infty}}x\text{\textthreesuperior}\left(-1\right)=-\infty$
-
-${\displaystyle \lim_{x\to-\infty}}\left(3x\text{\texttwosuperior}-4x+2\right)={\displaystyle \lim_{x\to+\infty}}3x\text{\texttwosuperior}\left(1-\frac{4x}{3x\text{\texttwosuperior}}+\frac{2}{3x\text{\texttwosuperior}}\right)={\displaystyle \lim_{x\to-\infty}}3x\text{\texttwosuperior}=+\infty$
-
+\begin{voorbeeld}
+\begin{eqnarray*}
+\lim_{x\to+\infty}\left(-x\text{\textthreesuperior}+6x+14\right)&=& \lim_{x\to+\infty}x\text{\textthreesuperior}\left(-1+\frac{6x}{x\text{\textthreesuperior}}+\frac{14}{x\text{\textthreesuperior}}\right)\\
+&=& \lim_{x\to+\infty}x\text{\textthreesuperior}\left(-1\right)\\
+&=&-\infty\\
+& & \\
+\lim_{x\to-\infty}\left(3x\text{\texttwosuperior}-4x+2\right)&=& \lim_{x\to-\infty}3x\text{\texttwosuperior}\left(1-\frac{4x}{3x\text{\texttwosuperior}}+\frac{2}{3x\text{\texttwosuperior}}\right)\\
+&=&\lim_{x\to-\infty}3x\text{\texttwosuperior}\\
+&=&+\infty
+\end{eqnarray*}
+\end{voorbeeld}
 
 \subsubsection{Goniometrische en cyclometrische functies}
 
@@ -799,79 +762,70 @@ Laat ons meteen opmerken dat bij de berekeningen van deze limieten
 het argument van de goniometrische of cyclometrische functie moet
 uitgedrukt zijn in radialen. 
 
-
-
-
 Enkele van deze limieten geven in eerste instantie aanleiding
 tot de onbepaalde vorm $\frac{0}{0}$, maar toch kan men de limiet
-vinden. We bekijken als voorbeeld de limiet van ${\displaystyle \lim_{x\to0}}\frac{\sin x}{x}$.
+vinden. We bekijken als voorbeeld de limiet van $ \lim_{x\to0}\frac{\sin x}{x}$.
 Maken we een tabel met $x$-waarden die steeds dichter naar $0$ naderen,
 dan zien we dat de verhouding $\frac{\sin x}{x}$ naar 1 gaat.
 
-\begin{table}[ht]
+\begin{tabel*}{}
 	\centering
-	\begin{tabular}{|l|l|}
-		\hline 
+	\begin{tabular}{l|l}
 		$x$ & $\frac{\sin x}{x}$\\
 		\hline 
-		\hline 
-		1 & 0.84147098480\\
-		\hline 
-		0.1 & 0.99833416646\\
-		\hline 
-		0.01 & 0.99998333341\\
-		\hline 
-		0.001 & 0.99999983333\\
-		\hline 
-		0.0001 & 0.99999999999\\
-		\hline 
+		1 & 0,84147098480\\
+		0,1 & 0,99833416646\\
+		0,01 & 0,99998333341\\
+		0,001 & 0,99999983333\\
+		0,0001 & 0,99999999999\\
 	\end{tabular}
-\end{table}
+\end{tabel*}
 
 
-
-
-Aangezien ${\displaystyle \lim_{\overset{x\rightarrow0}{<}}}\frac{\sin x}{x}={\displaystyle \lim_{\overset{x\rightarrow0}{>}}}\frac{\sin x}{x}=1$
-kunnen we concluderen dat ${\displaystyle \lim_{x\rightarrow0}}\frac{\sin x}{x}=1$
-(hetzelfde geldt trouwens ook voor ${\displaystyle \lim_{x\rightarrow0}}\frac{x}{\sin x}=1$
+Aangezien $\lim_{\overset{x\rightarrow0}{<}}\frac{\sin x}{x}=\lim_{\overset{x\rightarrow0}{>}}\frac{\sin x}{x}=1$
+kunnen we concluderen dat $\lim_{x\rightarrow0}\frac{\sin x}{x}=1$
+(hetzelfde geldt trouwens ook voor $\lim_{x\rightarrow0}\frac{x}{\sin x}=1$
 ).
 
 
-De limiet ${\displaystyle \lim_{x\rightarrow\infty}}\frac{\sin x}{x}=0$
+De limiet $\lim_{x\rightarrow\infty}\frac{\sin x}{x}=0$
 kunnen we dan weer wiskundig bewijzen a.d.h.v. de zogenaamde insluitstelling.
 Het komt er hierbij op neer dat je probeert een functie in te sluiten
-tussen twee andere functies die beide een gelijke limiet L hebben.
-De limiet van de ingesloten functie is dan ook gelijk aan L.
-
-
-
+tussen twee andere functies die beide een gelijke limiet $L$ hebben.
+De limiet van de ingesloten functie is dan ook gelijk aan $L$.
 
 We weten dat de sinus-functie altijd een waarde oplevert
-tussen -1 en +1: $-1\leq\sin x\leq+1$
+tussen -1 en +1: $-1\leq\sin x\leq+1$.
 
 Dit blijft gelden als we de vergelijking delen door een
-positieve $x$ waarde: $\frac{-1}{x}\leq\frac{\sin x}{x}\leq\frac{+1}{x}$
+positieve $x$ waarde: $\frac{-1}{x}\leq\frac{\sin x}{x}\leq\frac{+1}{x}$.
 
-We weten ook dat: ${\displaystyle \lim_{x\to\infty}}\left(\frac{-1}{x}\right)=0$
-en ${\displaystyle \lim_{x\to\infty}}\left(\frac{1}{x}\right)=0$
+We weten ook dat: $\lim_{x\to\infty}\left(\frac{-1}{x}\right)=0$
+en $\lim_{x\to\infty}\left(\frac{1}{x}\right)=0$.
 
 Passen we nu de insluitstelling toe dan concluderen we dat
-${\displaystyle \lim_{x\rightarrow\infty}}\frac{\sin x}{x}=0$.
+$\lim_{x\rightarrow\infty}\frac{\sin x}{x}=0$.
 
 
-De limiet ${\displaystyle \lim_{x\rightarrow0}}\frac{\sin x}{x}=1$
-noemen we een 'standaardlimiet', en we kunnen hiermee een andere standaardlimiet
+De limiet $\lim_{x\rightarrow0}\frac{\sin x}{x}=1$
+noemen we een \textquoteleft standaardlimiet\textquoteright, en we kunnen hiermee een andere standaardlimiet
 afleiden:
 
-${\displaystyle \lim_{x\rightarrow0}}\frac{\tan x}{x}={\displaystyle \lim_{x\rightarrow0}}{\displaystyle \frac{\frac{\sin x}{\cos x}}{x}}={\displaystyle \lim_{x\rightarrow0}}\frac{\sin x}{x.\cos x}={\displaystyle \lim_{x\rightarrow0}}\frac{\sin x}{x}.{\displaystyle \lim_{x\rightarrow0}}\frac{1}{\cos x}=1.\frac{1}{1}=1$
+\begin{eqnarray*}
+\lim_{x\rightarrow0}\frac{\tan x}{x}&=&\lim_{x\rightarrow0}\frac{\frac{\sin x}{\cos x}}{x}\\
+&=&\lim_{x\rightarrow0}\frac{\sin x}{x\cdot \cos x}\\
+&=&\lim_{x\rightarrow0}\frac{\sin x}{x}\cdot \lim_{x\rightarrow0}\frac{1}{\cos x}\\
+&=&1\cdot \frac{1}{1}=1
+\end{eqnarray*}
 
 
+\begin{voorbeeld}
 
+\begin{equation*}
+\lim_{x\rightarrow0}\frac{\tan2x}{\sin3x}=\lim_{x\rightarrow0}\frac{\tan2x}{\sin3x}\cdot \frac{2x}{2x}\cdot \frac{3x}{3x}=\lim_{x\rightarrow0}\frac{\tan2x}{2x}\cdot \frac{2}{3}\cdot \frac{3x}{\sin3x}=\frac{2}{3}
+\end{equation*}
 
-\uline{Voorbeeld}:
-
-${\displaystyle \lim_{x\rightarrow0}}\frac{\tan2x}{\sin3x}={\displaystyle \lim_{x\rightarrow0}}\frac{\tan2x}{\sin3x}.\frac{2x}{2x}.\frac{3x}{3x}={\displaystyle \lim_{x\rightarrow0}}\frac{\tan2x}{2x}.\frac{2}{3}.\frac{3x}{\sin3x}=\frac{2}{3}$
-
+\end{voorbeeld}
 
 
 
@@ -881,30 +835,20 @@ de goniometrische cirkel)
 
 \begin{table}[ht]
 	\centering
-	\begin{tabular}{|c||c||c|}
-		\hline 
-		${\displaystyle \lim_{\overset{x\rightarrow\frac{\pi}{2}}{<}}}\tan x=+\infty$ & ${\displaystyle \lim_{x\rightarrow+\infty}}\arctan x=\frac{\pi}{2}$ & ${\displaystyle \lim_{\overset{x\rightarrow1}{<}}}\arcsin x=\frac{\pi}{2}$\\
-		\hline 
-		${\displaystyle \lim_{\overset{x\rightarrow-\frac{\pi}{2}}{>}}}\tan x=-\infty$ & ${\displaystyle \lim_{x\rightarrow-\infty}}\arctan x=-\frac{\pi}{2}$ & ${\displaystyle \lim_{\overset{x\rightarrow-1}{>}}}\arcsin x=-\frac{\pi}{2}$\\
-		\hline 
-		${\displaystyle \lim_{\overset{x\rightarrow0}{<}}}\cot x=-\infty$ & ${\displaystyle \lim_{x\rightarrow+\infty}}\mathrm{arccot}x=0$ & ${\displaystyle \lim_{\overset{x\rightarrow1}{<}}}\arccos x=0$\\
-		\hline 
-		${\displaystyle \lim_{\overset{x\rightarrow0}{>}}}\cot x=+\infty$  & ${\displaystyle \lim_{x\rightarrow-\infty}}\mathrm{arccot}x=\pi$ & ${\displaystyle \lim_{\overset{x\rightarrow-1}{>}}}\arccos x=\pi$\\
-		\hline 
+	\begin{tabular}{c|c|c}
+		$\lim_{\overset{x\rightarrow\frac{\pi}{2}}{<}}\tan x=+\infty$ & $\lim_{x\rightarrow+\infty}\arctan x=\frac{\pi}{2}$ & $\lim_{\overset{x\rightarrow1}{<}}\arcsin x=\frac{\pi}{2}$\\
+		$\lim_{\overset{x\rightarrow-\frac{\pi}{2}}{>}}\tan x=-\infty$ & $\lim_{x\rightarrow-\infty}\arctan x=-\frac{\pi}{2}$ & $\lim_{\overset{x\rightarrow-1}{>}}\arcsin x=-\frac{\pi}{2}$\\
+		$\lim_{\overset{x\rightarrow0}{<}}\cot x=-\infty$ & $\lim_{x\rightarrow+\infty}\mathrm{arccot}x=0$ & $\lim_{\overset{x\rightarrow1}{<}}\arccos x=0$\\s
+		$\lim_{\overset{x\rightarrow0}{>}}\cot x=+\infty$  & $\lim_{x\rightarrow-\infty}\mathrm{arccot}x=\pi$ & $\lim_{\overset{x\rightarrow-1}{>}}\arccos x=\pi$\\
 	\end{tabular}
 \end{table}
 
-
-
-
-%\begin{tabular}{|c|c|c|}
-%\hline 
-%\includegraphics[width=7cm]{2_elem_rekenvaardigheden_B/inputs/420px-Arctangent_Arccotangent_svg} &  & \includegraphics[height=7cm]{2_elem_rekenvaardigheden_B/inputs/240px-Arcsine_Arccosine_svg}\\
-%\hline 
-%FIGUUR arctg en arccot (en.Wikipedia.org) &  & FIGUUR arcsin en arccos\\
-%\hline 
-%\end{tabular}
-
+\begin{minipage}{.5\linewidth}
+	\gewonefiguur{width=\linewidth}{2_elem_rekenvaardigheden_B/inputs/Arctangent_Arccotangent_svg}
+\end{minipage}
+\begin{minipage}{.5\linewidth}
+	\gewonefiguur{width=.7\linewidth}{2_elem_rekenvaardigheden_B/inputs/Arcsine_Arccosine_svg}
+\end{minipage}
 
 \subsubsection{Exponenti\"ele en logaritmische functies}
 
@@ -912,69 +856,49 @@ Deze limieten laten zich gemakkelijk afleiden uit de grafieken:
 
 Exponenti\"ele functies
 
-\begin{table}[ht]
+\begin{tabel*}{}
 	\centering
-	\begin{tabular}{|l||l|}
-		\hline 
+	\begin{tabular}{c|c}
 		$a>1$ &  $0<a<1$\\
-		\hline 
-		\includegraphics[width=7cm]{\string"2_elem_rekenvaardigheden_B/inputs/exponentiele functie - a groter dan 1\string".eps} &  \includegraphics[width=7cm]{\string"2_elem_rekenvaardigheden_B/inputs/exponentiele functie - a kleiner dan 1\string".eps}\\
-		\hline 
-		${\displaystyle \lim_{x\to+\infty}}a^{x}=+\infty$ &  ${\displaystyle \lim_{x\to+\infty}}a^{x}=0$\\
-		\hline 
-		${\displaystyle \lim_{x\to0}}a^{x}=1$ &  ${\displaystyle \lim_{x\to0}}a^{x}=1$\\
-		\hline 
-		${\displaystyle \lim_{x\to-\infty}}a^{x}=0$ &  ${\displaystyle \lim_{x\to-\infty}}a^{x}=+\infty$\\
-		\hline 
+%		\gewonefiguur{width=7cm}{expagroter1} & 		\gewonefiguur{width=7cm}{expakleiner1} \\
+		\includegraphics[width=7cm]{2_elem_rekenvaardigheden_B/inputs/expagroter1.eps} & 
+		\includegraphics[width=7cm]{2_elem_rekenvaardigheden_B/inputs/expakleiner1.eps}\\
+		$\lim_{x\to+\infty}a^{x}=+\infty$ &  $\lim_{x\to+\infty}a^{x}=0$\\
+		$\lim_{x\to0}a^{x}=1$ &  $\lim_{x\to0}a^{x}=1$\\
+		$\lim_{x\to-\infty}a^{x}=0$ &  $\lim_{x\to-\infty}a^{x}=+\infty$\\
 	\end{tabular}
-\end{table}
-
-
-
-
+\end{tabel*}
 
 Logaritmische functies
 
-\begin{table}[ht]
+\begin{tabel*}{}
 	\centering
-	\begin{tabular}{|l||l|}
-		\hline 
+	\begin{tabular}{c|c}
 		$a>1$ & $0<a<1$\\
-		\hline 
-		\includegraphics[width=7cm]{\string"2_elem_rekenvaardigheden_B/inputs/Logaritmische functie - a groter dan 1\string".eps} & \includegraphics[width=7cm]{\string"2_elem_rekenvaardigheden_B/inputs/Logaritmische functie - a kleiner dan 1\string".eps}\\
-		\hline 
+		\includegraphics[width=7cm]{2_elem_rekenvaardigheden_B/inputs/logagroter1.eps} & \includegraphics[width=7cm]{2_elem_rekenvaardigheden_B/inputs/logakleiner1}\\
 		${\displaystyle \lim_{x\to+\infty}}\log_{a}x=+\infty$ & ${\displaystyle \lim_{x\to+\infty}}\log_{a}x=-\infty$\\
-		\hline 
 		${\displaystyle \lim_{x\to1}}\log_{a}x=0$ & ${\displaystyle \lim_{x\to1}}\log_{a}x=0$\\
-		\hline 
 		${\displaystyle \lim_{\overset{x\rightarrow0}{>}}}\log_{a}x=-\infty$ & ${\displaystyle \lim_{\overset{x\rightarrow0}{>}}}\log_{a}x=+\infty$\\
-		\hline 
 	\end{tabular}
-\end{table}
-
-
+\end{tabel*}
 
 \subsubsection{Enkele bijzondere limieten}
-
+\label{sec:bijzlim}
 Een bijzondere limiet is:
 
-${\displaystyle \lim_{x\to0}}\left(1+x\right)^{\frac{1}{x}}=e=2.718281828...$
-en ook ${\displaystyle \lim_{x\to\pm\infty}}\left(1+\frac{1}{x}\right)^{x}=e$
-
-
-
+\begin{equation*}
+\lim_{x\to0}\left(1+x\right)^{\frac{1}{x}}=e=2,718281828...
+\text{ en ook } \lim_{x\to\pm\infty}\left(1+\frac{1}{x}\right)^{x}=e
+\end{equation*}
 
 Hier zie je ook al waarom we gezegd hebben dat $1^{\infty}$
 niet zomaar gelijk is aan 1.
 
-
-
-
 Deze bijzondere limiet kan worden uitgebreid naar:
 
-${\displaystyle \lim_{x\to0}}\left(1+px\right)^{\frac{q}{x}}=e^{pq}$
-met $p,q\in\mathbb{R}_{0}$ en ook ${\displaystyle \lim_{x\to\pm\infty}}\left(1+\frac{p}{x}\right)^{qx}=e^{pq}$
-
+\begin{equation*}
+\lim_{x\to0}\left(1+px\right)^{\frac{q}{x}}=e^{pq}\text{ met }p,q\in\mathbb{R}_{0}\text{ en ook } \lim_{x\to\pm\infty}\left(1+\frac{p}{x}\right)^{qx}=e^{pq}
+\end{equation*}
 
 \subsection{Schijnbare onbepaaldheden}
 
@@ -987,6 +911,7 @@ bij berekening van de limiet geen aanleiding meer geven tot een onbepaaldheid.
 
 Soms kan een onbepaalde vorm omgezet worden naar een andere
 (eveneens onbepaalde) vorm: ${\displaystyle 0.\infty=\frac{1}{\frac{1}{0}}.\infty=\frac{1}{\infty}.\infty=\frac{\infty}{\infty}}$.
+
 Hetzelfde geldt voor de factor oneindig: ${\displaystyle 0.\infty=0.\frac{1}{\frac{1}{\infty}}=0.\frac{1}{0}=\frac{0}{0}}$.
 
 We merken hier meteen op dat een andere aanpak om de onbepaaldheden
@@ -1021,16 +946,16 @@ de limiet van hun verhouding.
 
 
 
-\begin{math}
+\begin{equation*}
 {\displaystyle \lim_{x\to\infty}}\left(\frac{a_{n}x^{n}+a_{n-1}x^{n-1}+\ldots+a_{1}x+a_{0}}{b_{p}x^{p}+b_{p-1}x^{p-1}+\ldots+b_{1}x+b_{0}}\right)={\displaystyle \lim_{x\to\infty}}{\displaystyle \frac{a_{n}x^{n}}{b_{p}x^{p}}} = 
 \left\{
-\begin{array}{l}
-\pm\infty \text{ als } n>p \\
-\frac{a_n}{b_p} \text{ als } n=p \\
-0 \text{ als } n<p
+\begin{array}{ll}
+\pm\infty &\text{ als } n>p \\
+\frac{a_n}{b_p} &\text{ als } n=p \\
+0 &\text{ als } n<p
 \end{array}
 \right.
-\end{math}
+\end{equation*}
 
 %\begin{tabular}{|l|l|c|c|}
 %	\hline 
@@ -1044,15 +969,17 @@ de limiet van hun verhouding.
 
 Merk op dat het teken van $\pm\infty$ moet nog nader bepaald worden.
 
+\begin{voorbeeld}
+	
+\begin{equation*}
+{\displaystyle \lim_{x\to-\infty}}{\displaystyle \frac{2x\text{\textthreesuperior}-11}{x\text{\texttwosuperior}+x-10}}={\displaystyle \lim_{x\to-\infty}}{\displaystyle \frac{2x\text{\textthreesuperior}}{x\text{\texttwosuperior}}}={\displaystyle \lim_{x\to-\infty}}2x=-\infty
+\end{equation*}
 
+\begin{equation*}
+{\displaystyle \lim_{x\to+\infty}}{\displaystyle \frac{6-x\text{\texttwosuperior}}{2x\text{\texttwosuperior}+5}}={\displaystyle \lim_{x\to+\infty}}{\displaystyle \frac{-x\text{\texttwosuperior}}{2x\text{\texttwosuperior}}}={\displaystyle \lim_{x\to+\infty}}{\displaystyle \frac{-1}{2}}={\displaystyle -\frac{1}{2}}
+\end{equation*}
 
-
-\uline{Enkele voorbeelden}:
-
-${\displaystyle \lim_{x\to-\infty}}{\displaystyle \frac{2x\text{\textthreesuperior}-11}{x\text{\texttwosuperior}+x-10}}={\displaystyle \lim_{x\to-\infty}}{\displaystyle \frac{2x\text{\textthreesuperior}}{x\text{\texttwosuperior}}}={\displaystyle \lim_{x\to-\infty}}2x=-\infty$
-
-${\displaystyle \lim_{x\to+\infty}}{\displaystyle \frac{6-x\text{\texttwosuperior}}{2x\text{\texttwosuperior}+5}}={\displaystyle \lim_{x\to+\infty}}{\displaystyle \frac{-x\text{\texttwosuperior}}{2x\text{\texttwosuperior}}}={\displaystyle \lim_{x\to+\infty}}{\displaystyle \frac{-1}{2}}={\displaystyle -\frac{1}{2}}$
-
+\end{voorbeeld}
 
 
 
@@ -1071,34 +998,51 @@ streeft, hanteert men volgende regel:
 zet in teller en noemer de hoogst mogelijke macht van $x$ voorop
 en werk verder uit.
 
-Hierbij maken we gebruik van het feit dat: $\sqrt{x^{2}}=\left|x\right|=\begin{cases}
+Hierbij maken we gebruik van het feit dat: 
+\begin{equation*}
+\sqrt{x^{2}}=\left|x\right|=\begin{cases}
 x & \mathrm{als}\:x>0\\
 -x & \mathrm{als}\:x<0
-\end{cases}$
+\end{cases}
+\end{equation*}
 
 
-\uline{Twee voorbeelden}:
-
-
-1) ${\displaystyle {\displaystyle \lim_{x\to\infty}}\frac{\sqrt{x\text{\texttwosuperior}+1}-2x}{\sqrt[3]{x\text{\textthreesuperior}+1}}={\displaystyle \lim_{x\to\infty}}\frac{\left|x\right|\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}-2x}{\sqrt[3]{x\text{\textthreesuperior}}\left(\sqrt[3]{1+\frac{1}{x\text{\textthreesuperior}}}\right)}}$
+\begin{voorbeeld}
+	\begin{equation*}
+	{\displaystyle {\displaystyle \lim_{x\to\infty}}\frac{\sqrt{x\text{\texttwosuperior}+1}-2x}{\sqrt[3]{x\text{\textthreesuperior}+1}}={\displaystyle \lim_{x\to\infty}}\frac{\left|x\right|\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}-2x}{\sqrt[3]{x\text{\textthreesuperior}}\left(\sqrt[3]{1+\frac{1}{x\text{\textthreesuperior}}}\right)}}
+	\end{equation*}
 
 Nu moeten we een onderscheid maken tussen de limiet gaande naar $+\infty$
 en $-\infty$:
 
-	${\displaystyle {\displaystyle \lim_{x\to+\infty}}\frac{x\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}-2x}{x\left(\sqrt[3]{1+\frac{1}{x\text{\textthreesuperior}}}\right)}={\displaystyle \lim_{x\to+\infty}}\frac{\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}-2}{\sqrt[3]{1+\frac{1}{x\text{\textthreesuperior}}}}=\frac{1-2}{1}=-1}$
+\begin{equation*}
+	{\displaystyle {\displaystyle \lim_{x\to+\infty}}\frac{x\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}-2x}{x\left(\sqrt[3]{1+\frac{1}{x\text{\textthreesuperior}}}\right)}={\displaystyle \lim_{x\to+\infty}}\frac{\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}-2}{\sqrt[3]{1+\frac{1}{x\text{\textthreesuperior}}}}=\frac{1-2}{1}=-1}
+\end{equation*}
 	en
-	
-${\displaystyle {\displaystyle \lim_{x\to-\infty}}\frac{(-x)\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}-2x}{x\left(\sqrt[3]{1+\frac{1}{x\text{\textthreesuperior}}}\right)}={\displaystyle \lim_{x\to-\infty}}\frac{-\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}-2}{\sqrt[3]{1+\frac{1}{x\text{\textthreesuperior}}}}=\frac{-1-2}{1}=-3}$ 
+	\begin{equation*}
+{\displaystyle {\displaystyle \lim_{x\to-\infty}}\frac{(-x)\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}-2x}{x\left(\sqrt[3]{1+\frac{1}{x\text{\textthreesuperior}}}\right)}={\displaystyle \lim_{x\to-\infty}}\frac{-\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}-2}{\sqrt[3]{1+\frac{1}{x\text{\textthreesuperior}}}}=\frac{-1-2}{1}=-3}
+\end{equation*}
+
+\end{voorbeeld}
 
 
 
-2) ${\displaystyle {\displaystyle \lim_{x\to\infty}}\frac{3x+2}{4x-\sqrt{x\text{\texttwosuperior}+3}}={\displaystyle \lim_{x\to\infty}}\frac{x\left(3+\frac{2}{x}\right)}{4x-\left|x\right|\sqrt{1+\frac{3}{x\text{\texttwosuperior}}}}}$
+\begin{voorbeeld}
+	\begin{equation*}
+{\displaystyle {\displaystyle \lim_{x\to\infty}}\frac{3x+2}{4x-\sqrt{x\text{\texttwosuperior}+3}}={\displaystyle \lim_{x\to\infty}}\frac{x\left(3+\frac{2}{x}\right)}{4x-\left|x\right|\sqrt{1+\frac{3}{x\text{\texttwosuperior}}}}}
+\end{equation*}
 
 We maken terug onderscheid tussen de limiet gaande naar $+\infty$
 en $-\infty$:
-${\displaystyle \lim_{x\to+\infty}}{\displaystyle \frac{x\left(3+\frac{2}{x}\right)}{4x-x\sqrt{1+\frac{3}{x\text{\texttwosuperior}}}}={\displaystyle \lim_{x\to+\infty}}{\displaystyle \frac{3+\frac{2}{x}}{4-\sqrt{1+\frac{3}{x\text{\texttwosuperior}}}}=\frac{3}{4-1}=1}}$ en
+\begin{equation*}
+{\displaystyle \lim_{x\to+\infty}}{\displaystyle \frac{x\left(3+\frac{2}{x}\right)}{4x-x\sqrt{1+\frac{3}{x\text{\texttwosuperior}}}}={\displaystyle \lim_{x\to+\infty}}{\displaystyle \frac{3+\frac{2}{x}}{4-\sqrt{1+\frac{3}{x\text{\texttwosuperior}}}}=\frac{3}{4-1}=1}}
+\end{equation*} en
 
-${\displaystyle \lim_{x\to-\infty}}{\displaystyle \frac{x\left(3+\frac{2}{x}\right)}{4x-(-x)\sqrt{1+\frac{3}{x\text{\texttwosuperior}}}}={\displaystyle \lim_{x\to-\infty}}{\displaystyle \frac{3+\frac{2}{x}}{4+\sqrt{1+\frac{3}{x\text{\texttwosuperior}}}}=\frac{3}{4+1}=\frac{3}{5}}}$
+\begin{equation*}
+{\displaystyle \lim_{x\to-\infty}}{\displaystyle \frac{x\left(3+\frac{2}{x}\right)}{4x-(-x)\sqrt{1+\frac{3}{x\text{\texttwosuperior}}}}={\displaystyle \lim_{x\to-\infty}}{\displaystyle \frac{3+\frac{2}{x}}{4+\sqrt{1+\frac{3}{x\text{\texttwosuperior}}}}=\frac{3}{4+1}=\frac{3}{5}}}
+\end{equation*}
+
+\end{voorbeeld}
 \end{itemize}
 
 \subsubsection{De onbepaalde vorm $\frac{0}{0}$}
@@ -1115,14 +1059,10 @@ en noemer; eventueel kan de regel van Horner helpen bij het ontbinden
 van de veelterm in factoren.
 
 
-
-
-\uline{Twee voorbeelden}:
-
-
-
-
-1) ${\displaystyle {\displaystyle \lim_{x\to2}}\frac{x\text{\texttwosuperior}-4}{x\text{\texttwosuperior}-7x+10}=\frac{0}{0}}$
+\begin{voorbeeld}
+\begin{equation*}
+{\displaystyle {\displaystyle \lim_{x\to2}}\frac{x\text{\texttwosuperior}-4}{x\text{\texttwosuperior}-7x+10}=\frac{0}{0}}
+\end{equation*}
 
 Teller en noemer ontbinden in factoren:
 
@@ -1136,12 +1076,20 @@ noemer (via Horner): %
 	&  & $1$ & \multicolumn{1}{c||}{$-5$} & $0$\\
 \end{tabular}
 
-dus $x\text{\texttwosuperior}-7x+10=(x-2)(x-5)$
+dus \begin{equation*}
+x\text{\texttwosuperior}-7x+10=(x-2)(x-5)
+\end{equation*}
 
-zodat ${\displaystyle {\displaystyle \lim_{x\to2}}\frac{x\text{\texttwosuperior}-4}{x\text{\texttwosuperior}-7x+10}={\displaystyle \lim_{x\to2}}\frac{(x-2)(x+2)}{(x-2)(x-5)}={\displaystyle \lim_{x\to2}}\frac{(x+2)}{(x-5)}=\frac{2+2}{2-5}=-\frac{4}{3}}$
+zodat \begin{equation*}
+{\displaystyle {\displaystyle \lim_{x\to2}}\frac{x\text{\texttwosuperior}-4}{x\text{\texttwosuperior}-7x+10}={\displaystyle \lim_{x\to2}}\frac{(x-2)(x+2)}{(x-2)(x-5)}={\displaystyle \lim_{x\to2}}\frac{(x+2)}{(x-5)}=\frac{2+2}{2-5}=-\frac{4}{3}}
+\end{equation*}
+\end{voorbeeld}
 
 
-2) ${\displaystyle {\displaystyle \lim_{x\to3}}\frac{x\text{\texttwosuperior}-9}{x\text{\texttwosuperior}+x-12}=\frac{0}{0}}$
+\begin{voorbeeld}
+	\begin{equation*}
+{\displaystyle {\displaystyle \lim_{x\to3}}\frac{x\text{\texttwosuperior}-9}{x\text{\texttwosuperior}+x-12}=\frac{0}{0}}
+\end{equation*}
 
 Teller en noemer ontbinden in factoren:
 
@@ -1155,9 +1103,14 @@ noemer (via Horner): %
 	&  & $1$ & \multicolumn{1}{c||}{$4$} & $0$\\
 \end{tabular}
 
-dus $x\text{\texttwosuperior}+x-12=(x-3)(x+4)$
+dus \begin{equation*}
+x\text{\texttwosuperior}+x-12=(x-3)(x+4)
+\end{equation*}
 
-zodat ${\displaystyle {\displaystyle \lim_{x\to3}}\frac{x\text{\texttwosuperior}-4}{x\text{\texttwosuperior}-7x+10}={\displaystyle \lim_{x\to3}}\frac{(x-3)(x+3)}{(x-3)(x+4)}={\displaystyle \lim_{x\to3}}\frac{(x+3)}{(x+4)}=\frac{3+3}{3+4}=\frac{6}{7}}$
+zodat \begin{equation}
+{\displaystyle {\displaystyle \lim_{x\to3}}\frac{x\text{\texttwosuperior}-4}{x\text{\texttwosuperior}-7x+10}={\displaystyle \lim_{x\to3}}\frac{(x-3)(x+3)}{(x-3)(x+4)}={\displaystyle \lim_{x\to3}}\frac{(x+3)}{(x+4)}=\frac{3+3}{3+4}=\frac{6}{7}}
+\end{equation}
+\end{voorbeeld}
 
 
 \item{Irrationale functies}
@@ -1169,39 +1122,44 @@ gekozen dat zijn product met de irrationale uitdrukking die nul werd,
 nu rationaal zal worden. Men noemt deze factor \emph{een toegevoegde}.
 
 
-\uline{Twee voorbeelden}:
-
-
-
-
-1) ${\displaystyle {\displaystyle \lim_{x\to3}}\frac{\sqrt{x+1}-2}{x-3}=\frac{0}{0}}$
+\begin{voorbeeld}
+	\begin{equation*}
+{\displaystyle {\displaystyle \lim_{x\to3}}\frac{\sqrt{x+1}-2}{x-3}=\frac{0}{0}}
+\end{equation*}
 
 De teller gaan we rationaal maken door de teller (en de noemer) te
 vermenigvuldigen met $\left(\sqrt{x+1}+2\right)$:
 
-$\begin{array}{cl}
+\begin{equation*}
+\begin{array}{cl}
 {\displaystyle {\displaystyle \lim_{x\to3}}\frac{\sqrt{x+1}-2}{x-3}} & {\displaystyle ={\displaystyle \lim_{x\to3}}\frac{\sqrt{x+1}-2}{x-3}.\frac{\sqrt{x+1}+2}{\sqrt{x+1}+2}}\\
 & {\displaystyle ={\displaystyle \lim_{x\to3}}\frac{\left(x+1-4\right)}{\left(x-3\right).\left(\sqrt{x+1}+2\right)}}\\
 & {\displaystyle ={\displaystyle \lim_{x\to3}}\frac{x-3}{\left(x-3\right).\left(\sqrt{x+1}+2\right)}}\\
 & {\displaystyle ={\displaystyle \lim_{x\to3}}\frac{1}{\sqrt{x+1}+2}}\\
 & =\frac{1}{4}
-\end{array}$
+\end{array}
+\end{equation*}
+\end{voorbeeld}
 
-
-
-
-2) ${\displaystyle {\displaystyle \lim_{x\to2}}\frac{x-2}{\sqrt{x+7}-3}=\frac{0}{0}}$
+\begin{voorbeeld}
+	\begin{equation*}
+{\displaystyle {\displaystyle \lim_{x\to2}}\frac{x-2}{\sqrt{x+7}-3}=\frac{0}{0}}
+\end{equation*}
 
 De noemer gaan we rationaal maken door de noemer (en de teller) te
 vermenigvuldigen met $\left(\sqrt{x+7}+3\right)$:
 
-$\begin{array}{cl}
+\begin{equation*}
+\begin{array}{cl}
 {\displaystyle {\displaystyle \lim_{x\to2}}\frac{x-2}{\sqrt{x+7}-3}} & {\displaystyle ={\displaystyle \lim_{x\to2}}\frac{x-2}{\sqrt{x+7}-3}.\frac{\sqrt{x+7}+3}{\sqrt{x+7}+3}}\\
 & {\displaystyle ={\displaystyle \lim_{x\to2}}\frac{\left(x-2\right).\left(\sqrt{x+7}+3\right)}{\left(x+7-9\right)}}\\
 & {\displaystyle ={\displaystyle \lim_{x\to2}}\frac{\left(x-2\right).\left(\sqrt{x+7}+3\right)}{x-2}}\\
 & {\displaystyle ={\displaystyle \lim_{x\to2}}\left(\sqrt{x+7}+3\right)}\\
 & =6
-\end{array}$
+\end{array}
+\end{equation*}
+\end{voorbeeld}
+
 \end{itemize}
 
 
@@ -1211,80 +1169,90 @@ Bij irrationale functies vermenigvuldig je met en deel je door de
 toegevoegde irrationale vorm (en hoop je op die manier de onbepaaldheid
 weg te werken).
 
-
-
-
-\uline{Voorbeelden}:
-
-
-
-
-1)${\displaystyle {\displaystyle \lim_{x\to\pm\infty}}\left(\sqrt{x\text{\texttwosuperior}+1}-\sqrt{x\text{\texttwosuperior}-x+3}\right)=\infty-\infty}$
+\begin{voorbeeld}
+\begin{equation*}
+{\displaystyle {\displaystyle \lim_{x\to\pm\infty}}\left(\sqrt{x\text{\texttwosuperior}+1}-\sqrt{x\text{\texttwosuperior}-x+3}\right)=\infty-\infty}
+\end{equation*}
 (zowel voor $x\rightarrow+\infty$ als voor $x\rightarrow-\infty$)
 
-We vermenigvuldigen met het toegevoegde: $\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)$
+We vermenigvuldigen met het toegevoegde: \begin{equation*}
+\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)
+\end{equation*}
 
-$\begin{array}{cl}
-{\displaystyle {\displaystyle \lim_{x\to\pm\infty}}\left(\sqrt{x\text{\texttwosuperior}+1}-\sqrt{x\text{\texttwosuperior}-x+3}\right).\frac{\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)}{\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)}} & {\displaystyle ={\displaystyle \lim_{x\to\pm\infty}}\frac{x\text{\texttwosuperior}+1-(x\text{\texttwosuperior}-x+3)}{\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)}}\\
- & {\displaystyle ={\displaystyle \lim_{x\to\pm\infty}}\frac{x-2}{\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)}}
-\end{array}$
+\begin{equation*}
+ \begin{array}{cl}
+ 				{\displaystyle {\displaystyle \lim_{x\to\pm\infty}}\left(\sqrt{x\text{\texttwosuperior}+1}-\sqrt{x\text{\texttwosuperior}-x+3}\right).\frac{\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)}{\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)}} & {\displaystyle ={\displaystyle \lim_{x\to\pm\infty}}\frac{x\text{\texttwosuperior}+1-(x\text{\texttwosuperior}-x+3)}{\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)}}\\
+ 				 & {\displaystyle ={\displaystyle \lim_{x\to\pm\infty}}\frac{x-2}{\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)}}
+\end{array}
+\end{equation*}
 
 Nu moeten we een onderscheid maken tussen de limiet gaande naar $+\infty$
 en $-\infty$:
 
-${\displaystyle {\displaystyle \lim_{x\to+\infty}}\frac{x-2}{\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)}={\displaystyle \lim_{x\to+\infty}}\frac{x\left(1-\frac{2}{x}\right)}{x\left(\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}+\sqrt{1-\frac{x}{x\text{\texttwosuperior}}+\frac{3}{x\text{\texttwosuperior}}}\right)}=\frac{1}{2}}$ en
+\begin{equation*}
+{\displaystyle {\displaystyle \lim_{x\to+\infty}}\frac{x-2}{\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)}={\displaystyle \lim_{x\to+\infty}}\frac{x\left(1-\frac{2}{x}\right)}{x\left(\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}+\sqrt{1-\frac{x}{x\text{\texttwosuperior}}+\frac{3}{x\text{\texttwosuperior}}}\right)}=\frac{1}{2}}
+\end{equation*} en
 
-${\displaystyle {\displaystyle \lim_{x\to-\infty}}\frac{x-2}{\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)}={\displaystyle \lim_{x\to-\infty}}\frac{x\left(1-\frac{2}{x}\right)}{(-x)\left(\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}+\sqrt{1-\frac{x}{x\text{\texttwosuperior}}+\frac{3}{x\text{\texttwosuperior}}}\right)}=-\frac{1}{2}}$
+\begin{equation*}
+{\displaystyle {\displaystyle \lim_{x\to-\infty}}\frac{x-2}{\left(\sqrt{x\text{\texttwosuperior}+1}+\sqrt{x\text{\texttwosuperior}-x+3}\right)}={\displaystyle \lim_{x\to-\infty}}\frac{x\left(1-\frac{2}{x}\right)}{(-x)\left(\sqrt{1+\frac{1}{x\text{\texttwosuperior}}}+\sqrt{1-\frac{x}{x\text{\texttwosuperior}}+\frac{3}{x\text{\texttwosuperior}}}\right)}=-\frac{1}{2}}
+\end{equation*}
 
+\end{voorbeeld}
 
-2) ${\displaystyle {\displaystyle \lim_{x\to\pm\infty}}\left(\sqrt{2x\text{\texttwosuperior}+5}-x\right)}$
+\begin{voorbeeld}
+\begin{equation*}
+\lim_{x\to\pm\infty}\left(\sqrt{2x\text{\texttwosuperior}+5}-x\right)
+\end{equation*}
 
 Hier maken we meteen onderscheid tussen de limiet gaande naar $+\infty$
 en $-\infty$ (omdat de limiet voor $x\rightarrow-\infty$ eigenlijk
 geen probleem oplevert) :
-${\displaystyle {\displaystyle \lim_{x\to-\infty}}\left(\sqrt{2x\text{\texttwosuperior}+5}-x\right)=+\infty-(-\infty)=+\infty}$
-$\begin{array}{cl}
-{\displaystyle {\displaystyle {\displaystyle \lim_{x\to+\infty}}\left(\sqrt{2x\text{\texttwosuperior}+5}-x\right)}} & =+\infty-(+\infty)\:\mathrm{dus...}\\
- & {\displaystyle ={\displaystyle \lim_{x\to+\infty}}\left(\sqrt{2x\text{\texttwosuperior}+5}-x\right).\frac{\sqrt{2x\text{\texttwosuperior}+5}+x}{\sqrt{2x\text{\texttwosuperior}+5}+x}}\\
- & {\displaystyle ={\displaystyle \lim_{x\to+\infty}}\frac{2x\text{\texttwosuperior}+5-x\text{\texttwosuperior}}{\sqrt{2x\text{\texttwosuperior}+5}+x}}\\
- & {\displaystyle ={\displaystyle \lim_{x\to+\infty}}\frac{x\text{\texttwosuperior}+5}{\sqrt{2x\text{\texttwosuperior}+5}+x}}\\
- & {\displaystyle ={\displaystyle \lim_{x\to+\infty}}\frac{x\text{\texttwosuperior}(1+\frac{5}{x\text{\texttwosuperior}})}{(+x)\sqrt{2+\frac{5}{x\text{\texttwosuperior}}}+x}}\\
- & {\displaystyle ={\displaystyle \lim_{x\to+\infty}}\frac{x(1+\frac{5}{x\text{\texttwosuperior}})}{\sqrt{2+\frac{5}{x\text{\texttwosuperior}}}+1}}\\
- & =+\infty
-\end{array}$ 
+\begin{equation*}
+\lim_{x\to-\infty}\left(\sqrt{2x\text{\texttwosuperior}+5}-x\right)=+\infty-(-\infty)=+\infty
+\end{equation*}
+
+\begin{eqnarray*}
+\lim_{x\to+\infty}\left(\sqrt{2x\text{\texttwosuperior}+5}-x\right) & =&+\infty-(+\infty)\:\mathrm{dus...}\\
+ &=& {\displaystyle {\displaystyle \lim_{x\to+\infty}}\left(\sqrt{2x\text{\texttwosuperior}+5}-x\right)\cdot \frac{\sqrt{2x\text{\texttwosuperior}+5}+x}{\sqrt{2x\text{\texttwosuperior}+5}+x}}\\
+ &=& {\displaystyle {\displaystyle \lim_{x\to+\infty}}\frac{2x\text{\texttwosuperior}+5-x\text{\texttwosuperior}}{\sqrt{2x\text{\texttwosuperior}+5}+x}}\\
+ &=& {\displaystyle {\displaystyle \lim_{x\to+\infty}}\frac{x\text{\texttwosuperior}+5}{\sqrt{2x\text{\texttwosuperior}+5}+x}}\\
+ &=& {\displaystyle {\displaystyle \lim_{x\to+\infty}}\frac{x\text{\texttwosuperior}(1+\frac{5}{x\text{\texttwosuperior}})}{(+x)\sqrt{2+\frac{5}{x\text{\texttwosuperior}}}+x}}\\
+ &=& {\displaystyle {\displaystyle \lim_{x\to+\infty}}\frac{x(1+\frac{5}{x\text{\texttwosuperior}})}{\sqrt{2+\frac{5}{x\text{\texttwosuperior}}}+1}}\\
+ &=&+\infty
+\end{eqnarray*}
+
+\end{voorbeeld}
 
 \subsubsection{De onbepaalde vorm $1^{\infty}$}
 
 We hebben ons reeds eerder verbaasd over het feit dat $1{}^{\infty}$
-niet zomaar hetzelfde is als $1.1.1.1.\,\ldots$ en dus niet zomaar
+niet zomaar hetzelfde is als $1\cdot 1\cdot 1\cdot 1\cdot \,\ldots$ en dus niet zomaar
 gelijk hoeft te zijn aan $1$!?
 
 De reden is eigenlijk heel eenvoudig: we zitten hier in
 het hoofdstukje ``Limieten'', met andere woorden zowel $1$ als
 $\infty$ kunnen het resultaat zijn van het nemen van een limiet:
-${\displaystyle \lim_{x\to a}f(x)^{g(x)}=\ldots=1^{\infty}}$.
-
+\begin{equation*}
+{\displaystyle \lim_{x\to a}f(x)^{g(x)}=\ldots=1^{\infty}}.
+\end{equation*}
 
 Laten we, om deze module af te sluiten, kijken naar een
-numeriek voorbeeldje. In paragraaf {*}{*} ``Enkele bijzondere limieten''
-hebben we gezien dat: ${\displaystyle \lim_{x\to0}}\left(1+x\right)^{\frac{1}{x}}=e=2.718281828...$
-en ook ${\displaystyle \lim_{x\to\pm\infty}}\left(1+\frac{1}{x}\right)^{x}=e$
+numeriek voorbeeldje. In paragraaf \ref{sec:bijzlim}
+hebben we gezien dat: 
+\begin{equation*}
+{\displaystyle \lim_{x\to0}}\left(1+x\right)^{\frac{1}{x}}=e=2,718281828...
+\text{ en ook }{\displaystyle \lim_{x\to\pm\infty}}\left(1+\frac{1}{x}\right)^{x}=e
+\end{equation*}
 
 \begin{table}[ht]
 \centering
-\begin{tabular}{|l|l|l|l||l|l|l|l|}
+\begin{tabular}{lrcl|lrcl}
+	$x$ & \multicolumn{3}{c|}{$\left(1+x\right)^{\frac{1}{x}}$}  & $x$ & \multicolumn{3}{c}{$\left(1+\frac{1}{x}\right)^{x}$}\\
 	\hline 
-	$x$ & \multicolumn{3}{l||}{$\left(1+x\right)^{\frac{1}{x}}$}  & $x$ & \multicolumn{3}{l|}{$\left(1+\frac{1}{x}\right)^{x}$}\\
-	\hline 
-	\hline 
-	1 & $2^{1}$ & = & 2.0  & 1 & $2^{1}$ & = & 2.0\\
-	\hline 
-	0.1 & $1.1^{10}$ & = & 2.59374246  & 10 & $1.1^{10}$ & = & 2.59374246\\
-	\hline 
-	0.01 & $1.01^{100}$ & = & 2.70481382  & 100 & $1.01^{100}$ & = & 2.70481382\\
-	\hline 
-	0.0001 & $1.0001^{10000}$ & = & 2.71814592  & 10000 & $1.0001^{10000}$ & = & 2.71814592\\
-	\hline 
+	1 & $2^{1}$ & = & 2,0  & 1 & $2^{1}$ & = & 2,0\\
+	0,1 & $1,1^{10}$ & = & 2,59374246  & 10 & $1,1^{10}$ & = & 2,59374246\\
+	0,01 & $1,01^{100}$ & = & 2,70481382  & 100 & $1,01^{100}$ & = & 2,70481382\\
+	0,0001 & $1,0001^{10000}$ & = & 2,71814592  & 10000 & $1,0001^{10000}$ & = & 2,71814592\\
 \end{tabular}
 \end{table}
 
@@ -1293,5 +1261,5 @@ en ook ${\displaystyle \lim_{x\to\pm\infty}}\left(1+\frac{1}{x}\right)^{x}=e$
 We zien dat, afhankelijk van de vorm die we bekijken, als
 $x$ heel dicht bij $0$ of bij oneindig nadert, de vorm schijnbaar
 naar $1^{\infty}$ gaat, maar de echte waarde gaat echter naar het
-``magische getal e''.
+``magische getal $e$''.
 
