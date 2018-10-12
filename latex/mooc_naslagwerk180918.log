@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  11 OCT 2018 13:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  12 OCT 2018 10:52
 entering extended mode
 **./mooc_naslagwerk180918.tex
 (mooc_naslagwerk180918.tex
@@ -4319,311 +4319,321 @@ Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [150]
 Hoofdstuk .
+<4_opp_inhoud_an_meetk/inputs/QR_Code_INTRO_module4.png, id=1485, 3011.25pt x 3
+011.25pt>
+File: 4_opp_inhoud_an_meetk/inputs/QR_Code_INTRO_module4.png Graphic file (type
+ png)
+<use 4_opp_inhoud_an_meetk/inputs/QR_Code_INTRO_module4.png>
+Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/QR_Code_INTRO_module4.png
+  used on input line 7.
+(pdftex.def)             Requested size: 113.81102pt x 113.76703pt.
 (4_opp_inhoud_an_meetk/module_4_1.tex
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 39.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 30.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [151
 
-]
-<4_opp_inhoud_an_meetk/inputs/fig1.png, id=1491, 118.94438pt x 79.04532pt>
+ <./4_opp_inhoud_an_meetk/inputs/QR_Code_INTRO_module4.png>]
+<4_opp_inhoud_an_meetk/inputs/fig1.png, id=1492, 118.94438pt x 79.04532pt>
 File: 4_opp_inhoud_an_meetk/inputs/fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/fig1.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/fig1.png  used on input l
-ine 78.
+ine 93.
 (pdftex.def)             Requested size: 142.26378pt x 94.54752pt.
-<4_opp_inhoud_an_meetk/inputs/fig2.png, id=1492, 121.20282pt x 116.68594pt>
+<4_opp_inhoud_an_meetk/inputs/fig2.png, id=1493, 121.20282pt x 116.68594pt>
 File: 4_opp_inhoud_an_meetk/inputs/fig2.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/fig2.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/fig2.png  used on input l
-ine 82.
+ine 97.
 (pdftex.def)             Requested size: 142.26378pt x 136.97778pt.
-<4_opp_inhoud_an_meetk/inputs/fig3.png, id=1493, 147.55125pt x 98.61844pt>
+<4_opp_inhoud_an_meetk/inputs/fig3.png, id=1494, 147.55125pt x 98.61844pt>
 File: 4_opp_inhoud_an_meetk/inputs/fig3.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/fig3.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/fig3.png  used on input l
-ine 85.
+ine 100.
 (pdftex.def)             Requested size: 142.26378pt x 95.08643pt.
-<4_opp_inhoud_an_meetk/inputs/fig4.png, id=1494, 221.32687pt x 70.76437pt>
+<4_opp_inhoud_an_meetk/inputs/fig4.png, id=1495, 221.32687pt x 70.76437pt>
 File: 4_opp_inhoud_an_meetk/inputs/fig4.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/fig4.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/fig4.png  used on input l
-ine 88.
+ine 103.
 (pdftex.def)             Requested size: 227.62204pt x 72.7812pt.
-<4_opp_inhoud_an_meetk/inputs/fig5.png, id=1495, 155.83218pt x 74.52844pt>
+<4_opp_inhoud_an_meetk/inputs/fig5.png, id=1496, 155.83218pt x 74.52844pt>
 File: 4_opp_inhoud_an_meetk/inputs/fig5.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/fig5.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/fig5.png  used on input l
-ine 101.
+ine 116.
 (pdftex.def)             Requested size: 199.16928pt x 95.25618pt.
-<4_opp_inhoud_an_meetk/inputs/fig6.png, id=1496, 188.95593pt x 85.82062pt>
+<4_opp_inhoud_an_meetk/inputs/fig6.png, id=1497, 188.95593pt x 85.82062pt>
 File: 4_opp_inhoud_an_meetk/inputs/fig6.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/fig6.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/fig6.png  used on input l
-ine 104.
+ine 119.
 (pdftex.def)             Requested size: 227.62204pt x 103.3823pt.
-<4_opp_inhoud_an_meetk/inputs/fig7.png, id=1497, 118.94438pt x 106.14656pt>
+<4_opp_inhoud_an_meetk/inputs/fig7.png, id=1498, 118.94438pt x 106.14656pt>
 File: 4_opp_inhoud_an_meetk/inputs/fig7.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/fig7.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/fig7.png  used on input l
-ine 110.
+ine 125.
 (pdftex.def)             Requested size: 142.26378pt x 126.96384pt.
-<4_opp_inhoud_an_meetk/inputs/fig8.png, id=1498, 207.02344pt x 122.70844pt>
+<4_opp_inhoud_an_meetk/inputs/fig8.png, id=1499, 207.02344pt x 122.70844pt>
 File: 4_opp_inhoud_an_meetk/inputs/fig8.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/fig8.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/fig8.png  used on input l
-ine 121.
+ine 136.
 (pdftex.def)             Requested size: 227.62204pt x 134.92165pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 144.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 157.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [152]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 144.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 157.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [153 <./4_opp_inhoud_an_meetk/inputs/fig1.png> <./4_opp_inhoud_an_meetk/inputs
 /fig2.png> <./4_opp_inhoud_an_meetk/inputs/fig3.png> <./4_opp_inhoud_an_meetk/i
 nputs/fig4.png>]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 144.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 157.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [154 <./4_opp_inhoud_an_meetk/inputs/fig5.png> <./4_opp_inhoud_an_meetk/inputs
 /fig6.png> <./4_opp_inhoud_an_meetk/inputs/fig7.png> <./4_opp_inhoud_an_meetk/i
 nputs/fig8.png>]
-<4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_prisma.jpg, id=1523, 428.3
+<4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_prisma.jpg, id=1522, 428.3
 5031pt x 201.75375pt>
 File: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_prisma.jpg Graphic fi
 le (type jpg)
 <use 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_prisma.jpg>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_pr
-isma.jpg  used on input line 147.
+isma.jpg  used on input line 164.
 (pdftex.def)             Requested size: 339.49852pt x 159.90398pt.
-
-Overfull \hbox (10.71661pt too wide) in paragraph at lines 162--163
-[][] 
- []
-
-<4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_kubus.jpg, id=1525, 176.91
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 173.
+<4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_kubus.jpg, id=1523, 176.91
 093pt x 161.10187pt>
 File: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_kubus.jpg Graphic fil
 e (type jpg)
 <use 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_kubus.jpg>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_ku
-bus.jpg  used on input line 171.
-(pdftex.def)             Requested size: 339.49852pt x 309.16702pt.
-
-Overfull \hbox (10.71661pt too wide) in paragraph at lines 186--187
-[][] 
- []
-
-<4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_balk.jpg, id=1527, 550.305
+bus.jpg  used on input line 189.
+(pdftex.def)             Requested size: 193.99704pt x 176.66441pt.
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 189.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+ [155 <./4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_prisma.jpg>]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 199.
+<4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_balk.jpg, id=1528, 550.305
 94pt x 347.04657pt>
 File: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_balk.jpg Graphic file
  (type jpg)
 <use 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_balk.jpg>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_ba
-lk.jpg  used on input line 194.
+lk.jpg  used on input line 214.
 (pdftex.def)             Requested size: 339.49852pt x 214.10754pt.
-
-Overfull \hbox (10.71661pt too wide) in paragraph at lines 209--210
-[][] 
- []
-
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 224.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 214.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 235.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[155 <./4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_prisma.jpg>]
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 214.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-
-[156 <./4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_kubus.jpg> <./4_opp
-_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_balk.jpg>]
+ [156 <./4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_kubus.jpg> <./4_op
+p_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_balk.jpg>]
 <4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_parallellepipedum.jpg, id=
-1540, 466.74374pt x 453.19313pt>
+1534, 466.74374pt x 453.19313pt>
 File: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_parallellepipedum.jpg
  Graphic file (type jpg)
 <use 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_parallellepipedum.jpg>
 
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_pa
-rallellepipedum.jpg  used on input line 217.
+rallellepipedum.jpg  used on input line 239.
 (pdftex.def)             Requested size: 339.49852pt x 329.65265pt.
-
-Overfull \hbox (10.71661pt too wide) in paragraph at lines 232--233
-[][] 
- []
-
-<4_opp_inhoud_an_meetk/inputs/piramide.png, id=1542, 627.84563pt x 143.03438pt>
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 249.
+<4_opp_inhoud_an_meetk/inputs/piramide.png, id=1535, 627.84563pt x 143.03438pt>
 
 File: 4_opp_inhoud_an_meetk/inputs/piramide.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/piramide.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/piramide.png  used on inp
-ut line 239.
+ut line 264.
 (pdftex.def)             Requested size: 339.49852pt x 77.34216pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 252--253
-[][] 
- []
-
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 254.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 264.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[157 <./4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_parallellepipedum.j
-pg>]
-<4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_cilinder1.jpg, id=1550, 13
-9.27031pt x 187.45032pt>
-File: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_cilinder1.jpg Graphic
- file (type jpg)
-<use 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_cilinder1.jpg>
-Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_ci
-linder1.jpg  used on input line 272.
-(pdftex.def)             Requested size: 145.50148pt x 195.84183pt.
+ [157 <./4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_parallellepipedum.
+jpg>]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 275.
+File: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_parallellepipedum.jpg
+ Graphic file (type jpg)
+<use 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_parallellepipedum.jpg>
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 284--285
-[][] 
- []
-
+Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_pa
+rallellepipedum.jpg  used on input line 302.
+(pdftex.def)             Requested size: 339.49852pt x 329.65265pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 289.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 302.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[158 <./4_opp_inhoud_an_meetk/inputs/piramide.png>]
-<4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_kegel1.jpg, id=1558, 278.5
+ [158 <./4_opp_inhoud_an_meetk/inputs/piramide.png>]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 311.
+<4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_kegel1.jpg, id=1544, 278.5
 4062pt x 372.64218pt>
 File: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_kegel1.jpg Graphic fi
 le (type jpg)
 <use 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_kegel1.jpg>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_ke
-gel1.jpg  used on input line 293.
-(pdftex.def)             Requested size: 145.50148pt x 194.66206pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 306--307
-[][] 
- []
-
+gel1.jpg  used on input line 326.
+(pdftex.def)             Requested size: 339.49852pt x 454.2077pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 310.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 326.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[159 <./4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_cilinder1.jpg> <./4
-_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_kegel1.jpg>]
-<4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_bol1.jpg, id=1564, 330.484
+ [159]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 337.
+<4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_bol1.jpg, id=1549, 330.484
 68pt x 246.9225pt>
 File: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_bol1.jpg Graphic file
  (type jpg)
 <use 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_bol1.jpg>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_bo
-l1.jpg  used on input line 313.
+l1.jpg  used on input line 349.
 (pdftex.def)             Requested size: 145.50148pt x 108.71404pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 326--327
-[][] 
- []
-
-) (4_opp_inhoud_an_meetk/module_4_2.tex (4_opp_inhoud_an_meetk/module_4_2_1.tex
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig1.png, id=1565, 524.71031pt x 121.9556
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 349.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+ [160 <./4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_kegel1.jpg>]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 360.
+) (4_opp_inhoud_an_meetk/module_4_2.tex
+(4_opp_inhoud_an_meetk/module_4_2_1.tex
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig1.png, id=1554, 524.71031pt x 121.9556
 3pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig1.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig1.png  used on
- input line 12.
+ input line 10.
 (pdftex.def)             Requested size: 244.83644pt x 56.9055pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig2.png, id=1566, 385.56046pt x 24.93315
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig2.png, id=1555, 385.56046pt x 24.93315
 pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig2.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig2.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig2.png  used on
  input line 23.
-(pdftex.def)             Requested size: 308.00754pt x 19.91692pt.
+(pdftex.def)             Requested size: 880.09299pt x 56.9055pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Overfull \hbox (395.09299pt too wide) in paragraph at lines 23--23
+ [] 
+ []
 
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 29.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[160 <./4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_bol1.jpg> <./4_opp_
-inhoud_an_meetk/inputs/AMTekst1Fig1.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3.png, id=1574, 526.96875pt x 132.495p
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3.png, id=1556, 526.96875pt x 132.495p
 t>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3.png  used on
- input line 32.
+ input line 34.
 (pdftex.def)             Requested size: 226.32678pt x 56.9055pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png, id=1577, 451.6875pt x 340.27126
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 34.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+[161 <./4_opp_inhoud_an_meetk/inputs/RuimteFigurenOppInhoud_bol1.jpg> <./4_opp_
+inhoud_an_meetk/inputs/AMTekst1Fig1.png> <./4_opp_inhoud_an_meetk/inputs/AMTeks
+t1Fig2.png (PNG copy)>]
+
+LaTeX Warning: Reference `4.2.1_fig_reeel_fig1' on page 162 undefined on input 
+line 102.
+
+
+LaTeX Warning: Reference `4.2.1_fig_reeel_fig2' on page 162 undefined on input 
+line 105.
+
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png, id=1562, 451.6875pt x 340.27126
 pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png  used on
- input line 103.
+ input line 107.
 (pdftex.def)             Requested size: 242.5pt x 182.68454pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 107.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [161 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig2.png (PNG copy)> <./4_opp_inh
-oud_an_meetk/inputs/AMTekst1Fig3.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig8.png, id=1586, 647.41875pt x 459.9684
+[162 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig8.png, id=1569, 647.41875pt x 459.9684
 4pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig8.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig8.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig8.png  used on
- input line 111.
+ input line 108.
 (pdftex.def)             Requested size: 242.5pt x 172.2842pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png, id=1587, 638.385pt x 234.8775pt
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png, id=1570, 638.385pt x 234.8775pt
 >
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png  used on
- input line 126.
+ input line 135.
 (pdftex.def)             Requested size: 232.00038pt x 85.35826pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig10.png, id=1588, 609.77812pt x 203.259
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig10.png, id=1571, 609.77812pt x 203.259
 37pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig10.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig10.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig10.png  used o
-n input line 140.
+n input line 152.
 (pdftex.def)             Requested size: 256.06784pt x 85.35826pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 148.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 152.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[162 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png> <./4_opp_inhoud_an_meetk
-/inputs/AMTekst1Fig8.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig11.png, id=1597, 618.05907pt x 162.607
+ [163 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7.png> <./4_opp_inhoud_an_meet
+k/inputs/AMTekst1Fig8.png> <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst1Fig11.png, id=1579, 618.05907pt x 162.607
 5pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig11.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig11.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst1Fig11.png  used o
-n input line 151.
+n input line 172.
 (pdftex.def)             Requested size: 324.44815pt x 85.35826pt.
-) (4_opp_inhoud_an_meetk/module_4_2_3.tex
-<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig1.png, id=1599, 526.96875pt x 332.7431
+)
+(4_opp_inhoud_an_meetk/module_4_2_3.tex
+
+LaTeX Warning: Reference `fig4.2.2_fig1' on page 164 undefined on input line 3.
+
+
+<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig1.png, id=1580, 526.96875pt x 332.7431
 2pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig1.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig1.png  used on
- input line 12.
+ input line 10.
 (pdftex.def)             Requested size: 485.0pt x 306.25938pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 16.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 10.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [163 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9.png> <./4_opp_inhoud_an_meet
-k/inputs/AMTekst1Fig10.png> <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig11.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig2.png, id=1612, 451.6875pt x 278.54062
+[164 <./4_opp_inhoud_an_meetk/inputs/AMTekst1Fig10.png> <./4_opp_inhoud_an_meet
+k/inputs/AMTekst1Fig11.png>]
+
+LaTeX Warning: Reference `fig4.2.2_fig2' on page 165 undefined on input line 31
+.
+
+<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig2.png, id=1588, 451.6875pt x 278.54062
 pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig2.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig2.png>
@@ -4632,384 +4642,381 @@ Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig2.png  used on
 (pdftex.def)             Requested size: 230.70218pt x 142.26378pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 50.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 55.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [164 <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig1.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig3.png, id=1620, 451.6875pt x 301.8778p
+[165 <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig1.png> <./4_opp_inhoud_an_meetk
+/inputs/AMTekst2Fig2.png>]
+
+LaTeX Warning: Reference `fig4.2.2_fig3' on page 166 undefined on input line 66
+.
+
+<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig3.png, id=1595, 451.6875pt x 301.8778p
 t>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig3.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig3.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig3.png  used on
- input line 65.
+ input line 70.
 (pdftex.def)             Requested size: 212.8583pt x 142.26378pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png, id=1622, 576.65437pt x 384.6872
+
+LaTeX Warning: Reference `fig4.2.2_fig4' on page 166 undefined on input line 80
+.
+
+<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png, id=1596, 576.65437pt x 384.6872
 pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png  used on
- input line 75.
+ input line 82.
 (pdftex.def)             Requested size: 339.49852pt x 226.488pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig5.png, id=1624, 166.37157pt x 205.5178
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 82.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+[166 <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig3.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig5.png, id=1603, 166.37157pt x 205.5178
 pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig5.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig5.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig5.png  used on
- input line 91.
+ input line 102.
 (pdftex.def)             Requested size: 116.39896pt x 143.78935pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png, id=1625, 451.6875pt x 304.13625
+<4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png, id=1604, 451.6875pt x 304.13625
 pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png  used on
- input line 95.
+ input line 106.
 (pdftex.def)             Requested size: 232.79793pt x 156.75488pt.
 )
 (4_opp_inhoud_an_meetk/module_4_2_4.tex
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 7.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 17.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [165 <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig2.png> <./4_opp_inhoud_an_meet
-k/inputs/AMTekst2Fig3.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png, id=1636, 451.6875pt x 296.60812
+ [167 <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png> <./4_opp_inhoud_an_meet
+k/inputs/AMTekst2Fig5.png> <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png, id=1613, 451.6875pt x 296.60812
 pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png  used on
- input line 19.
-(pdftex.def)             Requested size: 339.49852pt x 222.94885pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 28.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [166 <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig4.png> <./4_opp_inhoud_an_meet
-k/inputs/AMTekst2Fig5.png> <./4_opp_inhoud_an_meetk/inputs/AMTekst2Fig6.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig2.png, id=1646, 582.67688pt x 384.6872
+ input line 17.
+(pdftex.def)             Requested size: 216.649pt x 142.26378pt.
+<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig2.png, id=1614, 582.67688pt x 384.6872
 pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig2.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig2.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig2.png  used on
- input line 46.
-(pdftex.def)             Requested size: 339.49852pt x 224.14595pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig3.png, id=1648, 578.91281pt x 383.9343
+ input line 47.
+(pdftex.def)             Requested size: 318.93631pt x 210.56898pt.
+<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig3.png, id=1615, 578.91281pt x 383.9343
 7pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig3.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig3.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig3.png  used on
- input line 57.
-(pdftex.def)             Requested size: 339.49852pt x 225.15431pt.
+ input line 61.
+(pdftex.def)             Requested size: 214.51239pt x 142.26378pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 67.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 61.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [167 <./4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png, id=1657, 451.6875pt x 304.13625
+ [168 <./4_opp_inhoud_an_meetk/inputs/AMTekst3Fig1.png> <./4_opp_inhoud_an_meet
+k/inputs/AMTekst3Fig2.png>]
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 74.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+ [169 <./4_opp_inhoud_an_meetk/inputs/AMTekst3Fig3.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png, id=1628, 451.6875pt x 304.13625
 pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png  used on
- input line 72.
-(pdftex.def)             Requested size: 339.49852pt x 228.60745pt.
-<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig5.png, id=1659, 451.6875pt x 359.84438
+ input line 79.
+(pdftex.def)             Requested size: 211.28688pt x 142.26378pt.
+<4_opp_inhoud_an_meetk/inputs/AMTekst3Fig5.png, id=1629, 451.6875pt x 359.84438
 pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig5.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig5.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst3Fig5.png  used on
- input line 87.
-(pdftex.def)             Requested size: 339.49852pt x 270.48111pt.
-
-Overfull \hbox (0.77449pt too wide) in paragraph at lines 83--92
-$[]$ \OT1/cmr/m/n/12 Ge-ge-ven zijn de pun-ten $\OML/cmm/m/it/12 P\OT1/cmr/m/n/
-12 (\OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 2; 5)$ en $\OML/cmm/m/it/12 Q\OT1/cmr/m/n
-/12 (3; \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 1)$, zie Fi-guur [].20[]. Wat zijn de
- co[]ordinaten
- []
-
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 97.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[168 <./4_opp_inhoud_an_meetk/inputs/AMTekst3Fig2.png> <./4_opp_inhoud_an_meetk
-/inputs/AMTekst3Fig3.png>]
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 104.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [169 <./4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png> <./4_opp_inhoud_an_meet
-k/inputs/AMTekst3Fig5.png>])
+ input line 99.
+(pdftex.def)             Requested size: 178.57657pt x 142.26378pt.
+)
 (4_opp_inhoud_an_meetk/module_4_2_6.tex
-<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png, id=1675, 602.25pt x 231.86626pt
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 9.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+ [170 <./4_opp_inhoud_an_meetk/inputs/AMTekst3Fig4.png> <./4_opp_inhoud_an_meet
+k/inputs/AMTekst3Fig5.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png, id=1638, 602.25pt x 231.86626pt
 >
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png  used on
- input line 11.
+ input line 10.
 (pdftex.def)             Requested size: 369.52232pt x 142.26378pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 34.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 46.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [170 <./4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png>]
-<4_opp_inhoud_an_meetk/inputs/AMtekst4Fig2.png, id=1682, 356.0803pt x 103.88812
+ [171 <./4_opp_inhoud_an_meetk/inputs/AMTekst4Fig1.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig2.png, id=1644, 356.0803pt x 103.88812
 pt>
-File: 4_opp_inhoud_an_meetk/inputs/AMtekst4Fig2.png Graphic file (type png)
-<use 4_opp_inhoud_an_meetk/inputs/AMtekst4Fig2.png>
-Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMtekst4Fig2.png  used on
- input line 50.
-(pdftex.def)             Requested size: 390.10844pt x 113.81102pt.
+File: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig2.png Graphic file (type png)
+<use 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig2.png>
+Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig2.png  used on
+ input line 51.
+(pdftex.def)             Requested size: 487.66951pt x 142.26378pt.
+
+Overfull \hbox (2.66951pt too wide) in paragraph at lines 51--51
+ [] 
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 57--61
 
  []
 
-<4_opp_inhoud_an_meetk/inputs/AMtekst4Fig3.png, id=1683, 602.25pt x 322.20375pt
+<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig3.png, id=1645, 602.25pt x 322.20375pt
 >
-File: 4_opp_inhoud_an_meetk/inputs/AMtekst4Fig3.png Graphic file (type png)
-<use 4_opp_inhoud_an_meetk/inputs/AMtekst4Fig3.png>
-Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMtekst4Fig3.png  used on
- input line 68.
-(pdftex.def)             Requested size: 425.47769pt x 227.62204pt.
+File: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig3.png Graphic file (type png)
+<use 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig3.png>
+Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig3.png  used on
+ input line 67.
+(pdftex.def)             Requested size: 265.91896pt x 142.26378pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 78.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[171 <./4_opp_inhoud_an_meetk/inputs/AMtekst4Fig2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 85--91
+[172 <./4_opp_inhoud_an_meetk/inputs/AMTekst4Fig2.png> <./4_opp_inhoud_an_meetk
+/inputs/AMTekst4Fig3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 89--95
 
  []
 
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 117.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[172 <./4_opp_inhoud_an_meetk/inputs/AMtekst4Fig3.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig4.png, id=1697, 602.25pt x 371.88937pt
+<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig4.png, id=1652, 602.25pt x 371.88937pt
 >
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig4.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig4.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig4.png  used on
- input line 120.
+ input line 124.
 (pdftex.def)             Requested size: 230.39203pt x 142.26378pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 137--139
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
-
- []
-
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 162.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 138.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
 [173 <./4_opp_inhoud_an_meetk/inputs/AMTekst4Fig4.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png, id=1705, 525.46312pt x 372.6421
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+<4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png, id=1659, 525.46312pt x 372.6421
 8pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png  used on
- input line 167.
+ input line 177.
 (pdftex.def)             Requested size: 200.60011pt x 142.26378pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 194.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+[174 <./4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
 ) (4_opp_inhoud_an_meetk/module_4_2_10.tex
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 9.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [174 <./4_opp_inhoud_an_meetk/inputs/AMTekst4Fig5.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png, id=1714, 334.24875pt x 322.2037
+<4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png, id=1667, 334.24875pt x 322.2037
 5pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png  used on
  input line 18.
 (pdftex.def)             Requested size: 206.62004pt x 199.16928pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
-
- []
-
-<4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png, id=1716, 385.44pt x 357.58594pt
->
-File: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png Graphic file (type png)
-<use 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png>
-Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png  used on
- input line 39.
-(pdftex.def)             Requested size: 214.6863pt x 199.16928pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 56.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 30.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[175 <./4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png, id=1725, 462.97969pt x 458.4628
-1pt>
-File: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png Graphic file (type png)
-<use 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png>
-Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png  used on
- input line 70.
-(pdftex.def)             Requested size: 201.13315pt x 199.16928pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 94.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [176 <./4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 94--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--101
-
- []
-
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 123.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[177 <./4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 129--132
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
-
- []
-
-)
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 20.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [178] (4_opp_inhoud_an_meetk/module_4_2_14.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-
+ [175 <./4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
-
- []
-
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 43.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[179]
-Underfull \hbox (badness 10000) in paragraph at lines 47--49
-
- []
-
-<4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png, id=1746, 537.50812pt x 368.8781
-3pt>
-File: 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png Graphic file (type png)
-<use 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png>
-Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png  used on
- input line 55.
-(pdftex.def)             Requested size: 290.21725pt x 199.16928pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
-
- []
-
+<4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png, id=1674, 385.44pt x 357.58594pt
+>
+File: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png Graphic file (type png)
+<use 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png>
+Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png  used on
+ input line 44.
+(pdftex.def)             Requested size: 214.6863pt x 199.16928pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 80.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[180 <./4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst6Fig2.png, id=1755, 336.50719pt x 202.5065
-6pt>
-File: 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig2.png Graphic file (type png)
-<use 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig2.png>
-Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig2.png  used on
- input line 86.
-(pdftex.def)             Requested size: 330.97116pt x 199.16928pt.
+[176 <./4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png, id=1681, 462.97969pt x 458.4628
+1pt>
+File: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png Graphic file (type png)
+<use 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png>
+Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png  used on
+ input line 80.
+(pdftex.def)             Requested size: 201.13315pt x 199.16928pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--94
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--116
 
  []
 
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 115.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 126.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[181 <./4_opp_inhoud_an_meetk/inputs/AMTekst6Fig2.png>])
-(4_opp_inhoud_an_meetk/module_4_2_15.tex
-<4_opp_inhoud_an_meetk/inputs/AMTekst7Fig1.png, id=1762, 268.75406pt x 147.5512
+[177 <./4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 147--150
+
+ []
+
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 175.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+[178]
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
+
+ []
+
+) (4_opp_inhoud_an_meetk/module_4_2_14.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 25.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+[179]
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+<4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png, id=1698, 537.50812pt x 368.8781
+3pt>
+File: 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png Graphic file (type png)
+<use 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png>
+Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png  used on
+ input line 56.
+(pdftex.def)             Requested size: 290.21725pt x 199.16928pt.
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 56.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+[180]
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+File: 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png Graphic file (type png)
+<use 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png>
+Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png  used on
+ input line 89.
+(pdftex.def)             Requested size: 290.21725pt x 199.16928pt.
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 89.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+[181 <./4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 99--101
+
+ []
+
+) (4_opp_inhoud_an_meetk/module_4_2_15.tex
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 6.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+ [182]
+<4_opp_inhoud_an_meetk/inputs/AMTekst7Fig1.png, id=1715, 268.75406pt x 147.5512
 5pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig1.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig1.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig1.png  used on
- input line 10.
-(pdftex.def)             Requested size: 259.1287pt x 142.26378pt.
+ input line 13.
+(pdftex.def)             Requested size: 362.78181pt x 199.16928pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
  []
 
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 35.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 105.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[182 <./4_opp_inhoud_an_meetk/inputs/AMTekst7Fig1.png>]
-<4_opp_inhoud_an_meetk/inputs/AMTekst7Fig2.png, id=1771, 453.19313pt x 371.1365
+[183 <./4_opp_inhoud_an_meetk/inputs/AMTekst7Fig1.png>]
+<4_opp_inhoud_an_meetk/inputs/AMTekst7Fig2.png, id=1724, 453.19313pt x 371.1365
 7pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig2.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig2.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig2.png  used on
- input line 95.
-(pdftex.def)             Requested size: 242.5pt x 198.5929pt.
+ input line 106.
+(pdftex.def)             Requested size: 243.20622pt x 199.16928pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 120.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 155.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [183 <./4_opp_inhoud_an_meetk/inputs/AMTekst7Fig2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
+ [184 <./4_opp_inhoud_an_meetk/inputs/AMTekst7Fig2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
 
  []
 
-<4_opp_inhoud_an_meetk/inputs/AMTekst7Fig3.png, id=1782, 293.59688pt x 195.7312
+<4_opp_inhoud_an_meetk/inputs/AMTekst7Fig3.png, id=1731, 293.59688pt x 195.7312
 5pt>
 File: 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig3.png Graphic file (type png)
 <use 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig3.png>
 Package pdftex.def Info: 4_opp_inhoud_an_meetk/inputs/AMTekst7Fig3.png  used on
- input line 162.
+ input line 176.
 (pdftex.def)             Requested size: 213.40553pt x 142.26378pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--176
+Underfull \hbox (badness 10000) in paragraph at lines 187--194
 
  []
 
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 177.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 195.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[184]
+[185 <./4_opp_inhoud_an_meetk/inputs/AMTekst7Fig3.png>]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 216.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 255.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [185 <./4_opp_inhoud_an_meetk/inputs/AMTekst7Fig3.png>])))
+ [186])))
 (5_vglen_ongelijkheden_stelsels_matrices/module_5.tex
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [186]
+ [187]
 Hoofdstuk .
 (5_vglen_ongelijkheden_stelsels_matrices/module_5_1.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -5020,7 +5027,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 26.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[187
+[188
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 29--30
@@ -5031,7 +5038,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 35.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[188]
+[189]
 Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
@@ -5055,7 +5062,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 75.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[189]
+[190]
 Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
@@ -5064,22 +5071,22 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 120.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[190]
+[191]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 169.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [191]
+ [192]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 172.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [192]
+ [193]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 214.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [193]
+ [194]
 Underfull \hbox (badness 10000) in paragraph at lines 220--223
 
  []
@@ -5093,7 +5100,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 241.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[194]
+[195]
 Underfull \hbox (badness 10000) in paragraph at lines 274--275
 
  []
@@ -5107,12 +5114,12 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 281.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[195]
+[196]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 325.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [196]
+ [197]
 Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
  []
@@ -5126,12 +5133,12 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 372.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[197]
+[198]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 374.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [198]
+ [199]
 Overfull \hbox (3.15974pt too wide) in paragraph at lines 397--398
 \OT1/cmr/m/n/12 Sommige ho-ge-re-graads-ver-ge-lij-kin-gen kun-nen op-ge-lost w
 or-den door een slimme sub-sti-tu-tie. Neem
@@ -5141,7 +5148,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 415.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[199]
+[200]
 Underfull \hbox (badness 10000) in paragraph at lines 437--438
 
  []
@@ -5160,12 +5167,12 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 469.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[200]
+[201]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 471.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [201]
+ [202]
 Underfull \hbox (badness 10000) in paragraph at lines 482--483
 
  []
@@ -5189,12 +5196,12 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 515.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[202]
+[203]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 572.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [203]
+ [204]
 Underfull \hbox (badness 10000) in paragraph at lines 625--626
 
  []
@@ -5208,7 +5215,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 634.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[204]
+[205]
 Underfull \hbox (badness 10000) in paragraph at lines 653--654
 
  []
@@ -5227,7 +5234,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 695.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[205]
+[206]
 Underfull \hbox (badness 10000) in paragraph at lines 709--710
 
  []
@@ -5236,7 +5243,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 733.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[206]
+[207]
 Underfull \hbox (badness 10000) in paragraph at lines 744--745
 
  []
@@ -5245,7 +5252,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 768.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[207]
+[208]
 Underfull \hbox (badness 10000) in paragraph at lines 778--779
 
  []
@@ -5254,8 +5261,8 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 811.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[208]) (5_vglen_ongelijkheden_stelsels_matrices/module_5_2.tex
-<5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-1.jpg, id=1902, 47
+[209]) (5_vglen_ongelijkheden_stelsels_matrices/module_5_2.tex
+<5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-1.jpg, id=1851, 47
 4.27188pt x 474.27188pt>
 File: 5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-1.jpg Graphic
  file (type jpg)
@@ -5271,7 +5278,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 18.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[209]
+[210]
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
@@ -5280,8 +5287,8 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 49.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[210 <./5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-1.jpg>]
-<5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2.jpg, id=1913, 49
+[211 <./5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-1.jpg>]
+<5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2.jpg, id=1862, 49
 3.845pt x 407.27156pt>
 File: 5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2.jpg Graphic
  file (type jpg)
@@ -5289,7 +5296,7 @@ File: 5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2.jpg Graphic
 Package pdftex.def Info: 5_vglen_ongelijkheden_stelsels_matrices/inputs/matrice
 s-fig-2.jpg  used on input line 74.
 (pdftex.def)             Requested size: 246.92189pt x 203.63527pt.
-<5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-3.jpg, id=1914, 48
+<5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-3.jpg, id=1863, 48
 6.31688pt x 412.54124pt>
 File: 5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-3.jpg Graphic
  file (type jpg)
@@ -5305,7 +5312,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 96.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[211 <./5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2.jpg>]
+[212 <./5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
@@ -5330,18 +5337,18 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 111.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[212 <./5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-3.jpg>]
+[213 <./5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-3.jpg>]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 177.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
 
-[213]
+[214]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 245.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [214]
+ [215]
 Underfull \hbox (badness 10000) in paragraph at lines 263--264
 
  []
@@ -5365,7 +5372,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 323.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[215]
+[216]
 Underfull \hbox (badness 10000) in paragraph at lines 416--417
 
  []
@@ -5374,7 +5381,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 418.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[216]
+[217]
 Underfull \hbox (badness 10000) in paragraph at lines 427--428
 
  []
@@ -5388,7 +5395,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 471.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[217]
+[218]
 Underfull \hbox (badness 10000) in paragraph at lines 485--487
 
  []
@@ -5412,7 +5419,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 515.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[218]
+[219]
 Underfull \hbox (badness 10000) in paragraph at lines 520--521
 
  []
@@ -5446,7 +5453,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 549.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[219]
+[220]
 Underfull \hbox (badness 10000) in paragraph at lines 563--564
 
  []
@@ -5455,17 +5462,17 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 613.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[220]
+[221]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 659.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [221]
+ [222]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 706.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [222]
+ [223]
 Underfull \hbox (badness 10000) in paragraph at lines 747--749
 
  []
@@ -5474,7 +5481,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 753.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[223]
+[224]
 Underfull \hbox (badness 10000) in paragraph at lines 757--758
 
  []
@@ -5498,7 +5505,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 793.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[224]
+[225]
 Underfull \hbox (badness 10000) in paragraph at lines 823--826
 
  []
@@ -5512,7 +5519,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 834.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[225]
+[226]
 Underfull \hbox (badness 10000) in paragraph at lines 842--843
 
  []
@@ -5536,12 +5543,12 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 880.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[226]
+[227]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 888.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [227]
+ [228]
 Underfull \hbox (badness 10000) in paragraph at lines 905--906
 
  []
@@ -5574,7 +5581,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 938.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[228]
+[229]
 Underfull \hbox (badness 10000) in paragraph at lines 944--945
 
  []
@@ -5608,7 +5615,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 985.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[229]
+[230]
 Underfull \hbox (badness 10000) in paragraph at lines 986--987
 
  []
@@ -5632,7 +5639,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1022.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[230]
+[231]
 Overfull \hbox (1.10931pt too wide) in paragraph at lines 1034--1035
 \OT1/cmr/m/n/12 te-kent dat $\OML/cmm/m/it/12 rang\OT1/cmr/m/n/12 (\OML/cmm/m/i
 t/12 A\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 n$\OT1/cmr/m/n/12 , $\OML/cmm/m/it/1
@@ -5649,12 +5656,12 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1065.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[231]
+[232]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1126.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [232]
+ [233]
 Underfull \hbox (badness 10000) in paragraph at lines 1128--1129
 
  []
@@ -5663,12 +5670,12 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1144.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[233]
+[234]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1187.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [234]
+ [235]
 Underfull \hbox (badness 10000) in paragraph at lines 1206--1207
 
  []
@@ -5691,7 +5698,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1254.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[235]
+[236]
 Underfull \hbox (badness 10000) in paragraph at lines 1256--1257
 
  []
@@ -5705,7 +5712,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1282.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[236]
+[237]
 Underfull \hbox (badness 10000) in paragraph at lines 1296--1301
 
  []
@@ -5719,7 +5726,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1335.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[237]
+[238]
 Underfull \hbox (badness 10000) in paragraph at lines 1378--1380
 
  []
@@ -5728,7 +5735,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1380.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[238]
+[239]
 Underfull \hbox (badness 10000) in paragraph at lines 1410--1411
 
  []
@@ -5742,7 +5749,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1418.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[239]
+[240]
 Underfull \hbox (badness 10000) in paragraph at lines 1420--1422
 
  []
@@ -5752,10 +5759,10 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [240]
+ [241]
 Hoofdstuk .
 (6_afgeleiden_integralen/module_6_1.tex
-<6_afgeleiden_integralen/inputs/graf.JPG, id=2055, 226.59656pt x 146.79843pt>
+<6_afgeleiden_integralen/inputs/graf.JPG, id=2004, 226.59656pt x 146.79843pt>
 File: 6_afgeleiden_integralen/inputs/graf.JPG Graphic file (type jpg)
 <use 6_afgeleiden_integralen/inputs/graf.JPG>
 Package pdftex.def Info: 6_afgeleiden_integralen/inputs/graf.JPG  used on input
@@ -5765,7 +5772,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 32.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [241
+ [242
 
  <./6_afgeleiden_integralen/inputs/graf.JPG>]
 Overfull \hbox (10.71661pt too wide) in paragraph at lines 44--45
@@ -5777,7 +5784,7 @@ Overfull \hbox (10.71661pt too wide) in paragraph at lines 51--52
 [][] 
  []
 
-<6_afgeleiden_integralen/inputs/grafTang.JPG, id=2063, 225.09094pt x 142.28156p
+<6_afgeleiden_integralen/inputs/grafTang.JPG, id=2012, 225.09094pt x 142.28156p
 t>
 File: 6_afgeleiden_integralen/inputs/grafTang.JPG Graphic file (type jpg)
 <use 6_afgeleiden_integralen/inputs/grafTang.JPG>
@@ -5788,12 +5795,12 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 86.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[242 <./6_afgeleiden_integralen/inputs/grafTang.JPG>]
+[243 <./6_afgeleiden_integralen/inputs/grafTang.JPG>]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 141.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [243]
+ [244]
 Overfull \hbox (5.11287pt too wide) in paragraph at lines 145--147
 [][][] []\OT1/cmr/m/it/12 Af-ge-leide van een func-tie ver-me-nig-vul-digd met 
 een con-stante : $[]$ 
@@ -5803,7 +5810,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 206.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[244]
+[245]
 Overfull \hbox (18.01642pt too wide) in paragraph at lines 243--244
 []\OT1/cmr/m/n/12 Antwoord : $3 [] [][] \OML/cmm/m/it/12 D [] \OT1/cmr/m/n/12 +
  4 [] [][] \OML/cmm/m/it/12 D [] \OMS/cmsy/m/n/12  
@@ -5819,18 +5826,18 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 265.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[245]
+[246]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 336.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [246]
+ [247]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 410.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [247]
-<6_afgeleiden_integralen/inputs/dalend.JPG, id=2112, 439.4016pt x 327.624pt>
+ [248]
+<6_afgeleiden_integralen/inputs/dalend.JPG, id=2061, 439.4016pt x 327.624pt>
 File: 6_afgeleiden_integralen/inputs/dalend.JPG Graphic file (type jpg)
 <use 6_afgeleiden_integralen/inputs/dalend.JPG>
 Package pdftex.def Info: 6_afgeleiden_integralen/inputs/dalend.JPG  used on inp
@@ -5844,13 +5851,13 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 476.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[248]
+[249]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 514.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [249 <./6_afgeleiden_integralen/inputs/dalend.JPG>]
-<6_afgeleiden_integralen/inputs/verloop_vb2.jpg, id=2128, 385.44pt x 378.66469p
+ [250 <./6_afgeleiden_integralen/inputs/dalend.JPG>]
+<6_afgeleiden_integralen/inputs/verloop_vb2.jpg, id=2077, 385.44pt x 378.66469p
 t>
 File: 6_afgeleiden_integralen/inputs/verloop_vb2.jpg Graphic file (type jpg)
 <use 6_afgeleiden_integralen/inputs/verloop_vb2.jpg>
@@ -5863,12 +5870,12 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 15.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [250 <./6_afgeleiden_integralen/inputs/verloop_vb2.jpg>]
+ [251 <./6_afgeleiden_integralen/inputs/verloop_vb2.jpg>]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 67.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [251]
+ [252]
 Overfull \hbox (14.63324pt too wide) in paragraph at lines 132--133
 [][] 
  []
@@ -5877,12 +5884,12 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 135.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[252]
+[253]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 147.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [253]
+ [254]
 Overfull \hbox (26.21487pt too wide) detected at line 159
 []
  []
@@ -5891,8 +5898,8 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 192.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[254]
-<6_afgeleiden_integralen/inputs/integraal1.jpg, id=2159, 444.2196pt x 269.5671p
+[255]
+<6_afgeleiden_integralen/inputs/integraal1.jpg, id=2108, 444.2196pt x 269.5671p
 t>
 File: 6_afgeleiden_integralen/inputs/integraal1.jpg Graphic file (type jpg)
 <use 6_afgeleiden_integralen/inputs/integraal1.jpg>
@@ -5908,7 +5915,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
 
-<6_afgeleiden_integralen/inputs/integraal2.JPG, id=2161, 492.8814pt x 296.0661p
+<6_afgeleiden_integralen/inputs/integraal2.JPG, id=2110, 492.8814pt x 296.0661p
 t>
 File: 6_afgeleiden_integralen/inputs/integraal2.JPG Graphic file (type jpg)
 <use 6_afgeleiden_integralen/inputs/integraal2.JPG>
@@ -5932,19 +5939,19 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 247.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[255]
+[256]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 279.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [256 <./6_afgeleiden_integralen/inputs/integraal1.jpg> <./6_afgeleiden_integra
+ [257 <./6_afgeleiden_integralen/inputs/integraal1.jpg> <./6_afgeleiden_integra
 len/inputs/integraal2.JPG>]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 330.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [257]
-<6_afgeleiden_integralen/inputs/integraal4.png, id=2185, 401.5pt x 398.48875pt>
+ [258]
+<6_afgeleiden_integralen/inputs/integraal4.png, id=2135, 401.5pt x 398.48875pt>
 
 File: 6_afgeleiden_integralen/inputs/integraal4.png Graphic file (type png)
 <use 6_afgeleiden_integralen/inputs/integraal4.png>
@@ -5955,11 +5962,11 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 373.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [258]
+ [259]
 
-LaTeX Warning: Reference `fig:int:3' on page 259 undefined on input line 377.
+LaTeX Warning: Reference `fig:int:3' on page 260 undefined on input line 377.
 
-<6_afgeleiden_integralen/inputs/integraal3.png, id=2194, 702.625pt x 282.05376p
+<6_afgeleiden_integralen/inputs/integraal3.png, id=2143, 702.625pt x 282.05376p
 t>
 File: 6_afgeleiden_integralen/inputs/integraal3.png Graphic file (type png)
 <use 6_afgeleiden_integralen/inputs/integraal3.png>
@@ -5970,13 +5977,13 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 397.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[259 <./6_afgeleiden_integralen/inputs/integraal4.png>])
+[260 <./6_afgeleiden_integralen/inputs/integraal4.png>])
 (6_afgeleiden_integralen/module_6_3.tex
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [260 <./6_afgeleiden_integralen/inputs/integraal3.png>]
+ [261 <./6_afgeleiden_integralen/inputs/integraal3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 61--63
 
  []
@@ -5985,7 +5992,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 63.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[261]
+[262]
 Underfull \hbox (badness 10000) in paragraph at lines 79--81
 
  []
@@ -5999,22 +6006,22 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 134.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[262]
+[263]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 207.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [263]
+ [264]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 264.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [264]
+ [265]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 341.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [265]
+ [266]
 Overfull \hbox (5.53021pt too wide) detected at line 358
 [] \OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/c
 mm/m/it/12 Dg\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/
@@ -6034,7 +6041,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 414.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[266]
+[267]
 Underfull \hbox (badness 10000) in paragraph at lines 465--465
 
  []
@@ -6058,7 +6065,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 475.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[267]
+[268]
 Underfull \hbox (badness 10000) in paragraph at lines 491--492
 
  []
@@ -6087,7 +6094,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 539.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[268]
+[269]
 Underfull \hbox (badness 10000) in paragraph at lines 566--566
 
  []
@@ -6111,12 +6118,12 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 599.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[269]
+[270]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 658.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [270]
+ [271]
 Overfull \hbox (14.77809pt too wide) in paragraph at lines 697--698
 []\OT1/cmr/m/n/12 Antwoord: $[] \OML/cmm/m/it/12 e[] [] [] dx \OT1/cmr/m/n/12 =
  \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 e[] [] [] \OMS/cmsy/m/n/12
@@ -6127,24 +6134,24 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 724.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[271]))
+[272]))
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 88.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [272]
+ [273]
 Hoofdstuk .
 (inputs/oplossingen-zonder-ster.tmp)
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 99.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [273
+ [274
 
 ]
 Hoofdstuk .
 (inputs/oplossingen-alle.tmp)
-<inputs/backcover.pdf, id=2280, 554.79266pt x 782.925pt>
+<inputs/backcover.pdf, id=2229, 554.79266pt x 782.925pt>
 File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf>
 Package pdftex.def Info: inputs/backcover.pdf  used on input line 111.
@@ -6153,7 +6160,7 @@ File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf>
 Package pdftex.def Info: inputs/backcover.pdf  used on input line 111.
 (pdftex.def)             Requested size: 554.7913pt x 782.9231pt.
-<inputs/backcover.pdf, id=2283, page=1, 554.79266pt x 782.925pt>
+<inputs/backcover.pdf, id=2232, page=1, 554.79266pt x 782.925pt>
 File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf, page 1>
 Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 111.
@@ -6166,7 +6173,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 111.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [274
+ [275
 
 ]
 File: inputs/backcover.pdf Graphic file (type pdf)
@@ -6181,7 +6188,7 @@ File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf, page 1>
 Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 111.
 (pdftex.def)             Requested size: 598.35448pt x 844.39957pt.
- [275 <./inputs/backcover.pdf>]
+ [276 <./inputs/backcover.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
 
@@ -6199,10 +6206,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 35579 strings out of 492973
- 706048 string characters out of 3135923
- 732461 words of memory out of 3000000
- 37802 multiletter control sequences out of 15000+200000
+ 35528 strings out of 492973
+ 704926 string characters out of 3135923
+ 732174 words of memory out of 3000000
+ 37775 multiletter control sequences out of 15000+200000
  552044 words of font info for 98 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,20n,80p,995b,1084s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -6228,9 +6235,9 @@ nts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/eurosym/feymr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
 sfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/symbols/msbm10.pfb>
-Output written on mooc_naslagwerk180918.pdf (276 pages, 10440429 bytes).
+Output written on mooc_naslagwerk180918.pdf (277 pages, 10542500 bytes).
 PDF statistics:
- 2558 PDF objects out of 2984 (max. 8388607)
- 835 named destinations out of 1000 (max. 500000)
- 878 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2503 PDF objects out of 2984 (max. 8388607)
+ 812 named destinations out of 1000 (max. 500000)
+ 873 words of extra memory for PDF output out of 10000 (max. 10000000)
 
