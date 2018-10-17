@@ -1,7 +1,13 @@
 \section{Integralen}
 
 \subsection{Inleidend voorbeeld}
-Zie filmpje MOOC.
+\begin{minipage}{.25\linewidth}
+	\raggedright
+	\includegraphics[width=4cm]{6_afgeleiden_integralen/inputs/QR_Code_INLEIDENDVB_module6_2}
+\end{minipage}
+\begin{minipage}{.7\linewidth}
+	Zie filmpje MOOC.
+\end{minipage}
 
 \subsection{Primitieve functies en onbepaalde integralen}
 
@@ -58,7 +64,13 @@ C && \text{De integratieconstante }
 \end{definitie}
 
 \subsection{Stelling van Newton Leibniz}
-Zie filmpje MOOC.
+\begin{minipage}{.25\linewidth}
+	\raggedright
+	\includegraphics[width=4cm]{6_afgeleiden_integralen/inputs/QR_Code_STNEWTONLEIBNIZ_module6_2}
+\end{minipage}
+\begin{minipage}{.7\linewidth}
+	Zie filmpje MOOC.
+\end{minipage}
 
 \subsection{Bijzondere onbepaalde integralen}
 
@@ -80,9 +92,8 @@ Vanwege $\frac{1}{x} = x^{-1}$ staat hier ook een uitkomst voor $\int x^m dx$ al
 
 Op deze wijze ontstaat de volgende lijst van bijzondere onbepaalde integralen.
 
-\fbox{
-	\begin{minipage}{\textwidth}
-		\emph{Rekenregels}
+\begin{ftrekenregel}
+	
 \begin{equation*}
 \int \dx = x + C
 \end{equation*}
@@ -128,8 +139,7 @@ Op deze wijze ontstaat de volgende lijst van bijzondere onbepaalde integralen.
 \begin{equation*}
 \int \frac{\dx}{\sqrt{a^2-x^2}}=\arcsin{\frac{x}{a}}+C
 \end{equation*}		
-\end{minipage}
-}
+\end{ftrekenregel}
 
 
 \subsection{Eenvoudige rekenregels}
@@ -137,26 +147,24 @@ Op deze wijze ontstaat de volgende lijst van bijzondere onbepaalde integralen.
 Uit $D(f+g)=Df+Dg$ bekom je
 
 \begin{eigenschap} Onbepaalde integraal van een som : \\
-	$\boxed { \int (f(x)+g(x))dx = \int f(x)dx + \int g(x)dx \hfill}$
+\[\int (f(x)+g(x))dx = \int f(x)dx + \int g(x)dx \hfill\]
 \end{eigenschap}
 
 Uit $D(cf)=cDf$ ($c$ is een getal) bekom je
 
 \begin{eigenschap} Onbepaalde integraal van een functie vermenigvuldigd met een constante :\\
-	$\boxed { \int cf(x)dx = c \int f(x)dx \hfill}$
+\[\int cf(x)dx = c \int f(x)dx \hfill\]
 \end{eigenschap}
 
 Met behulp van deze eigenschappen kun je alle integralen van veeltermfuncties uitrekenen.
 
 \begin{voorbeeld}
-	\begin{equation*}
-	\begin{split}
-	\int (7x^3-4x^2+9x+13)dx\\
-	&=\int 7x^3dx+\int -4x^2dx+\int 9xdx + \int 13dx \text{ (rekenregel som)}\\
-	&= 7\int x^3dx -4 \int x^2dx+9\int xdx + 13 \int dx \text{ (rekenregel product met c)}\\
-	&= \frac{7x^4}{4} -\frac{4x^3}{3} + \frac{9x^2}{2} +13 x+C \text{ ($\int x^n dx=\frac{x^{n+1}}{n+1}+C$)}\\
-	\end{split}
-	\end{equation*}
+	\begin{eqnarray*}
+	\int (7x^3-4x^2+9x+13)dx
+	&=&\int 7x^3dx+\int -4x^2dx+\int 9xdx + \int 13dx \text{ (rekenregel som)}\\
+	&=& 7\int x^3dx -4 \int x^2dx+9\int xdx + 13 \int dx \text{ (rekenregel product met c)}\\
+	&=& \frac{7x^4}{4} -\frac{4x^3}{3} + \frac{9x^2}{2} +13 x+C \text{ ($\int x^n dx=\frac{x^{n+1}}{n+1}+C$)}\\
+	\end{eqnarray*}
 \end{voorbeeld}
 
 \begin{voorbeeld} 
@@ -171,15 +179,13 @@ Met behulp van deze eigenschappen kun je alle integralen van veeltermfuncties ui
 Algemener kun je onbepaalde integralen uitrekenen van de vorm zoals in het volgende voorbeeld.
 
 \begin{voorbeeld}
-	\begin{equation*}
-	\begin{split}
-	\int (7\sqrt[3]{x^5}+\frac{2}{\sqrt[5]{x}}-\frac{3}{x})dx\\
-	&=\int (7x^{5/3}+2x^{-1/5}-\frac{3}{x})dx\\
-	&=7\int x^{5/3}dx+2\int x^{-1/5}dx-3\int \frac{dx}{x}\\
-	&= \frac{7x^{8/3}}{8/3}+\frac{2x^{4/5}}{4/5}-3\ln \vert x \vert +C\\
-	&= \frac{21\sqrt[3]{x^8}}{8}+\frac{5\sqrt[5]{x^4}}{2}-3 \ln \vert x \vert +C\\
-	\end{split}
-	\end{equation*}
+	\begin{eqnarray*}
+	\int (7\sqrt[3]{x^5}+\frac{2}{\sqrt[5]{x}}-\frac{3}{x})dx
+	&=&\int (7x^{5/3}+2x^{-1/5}-\frac{3}{x})dx\\
+	&=&7\int x^{5/3}dx+2\int x^{-1/5}dx-3\int \frac{dx}{x}\\
+	&=& \frac{7x^{8/3}}{8/3}+\frac{2x^{4/5}}{4/5}-3\ln \vert x \vert +C\\
+	&=& \frac{21\sqrt[3]{x^8}}{8}+\frac{5\sqrt[5]{x^4}}{2}-3 \ln \vert x \vert +C\\
+	\end{eqnarray*}
 \end{voorbeeld}
 
 Sommige sommen zie je direct zoals in volgend voorbeeld
@@ -188,52 +194,53 @@ Sommige sommen zie je direct zoals in volgend voorbeeld
 	\begin{eqnarray*}
 	\int (3 \sin x + 5 \cos x) \dx &=& 3 \int \sin x \dx + 5 \int \cos x \dx \\
 	&=& 3 (-\cos x ) + 5 \sin x +C \\
-	-3 \cos x + 5 \sin x + C
+	&=& -3 \cos x + 5 \sin x + C
 	\end{eqnarray*}
 \end{voorbeeld}
 
 Andere sommen zie je niet zo direct zoals in volgend voorbeeld
 
 \begin{voorbeeld}
-	\begin{equation*}
-	\begin{split}
-	\int \tan ^2 x dx\\
-	&=\int \frac{\sin^2 x}{cos ^2 x}dx\\
-	&= \int \frac{1-\cos^2 x}{\cos ^2 x} dx \text { (hoofdformule van goniometrie)}\\
-	&= \int \left( \frac{1}{\cos^2 x} -1 \right)dx\\
-	&= \int \frac{1}{\cos ^2 x} - \int dx\\
-	&= \tan x -x +C\\
-	\end{split}
-	\end{equation*}
+	\begin{eqnarray*}
+	\int \tan ^2 x dx
+	&=&\int \frac{\sin^2 x}{cos ^2 x}dx\\
+	&=& \int \frac{1-\cos^2 x}{\cos ^2 x} dx \text { (hoofdformule van goniometrie)}\\
+	&=& \int \left( \frac{1}{\cos^2 x} -1 \right)dx\\
+	&=& \int \frac{1}{\cos ^2 x} - \int dx\\
+	&=& \tan x -x +C\\
+	\end{eqnarray*}
 \end{voorbeeld}
 
 \subsection{Eenvoudige rekenregels - voorbeeld}
-Zie filmpje MOOC.
+\begin{minipage}{.25\linewidth}
+	\raggedright
+	\includegraphics[width=4cm]{6_afgeleiden_integralen/inputs/QR_Code_EENVRRVB_module6_2}
+\end{minipage}
+\begin{minipage}{.7\linewidth}
+	Zie filmpje MOOC.
+\end{minipage}
 
 \subsection{De bepaalde integraal}
 Voor een functie $f$ continu en positief op een interval $I$ en $a$, $b$ binnen $I$ met $a<b$ noteren we $\int^b_a f(x)dx$ voor de oppervlakte van het vlakdeel begrensd door de $x$-as, de grafiek van $f$ en de verticale rechten $x=a$ en $y=b$.
-(Je ziet die oppervlakte gearceerd in Figuur \ref{fig:int:1}.)
+(Je ziet die oppervlakte gearceerd in de figuur.)
 
-\begin{figure}[h]
-	\begin{center}
-		\includegraphics[width=.5\linewidth]{6_afgeleiden_integralen/inputs/integraal1.jpg}
-		\caption{Bepaalde integralen: de oppervlakte onder de curve berekenen.}
-		\label{fig:int:1}
-	\end{center}
-\end{figure}
+\gewonefiguur{width=.5\linewidth}{6_afgeleiden_integralen/inputs/integraal1.jpg}
 
-\noindent Algemener, als $f$ continu is op een interval $I$ en $a$, $b$ binnen $I$ met $a<b$ dan is $\int ^b_a f(x)dx$ gedefinieerd als de som van de oppervlakten tussen de $x$-as en de grafiek waar de functie $f$ positief is minus de som van de oppervlakten tussen de $x$-as en de grafiek waar de functie $f$ negatief is.
-Een + op de volgende Figuur \ref{fig:int:2} duidt een oppervlakte aan die positief meetelt en een - duidt een oppervlakte aan die negatief meetelt.\\
 
-\begin{figure}[h]
-	\begin{center}
-		\includegraphics[height=5 cm]{6_afgeleiden_integralen/inputs/integraal2.JPG}
-		\caption{Bepaalde integralen: oppervlakten die positief en negatief meetellen.}
-		\label{fig:int:2}
-	\end{center}
-\end{figure}
+Algemener, als $f$ continu is op een interval $I$ en $a$, $b$ binnen $I$ met $a<b$ dan is $\int ^b_a f(x)dx$ gedefinieerd als de som van de oppervlakten tussen de $x$-as en de grafiek waar de functie $f$ positief is minus de som van de oppervlakten tussen de $x$-as en de grafiek waar de functie $f$ negatief is.
+Een + op de volgende figuur duidt een oppervlakte aan die positief meetelt en een - duidt een oppervlakte aan die negatief meetelt.\\
 
-\noindent Nog algemener, als $f$ continu is op een interval $I$ en $a$ en $b$ binnen $I$ dan is $\int ^b_a f(x)dx$
+\gewonefiguur{height=5cm}{6_afgeleiden_integralen/inputs/integraal2.JPG}
+
+%\begin{figure}[h]
+%	\begin{center}
+%		\includegraphics[height=5 cm]{6_afgeleiden_integralen/inputs/integraal2.JPG}
+%		\caption{Bepaalde integralen: oppervlakten die positief en negatief meetellen.}
+%		\label{fig:int:2}
+%	\end{center}
+%\end{figure}
+
+Nog algemener, als $f$ continu is op een interval $I$ en $a$ en $b$ binnen $I$ dan is $\int ^b_a f(x)dx$
 
 \hspace{1cm} reeds gedefinieerd als $a<b$
 
@@ -241,21 +248,21 @@ Een + op de volgende Figuur \ref{fig:int:2} duidt een oppervlakte aan die positi
 
 \hspace{1cm} 0 als $a=b$.\\
 
-\noindent Je noemt $\int^b_a f(x)dx$ de bepaalde integraal van de functie $f$ van $a$ naar $b$.\\
+Je noemt $\int^b_a f(x)dx$ de bepaalde integraal van de functie $f$ van $a$ naar $b$.\\
 
-\noindent Dank zij de volgende eigenschap kun je bepaalde integralen uitrekenen door middel van onbepaalde integralen.
+Dank zij de volgende eigenschap kun je bepaalde integralen uitrekenen door middel van onbepaalde integralen.
 
 \begin{eigenschap} Als $f$ een continue functie is op een interval $I$ en $F$ is een primitieve functie van $f$ dan geldt voor elementen $a$ en $b$ van $I$ dat\\
-	$\boxed { \int^b_a f(x)dx = F(b)-F(a) }$
+\[\int^b_a f(x)dx = F(b)-F(a)\]
 \end{eigenschap}
 
-\noindent Vorige eigenschap is een gevolg van de belangrijke stelling van Newton-Leibnitz die volgend verband geeft tussen afgeleiden en bepaalde integralen.
+Vorige eigenschap is een gevolg van de belangrijke stelling van Newton-Leibnitz die volgend verband geeft tussen afgeleiden en bepaalde integralen.
 
 \begin{eigenschap}
 	Als $f$ een functie is continu op een interval $I$ en $a$ is een element van $I$ dan voldoet de functie $F(x) = \int^x_a f(t)dt$ aan $DF(x)=f(x)$ voor alle $x$ in $I$.
 \end{eigenschap}
 
-\noindent Deze stelling van Newton-Leibnitz wordt aan de hand van een filmpje getoond in een voorbeeld.
+Deze stelling van Newton-Leibnitz wordt aan de hand van een filmpje getoond in een voorbeeld.
 
 %In het filmpje wordt de functie met voorschrift $f(x)=x$ gebruikt. De bijbehorende functie $F(x)$ wordt nu $O(x)$ genoteerd (misschien toch beter met $F(x)$ noteren) en is dus gegeven door de formule rechts bovenaan ($O(x)=\int ^x_0 tdt$).
 %Voor de gegeven functie $f(x)=x$ is dit de oppervlakte getekend rechts bovenaan.
@@ -274,7 +281,14 @@ Een + op de volgende Figuur \ref{fig:int:2} duidt een oppervlakte aan die positi
 
 
 \subsection{De bepaalde integraal - voorbeeld}
-Zie filmpje MOOC.
+\begin{minipage}{.25\linewidth}
+	\raggedright
+	\includegraphics[width=4cm]{6_afgeleiden_integralen/inputs/QR_Code_BEPINTVB_module6_2}
+\end{minipage}
+\begin{minipage}{.7\linewidth}
+	Zie filmpje MOOC.
+\end{minipage}
+
 
 \subsection{Berekenen van bepaalde integralen}
 
@@ -297,25 +311,24 @@ Hierbij maakt men vaak gebruik van de voorstellingswijze:
 Bij berekening van de bepaalde integraal, noteer je de onbepaalde integraal tussen vierkante haken. Aan de rechterkant schrijf je onderaan de ondergrens en bovenaan de bovengrens. De integratieconstante $C$ noteer je niet bij de berekening van de bepaalde integraal.
 
 \begin{eigenschap} Bepaalde integraal van een som
-	
-	$\boxed { \int^b_a (f(x)+g(x))dx = \int^b_a f(x)dx + \int^b_a g(x)dx }$
+\[\int^b_a (f(x)+g(x))dx = \int^b_a f(x)dx + \int^b_a g(x)dx\]
 \end{eigenschap}
 
 \begin{eigenschap} Bepaalde integraal van een functie vermenigvuldigd met een getal
-	
-	$\boxed { \int^b_a c.f(x)dx = c \int^b_a f(x)dx}$
+	\[\int^b_a c.f(x)dx = c \int^b_a f(x)dx\]
 \end{eigenschap}
 
 \begin{eigenschap} Opsplitsing van grenzen van een bepaalde integraal
-	
-	$\boxed { \int^b_a f(x) dx = \int^c_a f(x)dx + \int^b_c f(x)dx }$
+	\[\int^b_a f(x) dx = \int^c_a f(x)dx + \int^b_c f(x)dx\]
 \end{eigenschap}
 
-\noindent Uit de defintie volgen ook nog de volgende twee rekenregels:
+Uit de defintie volgen ook nog de volgende twee rekenregels:
 
-$\boxed { \int^a_a f(x) dx = 0}$
+\begin{rekenregel}
+	\[\int^a_a f(x) dx = 0\]
 
-$\boxed { \int^b_a f(x) dx = - \int^a_b f(x) dx }$
+\[\int^b_a f(x) dx = - \int^a_b f(x) dx\]
+\end{rekenregel}
 
 \begin{voorbeeld}
 	\begin{eqnarray*}
@@ -332,12 +345,21 @@ $\boxed { \int^b_a f(x) dx = - \int^a_b f(x) dx }$
 
 
 \subsection{Oppervlakte berekenen met bepaalde integralen - voorbeeld}
-Zie filmpje MOOC.
+\begin{minipage}{.25\linewidth}
+	\raggedright
+	\includegraphics[width=4cm]{6_afgeleiden_integralen/inputs/QR_Code_OPPBEPINT_module6_2}
+\end{minipage}
+\begin{minipage}{.7\linewidth}
+	Zie filmpje MOOC.
+\end{minipage}
+
 
 \subsection{Oppervlakte berekenen met bepaalde integralen}
 
 \begin{voorbeeld}
-Bereken de oppervlakte begrensd door $y=x^3-x$, $x=-1$, $x=2$ en de $x$-as, zie Figuur \ref{fig:int:4}.
+Bereken de oppervlakte begrensd door $y=x^3-x$, $x=-1$, $x=2$ en de $x$-as, zie de figuur.
+
+\gewonefiguur{width=.5\linewidth}{6_afgeleiden_integralen/inputs/integraal4}
 
 Tekenonderzoek van de functie:
 
@@ -356,13 +378,6 @@ De nulwaarden zijn dus $0$, $-1$ en $1$. Het tekenverloop is
 	$y=x^3-x$ & - & 0 & +& 0 & - & 0 & + 
 	\end{tabular}
 \end{center}
-
-\begin{figure}
-	\centering
-	\includegraphics[width=0.5\linewidth]{6_afgeleiden_integralen/inputs/integraal4}
-	\caption{Illustratie voorbeeld berekenen van bepaalde integralen.}
-	\label{fig:int:4}
-\end{figure}
 
 \begin{eqnarray*}
 S &=& \int_{-1}^{2}|x^3-x|\dx = \int_{-1}^{0}(x^3-x)\dx - \int_{0}^{1}(x^3-x)\dx - \int_{1}^{2}(x^3-x)\dx \\

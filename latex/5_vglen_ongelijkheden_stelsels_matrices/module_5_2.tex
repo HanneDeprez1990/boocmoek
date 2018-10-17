@@ -112,16 +112,18 @@ In dit hoofdstuk zullen we een aantal definities en eigenschappen van matrices b
 
 \subsection{Definities}
 
-\begin{itemize}
-	\item Wat is een matrix?
-    \item Welke bewerkingen zijn er mogelijk met matrices?
-    \item Wat hebben matrices te maken met het oplossen van stelsels van vergelijkingen?
-\end{itemize}
+%\begin{itemize}
+%	\item Wat is een matrix?
+%    \item Welke bewerkingen zijn er mogelijk met matrices?
+%    \item Wat hebben matrices te maken met het oplossen van stelsels van vergelijkingen?
+%\end{itemize}
 
 \subsubsection{Definitie van een matrix}
 
-Een $mxn$ matrix $A$ is een rechthoekig getallenschema waarin re\"{e}le en/of complexe getallen in $m$ rijen en $n$ kolommen zijn gerangschikt. Het getal op de $i$-de rij en $j$-de kolom wordt symbolisch weergegeven als $a_{ij}$.
+\begin{definitie}
+	Een $m \times n$ matrix $A$ is een rechthoekig getallenschema waarin re\"{e}le en/of complexe getallen in $m$ rijen en $n$ kolommen zijn gerangschikt. Het getal op de $i$-de rij en $j$-de kolom wordt symbolisch weergegeven als $a_{ij}$.
 
+\end{definitie}
 \[
 A= \left( \begin{matrix}
 a_{11} & a_{12} & a_{13} & \ldots & a_{1n} \\
@@ -160,7 +162,7 @@ a_{m1}
 
 \item{Een vierkante matrix}
 
-Een matrix met evenveel rijen als kolommen wordt een vierkante matrix genoemd.\\ De onderstaande matrix $A$ is een $nxn$ matrix.
+Een matrix met evenveel rijen als kolommen wordt een vierkante matrix genoemd.\\ De onderstaande matrix $A$ is een $n \times n$ matrix.
 
 \[
 A= \left( \begin{matrix}
@@ -231,7 +233,7 @@ I= \left( \begin{matrix}
 
 \item{Een nulmatrix}
 
-Een $mxn$ matrix waarin alle $a_{ij}=0$ is een nulmatrix $O$. 
+Een $m \times n$ matrix waarin alle $a_{ij}=0$ is een nulmatrix $O$. 
 
 \[
 O= \left( \begin{matrix}
@@ -247,7 +249,8 @@ O= \left( \begin{matrix}
 \end{itemize}
 
 
-{\bf Opmerking:} de nulmatrix is niet noodzakelijk een vierkante matrix.
+\begin{opmerking}
+	De nulmatrix is niet noodzakelijk een vierkante matrix.
 
 \[  
 \left( \begin{matrix}
@@ -262,13 +265,16 @@ O= \left( \begin{matrix}
 
 worden allemaal nulmatrix genoemd.\\
 
+\end{opmerking}
+
 \subsection{Bewerkingen met matrices}
 
 \subsubsection{Transponeren van een matrix}
 
 De getransponeerde $A^t$ van een matrix $A$ vindt men door de rijen en kolommen van $A$ om te wisselen.\\
 
-{\bf Voorbeeld:}
+\begin{voorbeeld}
+	
 
 \[ \begin{array}{ll}
 A= \left( \begin{matrix}
@@ -286,9 +292,11 @@ A^t = \left( \begin{matrix}
 \end{array}
 \]
 
+\end{voorbeeld}
 Voor een symmetrische matrix $B$ geldt dat $B^t =B$.\\
 
-{\bf Voorbeeld:}
+\begin{voorbeeld}
+	
 
 \[ \begin{array}{ll}
 B= \left( \begin{matrix}
@@ -305,11 +313,13 @@ B^t = \left( \begin{matrix}
 \end{array}
 \]
 
+\end{voorbeeld}
+
 De getransponeerde van een rijmatrix is een kolommatrix en omgekeerd.\\
 
-{\bf Voorbeeld:}
 
-\[ \begin{array}{ll}
+\begin{voorbeeld}
+	\[ \begin{array}{ll}
 C= \left( \begin{matrix}
 1 & 84 & -1  
 \end{matrix} \right) &
@@ -322,10 +332,11 @@ C^t = \left( \begin{matrix}
 \end{array}
 \]
 
+\end{voorbeeld}
 
 \subsubsection{Product van een matrix met een getal}
 	
-Het product van een $mxn$ matrix $A$ met een re\"{e}el of complex getal $\lambda$ is een nieuwe $mxn$ matrix $B$ die men vindt door elk element $a_{ij}$ van de matrix te vermenigvuldigen met $\lambda$.
+Het product van een $m \times n$ matrix $A$ met een re\"{e}el of complex getal $\lambda$ is een nieuwe $m \times n$ matrix $B$ die men vindt door elk element $a_{ij}$ van de matrix te vermenigvuldigen met $\lambda$.
 	
 \[
 \begin{array}{ll}
@@ -374,11 +385,9 @@ a_{m1}+b_{m1} & a_{m2}+b_{m2} & a_{m3}+b_{m3} & \ldots & a_{mn}+b_{mn}
 \end{matrix} \right)
 \]
 
-{\bf Voorbeelden:}
 
-\begin{enumerate}
-	\item 
-\[
+\begin{voorbeeld}
+	\[
 \begin{array}{lll}
 A= \left( \begin{matrix}
 1 & 4 & 8 \\
@@ -394,8 +403,11 @@ A+B=\left( \begin{matrix}
 \end{matrix} \right)
 \end{array}
 \]
-	\item
-\[ 
+
+\end{voorbeeld}	
+
+\begin{voorbeeld}
+	\[ 
 \begin{array}{ll}
 A= \left( \begin{matrix}
 1 & 4 & 8 \\
@@ -407,30 +419,25 @@ C= \left( \begin{matrix}
 \end{matrix} \right)
 \end{array}
 \]
-
 De som $A+C$ is niet gedefini\"{e}erd.
-\end{enumerate}
+\end{voorbeeld}
+
 
 \subsubsection{Vermenigvuldiging van twee matrices}
 
 Het product van een matrix $A$ met een matrix $B$ is alleen gedefini\"{e}erd als het aantal kolommen van de eerste matrix $A$ gelijk is aan het aantal rijen van de tweede matrix $B$.\\
 
-In dat geval geldt dat het product van de $mxn$ matrix $A$ met de $nxp$ matrix $B$ een nieuwe matrix $C=AB$ is met $m$-rijen en $p$-kolommen.\\
+In dat geval geldt dat het product van de $m \times n$ matrix $A$ met de $nxp$ matrix $B$ een nieuwe matrix $C=AB$ is met $m$-rijen en $p$-kolommen.\\
 Elk element $c_{ij}$ van de productmatrix $C$ wordt gegeven door:
-
-\begin{framed}
 
 \[ c_{ij}=\sum\limits_{k=1}^{n} a_{ik}b_{kj}    \]
 
-\end{framed}
 
 m.a.w. $c_{ij}$ wordt gevonden door het eerste element van de $i$-de rij van $A$ te vermenigvuldigen met het eerste element van de $j$-de kolom van $B$, het tweede element van de $i$-de rij van $A$ te vermenigvuldigen met het tweede element van de $j$-de kolom van $B$, het derde element van de $i$-de rij van $A$ te vermenigvuldigen met het derde element van de $j$-de kolom van $B$, enz... en vervolgens al deze producten op te tellen.\\
 
-{\bf Voorbeelden:}\\
 
-\begin{enumerate}
-	\item 
-	Bereken de producten $C=AB$ en $D=BA$.
+\begin{voorbeeld}
+		Bereken de producten $C=AB$ en $D=BA$.
 	\[
 	\begin{array}{ll}
 		A=\left( \begin{matrix}
@@ -444,15 +451,18 @@ m.a.w. $c_{ij}$ wordt gevonden door het eerste element van de $i$-de rij van $A$
 	Het aantal kolommen van $A$ is gelijk aan het aantal rijen van $B$, het product $AB$ is dus gedefini\"{e}erd en is een $2x1$ matrix $C$
 	\[
 	C=AB=\left( \begin{matrix} 
-	1.10+0.12+2.0+4.0 \\
-	0.10+2.12+3.0+5.0 \end{matrix} \right)=
+	1\cdot 10+0\cdot 12+2\cdot 0+4\cdot 0 \\
+	0\cdot 10+2\cdot 12+3\cdot 0+5\cdot 0 \end{matrix} \right)=
 	\left( \begin{matrix}
 	10 \\ 24
 	\end{matrix} \right)
 	\]
 	Het aantal kolommen van $B$ is verschillend van het aantal rijen van $A$. Dit betekent dat het product $D=BA$ niet gedefini\"{e}erd is.
-	\item
-	Bereken de producten $C=AB$ en $D=BA$.
+	
+\end{voorbeeld}
+
+\begin{voorbeeld}
+		Bereken de producten $C=AB$ en $D=BA$.
 	\[
 	\begin{array}{ll}
 	A=\left( \begin{matrix}
@@ -464,20 +474,21 @@ m.a.w. $c_{ij}$ wordt gevonden door het eerste element van de $i$-de rij van $A$
 	\end{array}	
 	\]
 	Het aantal kolommen van $A$ is gelijk aan het aantal rijen van $B$, het product $AB$ is dus gedefini\"{e}erd en is een $1x1$ matrix $C$
-	\[ C=AB=\left( \begin{matrix} 1.1+0.0+1.1 \end{matrix} \right)=\left( \begin{matrix} 2 \end{matrix} \right)=2 \]
+	\[ C=AB=\left( \begin{matrix} 1\cdot 1+0\cdot 0+1\cdot 1 \end{matrix} \right)=\left( \begin{matrix} 2 \end{matrix} \right)=2 \]
 	Het aantal kolommen van $B$ is gelijk aan het aantal rijen van $A$, het product $BA$ is dus gedefini\"{e}erd en is een $3x3$ matrix $D$
 	\[
-	D=BA=\left( \begin{matrix} 1.1 & 0.0 & 1.1 \\ 0.1 & 0.0 & 0.1 \\  1.1 & 0.0 & 1.1 \end{matrix} \right)=\left( \begin{matrix} 1 & 0 & 1 \\ 0 & 0 & 0 \\  1 & 0 & 1 \end{matrix} \right)
+	D=BA=\left( \begin{matrix} 1\cdot 1 & 0\cdot 0 & 1\cdot 1 \\ 0\cdot 1 & 0\cdot 0 & 0\cdot 1 \\  1\cdot 1 & 0\cdot 0 & 1\cdot 1 \end{matrix} \right)=\left( \begin{matrix} 1 & 0 & 1 \\ 0 & 0 & 0 \\  1 & 0 & 1 \end{matrix} \right)
 	\]
-\end{enumerate}
+\end{voorbeeld}
 
-{\bf Opmerkingen:}
 
-\begin{itemize}
+\begin{opmerking}
+	\ \\
+	\begin{itemize}
 \item Bij het vermenigvuldigen van matrices geldt dus over het algemeen {\bf NIET} dat $AB=BA$
 \item Het is zelfs {\bf NIET} zo dat uit het feit dat het product van twee matrices $C=AB$ bestaat volgt dat het product $BA$ ook bestaat.
 \end{itemize}
-
+\end{opmerking}
 \subsection{Determinant}
 
 \subsubsection{Inleiding}
@@ -507,65 +518,60 @@ A=\left( \begin{matrix} a_{11} & a_{12} \\ a_{21} & a_{22}  \end{matrix} \right)
 
 De minor van een element $a_{ij}$ van een vierkante matrix $A$ is het getal dat men bekomt door in de matrix $A$ de $i$-de rij en de $j$-de kolom te schrappen, en van de overblijvende matrix de determinant te berekenen.\\
 
-{\bf Voorbeeld:}\\
+\begin{voorbeeld}
+	
 
 We berekenen de minor van het element $a_{13}$ van de matrix $A=\left( \begin{matrix} a_{11} & a_{12} & a_{13} \\ a_{21} & a_{22} & a_{23} \\ a_{31} & a_{32} & a_{33} \end{matrix} \right)$\\
 
 We schrappen de eerste rij en de derde kolom van $A$ en berekenen de determinant van de overblijvende matrix.
 
 \[ minor(a_{13})=det \left( \begin{matrix} a_{21} & a_{22} \\ a_{31} & a_{32} \end{matrix} \right) = a_{21}a_{32}-a_{31}a_{22} \]
+\end{voorbeeld}
 
 \subsubsection{Cofactor van een element van een vierkante matrix}
 
 De cofactor van een element $a_{ij}$ van een vierkante matrix $A$ is het getal dat men bekomt door de minor van $a_{ij}$ te vermenigvuldigen met $(-1)^{i+j}$\\
 
-\[ cofactor(a_{ij})=(-1)^{i+j} minor(a_{ij}) \]
+\[ \text{cofactor}(a_{ij})=(-1)^{i+j} minor(a_{ij}) \]
 
-{\bf Voorbeelden:}\\
-
-\begin{enumerate}
-	\item 
+\begin{voorbeeld}
+	
 We berekenen de cofactor van het element $a_{ij}$ van de bovenstaande matrix $A$\\
 
-\[ cofactor(a_{ij})=(-1)^{1+3} minor(a_{13})=minor(a_{13})=a_{21}a_{32}-a_{31}a_{22} \] 
+\[ \text{cofactor}(a_{ij})=(-1)^{1+3} minor(a_{13})=minor(a_{13})=a_{21}a_{32}-a_{31}a_{22} \] 
 
-	\item
-Bereken de cofactor van het element $a_{23}=8$ van de matrix $A=\left( \begin{matrix} 1 & 2 & 0 \\ 0 & 4 & 8 \\ 2 & 5 & 8 \end{matrix} \right)$\\
+\end{voorbeeld}
+
+\begin{voorbeeld}
+	Bereken de cofactor van het element $a_{23}=8$ van de matrix $A=\left( \begin{matrix} 1 & 2 & 0 \\ 0 & 4 & 8 \\ 2 & 5 & 8 \end{matrix} \right)$\\
 
 We schrappen de tweede rij en de derde kolom en berekenen de determinant van de resterende vierkante matrix.\\
 
-\[ cofactor(a_{23})=(-1)^{2+3} (1.5-2.2) = (-1).1 =-1 \]
+\[ \text{cofactor}(a_{23})=(-1)^{2+3} (1.5-2.2) = (-1).1 =-1 \]
 
 Merk op dat in de berekening van de cofactor van $a_{23}$ de waarde van $a_{23}$, in dit geval $8$, geen enkele rol speelt.
 
-\end{enumerate}
+\end{voorbeeld}
 
-\subsubsection{Determinant van een nxn matrix}
+\subsubsection{Determinant van een $n \times n$ matrix}
 
-Om de determinant van een willekeurige $nxn$ matrix te berekenen maken we gebruik van de ontwikkelingsformule van Laplace. Deze formule kan toegepast worden op eender welke rij of kolom van een $nxn$ matrix, het resultaat is steeds de determinant van de matrix.\\
+Om de determinant van een willekeurige $n \times n$ matrix te berekenen maken we gebruik van de ontwikkelingsformule van Laplace. Deze formule kan toegepast worden op eender welke rij of kolom van een $n \times n$ matrix, het resultaat is steeds de determinant van de matrix.\\
 
 Toegepast op de $i$-de rij van de matrix noemt men dit {\bf de ontwikkeling van de determinant naar de $i$-de rij}:
 
-\begin{framed}
+\[ det A=\sum\limits_{k=1}^{n} a_{ik}\text{cofactor}(a_{ik}) \] 
 
-\[ det A=\sum\limits_{k=1}^{n} a_{ik}cofactor(a_{ik}) \] 
-
-\end{framed}
 
 Toegepast op de $j$-de kolom noemt men dit {\bf de ontwikkeling van de determinant naar de $j$-de kolom}:
 
-\begin{framed}
 	
-\[ det A=\sum\limits_{k=1}^{n} a_{kj}cofactor(a_{kj}) \]
+\[ det A=\sum\limits_{k=1}^{n} a_{kj}\text{cofactor}(a_{kj}) \]
 
-\end{framed}
 
-{\bf Voorbeelden:}\\
+\begin{voorbeeld}
+	Bereken de determinant van de volgende matrix:
 
-Bereken de determinant van de volgende matrices:
-
-\begin{enumerate}
-	\item \[ A=\left( \begin{matrix}
+\[ A=\left( \begin{matrix}
 	1 & 2 & 0 \\
 	2 & 1 & 3 \\
 	3 & 0 & 4 \end{matrix} \right)
@@ -580,8 +586,12 @@ Bereken de determinant van de volgende matrices:
 	2 & 1 \\ 3 & 0 \end{matrix} \right)
 	\]
 	\[ det A=(4-2(8-9))=6 \] 
-	
-	\item \[ B=\left( \begin{matrix}
+
+\end{voorbeeld}	
+\begin{voorbeeld}
+	Bereken de determinant van de volgende matrix:
+
+	 \[ B=\left( \begin{matrix}
 	1 & 5 & 9 & -5 \\
 	\pi & 0 & 3 & 11 \\
 	0 & \pi^2 & 4 & -3
@@ -589,8 +599,10 @@ Bereken de determinant van de volgende matrices:
 	\]
 	
 	Oplossing: de matrix $B$ is geen vierkante matrix, de determinant bestaat niet.
-	
-	\item \[ C=\left( \begin{matrix}
+\end{voorbeeld}	
+\begin{voorbeeld}
+	Bereken de determinant van de volgende matrix:
+	 \[ C=\left( \begin{matrix}
 	\pi & \pi^2 & \pi^3 & \pi^4 \\
 	0   &  3    &   0   &   6   \\
 	0   &  0    &   4   &   7   \\
@@ -612,25 +624,30 @@ Bereken de determinant van de volgende matrices:
 	4 & 7 \\ 0 & 1 
 	\end{matrix} \right) \]
 	
-	\[ det C = \pi.3.4.1 = 12\pi \]
+	\[ det C = \pi\cdot 3\cdot 4\cdot 1 = 12\pi \]
 	
 	Er geldt algemeen dat {\bf de determinant van een driehoeksmatrix het product van de diagonaalelementen is}. 
-	
-\end{enumerate}
+\end{voorbeeld}		
+
 
 \subsubsection{Eigenschappen van determinanten}
 
 Alle matrices die in deze paragraaf voorkomen worden ondersteld vierkante matrices te zijn. 
 
-\begin{itemize}
-	\item De determinant van de getransponeerde van een matrix is hetzelfde als de determinant van de oorspronkelijke matrix.
+
+\begin{eigenschap}
+		De determinant van de getransponeerde van een matrix is hetzelfde als de determinant van de oorspronkelijke matrix.
 	
 	\[ det A^{t}=det A \]
+	\end{eigenschap}
 	
-	\item Als men twee rijen (of twee kolommen) van plaats wisselt in een matrix dat verandert de determinant van teken. 
+\begin{eigenschap}
+		Als men twee rijen (of twee kolommen) van plaats wisselt in een matrix dat verandert de determinant van teken. 
+	\end{eigenschap}
 	
-	Voorbeeld:
 	
+	\begin{voorbeeld}
+		
 	\[ \begin{array}{ll} A=\left( \begin{matrix}
 	1 & 0 & 0 \\ 0 & 1 & 0 \\ 1 & 0 & 1
 	\end{matrix} \right) & det A = 1 \end{array} \]
@@ -639,10 +656,14 @@ Alle matrices die in deze paragraaf voorkomen worden ondersteld vierkante matric
 	0 & 1 & 0 \\ 1 & 0 & 0 \\ 1 & 0 & 1
 	\end{matrix} \right) & det A'=1(-1)^{1+2}det \left( \begin{matrix} 1 & 0 \\ 1 & 1 \end{matrix} \right) & det A'=-1 \end{array} \]
 	
-	\item Als de elementen van een rij (of kolom) van een matrix vermenigvuldigt worden met een getal $\lambda$ dan wordt de determinant van de matrix vermenigvuldigt met $\lambda$.
+	\end{voorbeeld}
+\begin{eigenschap}
+		Als de elementen van een rij (of kolom) van een matrix vermenigvuldigt worden met een getal $\lambda$ dan wordt de determinant van de matrix vermenigvuldigt met $\lambda$.
+	\end{eigenschap}
 	
-	Voorbeeld:
-	
+
+	\begin{voorbeeld}
+		
 	\[ \begin{array}{ll} B=\left( \begin{matrix}
 	3 & 2 \\ 2 & 4 
 	\end{matrix} \right) & det B=12-4=8 \end{array} \]
@@ -651,28 +672,42 @@ Alle matrices die in deze paragraaf voorkomen worden ondersteld vierkante matric
 	6 & 4 \\ 2 & 4
 	\end{matrix} \right) & det B'=24-8=16 \end{array} \]
 	
-	\item Als men de elementen van een rij (kolom) van een matrix vermenigvuldigt met een getal $\lambda \neq 0$ en deze vervolgens optelt bij de elementen van een andere rij (kolom) dan verandert de waarde van de determinant niet. 
+	\end{voorbeeld}
+
+\begin{eigenschap}
+		Als men de elementen van een rij (kolom) van een matrix vermenigvuldigt met een getal $\lambda \neq 0$ en deze vervolgens optelt bij de elementen van een andere rij (kolom) dan verandert de waarde van de determinant niet. 
 	
-	Voorbeeld:
+	\end{eigenschap}
 	
+	\begin{voorbeeld}
+		
 	We vertrekken opnieuw van de matrix $B$ uit het vorige voorbeeld. We vermenigvuldigen nu de eerste rij met $2$ en tellen deze rij op bij de tweede rij.
 	
 	\[ \begin{array}{ll} B''=\left( \begin{matrix}
 	3 & 2 \\ 8 & 8 
 	\end{matrix} \right) & det B''=24-16=8 \end{array} \]
 	
-	\item De determinant van een matrix met een nulrij (nulkolom) is nul.
+	\end{voorbeeld}
+
+\begin{eigenschap}
+		De determinant van een matrix met een nulrij (nulkolom) is nul.
+	\end{eigenschap}
 	
-	Voorbeeld:
+	\begin{voorbeeld}
+		
 	
 	\[ C=\left( \begin{matrix}
 	\pi & \pi+1 & \pi+2 \\ 0 & 0 & 0 \\ \pi-1 & \pi & \pi+1
 	\end{matrix} \right) \]
 	De determinant ontwikkelen naar de tweede rij geeft onmiddellijk $det C=0$
 	
-	\item Als twee rijen (kolommen) van een matrix gelijk zijn dan is de determinant nul.
+	\end{voorbeeld}
+\begin{voorbeeld}
+		Als twee rijen (kolommen) van een matrix gelijk zijn dan is de determinant nul.
+	\end{voorbeeld}
 	
-	Voorbeeld:
+	\begin{voorbeeld}
+		
 	
 	\[ \begin{array}{ll} D=\left( \begin{matrix}
 	1 & 1 & 8 \\ 3 & 3 & 7 \\ 2 & 2 & 5
@@ -681,28 +716,41 @@ Alle matrices die in deze paragraaf voorkomen worden ondersteld vierkante matric
 	3 & 7 \\ 2 & 5 \end{matrix} \right) + 8 det \left( \begin{matrix} 3 & 3 \\ 2 & 2 \end{matrix} \right) \end{array} \]
 	\[ det D = 0 + 8 (6-6) = 0 \]
 	
-	\item Als twee rijen (kolommen) van een matrix evenredig zijn met elkaar dan is de determinant nul. 
 	
-	Voorbeeld: de tweede rij is drie maal de eerste rij.
+	\end{voorbeeld}	
+
+\begin{eigenschap}
+		Als twee rijen (kolommen) van een matrix evenredig zijn met elkaar dan is de determinant nul. 
+	\end{eigenschap}
+	
+	\begin{voorbeeld}
+		de tweede rij is drie maal de eerste rij.
 	
 	\[ \begin{array}{ll} E=\left( \begin{matrix}
 	5 & 10 \\ 15 & 30 
 	\end{matrix} \right) & det E=150-150=0 \end{array} \]
 	
-	\item Als een rij (kolom) van een matrix een lineaire combinatie is van andere rijen (kolommen) van de matrix dan is de determinant nul.
+	\end{voorbeeld}
+\begin{eigenschap}
+		Als een rij (kolom) van een matrix een lineaire combinatie is van andere rijen (kolommen) van de matrix dan is de determinant nul.
+	\end{eigenschap}
 	
-	Voorbeeld: De tweede rij is de derde rij waarbij twee keer de eerste rij is opgeteld. We ontwikkelen naar de derde rij. 
+	\begin{voorbeeld}
+		De tweede rij is de derde rij waarbij twee keer de eerste rij is opgeteld. We ontwikkelen naar de derde rij. 
 	
 	\[ \begin{array}{ll} F=\left( \begin{matrix}
 	1 & 2 & 3 \\ 6 & 4 & 10 \\ 4 & 0 & 4 
 	\end{matrix} \right) & det F = 4 det \left( \begin{matrix} 2 & 3 \\ 4 & 10 \end{matrix} \right) + 4 det \left( \begin{matrix} 1 & 2 \\ 6 & 4 \end{matrix} \right) \end{array} \]
 	\[ det F =4(20-12)+4(4-12)=4(8-8)=0 \]
 	
-	\item Als $A$ en $B$ beide $nxn$ matrices zijn dan geldt:
+	\end{voorbeeld}
+	\begin{eigenschap}
+		Als $A$ en $B$ beide $n \times n$ matrices zijn dan geldt:
 	\[ det(AB)=(det A) (det B) \]
 	
-	Voorbeeld:
-	
+	\end{eigenschap}
+	\begin{voorbeeld}
+		
 	\[ \begin{array}{ll} A=\left( \begin{matrix}
 	2 & 3 \\ 4 & 10
 	\end{matrix} \right) & B=\left( \begin{matrix}
@@ -718,7 +766,7 @@ Alle matrices die in deze paragraaf voorkomen worden ondersteld vierkante matric
 	\end{matrix} \right) & det(AB)=20.48-64.16 \end{array} \]
 	\[ det(AB)=16(20.3-64)=16(-4)=-64 \]
 	
-\end{itemize}
+	\end{voorbeeld}
 
 \subsection{Inverse van een matrix}
 
@@ -734,17 +782,19 @@ Als er voor een vierkante matrix $A$ een vierkante matrix $X$ bestaat waarvoor g
 Notatie:
 \[ X=A^{-1} \]
 
-{\bf Opmerkingen:} 
+\begin{opmerking}
+	\ \\
 \begin{itemize}
 	\item Opdat $X$ de inverse van $A$ zou zijn moet dus aan {\bf beide} uitdrukkingen $AX=I$ en $XA=I$ voldaan zijn.
 	\item Als de inverse van $A$ bestaat dan geldt $(A^{-1})^{-1}=A$
 	\item Als de inverse van $A$ bestaat dan zegt men dat $A$ inverteerbaar is.
 	\item Men kan aantonen dat voor een inverteerbare matrix $A$ geldt $det A \neq 0$, met andere woorden "$A$ is inverteerbaar" $\Leftrightarrow$ "$A$ is regulier". 
 \end{itemize}
+\end{opmerking}
 
-{\bf Voorbeeld:}
 
-De inverse van de matrix $A=\left( \begin{matrix} 1 & 1 \\ -1 & 1 \end{matrix} \right)$ is de matrix $B=\left( \begin{matrix} \frac{1}{2} & -\frac{1}{2} \\ \frac{1}{2} & \frac{1}{2} \end{matrix} \right)$ \\
+\begin{voorbeeld}
+	De inverse van de matrix $A=\left( \begin{matrix} 1 & 1 \\ -1 & 1 \end{matrix} \right)$ is de matrix $B=\left( \begin{matrix} \frac{1}{2} & -\frac{1}{2} \\ \frac{1}{2} & \frac{1}{2} \end{matrix} \right)$ \\
 Controle:\\
 \[ AB=\left( \begin{matrix} 1 & 1 \\ -1 & 1 \end{matrix} \right) \left( \begin{matrix} \frac{1}{2} & -\frac{1}{2} \\ \frac{1}{2} & \frac{1}{2} \end{matrix} \right)= \left( \begin{matrix} 1 & 0 \\ 0 & 1 \end{matrix} \right)    \]
 
@@ -752,31 +802,32 @@ en
 
 \[ BA=\left( \begin{matrix} \frac{1}{2} & -\frac{1}{2} \\ \frac{1}{2} & \frac{1}{2} \end{matrix} \right) \left( \begin{matrix} 1 & 1 \\ -1 & 1 \end{matrix} \right) =  \left( \begin{matrix} 1 & 0 \\ 0 & 1 \end{matrix} \right)    \]
 
+\end{voorbeeld}
+
 \subsubsection{Adjunctmatrix van een vierkante matrix}
 
 De adjunctmatrix van een vierkante matrix $A$ is de matrix die men bekomt door elk element van $A$ te vervangen door zijn cofactor en vervolgens de matrix te transponeren.\\
 
-Dus, met $a_{ij}$ de elementen van de $nxn$ matrix $A$ geldt:
+Dus, met $a_{ij}$ de elementen van de $n \times n$ matrix $A$ geldt:
 
-\begin{framed}
 
 \[ adj{A}=\left( \begin{matrix}
-cofactor(a_{11}) & cofactor(a_{12}) & cofactor(a_{13}) & \ldots & cofactor(a_{1n}) \\
-cofactor(a_{21}) & cofactor(a_{22}) & cofactor(a_{23}) & \ldots & cofactor(a_{2n}) \\ 
-cofactor(a_{31}) & cofactor(a_{32}) & cofactor(a_{33}) & \ldots & cofactor(a_{3n}) \\
+\text{cofactor}(a_{11}) & \text{cofactor}(a_{12}) & \text{cofactor}(a_{13}) & \ldots & \text{cofactor}(a_{1n}) \\
+\text{cofactor}(a_{21}) & \text{cofactor}(a_{22}) & \text{cofactor}(a_{23}) & \ldots & \text{cofactor}(a_{2n}) \\ 
+\text{cofactor}(a_{31}) & \text{cofactor}(a_{32}) & \text{cofactor}(a_{33}) & \ldots & \text{cofactor}(a_{3n}) \\
 \vdots & \vdots &  \vdots & \ddots & \vdots \\
-cofactor(a_{n1}) & cofactor(a_{n2}) & cofactor(a_{n3}) & \ldots & cofactor(a_{nn})
+\text{cofactor}(a_{n1}) & \text{cofactor}(a_{n2}) & \text{cofactor}(a_{n3}) & \ldots & \text{cofactor}(a_{nn})
 \end{matrix} \right)^{t}           \]
 
-\end{framed}
 
 Het is mogelijk om aan te tonen dat voor een reguliere vierkante matrix $A$ geldt:
 
-\begin{framed}
-	\[  A^{-1}=\frac{adj(A)}{det A}    \]
-\end{framed}
 
-{\bf Voorbeeld:}
+	\[  A^{-1}=\frac{adj(A)}{det A}    \]
+
+
+\begin{voorbeeld}
+	
 
 De vierkante matrix $A= \left( \begin{matrix} 1 & 8 & 0 \\ 1 & 7 & 2 \\ 0 & 3 & 1 \end{matrix} \right)$.\\
 
@@ -801,24 +852,29 @@ De inverse van $A$ is dus
 \end{matrix}   \right)
 \]
 
+\end{voorbeeld}
+
 \subsection{De rang van een matrix}
 
 \subsubsection{Onderdeterminant van p-de orde van een matrix}
 
-Een onderdeterminant van $p$-de orde van een $mxn$ matrix $A$ is een getal dat men bekomt door:
+Een onderdeterminant van $p$-de orde van een $m \times n$ matrix $A$ is een getal dat men bekomt door:
 \begin{itemize}
 	\item $m-p$ rijen en $n-p$ kolommen van de matrix $A$ te schrappen
 	\item de determinant van de overblijvende vierkante matrix te berekenen
 \end{itemize}
 
-{\bf Opmerkingen:}
 
-\begin{itemize}
+\begin{opmerking}
+	\ \\
+	\begin{itemize}
 	\item onderdeterminanten zijn dus ook voor niet-vierkante matrices gedefini\"{e}erd
 	\item er staat {\bf een} onderdeterminant... naargelang welke rijen en kolommen geschrapt worden zal je een andere onderdeterminant vinden
 \end{itemize}
+\end{opmerking}
 
-{\bf Voorbeeld:}
+\begin{voorbeeld}
+	
 
 Beschouw de $3x4$ matrix $A= \left( \begin{matrix} 1 & 2 & 0 & 0 \\ 0 & 3 & 4 & 0 \\ 0 & 0 & 5 & 6 \end{matrix} \right)$ \\
 We berekenen een onderdeterminant van $3$-de orde door $3-3=0$ rijen te schrappen en $4-3=1$ kolom te schrappen en de determinant van de overblijvende vierkante matrix te berekenen.\\
@@ -837,22 +893,24 @@ We berekenen een onderdeterminant van $1$-ste orde door $3-1=2$ rijen en $4-1=3$
 	\[  det \left( \begin{matrix} 0 \end{matrix} \right) =0 \]
 \end{itemize}
 
+\end{voorbeeld}
 \subsubsection{Rang van een matrix}
 
-De rang van een $mxn$ matrix $A$ is nu gedefini\"{e}erd als de hoogste orde $r$ van alle van nul verschillende onderdeterminanten van $A$.\\
+De rang van een $m \times n$ matrix $A$ is nu gedefini\"{e}erd als de hoogste orde $r$ van alle van nul verschillende onderdeterminanten van $A$.\\
 
 Er bestaan verschillende notaties voor de rang van een matrix maar de meest voorkomende zijn:\\ 
 
 \[ rang(A)=r, Rg(A)=r  \quad \textrm{of} \quad Rank(A)=r \]
 
-{:\bf opmerkingen:}
 
-\begin{itemize}
-	\item De rang van een $mxn$ matrix $A$ is nooit groter dan het minimum van $m$ en $n$. 
+\begin{opmerking}
+	\ \\
+	\begin{itemize}
+	\item De rang van een $m \times n$ matrix $A$ is nooit groter dan het minimum van $m$ en $n$. 
 	\[ rang(A) \leq min(m,n)  \]
 	Bij het berekenen van de onderdeterminanten kan men immers nooit minder dan $0$ rijen of kolommen schrappen...
 	\item Voor een nulmatrix geldt: $rang(O)=0$
-	\item Voor een vierkante $nxn$ matrix $A$ geldt:
+	\item Voor een vierkante $n \times n$ matrix $A$ geldt:
 		\begin{itemize}
 			\item as $A$ regulier is (m.a.w. $det A \neq 0$) dan geldt $rang(A)=n$\\
 			De van nul verschillende determinant van $A$ is immers de onderdeterminant van orde $n$.
@@ -860,7 +918,10 @@ Er bestaan verschillende notaties voor de rang van een matrix maar de meest voor
 		\end{itemize}
 \end{itemize}
 
-{\bf Voorbeeld:}
+\end{opmerking}
+
+\begin{voorbeeld}
+	
 
 We bepalen de rang van $A=\left( \begin{matrix}
 1 & 2 & 3 & 0\\
@@ -885,26 +946,28 @@ We berekenen nu de onderdeterminanten, startend van onderdeterminanten van orde 
 	\[ rang(A)=2 \] 
 \end{itemize}
 
-\newpage
+\end{voorbeeld}
+
 
 \subsection{Elementaire omvormingen van een matrix}
 
 \subsubsection{Definitie}
 
-\begin{framed}
 	
-Elementaire omvormingen van een matrix zijn omvormingen die de rang van een matrix niet veranderen. Er zijn drie elementaire omvormingen die men kan toepassen op de rijen of op de kolommen van een matrix.
+\begin{definitie}
+	Elementaire omvormingen van een matrix zijn omvormingen die de rang van een matrix niet veranderen. Er zijn drie elementaire omvormingen die men kan toepassen op de rijen of op de kolommen van een matrix.
 \begin{itemize}
 	\item Twee rijen (of twee kolommen) van plaats wisselen.
 	\item Alle elementen van een rij (of kolom) vermenigvuldigen met een getal $\lambda \neq 0$ .
 	\item Alle elementen van een rij (of kolom) vermenigvuldigen met een getal $\lambda \neq 0$ en deze dan optellen bij de elementen van een andere rij (kolom).
 \end{itemize}
 
-\end{framed}
+\end{definitie}
 
-{\bf Opmerking:}\\
 
-De rang van een matrix wordt bepaald door na te gaan of  determinanten verschillen zijn van nul of niet. De omvormingen die hierboven staan kunnen de waarde van een determinant wel veranderen maar hebben geen effect op het al dan niet nul zijn van een determinant (zie: eigenschappen van determinanten).\\
+\begin{opmerking}
+De rang van een matrix wordt bepaald door na te gaan of  determinanten verschillen zijn van nul of niet. De omvormingen die hierboven staan kunnen de waarde van een determinant wel veranderen maar hebben geen effect op het al dan niet nul zijn van een determinant (zie: eigenschappen van determinanten).
+\end{opmerking}
 
 \subsubsection{De rang van een matrix bepalen met elementaire omvormingen}
 
@@ -912,15 +975,13 @@ De rang van een matrix wordt bepaald door na te gaan of  determinanten verschill
 
 \item{Echelonvorm van een matrix}
 
-\begin{framed}
-
 Een matrix is in echelonvorm als
 \begin{itemize}
 	\item alle eventuele nulrijen van de matrix onderaan de matrix staan
 	\item de eerste rij begint met een element dat niet nul is, de tweede rij begint met een nul gevolgd door een element dat niet nul is, de derde rij begint met twee nullen gevolgd door een element dat niet nul is, enz... tot ofwel de nulrijen ofwel het einde van de matrix wordt bereikt.
 \end{itemize}
 
-Een $mxn$ matrix in echelonvorm:\\
+Een $m \times n$ matrix in echelonvorm:\\
 
 \[ \left( \begin{matrix}
 b_{11} & b_{12} & \ldots & \ldots & b_{1r} & b_{1,r+1} & b_{1,r+2} & \ldots & b_{1n} \\
@@ -935,13 +996,10 @@ b_{11} & b_{12} & \ldots & \ldots & b_{1r} & b_{1,r+1} & b_{1,r+2} & \ldots & b_
 
 met alle $b_{ii} \neq 0$ ($i=1..r$) de elementen $b_{ij}$ met $i \neq j$ kunnen zowel gelijk als verschillend van nul zijn.\\
 
-\end{framed}
-
-
 
 \item{Praktische manier om de rang van een matrix te bepalen}
 
-De rang van een $mxn$ matrix $A$ bepalen door onderdeterminanten te berekenen blijkt in de praktijk nogal lastig en tijdrovend te zijn. Een veel handiger manier is gebaseerd op elementaire omvormingen.\\
+De rang van een $m \times n$ matrix $A$ bepalen door onderdeterminanten te berekenen blijkt in de praktijk nogal lastig en tijdrovend te zijn. Een veel handiger manier is gebaseerd op elementaire omvormingen.\\
 
 Men gaat als volgt te werk:
 
@@ -961,9 +1019,7 @@ Men gaat als volgt te werk:
 	
 	\item Het aantal niet-nulrijen van $A'$ is dan gelijk aan de rang van de matrix $A$
 	
-	\begin{framed}
 		\[ rang(A)=r=\textrm{aantal niet nulrijen van} \quad A'  \]
-	\end{framed}
 \end{itemize}
 
 \end{itemize}
@@ -974,9 +1030,9 @@ Elementaire omvormingen veranderen de rang van een matrix niet. Er geldt dus $ra
 De matrix $A'$ heeft minstens \'{e}\'{e}n onderdeterminant van orde $r$ want alle $b_{ii} \neq 0$ ($i=1..r$) zodat de determinant van de $rxr$ driehoeksmatrix, waarvan de $b_{ii}$ de diagonaal vormen, niet nul is.\\
 Alle onderdeterminanten van een grotere orde dan $r$ van $A'$ zijn zeker nul, ze bevatten immers altijd minstens \'{e}\'{e}n nulrij.\\  
 
-{\bf Voorbeeld:}\\
 
-Bereken de rang van $A=\left( \begin{matrix}
+\begin{voorbeeld}
+	Bereken de rang van $A=\left( \begin{matrix}
 1 & 2 & 3 & 0 \\
 0 & 1 & 2 & 3 \\
 1 & 3 & 5 & 3 \\
@@ -1009,6 +1065,8 @@ We gaan de matrix nu stap voor stap, met elementaire opvormingen, omzetten in ee
 De resulterende $4x4$ matrix $A'$ staat in echelonvorm en heeft drie niet-nulrijen: 
 \[ rang(A)=rang(A')=3 \]
 
+\end{voorbeeld}
+
 \subsection{Praktische berekening van de inverse van een matrix}
 
 Om na te gaan of een vierkante matrix regulier is moeten we de determinant berekenen. Voor een iets grotere matrix kan dit behoorlijk tijdrovend zijn. Als blijkt dat de matrix regulier is, kan men de inverse vinden door de adjunctmatrix te berekenen. Hiervoor moeten opnieuw talrijke determinanten worden uitgerekend. Dit maakt dat het berekenen van de inverse van een matrix op deze manier enorm veel tijd en moeite kost, in die mate zelfs dat het voor grotere matrices, zelfs met een computer, onpraktisch wordt.\\
@@ -1016,7 +1074,7 @@ Om na te gaan of een vierkante matrix regulier is moeten we de determinant berek
 Er is echter een methode ontwikkeld die toelaat om, met elementaire omvormingen, na te gaan of een matrix inverteerbaar is en eventueel de inverse te vinden. Deze methode staat bekend als de methode van {\bf Gauss-Jordan}. 
 We geven hier deze methode zonder bewijs.\\
 
-Methode van Gauss-Jordan om na te gaan of een vierkante $nxn$ matrix $A$ inverteerbaar is en om eventueel de inverse van $A$ te vinden:\\
+Methode van Gauss-Jordan om na te gaan of een vierkante $n \times n$ matrix $A$ inverteerbaar is en om eventueel de inverse van $A$ te vinden:\\
 
 \begin{itemize}
 	\item Stap 1: Schrijf een nieuwe $nx2n$ matrix met links de matrix $A$ en rechts de \'{e}\'{e}nheidsmatrix $I$
@@ -1030,8 +1088,8 @@ Methode van Gauss-Jordan om na te gaan of een vierkante $nxn$ matrix $A$ inverte
 	\item Stap 2: Probeer de matrix $A$, door opeenvolgnede elementaire omvormingen, om te zetten in de \'{e}\'{e}nheidsmatrix $I$ en pas tegelijkertijd dezelfde elementaire omvormingen toe op $I$. Om geen rekenfouten te maken is het aan te raden je te beperken tot elementaire rij-omvormingen.\\
 	Er zijn nu twee mogelijkheden:
 	\begin{enumerate}
-		\item Na een aantal omvormingen wordt de $nxn$ matrix $A$ omgezet in een matrix met een nulrij. Dus $rang(A)<n$, $detA=0$ en $A$ is singulier. De inverse van $A$ bestaat niet.
-		\item Na een aantal elementaire omvormingen is $A$ omgezet in de \'{e}\'{e}nheidsmatrix $I$. Dit betekent dat $rang(A)=n$, $detA \neq 0$ en $A$ is regulier (inverteerbaar). De \'{e}\'{e}nheidsmatrix $I$ is dan door de elementaire omvormingen omgezet in een nieuwe $nxn$ matrix $B=A^{-1}$
+		\item Na een aantal omvormingen wordt de $n \times n$ matrix $A$ omgezet in een matrix met een nulrij. Dus $rang(A)<n$, $detA=0$ en $A$ is singulier. De inverse van $A$ bestaat niet.
+		\item Na een aantal elementaire omvormingen is $A$ omgezet in de \'{e}\'{e}nheidsmatrix $I$. Dit betekent dat $rang(A)=n$, $detA \neq 0$ en $A$ is regulier (inverteerbaar). De \'{e}\'{e}nheidsmatrix $I$ is dan door de elementaire omvormingen omgezet in een nieuwe $n \times n$ matrix $B=A^{-1}$
 		\[  \left( \begin{matrix}
 		1 & 0 & \ldots & \ldots & 0 & b_{11} & \ldots & \ldots & \ldots & b_{1n} \\
 		0 & 1 &  &  &  0 & \vdots & & & & \vdots \\
@@ -1042,9 +1100,9 @@ Methode van Gauss-Jordan om na te gaan of een vierkante $nxn$ matrix $A$ inverte
 	\end{enumerate}
 \end{itemize}
 
-{\bf Voorbeeld:} \\
 
-We gebruiken de methode van Gauss-Jordan om na te gaan of de vierkante matrix $A$ inverteerbaar is. Als dat zo is bepalen we meteen de inverse van $A$.
+\begin{voorbeeld}
+	We gebruiken de methode van Gauss-Jordan om na te gaan of de vierkante matrix $A$ inverteerbaar is. Als dat zo is bepalen we meteen de inverse van $A$.
 
 \[ A=\left( \begin{matrix}
 1 & 7 & 0 \\
@@ -1109,6 +1167,7 @@ De linkerhelft van de $3x6$ matrix, $A$ is omgezet in de \'{e}\'{e}nheidsmatrix.
 \frac{-4}{19} & \frac{3}{19} & \frac{2}{19} \end{matrix} \right) 
 \]
 
+\end{voorbeeld}
 \subsection{Methode van Gauss voor het oplossen van een stelsel van vergelijkingen}
 
 \subsubsection{Stelsels van lineaire vergelijkingen in matrixnotatie}
@@ -1127,7 +1186,7 @@ a_{m1} x_1 + a_{m2} x_2 + ... + a_{mn} x_n = c_m
 
 We merken op dat het {\bf niet} noodzakelijk is dat het aantal vergelijkingen $m$ gelijk is aan het aantal onbekenden $n$.\\
 
-Door alle co\"{e}ffici\"{e}nten $a_{ij}$ in een $mxn$ matrix $A=\left( \begin{matrix} a_{11} & \ldots & \ldots & \ldots & a_{1n} \\ \vdots & & & & \vdots \\ \vdots & & & & \vdots \\ \vdots & & & & \vdots \\ a_{m1} & \ldots & \ldots & \ldots & a_{mn} \end{matrix} \right) $ te schrijven, de onbekenden in een $nx1$ kolommatrix $X=\left( \begin{matrix} x_1 \\ \vdots \\ \vdots \\ x_n \end{matrix} \right) $ te plaatsen en de rechterleden van de vergelijkingen in een $mx1$ kolommatrix $C=\left( \begin{matrix} c_1 \\ \vdots \\ \vdots \\ \vdots \\ c_m \end{matrix} \right) $ te schrijven, kunnen we het stelsel van vergelijkingen beschouwen als een matrixvermenigvuldiging $AX=C$:
+Door alle co\"{e}ffici\"{e}nten $a_{ij}$ in een $m \times n$ matrix $A=\left( \begin{matrix} a_{11} & \ldots & \ldots & \ldots & a_{1n} \\ \vdots & & & & \vdots \\ \vdots & & & & \vdots \\ \vdots & & & & \vdots \\ a_{m1} & \ldots & \ldots & \ldots & a_{mn} \end{matrix} \right) $ te schrijven, de onbekenden in een $nx1$ kolommatrix $X=\left( \begin{matrix} x_1 \\ \vdots \\ \vdots \\ x_n \end{matrix} \right) $ te plaatsen en de rechterleden van de vergelijkingen in een $mx1$ kolommatrix $C=\left( \begin{matrix} c_1 \\ \vdots \\ \vdots \\ \vdots \\ c_m \end{matrix} \right) $ te schrijven, kunnen we het stelsel van vergelijkingen beschouwen als een matrixvermenigvuldiging $AX=C$:
 
 \[ 
 \left( \begin{matrix} a_{11} & \ldots & \ldots & \ldots & a_{1n} \\ \vdots & & & & \vdots \\ \vdots & & & & \vdots \\ \vdots & & & & \vdots \\ a_{m1} & \ldots & \ldots & \ldots & a_{mn} \end{matrix} \right) \left( \begin{matrix} x_1 \\ \vdots \\ \vdots \\ x_n \end{matrix} \right) = \left( \begin{matrix} c_1 \\ \vdots \\ \vdots \\ \vdots \\ c_m \end{matrix} \right)
@@ -1159,9 +1218,7 @@ Er zijn drie equivalentietransformaties:
 
 Het is niet moeilijk in te zien dat de eerste twee inderdaad de oplossingen van het stelsel niet veranderen. De derde transformatie komt neer op de substitutiemethode voor het oplossen van een stelsel van vergelijkingen die we in het hoofdstuk over vergelijkingen besproken hebben. 
 
-\begin{framed}
 Schrijven we nu een stelsel van lineaire vergelijkingen eerst in matrixvorm\\ $AX=C$ en vervolgens in verkorte vorm met de verhoogde co\"{e}ffici\"{e}ntenmatrix $\left( \begin{array}{c|c} A & C \end{array} \right)$. {\bf Het toepassen van de equivalentietransformaties op het stelsel komt dan neer op het toepassen van elementaire rij-omvormingen op de verhoogde co\"{e}ffici\"{e}ntenmatrix}. 
-\end{framed}
 
 Hierop is de methode van Gauss voor het oplossen van een stelsel van vergelijkingen gebaseerd.
 
@@ -1207,7 +1264,7 @@ Merk op dat de rang van $A$ het aantal niet-nulrijen van $A'$ is: $rang(A)=r$ \\
 
 Er kunnen zich nu drie verschillende situaties voordoen.
 
-\begin{framed} 
+\begin{ftonthoud} 
 	{\bf Geval 1:} voor minstens \'{e}\'{e}n van de $m-r$ laatste vergelijkingen (rijen) geldt $c'_{i} \neq 0$.\\ Dit betekent dat in het stelsel minstens \'{e}\'{e}n vergelijking voorkomt van de vorm $0 \neq 0$. Het is natuurlijk onmogelijk om aan deze vergelijking te voldoen: {\bf het stelsel van vergelijkingen heeft geen oplossingen}.\\
 	Merk op dat in deze situatie geldt: $rang(A) \neq rang \left( \begin{array}{c|c} A' & C' \end{array} \right)$ \\
 	
@@ -1251,14 +1308,12 @@ Er kunnen zich nu drie verschillende situaties voordoen.
 	{\bf Het stelsel is oplosbaar en heeft een oneindig aantal oplossingen.} \\
 	Men vindt de oplossingen door de vergelijkingen in het stelsel, van onder naar boven, \'{e}\'{e}n voor \'{e}\'{e}n op te lossen. De oplossing van de $r$-de vergelijking substitueert men in de $r-1$-ste  vergelijking, enz... \\
 	De $r$-de vergelijking kan men oplossen naar de onbekende $x_{r}$ door de onbekenden $x_{r+1}$,...,$x_{n}$ als parameters te kiezen. 
-\end{framed}	
+\end{ftonthoud}	
 
-{\bf Voorbeelden:}\\
+\begin{voorbeeld}
+	We controleren met de methode van Gauss of het volgende stelsel oplosbaar is en we zoeken de eventuele oplossing(en.)
 
-We controleren met de methode van Gauss of de volgende stelsels oplosbaar zijn en we zoeken de eventuele oplossingen.
-
-\begin{enumerate} 
-	\item \[ \left\{ 
+	\[ \left\{ 
 	\begin{array}{l}
 		x_1 -3x_2 +5x_3  = 0 \\
 		2x_1 + x_2 -10x_3 = 2 \\
@@ -1299,7 +1354,11 @@ We controleren met de methode van Gauss of de volgende stelsels oplosbaar zijn e
 	$x_3 =\frac{9}{15}=\frac{3}{5}$, substitutie in de voorlaatste vergelijking geeft $-x_2 + 5\frac{3}{5} = 1$, dus $x_2 =2$, substitutie in de eerste vergelijking geeft $x_1 -6+3=0$, dus $x_1 =3$.\\
 	Het stelsel heeft als oplossing $x_1 =3, x_2 =2, x_3= \frac{3}{5}$\\ 
 	
-	\item \[ \left\{ 
+	\end{voorbeeld}
+
+\begin{voorbeeld}
+		We controleren met de methode van Gauss of het volgende stelsel oplosbaar is en we zoeken de eventuele oplossing(en.)
+\[ \left\{ 
 	\begin{array}{l}
 	x_1 -3x_2 +5x_3  = 0 \\
 	2x_1 + x_2 -10x_3 = 2 \\
@@ -1326,11 +1385,13 @@ We controleren met de methode van Gauss of de volgende stelsels oplosbaar zijn e
 	In deze situatie heeft het stelsel een oneindig aantal oplossingen. \\
 	We lossen de tweede vergelijking op naar $x_2$ waarbij we $x_3$ gelijk stellen aan een willekeurig te kiezen parameter $x_3 = \lambda \in \mathbb{R}$. Dit geeft $x_2 = \frac{2+20 \lambda}{7}$. Substitutie van $x_2$ en $x_3$ in de eerste vergelijking geeft $x_1 =\frac{25 \lambda + 6}{7}$. \\
 	Aangezien $x_1, x_2, x_3$ telkens een andere oplossing geeft als men een andere waarde voor $\lambda$ kiest heeft men hier inderdaad een oneindig aantal oplossingen.
-\end{enumerate}
- 
-{\bf Opmerkingen:}
 
-\begin{itemize}
+
+\end{voorbeeld} 
+
+\begin{opmerking}
+	\ \\
+	\begin{itemize}
 	\item We herhalen nog eens dat het niet noodzakelijk is dat het aantal vergelijkingen gelijk is aan het aantal onbekenden.
 	\item Laten we een homogeen stelsel van vergelijkingen (een stelsel waarbij alle rechterleden nul zijn) beschouwen:
 	\[ 
@@ -1345,6 +1406,7 @@ We controleren met de methode van Gauss of de volgende stelsels oplosbaar zijn e
 	Dergelijk stelsel is altijd oplosbaar want in dit geval geldt $rang(A) = rang \left( \begin{array}{c|c} A & C \end{array} \right)$ \\
 	Het stelsel kan \'{e}\'{e}n of oneindig veel oplossingen hebben maar $x_1 =0$, $x_2 =0$, $...$ , $x_n =0$ is altijd een oplossing van een homogeen stelsel.
 \end{itemize}
+\end{opmerking}
 
 \subsection{De regel van Cramer}
 
@@ -1373,10 +1435,10 @@ a_{11} & \ldots & \ldots & \ldots & a_{1n} & c_1 \\ \vdots & & & & \vdots & \vdo
 \end{array} 
 \right)
 \]
-Volgens de methode van Gauss heeft een dergelijk $nxn$ stelsel juist \'{e}\'{e}n oplossing als en slechts als $rang(A)=n$ met $n$ het aantal onbekenden.\\
-Omdat $A$ een vierkante $nxn$ matrix is geldt
+Volgens de methode van Gauss heeft een dergelijk $n \times n$ stelsel juist \'{e}\'{e}n oplossing als en slechts als $rang(A)=n$ met $n$ het aantal onbekenden.\\
+Omdat $A$ een vierkante $n \times n$ matrix is geldt
 \[ rang(A)=n \Leftrightarrow det A \neq 0 \Leftrightarrow A \quad \textrm{is inverteerbaar} \]
-De regel van Cramer is een manier om, onafhankelijk van de methode van Gauss, de unieke oplossing van een dergelijk $nxn$ stelsel te vinden. \\
+De regel van Cramer is een manier om, onafhankelijk van de methode van Gauss, de unieke oplossing van een dergelijk $n \times n$ stelsel te vinden. \\
 
 Pas op! De regel van Cramer is op geen enkele andere situatie toepasbaar...
 
@@ -1384,9 +1446,7 @@ Pas op! De regel van Cramer is op geen enkele andere situatie toepasbaar...
 
 Stel dat je een niet homogeen stelsel van $n$ lineaire vergelijkingen in $n$ onbekenden $x_1$, $...$ , $x_n$ hebt waarbij de co\"{e}ffici\"{e}ntenmatrix $A$ regulier is.\\
 In matrixnotatie wordt dit 
-\begin{framed}
 \[ AX=C \quad \textrm{met} \quad det A \neq 0  \]
-\end{framed}
 Door de matrixvergelijking links te vermenigvuldigen met de inverse van $A$ vinden we
 \[ A^{-1}AX=A^{-1}C \]
 of
@@ -1395,21 +1455,20 @@ Dit kan je ook schrijven als
 \[ X=\frac{1}{det A}adj(A) C \]
 of
 \[
-\left( \begin{matrix} x_1 \\ \vdots \\ \vdots \\ \vdots \\ x_n \end{matrix} \right) = \frac{1}{det A} \left( \begin{matrix} cofactor(a_{11}) & cofactor(a_{21}) & \ldots & \ldots & cofactor(a_{n1}) \\ cofactor(a_{12}) & \vdots & & & \vdots \\ \vdots & & & & \vdots \\ \vdots & & & & \vdots \\ cofactor(a_{1n}) & \ldots & \ldots & \ldots & cofactor(a_{nn}) \end{matrix} \right) \left( \begin{matrix} c_1 \\ \vdots \\ \vdots \\ \vdots \\ c_n \end{matrix} \right)
+\left( \begin{matrix} x_1 \\ \vdots \\ \vdots \\ \vdots \\ x_n \end{matrix} \right) = \frac{1}{det A} \left( \begin{matrix} \text{cofactor}(a_{11}) & \text{cofactor}(a_{21}) & \ldots & \ldots & \text{cofactor}(a_{n1}) \\ \text{cofactor}(a_{12}) & \vdots & & & \vdots \\ \vdots & & & & \vdots \\ \vdots & & & & \vdots \\ \text{cofactor}(a_{1n}) & \ldots & \ldots & \ldots & \text{cofactor}(a_{nn}) \end{matrix} \right) \left( \begin{matrix} c_1 \\ \vdots \\ \vdots \\ \vdots \\ c_n \end{matrix} \right)
 \]
 Dit geeft voor elke $x_i$ met $i=1...n$ de volgende uitdrukking
 \[
-x_i = \frac{1}{det A} (c_1 cofactor(a_{1i}) + c_2 cofactor(a_{2i}) + ... + c_n cofactor(a_{ni})) 
+x_i = \frac{1}{det A} (c_1 \text{cofactor}(a_{1i}) + c_2 \text{cofactor}(a_{2i}) + ... + c_n \text{cofactor}(a_{ni})) 
 \]
 ofwel
-\begin{framed}
 \[
 x_i = \frac{det A_{i}}{det A}
 \]
-\end{framed}
 met $i=1...n$ en $A_{i}$ de co\"{e}ffici\"{e}ntenmatrix $A$ waarin de $i$-de kolom vervangen is door de kolommatrix $C$. \\
 
-{\bf Voorbeeld:} \\
+\begin{voorbeeld}
+	
 
 Neem het volgende stelsel van $3$ vergelijkingen in $3$ onbekenden:
 \[
@@ -1425,3 +1484,5 @@ We berekenen de unieke oplossing van het stelsel:
 \[  x_2 =\frac{det A_2}{det A}=det \left( \begin{matrix} 2 & 1 & 3 \\ 0 & 4 & 1 \\ -1 & 3 & 0 \end{matrix} \right) = 5 \] 
 \[  x_3 =\frac{det A_3}{det A}=det \left( \begin{matrix} 2 & 0 & 1 \\ 0 & 1 & 4 \\ -1 & 1 & 3 \end{matrix} \right) = -1 \]                     
 
+
+\end{voorbeeld}

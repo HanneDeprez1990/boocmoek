@@ -1,12 +1,12 @@
 \subsection*{Inleiding}
 
-Het oplossen van vergelijkingen is een praktische wiskundige vaardigheid waarvan ondersteld wordt dat elke ingenieur ze beheerst. Op het eerste zicht lijkt vergelijkingen oplossen een spel met rare  regeltjes bedacht door wereldvreemde leraars wiskunde. Zodra je echter gaat narekenen of een voorgestelde technische oplossing voor een probleem eigenlijk wel mogelijk is, iets wat in het Engels heel toepasselijk wordt aangeduid als "do the math", behoort het oplossen van vergelijkingen tot de standaardactiviteiten.\\
+Het oplossen van vergelijkingen is een praktische wiskundige vaardigheid waarvan ondersteld wordt dat elke ingenieur ze beheerst. Op het eerste zicht lijkt vergelijkingen oplossen een spel met rare  regeltjes bedacht door wereldvreemde leraars wiskunde. Zodra je echter gaat narekenen of een voorgestelde technische oplossing voor een probleem eigenlijk wel mogelijk is, iets wat in het Engels heel toepasselijk wordt aangeduid als \textquotedblleft do the math\textquotedblright, behoort het oplossen van vergelijkingen tot de standaardactiviteiten.\\
 
 Enkele voorbeelden:
 
 \begin{itemize}
 
-\item {In de thermodynamica speelt de toestandsvergelijking van een ideaal gas (in de volksmond "de ideale gaswet" genoemd) een belangrijke rol. Deze vergelijking geeft voor een hoeveelheid (aantal mol $n$) ideaal gas het verband tussen druk $P$, temperatuur $T$ en volume $V$ bij thermisch evenwicht van het gas:
+\item {In de thermodynamica speelt de toestandsvergelijking van een ideaal gas (in de volksmond \textquotedblleft de ideale gaswet\textquotedblright\ genoemd) een belangrijke rol. Deze vergelijking geeft voor een hoeveelheid (aantal mol $n$) ideaal gas het verband tussen druk $P$, temperatuur $T$ en volume $V$ bij thermisch evenwicht van het gas:
 
 \[ PV=nRT \]
 
@@ -28,30 +28,35 @@ Als het volume van de gasfles en de druk en temperatuur van het gas in de fles g
 
 \noindent Bij sommige toepassingen, zoals bijvoorbeeld het doorrekenen van elektrische netwerken, komt men meerdere vergelijkingen met meerdere onbekenden tegen waarvoor men een oplossing zoekt die moet voldoen aan alle vergelijkingen tegelijkertijd. In zo een geval spreekt men van het oplossen van een stelsel van vergelijkingen.\\
 
-
-
-
-
-\newpage
-
 \subsection{Definities}
 
-\begin{itemize}
-	\item Wat is een vergelijking?
-    \item Wat is een onbekende?
-    \item Zijn er verschillende soorten vergelijkingen?
-	
-\end{itemize}
+%\begin{itemize}
+%	\item Wat is een vergelijking?
+%    \item Wat is een onbekende?
+%    \item Zijn er verschillende soorten vergelijkingen?
+%	
+%\end{itemize}
 
-Een vergelijking drukt uit dat twee wiskundige uitdrukkingen aan elkaar gelijk zijn door een gelijkheidsteken tussen de uitdrukkingen te plaatsen.\\ Bijvoorbeeld:\\
+\begin{definitie}
+	Een vergelijking drukt uit dat twee wiskundige uitdrukkingen aan elkaar gelijk zijn door een gelijkheidsteken tussen de uitdrukkingen te plaatsen.
+\end{definitie}
 
-\[5x^3 + 2x = 8x^2 + 17\]
+\begin{voorbeeld}
+	\[5x^3 + 2x = 8x^2 + 17\]
+\end{voorbeeld}
 
 De uitdrukking voor het gelijkheidsteken noemt met het linkerlid, de andere uitdrukking noemt men het rechterlid.\\
 
 In een vergelijking staat altijd minstens \'{e}\'{e}n onbekende die met een letter wordt aangeduid. Dikwijls wordt hiervoor de letter $x$ gebruikt maar een onbekende kan met eender welke letter worden aangeduid. Het oplossen van een vergelijking komt erop neer dat je die waarden voor de onbekende (of onbekenden) zoekt waarvoor het linkerlid inderdaad gelijk is aan het rechterlid.
 
-In deze nota's beperken we ons tot {\bf veeltermvergelijkingen}, dat zijn vergelijkingen waarbij zowel het rechterlid als het linkerlid veeltermen zijn, zoals in het voorbeeld hierboven. Er bestaan echter ook andere vergelijkingen. Bijvoorbeeld de vergelijkingen
+\begin{definitie}
+	In deze nota's beperken we ons tot {\bf veeltermvergelijkingen}, dat zijn vergelijkingen waarbij zowel het rechterlid als het linkerlid veeltermen zijn, zoals in het voorbeeld hierboven.
+\end{definitie} 
+
+Er bestaan echter ook andere vergelijkingen. 
+
+\begin{voorbeeld}
+	De vergelijkingen
 
 \[ 3\sin(x+2)=x^3 - 4x -1 \]
 
@@ -60,9 +65,13 @@ en
 \[ \frac{1}{2} e^{-\pi y} - 4 = 37 \cos(y^2 +1) \]
 
 zijn g\'{e}\'{e}n veeltermvergelijkingen.\\
+\end{voorbeeld}
 
-De {\bf graad van een veeltermvergelijking} is de hoogste macht van de onbekende die in de vergelijking voorkomt. De manier waarop men een veeltermvergelijking oplost is verschillend naargelang de graad van de vergelijking.\\
-Bijvoorbeeld
+\begin{definitie}
+	De {\bf graad van een veeltermvergelijking} is de hoogste macht van de onbekende die in de vergelijking voorkomt.
+\end{definitie} De manier waarop men een veeltermvergelijking oplost is verschillend naargelang de graad van de vergelijking.\\
+\begin{voorbeeld}
+	
 
 \[ 8t-2=0 \]
 
@@ -72,7 +81,7 @@ is een veeltermvergelijking van de eerste graad in de onbekende $t$, en
 
 is een veeltermvergelijking van de $23$-ste graad in de onbekende $h$.\\
 
-\newpage
+\end{voorbeeld}
 
 \subsection{Eerstegraadsvergelijkingen}
 
@@ -114,11 +123,13 @@ als oplossing van de vergelijking.\\
 
 \end{voorbeeld}
 
-{\bf Enkele opmerkingen:}
-
+\begin{opmerking}
+\ \\
 \begin{itemize} \item Het uitvoeren van dezelfde optelling of aftrekking op het linker- en rechterlid komt erop neer  dat je termen van het ene lid naar het andere verplaatst. Hierbij moet je er wel op letten dat het teken van de term verandert bij overbrenging naar het andere lid. \item Het uitvoeren van dezelfde deling (of vermenigvuldiging) op linker- en rechterlid komt neer op het overbrengen van een factor naar het andere lid. Hierbij wordt een vermenigvuldiging een deling en omgekeerd. \item {Soms wordt de oplossing van een vergelijking genoteerd als een verzameling $S$. Voor het hierboven uitgewerkte voorbeeld schrijven we dan als oplossingenverzameling
  \[ S=\{-1\} \] }
 \end{itemize}
+
+\end{opmerking}
 
 \begin{voorbeeld}
 
@@ -155,9 +166,8 @@ Dan brengen we $-19$ over naar het rechterlid (pas op: teken verandert niet!):
 
 \end{voorbeeld}
 
-\subsubsection{Onthoud}
-
-\begin{framed}
+\begin{ftonthoud}
+	
 Een goed stappenplan voor het oplossen van een eerstegraadsvergelijking is:
 \begin{enumerate}
 	\item Reken alle haakjes uit.
@@ -166,17 +176,14 @@ Een goed stappenplan voor het oplossen van een eerstegraadsvergelijking is:
                 \item Elke bewerking die je links uitvoert, moet je rechts ook uitvoeren. \item Termen kan je overbrengen door het teken te veranderen: min wordt plus, plus wordt min. \item Factoren verplaats je door te delen of te vermenigvuldigen: een vermenigvuldiging wordt een deling en omgekeerd.
            \end{itemize}
 \end{enumerate}
-\end{framed}
-
-
-\newpage
+\end{ftonthoud}
 
 \subsection{Oplossen van tweedegraadsvergelijkingen}
 
-\begin{itemize}
-		\item Hoeveel oplossingen heeft een tweedegraadsvergelijking?
-	    \item Hoe kan je die oplossingen vinden?
-\end{itemize}
+%\begin{itemize}
+%		\item Hoeveel oplossingen heeft een tweedegraadsvergelijking?
+%	    \item Hoe kan je die oplossingen vinden?
+%\end{itemize}
 
 Een tweedegraadsvergelijking wordt in de praktijk dikwijls vierkantsvergelijking of kwadratische vergelijking genoemd.
 
@@ -223,8 +230,10 @@ De uitdrukking $b^2 - 4ac$ maakt dus een onderscheid (discrimineert) tussen de v
 
 De algemene methode om een tweedegraadsvergelijking op te lossen kan dus worden samengevat als volgt:\\
 
-\begin{framed}
-\begin{itemize}
+
+\begin{ftonthoud}
+	\ \\
+	\begin{itemize}
 \item Schrijf de vergelijking in de vorm $ax^2 + bx + c = 0$     ($a,b$ en $c$ re\"{e}le getallen)
 \item Bereken de discriminant $\Delta = b^2 - 4ac$
 \item Ga na hoeveel oplossingen er zijn:
@@ -234,9 +243,11 @@ De algemene methode om een tweedegraadsvergelijking op te lossen kan dus worden 
 Opmerking: In het geval dat $\Delta <0$ kan men (moet niet) de oplossingen ook schrijven als
 \[ x_{1}=\frac{-b +i \sqrt{|\Delta|}}{2a} \textup{  en  } x_{2}=\frac{-b -i \sqrt{|\Delta|}}{2a} \]
 \end{itemize}
-\end{framed}
 
-\subsubsection{Voorbeeld 1}
+\end{ftonthoud}
+
+\begin{voorbeeld}
+	
 
 \[ x(4x+2)+4 = -3x+2 \]
 
@@ -253,7 +264,9 @@ Aangezien $\Delta < 0$ zijn er twee copmlex toegevoegde complexe oplossingen:
 
 \[ S= \frac{-5+i\sqrt{7}}{8}, -\frac{5+i\sqrt{7}}{8} \]
 
-\subsubsection{Voorbeeld 2}
+\end{voorbeeld}
+\begin{voorbeeld}
+	
 
 \[ -4x^2 +5x +2=0 \]
 
@@ -273,15 +286,18 @@ De oplossingenverzameling is
 
 \[ S=\{ \frac{5 - \sqrt{57}}{8}, \frac{5 + \sqrt{57}}{8} \} \] \\
 
-{\bf Opmerking:} slordig zijn met haakjes veroorzaakt fouten... Gebruik haakjes en respecteer de regels om met haakjes te werken!\\
+\begin{opmerking}
+	Slordig zijn met haakjes veroorzaakt fouten... Gebruik haakjes en respecteer de regels om met haakjes te werken!
+\end{opmerking}
 
-\subsubsection{Speciale gevallen}
+\end{voorbeeld}
+\subsection{Speciale gevallen}
 
 Elke vergelijking van de vorm $ax^2 +bx +c =0$ met $a \neq 0$ kan opgelost worden met de algemene methode met de discriminant. In sommige gevallen is het echter eenvoudiger om deze methode niet te gebruiken. We illustreren dit met enkele voorbeelden.
 
-\begin{itemize}
-\item{Voorbeeld speciaal geval 1}
 
+\begin{voorbeeld}
+	
 \[x^2=36\]
 
 Dit is een tweedegraadsvergelijking in de meest eenvoudige vorm ($b=0$): in het linkerlid staat alleen een term met de onbekende en in het rechtermlid staat alleen een getal. Om de onbekende te vinden trekken we van beide leden de vierkantswortel:
@@ -312,9 +328,11 @@ ofwel
 \[ x_{1}=6 \textup{  en  } x_{2}=-6 \]
 
 
-\item{Voorbeeld speciaal geval 2}
+\end{voorbeeld}
 
-\[3x^2=10x\]
+
+\begin{voorbeeld}
+	\[3x^2=10x\]
 
 We kunnen deze vergelijking oplossen door ze in de vorm $ax^2+bx+c=0$ te zetten:
 
@@ -341,7 +359,9 @@ De laatste vergelijking kan alleen maar nul zijn als $x=0$ of $3x-10=0$, met and
 
 \[ x_{1}=0 \textup{  en  } x_{2}=\frac{10}{3} \]
 
-\item{Voorbeeld speciaal geval 3}
+\end{voorbeeld}
+\begin{voorbeeld}
+	
 
 \[ 17(x-1)(x+\pi)=0 \]
 
@@ -350,13 +370,13 @@ De oplossingen zijn dus:
 
 \[ x_{1}=1 \textup{  en  } x_{2}=-\pi \]
 
-\end{itemize}
+\end{voorbeeld}
 
-\subsubsection{Onthoud}
 
 Oplossen van tweedegraadsvergelijkingen:\\
 
-\begin{framed}
+\begin{ftonthoud}
+	\ \\
 \begin{itemize}
 \item Schrijf de vergelijking in de vorm $ax^2 + bx + c = 0$ ($a,b$ en $c$ re\"{e}le getallen)
 \item Bereken de discriminant $\Delta = b^2 - 4ac$
@@ -367,19 +387,16 @@ Oplossen van tweedegraadsvergelijkingen:\\
 Als $\Delta <0$ dan zijn er twee imaginaire oplossingen voor $\sqrt{\Delta}$: $i\sqrt{|\Delta|}$ en $-i\sqrt{|\Delta|}$ 
 \end{itemize}
 
-{\bf Opmerking:} Respecteer de rekenregels voor haakjes, voor het optellen en vermenigvuldigen van breuken, enz...  Denk niet dat je het sneller en beter kan op ``jouw manier''!\\
+\begin{opmerking}
+	Respecteer de rekenregels voor haakjes, voor het optellen en vermenigvuldigen van breuken, enz...  Denk niet dat je het sneller en beter kan op ``jouw manier''!
+\end{opmerking}
 
-\end{framed}
 
-\newpage
+\end{ftonthoud}
 
 \subsection{Hogeregraadsvergelijkingen}
 
-\begin{itemize}
-	\item Hoe kan je vergelijkingen met een graad hoger dan twee oplossen?
-\end{itemize}
-
-\subsection{Enkele nuttige weetjes over veeltermvergelijkingen in het algemeen}
+\subsubsection{Enkele nuttige weetjes over veeltermvergelijkingen in het algemeen}
 
 Uit de theoretische algebra weet men dat:
 
@@ -440,10 +457,8 @@ De oplossingenverzameling is
 
 \[ S=\{ 0 , \frac{1+i\sqrt{14}}{5} , \frac{1-i\sqrt{14}}{5} \} \]
 
-\subsubsection{Onthoud}
-
-\begin{framed}
-Er bestaan geen algemene methoden om vergelijkingen van vijfde graad of hoger met de hand op te lossen. Deze methoden bestaan wel voor derdegraadsvergelijkingen en vierdegraadsvergelijkingen maar deze methoden zijn zeer omslachtig en worden daarom weinig gebruikt in de praktijk.\\
+\begin{ftonthoud}
+	Er bestaan geen algemene methoden om vergelijkingen van vijfde graad of hoger met de hand op te lossen. Deze methoden bestaan wel voor derdegraadsvergelijkingen en vierdegraadsvergelijkingen maar deze methoden zijn zeer omslachtig en worden daarom weinig gebruikt in de praktijk.\\
 
 In een aantal speciale gevallen kunnen hogeregraadsvergelijkingen echter opgelost worden met \'{e}\'{e}n van de volgende technieken:
 \begin{itemize}
@@ -464,22 +479,25 @@ In een aantal speciale gevallen kunnen hogeregraadsvergelijkingen echter opgelos
 	
 \end{itemize}
 
-{\bf Opmerking:} Respecteer de rekenregels voor haakjes, voor het optellen en vermenigvuldigen van breuken, enz...\\
+\begin{opmerking}
+	Respecteer de rekenregels voor haakjes, voor het optellen en vermenigvuldigen van breuken, enz...
+\end{opmerking}
 
-\end{framed}
+\end{ftonthoud}
 
-\newpage
 
 \subsection{Stelsels van vergelijkingen}
-
-\begin{itemize}
-	\item Wat is een stelsel van vergelijkingen?
-	\item Hoe kan men een eenvoudig stelsel van eerstegraadsvergelijkingen oplossen?
-\end{itemize}
+%
+%\begin{itemize}
+%	\item Wat is een stelsel van vergelijkingen?
+%	\item Hoe kan men een eenvoudig stelsel van eerstegraadsvergelijkingen oplossen?
+%\end{itemize}
 
 \subsubsection{Inleiding}
 
-Een stelsel van vergelijkingen bestaat uit minstens twee vergelijkingen in minstens twee onbekenden. Het bepalen van de onbekenden die tegelijkertijd oplossing zijn voor al de vergelijkingen van het stelsel noemt men het oplossen van het stelsel van vergelijkingen.\\
+\begin{definitie}
+	Een stelsel van vergelijkingen bestaat uit minstens twee vergelijkingen in minstens twee onbekenden. Het bepalen van de onbekenden die tegelijkertijd oplossing zijn voor al de vergelijkingen van het stelsel noemt men het oplossen van het stelsel van vergelijkingen.
+\end{definitie}
 
 Als het stelsel van vergelijkingen alleen bestaat uit veeltermvergelijkingen van de eerste graad noemt men dit stelsel {\bf een lineair stelsel} of {\bf een stelsel van lineaire vergelijkingen}.\\ Een voorbeeld van een lineair stelsel van drie vergelijkingen in drie onbekenden $x$, $y$ en $z$:
 
@@ -513,8 +531,8 @@ De substitutiemethode toegepast bij een stelsel van twee lineaire vergelijkingen
 
 We demonstreren de substitutiemethode met enkele voorbeelden.\\
 
-\subsubsection{Voorbeeld 1}
-
+\begin{voorbeeld}
+	
 \[\left\{ \begin{array}{l}
 2x+y=0 \\
 x-3y+1=0
@@ -546,7 +564,9 @@ Controle door deze waarden voor $x$ en $y$ in het oorspronkelijke stelsel te sub
 -\frac{1}{7}-3(\frac{2}{7})+1=0
 \end{array} \right.\]
 
-\subsubsection{Voorbeeld 2}
+\end{voorbeeld}
+\begin{voorbeeld}
+	
 
 \[\left\{ \begin{array}{l}
 3x + 2y = 4\\
@@ -624,10 +644,14 @@ y=-\frac{58}{13}
 
 Controleer zelf de correctheid van de gevonden oplossing door $x$ en $y$ te substitueren in het oorspronkelijke stelsel van vergelijkingen.\\
 
-{\bf Opmerking:} Hopelijk heb je gemerkt dat het zo goed als onmogelijk is dergelijke berekeningen uit te voeren zonder op een correcte manier met de rekenregels voor haakjes en breuken om te springen...\\
+\begin{opmerking}
+	Hopelijk heb je gemerkt dat het zo goed als onmogelijk is dergelijke berekeningen uit te voeren zonder op een correcte manier met de rekenregels voor haakjes en breuken om te springen...
+\end{opmerking}
 
-\subsubsection{Voorbeeld 3}
+\end{voorbeeld}
 
+\begin{voorbeeld}
+	
 \[\left\{ \begin{array}{l}
 \pi x - 5y = 0\\
 2 \pi x - 10y = \frac{\pi}{17}
@@ -654,7 +678,10 @@ De tweede vergelijking van het stelsel is duidelijk onzin, er bestaat geen $x$ e
 
 {\bf Het stelsel van vergelijkingen heeft geen oplossingen!}
 
-\subsubsection{Voorbeeld 4}
+\end{voorbeeld}
+
+\begin{voorbeeld}
+	
 
 \[\left\{ \begin{array}{l}
 84x-210y=21\\
@@ -695,9 +722,10 @@ y=\frac{4x-1}{10}
 \end{array} \right. \]
 
 
-\subsubsection{Onthoud}
+\end{voorbeeld}
 
-\begin{framed}
+\begin{ftonthoud}
+	
 \begin{itemize}
 \item Kies \'{e}\'{e}n van de vergelijking en los deze op naar \'{e}\'{e}n van de onbekenden, hierbij doe je net alsof je de andere onbekende kent.
 \item Substitueer nu de oplossing van de ene vergelijking in de andere vergelijking, je bekomt nu een eerstegraadsvergelijking in \'{e}\'{e}n onbekende.
@@ -706,8 +734,11 @@ y=\frac{4x-1}{10}
 \item De gevonden oplossing(en) zijn oplossing voor allebei de vergelijkingen van het stelsel. Controleer dit door de waarden te substitueren!
 \end{itemize}
 
-{\bf Opmerking:} Respecteer de rekenregels voor haakjes, voor het optellen en vermenigvuldigen van breuken, enz...\\
-\end{framed}
+\begin{opmerking}
+	Respecteer de rekenregels voor haakjes, voor het optellen en vermenigvuldigen van breuken, enz...
+\end{opmerking}
+\end{ftonthoud}
+
 
 Tips:
 \begin{framed}
@@ -719,10 +750,10 @@ Tips:
 
 \subsection{Ongelijkheden}
 
-\begin{itemize}
-\item Wat is een ongelijkheid?
-\item Hoeveel oplossingen zijn er voor een ongelijkheid en hoe kan je die vinden?
-\end{itemize}
+%\begin{itemize}
+%\item Wat is een ongelijkheid?
+%\item Hoeveel oplossingen zijn er voor een ongelijkheid en hoe kan je die vinden?
+%\end{itemize}
 
 \subsubsection{Inleiding}
 
@@ -743,7 +774,8 @@ Je kan ongelijkheden op een soortgelijke manier manipuleren als vergelijkingen.
 
 In deze cursus zullen we met behulp van een aantal voorbeelden illustreren hoe men ongelijkheden van de eerste graad kan oplossen.\\
 
-\subsubsection{Voorbeeld 1}
+\begin{voorbeeld}
+	
 
 \[ 5x-7 < 2x+1 \]
 
@@ -763,7 +795,9 @@ Deze oplossingen worden soms ook genoteerd met de oplossingenverzameling:
 
 Met deze notatie wordt de verzameling van alle getallen tussen $-\infty$ en $\frac{8}{3}$ aangegeven, merk op dat $-\infty$ en $\frac{8}{3}$ niet tot de oplossingenverzameling behoren (dit wordt aangegeven door de naar buiten wijzende vierkante haakjes).
 
-\subsubsection{Voorbeeld 2}
+\end{voorbeeld}
+\begin{voorbeeld}
+	
 
 \[ 5x-7 < 8x+1 \]
 
@@ -781,7 +815,9 @@ De oplossingenverzameling wordt genoteerd als
 
 \[ S=]-\frac{8}{3}, +\infty [ \]
 
-\subsubsection{Voorbeeld 3}
+\end{voorbeeld}
+\begin{voorbeeld}
+	
 
 \[ 17x+7 \geq 17x+3\pi \]
 
@@ -794,7 +830,9 @@ Er is geen enkele $x$ die ervoor kan zorgen dat hieraan voldaan is. Deze ongelij
 \[ S=\varnothing \]
 
 
-\subsubsection{Voorbeeld 4}
+\end{voorbeeld}
+\begin{voorbeeld}
+	
 
 \[ \frac{x}{3}+1 \leq -\frac{5}{7}x-12 \]
 
@@ -816,12 +854,13 @@ De oplossingenverzameling is
 
 Merk op dat het naar binnen wijzende vierkante haakje aanduidt dat $-\frac{273}{22}$ wel degelijk tot de oplossingenverzameling behoort.
 
-\subsubsection{Onthoud}
+\end{voorbeeld}
 
-\begin{framed}
-\begin{itemize}
+\begin{ftonthoud}
+	\ \\
+	\begin{itemize}
 \item Ongelijkheden van de eerste graad lost men op door de onbekende af te zonderen op een soortgelijke manier als bij veeltermvergelijkingen van de eerste graad.
 \item Let op dat bij het vermenigvuldigen van de ongelijkheid met een negatief getal ``groter dan (of gelijk aan)'' wordt omgezet in ``kleiner dan (of gelijk aan)'' en omgekeerd.
 \item Een ongelijkheid heeft ofwel oneindig veel oplossingen ofwel geen oplossingen.
 \end{itemize}
-\end{framed}
+\end{ftonthoud}
