@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 #keuze van backend
-matplotlib.use('SVG')   # generate SVG output by default
-#matplotlib.use('AGG')   # generate png output by default (agg = anti grain)
+#matplotlib.use('SVG')   # generate SVG output by default
+matplotlib.use('AGG')   # generate png output by default (agg = anti grain)
 
 
 #fig = plt.figure()
@@ -50,7 +50,8 @@ plt.grid(True,dashes=[8,3],linewidth=0.5) #sequence of floats (on/off ink in poi
 
 plt.axis('equal') #of plt.axis('scaled'), komt overeen met maple 'scaling = constrained'
 
-#plt.show() werkt enkel als er naar png geschreven wordt
-plt.savefig("test.svg")
+plt.show() #werkt enkel als er naar png geschreven wordt
+#plt.savefig("test.svg")
+plt.savefig("test.png")
 
 print("einde programma")

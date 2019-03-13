@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  17 OCT 2018 14:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  13 MAR 2019 17:20
 entering extended mode
 **./mooc_naslagwerk180918.tex
 (mooc_naslagwerk180918.tex
@@ -5753,12 +5753,12 @@ le (type png)
 Package pdftex.def Info: 6_afgeleiden_integralen/inputs/QR_Code_INLEIDENDVB_mod
 ule6.png  used on input line 6.
 (pdftex.def)             Requested size: 113.81102pt x 113.76703pt.
-<6_afgeleiden_integralen/inputs/graf.JPG, id=2034, 226.59656pt x 146.79843pt>
-File: 6_afgeleiden_integralen/inputs/graf.JPG Graphic file (type jpg)
-<use 6_afgeleiden_integralen/inputs/graf.JPG>
-Package pdftex.def Info: 6_afgeleiden_integralen/inputs/graf.JPG  used on input
- line 24.
-(pdftex.def)             Requested size: 219.59784pt x 142.26378pt.
+<6_afgeleiden_integralen/inputs/1_2_vb1.png, id=2034, 462.528pt x 346.896pt>
+File: 6_afgeleiden_integralen/inputs/1_2_vb1.png Graphic file (type png)
+<use 6_afgeleiden_integralen/inputs/1_2_vb1.png>
+Package pdftex.def Info: 6_afgeleiden_integralen/inputs/1_2_vb1.png  used on in
+put line 24.
+(pdftex.def)             Requested size: 189.6871pt x 142.26378pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -5792,15 +5792,14 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 81.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[239 <./6_afgeleiden_integralen/inputs/graf.JPG> <./6_afgeleiden_integralen/inp
-uts/QR_Code_AFGANIMATIE_module6_1.png>]
-<6_afgeleiden_integralen/inputs/grafTang.JPG, id=2049, 225.09094pt x 142.28156p
-t>
-File: 6_afgeleiden_integralen/inputs/grafTang.JPG Graphic file (type jpg)
-<use 6_afgeleiden_integralen/inputs/grafTang.JPG>
-Package pdftex.def Info: 6_afgeleiden_integralen/inputs/grafTang.JPG  used on i
-nput line 85.
-(pdftex.def)             Requested size: 225.08693pt x 142.26378pt.
+[239 <./6_afgeleiden_integralen/inputs/1_2_vb1.png> <./6_afgeleiden_integralen/
+inputs/QR_Code_AFGANIMATIE_module6_1.png>]
+<6_afgeleiden_integralen/inputs/1_2_vb3.png, id=2049, 462.528pt x 346.896pt>
+File: 6_afgeleiden_integralen/inputs/1_2_vb3.png Graphic file (type png)
+<use 6_afgeleiden_integralen/inputs/1_2_vb3.png>
+Package pdftex.def Info: 6_afgeleiden_integralen/inputs/1_2_vb3.png  used on in
+put line 85.
+(pdftex.def)             Requested size: 189.6871pt x 142.26378pt.
 <6_afgeleiden_integralen/inputs/QR_Code_AFGRAAKLIJN_module6.png, id=2050, 3011.
 25pt x 3011.25pt>
 File: 6_afgeleiden_integralen/inputs/QR_Code_AFGRAAKLIJN_module6.png Graphic fi
@@ -5813,8 +5812,8 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 125.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [240 <./6_afgeleiden_integralen/inputs/grafTang.JPG> <./6_afgeleiden_integrale
-n/inputs/QR_Code_AFGRAAKLIJN_module6.png>]
+ [240 <./6_afgeleiden_integralen/inputs/1_2_vb3.png> <./6_afgeleiden_integralen
+/inputs/QR_Code_AFGRAAKLIJN_module6.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
@@ -5909,31 +5908,30 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 591.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [249]
-<6_afgeleiden_integralen/inputs/dalend.JPG, id=2122, 439.4016pt x 327.624pt>
-File: 6_afgeleiden_integralen/inputs/dalend.JPG Graphic file (type jpg)
-<use 6_afgeleiden_integralen/inputs/dalend.JPG>
-Package pdftex.def Info: 6_afgeleiden_integralen/inputs/dalend.JPG  used on inp
-ut line 635.
-(pdftex.def)             Requested size: 190.8029pt x 142.26378pt.
+<6_afgeleiden_integralen/inputs/1_9_fig1.png, id=2122, 462.528pt x 346.896pt>
+File: 6_afgeleiden_integralen/inputs/1_9_fig1.png Graphic file (type png)
+<use 6_afgeleiden_integralen/inputs/1_9_fig1.png>
+Package pdftex.def Info: 6_afgeleiden_integralen/inputs/1_9_fig1.png  used on i
+nput line 635.
+(pdftex.def)             Requested size: 189.6871pt x 142.26378pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 635.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [250]
-<6_afgeleiden_integralen/inputs/verloop_vb2.jpg, id=2129, 385.44pt x 378.66469p
-t>
-File: 6_afgeleiden_integralen/inputs/verloop_vb2.jpg Graphic file (type jpg)
-<use 6_afgeleiden_integralen/inputs/verloop_vb2.jpg>
-Package pdftex.def Info: 6_afgeleiden_integralen/inputs/verloop_vb2.jpg  used o
-n input line 670.
-(pdftex.def)             Requested size: 242.5pt x 238.23645pt.
+<6_afgeleiden_integralen/inputs/1_9_fig2.png, id=2129, 462.528pt x 346.896pt>
+File: 6_afgeleiden_integralen/inputs/1_9_fig2.png Graphic file (type png)
+<use 6_afgeleiden_integralen/inputs/1_9_fig2.png>
+Package pdftex.def Info: 6_afgeleiden_integralen/inputs/1_9_fig2.png  used on i
+nput line 670.
+(pdftex.def)             Requested size: 242.5pt x 181.87434pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 670.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [251 <./6_afgeleiden_integralen/inputs/dalend.JPG>]) (6_afgeleiden_integralen/
-module_6_2.tex
-<6_afgeleiden_integralen/inputs/QR_Code_INLEIDENDVB_module6_2.png, id=2136, 301
+ [251 <./6_afgeleiden_integralen/inputs/1_9_fig1.png>]) (6_afgeleiden_integrale
+n/module_6_2.tex
+<6_afgeleiden_integralen/inputs/QR_Code_INLEIDENDVB_module6_2.png, id=2137, 301
 1.25pt x 3011.25pt>
 File: 6_afgeleiden_integralen/inputs/QR_Code_INLEIDENDVB_module6_2.png Graphic 
 file (type png)
@@ -5945,13 +5943,13 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 12.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [252 <./6_afgeleiden_integralen/inputs/verloop_vb2.jpg>]
+ [252 <./6_afgeleiden_integralen/inputs/1_9_fig2.png>]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 50.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 56.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [253 <./6_afgeleiden_integralen/inputs/QR_Code_INLEIDENDVB_module6_2.png>]
-<6_afgeleiden_integralen/inputs/QR_Code_STNEWTONLEIBNIZ_module6_2.png, id=2146,
+<6_afgeleiden_integralen/inputs/QR_Code_STNEWTONLEIBNIZ_module6_2.png, id=2148,
  3011.25pt x 3011.25pt>
 File: 6_afgeleiden_integralen/inputs/QR_Code_STNEWTONLEIBNIZ_module6_2.png Grap
 hic file (type png)
@@ -5962,37 +5960,39 @@ _module6_2.png  used on input line 69.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 95.
+Package mdframed Info: Box was splittet wrong
+ starting loop to iterate the splitting point
+(mdframed)              on input line 142.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 142.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [254 <./6_afgeleiden_integralen/inputs/QR_Code_STNEWTONLEIBNIZ_module6_2.png>]
-Package mdframed Info: Not enough space on this page on input line 142.
 
 Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 155.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[255]
+
 Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
-
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 156.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+[255]
 Overfull \hbox (39.54831pt too wide) in alignment at lines 162--167
  [][][] []
  []
 
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 204.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 211.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
 [256]
-<6_afgeleiden_integralen/inputs/QR_Code_EENVRRVB_module6_2.png, id=2168, 3011.2
+<6_afgeleiden_integralen/inputs/QR_Code_EENVRRVB_module6_2.png, id=2170, 3011.2
 5pt x 3011.25pt>
 File: 6_afgeleiden_integralen/inputs/QR_Code_EENVRRVB_module6_2.png Graphic fil
 e (type png)
@@ -6000,13 +6000,12 @@ e (type png)
 Package pdftex.def Info: 6_afgeleiden_integralen/inputs/QR_Code_EENVRRVB_module
 6_2.png  used on input line 217.
 (pdftex.def)             Requested size: 113.81102pt x 113.76703pt.
-<6_afgeleiden_integralen/inputs/integraal1.jpg, id=2169, 444.2196pt x 269.5671p
-t>
-File: 6_afgeleiden_integralen/inputs/integraal1.jpg Graphic file (type jpg)
-<use 6_afgeleiden_integralen/inputs/integraal1.jpg>
-Package pdftex.def Info: 6_afgeleiden_integralen/inputs/integraal1.jpg  used on
- input line 227.
-(pdftex.def)             Requested size: 242.5pt x 147.16pt.
+<6_afgeleiden_integralen/inputs/2_7_fig1.png, id=2171, 462.528pt x 346.896pt>
+File: 6_afgeleiden_integralen/inputs/2_7_fig1.png Graphic file (type png)
+<use 6_afgeleiden_integralen/inputs/2_7_fig1.png>
+Package pdftex.def Info: 6_afgeleiden_integralen/inputs/2_7_fig1.png  used on i
+nput line 227.
+(pdftex.def)             Requested size: 242.5pt x 181.87434pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 230--232
 
@@ -6017,8 +6016,8 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 232.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
 [257 <./6_afgeleiden_integralen/inputs/QR_Code_EENVRRVB_module6_2.png> <./6_afg
-eleiden_integralen/inputs/integraal1.jpg>]
-<6_afgeleiden_integralen/inputs/integraal2.JPG, id=2175, 492.8814pt x 296.0661p
+eleiden_integralen/inputs/2_7_fig1.png>]
+<6_afgeleiden_integralen/inputs/integraal2.JPG, id=2178, 492.8814pt x 296.0661p
 t>
 File: 6_afgeleiden_integralen/inputs/integraal2.JPG Graphic file (type jpg)
 <use 6_afgeleiden_integralen/inputs/integraal2.JPG>
@@ -6040,7 +6039,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 255--256
 
  []
 
-<6_afgeleiden_integralen/inputs/QR_Code_BEPINTVB_module6_2.png, id=2176, 3011.2
+<6_afgeleiden_integralen/inputs/QR_Code_BEPINTVB_module6_2.png, id=2179, 3011.2
 5pt x 3011.25pt>
 File: 6_afgeleiden_integralen/inputs/QR_Code_BEPINTVB_module6_2.png Graphic fil
 e (type png)
@@ -6058,7 +6057,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 328.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [259 <./6_afgeleiden_integralen/inputs/QR_Code_BEPINTVB_module6_2.png>]
-<6_afgeleiden_integralen/inputs/QR_Code_OPPBEPINT_module6_2.png, id=2192, 3011.
+<6_afgeleiden_integralen/inputs/QR_Code_OPPBEPINT_module6_2.png, id=2195, 3011.
 25pt x 3011.25pt>
 File: 6_afgeleiden_integralen/inputs/QR_Code_OPPBEPINT_module6_2.png Graphic fi
 le (type png)
@@ -6066,7 +6065,7 @@ le (type png)
 Package pdftex.def Info: 6_afgeleiden_integralen/inputs/QR_Code_OPPBEPINT_modul
 e6_2.png  used on input line 350.
 (pdftex.def)             Requested size: 113.81102pt x 113.76703pt.
-<6_afgeleiden_integralen/inputs/integraal4.png, id=2193, 401.5pt x 398.48875pt>
+<6_afgeleiden_integralen/inputs/integraal4.png, id=2196, 401.5pt x 398.48875pt>
 
 File: 6_afgeleiden_integralen/inputs/integraal4.png Graphic file (type png)
 <use 6_afgeleiden_integralen/inputs/integraal4.png>
@@ -6081,7 +6080,7 @@ Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 362.
 
 LaTeX Warning: Reference `fig:int:3' on page 261 undefined on input line 392.
 
-<6_afgeleiden_integralen/inputs/integraal3.png, id=2200, 702.625pt x 282.05376p
+<6_afgeleiden_integralen/inputs/integraal3.png, id=2203, 702.625pt x 282.05376p
 t>
 File: 6_afgeleiden_integralen/inputs/integraal3.png Graphic file (type png)
 <use 6_afgeleiden_integralen/inputs/integraal3.png>
@@ -6099,7 +6098,7 @@ Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 442.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [262 <./6_afgeleiden_integralen/inputs/integraal3.png>]) (6_afgeleiden_integra
 len/module_6_3.tex
-<6_afgeleiden_integralen/inputs/QR_Code_OPPKETTINGINT_module6_3.png, id=2213, 3
+<6_afgeleiden_integralen/inputs/QR_Code_OPPKETTINGINT_module6_3.png, id=2216, 3
 011.25pt x 3011.25pt>
 File: 6_afgeleiden_integralen/inputs/QR_Code_OPPKETTINGINT_module6_3.png Graphi
 c file (type png)
@@ -6132,7 +6131,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 123.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
 [264]
-<6_afgeleiden_integralen/inputs/QR_Code_DIFFSUBSTVB_module6_3.png, id=2224, 301
+<6_afgeleiden_integralen/inputs/QR_Code_DIFFSUBSTVB_module6_3.png, id=2227, 301
 1.25pt x 3011.25pt>
 File: 6_afgeleiden_integralen/inputs/QR_Code_DIFFSUBSTVB_module6_3.png Graphic 
 file (type png)
@@ -6145,7 +6144,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 190.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [265 <./6_afgeleiden_integralen/inputs/QR_Code_DIFFSUBSTVB_module6_3.png>]
-<6_afgeleiden_integralen/inputs/QR_Code_SUBSTBEPVB_module6_3.png, id=2232, 3011
+<6_afgeleiden_integralen/inputs/QR_Code_SUBSTBEPVB_module6_3.png, id=2235, 3011
 .25pt x 3011.25pt>
 File: 6_afgeleiden_integralen/inputs/QR_Code_SUBSTBEPVB_module6_3.png Graphic f
 ile (type png)
@@ -6164,7 +6163,7 @@ Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 313.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [267 <./6_afgeleiden_integralen/inputs/QR_Code_SUBSTBEPVB_module6_3.png>]
 <6_afgeleiden_integralen/inputs/QR_Code_ONBEPPRODUCTREGEL_module6_3.png, id=224
-6, 3011.25pt x 3011.25pt>
+9, 3011.25pt x 3011.25pt>
 File: 6_afgeleiden_integralen/inputs/QR_Code_ONBEPPRODUCTREGEL_module6_3.png Gr
 aphic file (type png)
 <use 6_afgeleiden_integralen/inputs/QR_Code_ONBEPPRODUCTREGEL_module6_3.png>
@@ -6186,7 +6185,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 452.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
 [269]
-<6_afgeleiden_integralen/inputs/QR_Code_PARTINTVB_module6_3.png, id=2258, 3011.
+<6_afgeleiden_integralen/inputs/QR_Code_PARTINTVB_module6_3.png, id=2261, 3011.
 25pt x 3011.25pt>
 File: 6_afgeleiden_integralen/inputs/QR_Code_PARTINTVB_module6_3.png Graphic fi
 le (type png)
@@ -6194,7 +6193,7 @@ le (type png)
 Package pdftex.def Info: 6_afgeleiden_integralen/inputs/QR_Code_PARTINTVB_modul
 e6_3.png  used on input line 467.
 (pdftex.def)             Requested size: 113.81102pt x 113.76703pt.
-<6_afgeleiden_integralen/inputs/QR_Code_PARTINTVB2_module6_3.png, id=2259, 3011
+<6_afgeleiden_integralen/inputs/QR_Code_PARTINTVB2_module6_3.png, id=2262, 3011
 .25pt x 3011.25pt>
 File: 6_afgeleiden_integralen/inputs/QR_Code_PARTINTVB2_module6_3.png Graphic f
 ile (type png)
@@ -6298,7 +6297,7 @@ Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 99.
 ]
 Hoofdstuk .
 (inputs/oplossingen-alle.tmp)
-<inputs/backcover.pdf, id=2297, 554.79266pt x 782.925pt>
+<inputs/backcover.pdf, id=2300, 554.79266pt x 782.925pt>
 File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf>
 Package pdftex.def Info: inputs/backcover.pdf  used on input line 111.
@@ -6307,7 +6306,7 @@ File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf>
 Package pdftex.def Info: inputs/backcover.pdf  used on input line 111.
 (pdftex.def)             Requested size: 554.7913pt x 782.9231pt.
-<inputs/backcover.pdf, id=2300, page=1, 554.79266pt x 782.925pt>
+<inputs/backcover.pdf, id=2303, page=1, 554.79266pt x 782.925pt>
 File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf, page 1>
 Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 111.
@@ -6353,8 +6352,8 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 35658 strings out of 492973
- 711183 string characters out of 3135923
+ 35659 strings out of 492973
+ 711189 string characters out of 3135923
  757815 words of memory out of 3000000
  37839 multiletter control sequences out of 15000+200000
  552044 words of font info for 98 fonts, out of 3000000 for 9000
@@ -6381,9 +6380,9 @@ MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.
 type1/public/eurosym/feymr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
 msfonts/symbols/msbm10.pfb>
-Output written on mooc_naslagwerk180918.pdf (279 pages, 12937767 bytes).
+Output written on mooc_naslagwerk180918.pdf (279 pages, 12312062 bytes).
 PDF statistics:
- 2576 PDF objects out of 2984 (max. 8388607)
+ 2579 PDF objects out of 2984 (max. 8388607)
  860 named destinations out of 1000 (max. 500000)
  963 words of extra memory for PDF output out of 10000 (max. 10000000)
 
