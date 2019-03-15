@@ -3,11 +3,49 @@
 Stel dat je een computerspel speelt en je op een beeldscherm, of eventueel door een virtual reality headset, naar een door een computer gegenereerd landschap kijkt. Kijk je in deze wereld een beetje naar links of naar rechts dan berekent de computer hoe het landschap eruit ziet in je nieuwe kijkrichting en je ziet de virtuele wereld als het ware rond je gezichtspunt roteren. Misschien heb je er nog niet bij stilgestaan maar bij dit soort zaken wordt stevig gebruikt gemaakt van wiskunde.\\
 We kunnen een idee krijgen van hoe dit in zijn werk gaat door ons in eerste instantie te beperken tot een twee dimensionale situatie. In de figuur is een punt $P$ voorgesteld waarvan de positie in het vlak is vastgelegd door een plaatsvector $\vec{r}$. Deze plaatsvector kan voorgesteld worden ten opzichte van verschillende basissen. 
 
-\begin{figure}[h]
-	\begin{center}
-		\includegraphics[scale=0.5]{5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-1}
-	\end{center}
-\end{figure}
+%\begin{figure}[h]
+%	\begin{center}
+%		\includegraphics[scale=0.5]{5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-1}
+%	\end{center}
+%\end{figure}
+
+\begin{center}
+\begin{tikzpicture}
+
+\coordinate (a) at (0,0);
+\coordinate (b) at (0.866,0.5);
+\coordinate (c) at (0.866,0);
+
+\draw[thin,gray!40] (-3,-1) (3,3);
+\draw[->] (-3,0)--(3,0) node[right]{$x$};
+\draw[->] (0,-1)--(0,3) node[above]{$y$};
+\draw[line width=2pt,black,-stealth](0,0)--(2,0) node[anchor=south,xshift=0.3cm]{$\vec{e_x}$};
+\draw[line width=2pt,black,-stealth](0,0)--(0,2) node[anchor=south,xshift=0.3cm]{$\vec{e_y}$};
+
+%\draw[red] node[]{$P$}
+
+\draw[line width=2pt,blue,-stealth](0,0)--(1.732,1) node[anchor=south]{$\vec{e_u}$};
+\draw[line width=2pt,blue,-stealth](0,0)--(-1,1.732) node[anchor=south]{$\vec{e_v}$};
+
+\draw[line width=2pt,red,-stealth](0,0)--(2.5,3) node[anchor=south,above, midway]{$\vec{r}$};
+
+%\path[clip] (0.866,0.5) -- (0,0) -- (0.866,0) -- cycle;
+%\node[circle,draw=black,minimum size=40pt] at (0,0) (circ) {};
+%\draw[blue] (1cm,0cm) arc (90:125:0.5cm);
+
+%  \draw
+%(3,-1) coordinate (a) node[right] {a}
+%-- (0,0) coordinate (b) node[left] {b}
+%-- (2,2) coordinate (c) node[above right] {c}
+%pic["$\alpha$",draw=orange,<->,angle eccentricity=1.2,angle radius=1cm] {angle=a--b--c};
+
+\pic [draw, -, "$\theta$", angle eccentricity=1.5] {angle = c--a--b};
+
+
+%\draw[line width=2pt,blue,-stealth](0,0)--(-0.5,$\sqrt{3}/2$) node[anchor=south]{$\vec{e_v}$};
+
+\end{tikzpicture}
+\end{center}
 
 In de figuur worden twee orthonormale basissen (m.a.w. basissen van loodrecht op elkaar staande \'{e}\'{e}nheidsvectoren) gebruikt waarbij de basis $\{\vec{e}_u ,\vec{e}_v \}$ over een hoek $\theta$ is geroteerd ten opzichte van de basis $\{\vec{e}_x ,\vec{e}_y \}$. \\  De plaatsvector van het punt $P$ wordt ten opzichte van de basis $\{\vec{e}_x ,\vec{e}_y \}$ geschreven als
 
