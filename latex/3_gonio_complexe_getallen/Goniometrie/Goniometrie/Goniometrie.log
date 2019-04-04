@@ -1,0 +1,874 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.8.13)  22 AUG 2015 21:43
+entering extended mode
+**Goniometrie.tex
+
+("C:\Users\guy.durinck\Documents\SPOC\actimath - werkfiles\_ActiMathSource\TeX\
+Modules\Goniometrie\Goniometrie.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\guy.durinck\Documents\SPOC\actimath - werkfiles\_ActiMathSource\TeX\
+includes\packages.tex" ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.st
+y"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\dutch.ldf"
+Language: dutch 2005/03/30 v3.8i Dutch support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+Package babel Info: Making " an active character on input line 132.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tabls\tabls.sty"
+\tablinesep=\dimen113
+\arraylinesep=\dimen114
+\extrarulesep=\dimen115
+\@arstdepth=\dimen116
+\@arstheight=\dimen117
+\@skip@bove=\dimen118
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen119
+\Gin@req@width=\dimen120
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count101
+\calc@Bcount=\count102
+\calc@Adimen=\dimen121
+\calc@Bdimen=\dimen122
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count103
+\calc@Cskip=\skip51
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks26
+\inpenc@posthook=\toks27
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen123
+\extrarowheight=\dimen124
+\NC@list=\toks28
+\extratabsurround=\skip52
+\backup@length=\skip53
+
+
+LaTeX Warning: Command \@xhline  has changed.
+               Check if current package is valid.
+
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip54
+\f@ncyO@elh=\skip55
+\f@ncyO@erh=\skip56
+\f@ncyO@olh=\skip57
+\f@ncyO@orh=\skip58
+\f@ncyO@elf=\skip59
+\f@ncyO@erf=\skip60
+\f@ncyO@olf=\skip61
+\f@ncyO@orf=\skip62
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\preprint\fullpage.sty"
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip63
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\framed\framed.sty"
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip64
+\fb@frw=\dimen125
+\fb@frh=\dimen126
+\FrameRule=\dimen127
+\FrameSep=\dimen128
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
+\LTchunksize=\count104
+\LTcapwidth=\dimen129
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count105
+\LT@rows=\count106
+\c@LT@tables=\count107
+\c@LT@chunks=\count108
+\LT@p@ftn=\toks29
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen130
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen131
+\Hy@linkcounter=\count109
+\Hy@pagecounter=\count110
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count111
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count112
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen132
+\Fld@menulength=\count113
+\Field@Width=\dimen133
+\Fld@charsize=\dimen134
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count114
+\c@Item=\count115
+\c@Hfootnote=\count116
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count117
+\c@bookmark@seq@number=\count118
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip69
+)
+("C:\Users\guy.durinck\Documents\SPOC\actimath - werkfiles\_ActiMathSource\TeX\
+includes\command.tex")
+("C:\Users\guy.durinck\Documents\SPOC\actimath - werkfiles\_ActiMathSource\TeX\
+Modules\Goniometrie\Goniometrie.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen135
+\scratchbox=\box32
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen136
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks31
+)
+\AtBeginShipoutBox=\box33
+Package hyperref Info: Link coloring OFF on input line 17.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count125
+)
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
+
+("C:\Users\guy.durinck\Documents\SPOC\actimath - werkfiles\_ActiMathSource\TeX\
+Modules\Goniometrie\Goniometrie.out")
+("C:\Users\guy.durinck\Documents\SPOC\actimath - werkfiles\_ActiMathSource\TeX\
+Modules\Goniometrie\Goniometrie.out")
+\@outlinefile=\write3
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+<.//figures/Askania_Sekunden-Theodolit_TU_e_400.jpg, id=139, 251.4996pt x 348.1
+005pt>
+File: .//figures/Askania_Sekunden-Theodolit_TU_e_400.jpg Graphic file (type jpg
+)
+ <use .//figures/Askania_Sekunden-Theodolit_TU_e_400.jpg>
+Package pdftex.def Info: .//figures/Askania_Sekunden-Theodolit_TU_e_400.jpg use
+d on input line 29.
+(pdftex.def)             Requested size: 62.87474pt x 87.0249pt.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 33.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Overfull \hbox (11.93779pt too wide) in paragraph at lines 33--34
+\T1/cmr/m/n/12 https://commons.wikimedia.org/wiki/File:[]\T1/cmtt/m/n/12 Askani
+a_Sekunden-Theodolit_TU_e_400.jpg\T1/cmr/m/n/12 ) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+<.//figures/Pylon_ds.jpg, id=140, 404.712pt x 820.2645pt>
+File: .//figures/Pylon_ds.jpg Graphic file (type jpg)
+
+<use .//figures/Pylon_ds.jpg>
+Package pdftex.def Info: .//figures/Pylon_ds.jpg used on input line 39.
+(pdftex.def)             Requested size: 89.03691pt x 180.45874pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+ <C:/Users/guy.durinck/Documents/SPOC/actimath - werkfiles/_ActiMathSource/TeX/
+Modules/Goniometrie/figures/Askania_Sekunden-Theodolit_TU_e_400.jpg> <C:/Users/
+guy.durinck/Documents/SPOC/actimath - werkfiles/_ActiMathSource/TeX/Modules/Gon
+iometrie/figures/Pylon_ds.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 52.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
+LaTeX Font Info:    Try loading font information for U+msa on input line 58.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 58.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<.//figures/goncirkelhoek-1.pdf, id=149, 358.70009pt x 335.69415pt>
+File: .//figures/goncirkelhoek-1.pdf Graphic file (type pdf)
+
+<use .//figures/goncirkelhoek-1.pdf>
+Package pdftex.def Info: .//figures/goncirkelhoek-1.pdf used on input line 62.
+(pdftex.def)             Requested size: 179.3496pt x 167.84665pt.
+
+<.//figures/graden1.jpg, id=150, 578.16pt x 462.22687pt>
+File: .//figures/graden1.jpg Graphic file (type jpg)
+
+<use .//figures/graden1.jpg>
+Package pdftex.def Info: .//figures/graden1.jpg used on input line 70.
+(pdftex.def)             Requested size: 213.91585pt x 171.02126pt.
+ [2 <C:/Users/guy.durinck/Documents/SPOC/actimath - werkfiles/_ActiMathSource/T
+eX/Modules/Goniometrie/figures/goncirkelhoek-1.pdf> <C:/Users/guy.durinck/Docum
+ents/SPOC/actimath - werkfiles/_ActiMathSource/TeX/Modules/Goniometrie/figures/
+graden1.jpg>]
+<.//figures/hoekendeg.pdf, id=193, 514.8234pt x 129.38336pt>
+File: .//figures/hoekendeg.pdf Graphic file (type pdf)
+
+<use .//figures/hoekendeg.pdf>
+Package pdftex.def Info: .//figures/hoekendeg.pdf used on input line 78.
+(pdftex.def)             Requested size: 257.41107pt x 64.69151pt.
+ [3 <C:/Users/guy.durinck/Documents/SPOC/actimath - werkfiles/_ActiMathSource/T
+eX/Modules/Goniometrie/figures/hoekendeg.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+
+ []
+
+[4] <.//figures/radiaal1.jpg, id=216, 578.16pt x 462.22687pt>
+File: .//figures/radiaal1.jpg Graphic file (type jpg)
+
+<use .//figures/radiaal1.jpg>
+Package pdftex.def Info: .//figures/radiaal1.jpg used on input line 145.
+(pdftex.def)             Requested size: 213.91585pt x 171.02126pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+<.//figures/rechtehoekrad.pdf, id=217, 209.18149pt x 209.18149pt>
+File: .//figures/rechtehoekrad.pdf Graphic file (type pdf)
+
+<use .//figures/rechtehoekrad.pdf>
+Package pdftex.def Info: .//figures/rechtehoekrad.pdf used on input line 163.
+(pdftex.def)             Requested size: 156.88573pt x 156.88573pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <C:/Users/guy.durinck/Documents/SPOC/actimath - werkfiles/_ActiMathSource/Te
+X/Modules/Goniometrie/figures/radiaal1.jpg>] [6 <C:/Users/guy.durinck/Documents
+/SPOC/actimath - werkfiles/_ActiMathSource/TeX/Modules/Goniometrie/figures/rech
+tehoekrad.pdf>] [7] [8] [9]
+<.//figures/driehoek.pdf, id=250, 374.08658pt x 236.82277pt>
+File: .//figures/driehoek.pdf Graphic file (type pdf)
+
+<use .//figures/driehoek.pdf>
+Package pdftex.def Info: .//figures/driehoek.pdf used on input line 305.
+(pdftex.def)             Requested size: 187.04282pt x 118.41109pt.
+ [10 <C:/Users/guy.durinck/Documents/SPOC/actimath - werkfiles/_ActiMathSource/
+TeX/Modules/Goniometrie/figures/driehoek.pdf>]
+File: .//figures/driehoek.pdf Graphic file (type pdf)
+
+<use .//figures/driehoek.pdf>
+Package pdftex.def Info: .//figures/driehoek.pdf used on input line 333.
+(pdftex.def)             Requested size: 187.04282pt x 118.41109pt.
+File: .//figures/driehoek.pdf Graphic file (type pdf)
+ <use .//figures/driehoek.pdf>
+Package pdftex.def Info: .//figures/driehoek.pdf used on input line 364.
+(pdftex.def)             Requested size: 187.04282pt x 118.41109pt.
+ [11]
+File: .//figures/driehoek.pdf Graphic file (type pdf)
+
+<use .//figures/driehoek.pdf>
+Package pdftex.def Info: .//figures/driehoek.pdf used on input line 400.
+(pdftex.def)             Requested size: 187.04282pt x 118.41109pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12] [13]
+File: .//figures/driehoek.pdf Graphic file (type pdf)
+ <use .//figures/driehoek.pdf>
+Package pdftex.def Info: .//figures/driehoek.pdf used on input line 461.
+(pdftex.def)             Requested size: 187.04282pt x 118.41109pt.
+ [14] [15]
+<.//figures/willdriehoek.pdf, id=287, 406.20657pt x 172.58276pt>
+File: .//figures/willdriehoek.pdf Graphic file (type pdf)
+
+<use .//figures/willdriehoek.pdf>
+Package pdftex.def Info: .//figures/willdriehoek.pdf used on input line 496.
+(pdftex.def)             Requested size: 203.10278pt x 86.29117pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+
+ []
+
+File: .//figures/willdriehoek.pdf Graphic file (type pdf)
+<use .//figures/willdriehoek.pdf>
+Package pdftex.def Info: .//figures/willdriehoek.pdf used on input line 514.
+(pdftex.def)             Requested size: 203.10278pt x 86.29117pt.
+ [16 <C:/Users/guy.durinck/Documents/SPOC/actimath - werkfiles/_ActiMathSource/
+TeX/Modules/Goniometrie/figures/willdriehoek.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 526--527
+
+ []
+
+[17]
+File: .//figures/willdriehoek.pdf Graphic file (type pdf)
+ <use .//figures/willdriehoek.pdf>
+Package pdftex.def Info: .//figures/willdriehoek.pdf used on input line 561.
+(pdftex.def)             Requested size: 203.10278pt x 86.29117pt.
+ [18] [19]
+File: .//figures/willdriehoek.pdf Graphic file (type pdf)
+
+<use .//figures/willdriehoek.pdf>
+Package pdftex.def Info: .//figures/willdriehoek.pdf used on input line 619.
+(pdftex.def)             Requested size: 203.10278pt x 86.29117pt.
+ [20]
+<.//figures/goncirkelleeg.pdf, id=316, 341.7578pt x 335.69817pt>
+File: .//figures/goncirkelleeg.pdf Graphic file (type pdf)
+
+<use .//figures/goncirkelleeg.pdf>
+Package pdftex.def Info: .//figures/goncirkelleeg.pdf used on input line 653.
+(pdftex.def)             Requested size: 136.70068pt x 134.27687pt.
+
+<.//figures/goncirkelhoek.pdf, id=317, 358.7543pt x 335.69817pt>
+File: .//figures/goncirkelhoek.pdf Graphic file (type pdf)
+
+<use .//figures/goncirkelhoek.pdf>
+Package pdftex.def Info: .//figures/goncirkelhoek.pdf used on input line 661.
+(pdftex.def)             Requested size: 143.49918pt x 134.27687pt.
+ [21 <C:/Users/guy.durinck/Documents/SPOC/actimath - werkfiles/_ActiMathSource/
+TeX/Modules/Goniometrie/figures/goncirkelleeg.pdf> <C:/Users/guy.durinck/Docume
+nts/SPOC/actimath - werkfiles/_ActiMathSource/TeX/Modules/Goniometrie/figures/g
+oncirkelhoek.pdf>]
+<.//figures/goncirkel3hoek.pdf, id=340, 330.89323pt x 331.1853pt>
+File: .//figures/goncirkel3hoek.pdf Graphic file (type pdf)
+
+<use .//figures/goncirkel3hoek.pdf>
+Package pdftex.def Info: .//figures/goncirkel3hoek.pdf used on input line 681.
+(pdftex.def)             Requested size: 165.44621pt x 165.59224pt.
+
+<.//figures/goncirkelproj.pdf, id=341, 330.89323pt x 331.1853pt>
+File: .//figures/goncirkelproj.pdf Graphic file (type pdf)
+
+<use .//figures/goncirkelproj.pdf>
+Package pdftex.def Info: .//figures/goncirkelproj.pdf used on input line 692.
+(pdftex.def)             Requested size: 198.53746pt x 198.7127pt.
+ [22 <C:/Users/guy.durinck/Documents/SPOC/actimath - werkfiles/_ActiMathSource/
+TeX/Modules/Goniometrie/figures/goncirkel3hoek.pdf>] <.//figures/goncirkeltanco
+t.pdf, id=355, 417.96149pt x 353.7215pt>
+File: .//figures/goncirkeltancot.pdf Graphic file (type pdf)
+
+<use .//figures/goncirkeltancot.pdf>
+Package pdftex.def Info: .//figures/goncirkeltancot.pdf used on input line 698.
+
+(pdftex.def)             Requested size: 250.77882pt x 212.23453pt.
+
+<.//figures/goncirkelkwadrant.pdf, id=356, 330.89323pt x 331.1853pt>
+File: .//figures/goncirkelkwadrant.pdf Graphic file (type pdf)
+
+<use .//figures/goncirkelkwadrant.pdf>
+Package pdftex.def Info: .//figures/goncirkelkwadrant.pdf used on input line 70
+9.
+(pdftex.def)             Requested size: 165.44621pt x 165.59224pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23 <C:/Users/guy.durinck/Documents/SPOC/actimath - werkfiles/_ActiMathSource/T
+eX/Modules/Goniometrie/figures/goncirkelproj.pdf> <C:/Users/guy.durinck/Documen
+ts/SPOC/actimath - werkfiles/_ActiMathSource/TeX/Modules/Goniometrie/figures/go
+ncirkeltancot.pdf>]
+<.//figures/goncirkelproj-suppl.jpg, id=379, 594.72188pt x 400.49625pt>
+File: .//figures/goncirkelproj-suppl.jpg Graphic file (type jpg)
+
+<use .//figures/goncirkelproj-suppl.jpg>
+Package pdftex.def Info: .//figures/goncirkelproj-suppl.jpg used on input line 
+723.
+(pdftex.def)             Requested size: 297.36021pt x 200.24763pt.
+ [24 <C:/Users/guy.durinck/Documents/SPOC/actimath - werkfiles/_ActiMathSource/
+TeX/Modules/Goniometrie/figures/goncirkelkwadrant.pdf> <C:/Users/guy.durinck/Do
+cuments/SPOC/actimath - werkfiles/_ActiMathSource/TeX/Modules/Goniometrie/figur
+es/goncirkelproj-suppl.jpg>]
+<.//figures/goncirkeltotaal.pdf, id=393, 417.96149pt x 353.7215pt>
+File: .//figures/goncirkeltotaal.pdf Graphic file (type pdf)
+
+<use .//figures/goncirkeltotaal.pdf>
+Package pdftex.def Info: .//figures/goncirkeltotaal.pdf used on input line 737.
+
+(pdftex.def)             Requested size: 250.77882pt x 212.23453pt.
+File: .//figures/goncirkelkwadrant.pdf Graphic file (type pdf)
+ <use .//figures/goncirkelkwadrant.pdf>
+Package pdftex.def Info: .//figures/goncirkelkwadrant.pdf used on input line 74
+1.
+(pdftex.def)             Requested size: 198.53746pt x 198.7127pt.
+
+[25 <C:/Users/guy.durinck/Documents/SPOC/actimath - werkfiles/_ActiMathSource/T
+eX/Modules/Goniometrie/figures/goncirkeltotaal.pdf>] [26]
+Overfull \hbox (19.44734pt too wide) in paragraph at lines 760--775
+[]   [] 
+ []
+
+
+Overfull \hbox (19.44734pt too wide) in paragraph at lines 788--847
+[]   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--847
+
+ []
+
+
+Overfull \hbox (19.44734pt too wide) in paragraph at lines 788--847
+[]   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--847
+
+ []
+
+
+Overfull \hbox (19.44734pt too wide) in paragraph at lines 788--847
+[]   [] 
+ []
+
+[27]
+Overfull \hbox (19.44734pt too wide) in paragraph at lines 861--875
+[]   [] 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 894.
+[28]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 894.
+
+("C:\Users\guy.durinck\Documents\SPOC\actimath - werkfiles\_ActiMathSource\TeX\
+Modules\Goniometrie\Goniometrie.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 894.
+
+
+ *File List*
+ article.cls    2007/10/19 v1.4h Standard LaTeX document class
+  size12.clo    2007/10/19 v1.4h Standard LaTeX file (size option)
+../..//includes/packages.tex
+   babel.sty    2008/07/08 v3.8m The Babel package
+ bblopts.cfg    2006/07/31 v1.0 MiKTeX 'babel' configuration
+   dutch.ldf    2005/03/30 v3.8i Dutch support from the babel system
+ amsmath.sty    2013/01/14 v2.14 AMS math features
+ amstext.sty    2000/06/29 v2.01
+  amsgen.sty    1999/11/30 v2.0
+  amsbsy.sty    1999/11/29 v1.2d
+  amsopn.sty    1999/12/14 v2.01 operator names
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+  amsthm.sty    2004/08/06 v2.20
+   tabls.sty    
+graphicx.sty    1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+  keyval.sty    1999/03/16 v1.13 key=value parser (DPC)
+graphics.sty    2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    1999/03/16 v1.09 sin cos tan (DPC)
+graphics.cfg    2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+  pdftex.def    2011/05/27 v0.06d Graphics/color for pdfTeX
+infwarerr.sty    2010/04/08 v1.3 Providing info/warning/error messages (HO)
+ ltxcmds.sty    2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+    calc.sty    2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+ fontenc.sty
+   t1enc.def    2005/09/27 v1.99g Standard LaTeX file
+inputenc.sty    2008/03/30 v1.1d Input encoding file
+  latin1.def    2008/03/30 v1.1d Input encoding file
+   array.sty    2008/09/09 v2.4c Tabular extension package (FMi)
+fancyhdr.sty    
+fullpage.sty    1999/02/23 1.1 (PWD)
+  framed.sty    2011/10/22 v 0.96: framed or shaded text with page breaks
+longtable.sty    2004/02/01 v4.11 Multi-page Table package (DPC)
+multirow.sty    
+hyperref.sty    2012/11/06 v6.83m Hypertext links for LaTeX
+hobsub-hyperref.sty    2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+hobsub-generic.sty    2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+  hobsub.sty    2012/04/25 v1.12 Construct package bundles (HO)
+ifluatex.sty    2010/03/01 v1.3 Provides the ifluatex switch (HO)
+  ifvtex.sty    2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+ intcalc.sty    2007/09/27 v1.1 Expandable calculations with integers (HO)
+   ifpdf.sty    2011/01/30 v2.3 Provides the ifpdf switch (HO)
+etexcmds.sty    2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+kvsetkeys.sty    2012/04/25 v1.16 Key value parser (HO)
+kvdefinekeys.sty    2011/04/07 v1.3 Define keys (HO)
+pdftexcmds.sty    2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+pdfescape.sty    2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+bigintcalc.sty    2012/04/08 v1.3 Expandable calculations on big integers (HO)
+  bitset.sty    2011/01/30 v1.1 Handle bit-vector datatype (HO)
+uniquecounter.sty    2011/01/30 v1.2 Provide unlimited unique counter (HO)
+letltxmacro.sty    2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+ hopatch.sty    2011/06/24 v1.1 Wrapper for package hooks (HO)
+xcolor-patch.sty    2011/01/30 xcolor patch
+atveryend.sty    2011/06/30 v1.8 Hooks at the very end of document (HO)
+atbegshi.sty    2011/10/05 v1.16 At begin shipout hook (HO)
+refcount.sty    2011/10/16 v3.4 Data extraction from label references (HO)
+ hycolor.sty    2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+ ifxetex.sty    2010/09/12 v0.6 Provides ifxetex conditional
+ auxhook.sty    2011/03/04 v1.3 Hooks for auxiliary files (HO)
+kvoptions.sty    2011/06/30 v3.11 Key value format for package options (HO)
+  pd1enc.def    2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+hyperref.cfg    2002/06/06 v1.2 hyperref configuration of TeXLive
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+ hpdftex.def    2012/11/06 v6.83m Hyperref driver for pdfTeX
+rerunfilecheck.sty    2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+../..//includes/command.tex
+supp-pdf.mkii
+ nameref.sty    2012/10/27 v2.43 Cross-referencing by name of section
+gettitlestring.sty    2010/12/03 v1.4 Cleanup title references (HO)
+Goniometrie.out
+Goniometrie.out
+.//figures/Askania_Sekunden-Theodolit_TU_e_400.jpg
+  t1cmtt.fd    1999/05/25 v2.5h Standard LaTeX font definitions
+.//figures/Pylon_ds.jpg
+  omscmr.fd    1999/05/25 v2.5h Standard LaTeX font definitions
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+.//figures/goncirkelhoek-1.pdf
+.//figures/graden1.jpg
+.//figures/hoekendeg.pdf
+.//figures/radiaal1.jpg
+.//figures/rechtehoekrad.pdf
+.//figures/driehoek.pdf
+.//figures/driehoek.pdf
+.//figures/driehoek.pdf
+.//figures/driehoek.pdf
+.//figures/driehoek.pdf
+.//figures/willdriehoek.pdf
+.//figures/willdriehoek.pdf
+.//figures/willdriehoek.pdf
+.//figures/willdriehoek.pdf
+.//figures/goncirkelleeg.pdf
+.//figures/goncirkelhoek.pdf
+.//figures/goncirkel3hoek.pdf
+.//figures/goncirkelproj.pdf
+.//figures/goncirkeltancot.pdf
+.//figures/goncirkelkwadrant.pdf
+.//figures/goncirkelproj-suppl.jpg
+.//figures/goncirkeltotaal.pdf
+.//figures/goncirkelkwadrant.pdf
+ ***********
+
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 894.
+Package rerunfilecheck Info: File `Goniometrie.out' has not changed.
+(rerunfilecheck)             Checksum: FF14C751F7BBB7240C0675E52F0A37FE;2366.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 894.
+ ) 
+Here is how much of TeX's memory you used:
+ 7135 strings out of 493921
+ 101877 string characters out of 3147264
+ 189954 words of memory out of 3000000
+ 10225 multiletter control sequences out of 15000+200000
+ 17039 words of font info for 44 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 29i,12n,43p,631b,467s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\guy.durinck\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
+pi600\ecbi1200.pk> <C:\Users\guy.durinck\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\guy.durinck\AppData\Local\MiKTeX\2
+.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\guy.durinck\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\gu
+y.durinck\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.
+pk> <C:\Users\guy.durinck\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\
+dpi600\ecbx1728.pk> <C:\Users\guy.durinck\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
+our\jknappen\ec\dpi600\ecrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Goniometrie.pdf (28 pages, 2566534 bytes).
+PDF statistics:
+ 734 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
+ 358 words of extra memory for PDF output out of 10000 (max. 10000000)
+

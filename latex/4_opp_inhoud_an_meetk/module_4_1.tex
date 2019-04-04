@@ -90,18 +90,60 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 		Figuur & Omtrek & Oppervlakte \\
 		\hline
 		\begin{tabular}{l}
-		\includegraphics[width=5cm]{4_opp_inhoud_an_meetk/inputs/fig1.png}
-		\end{tabular}
+		Rechthoek \\
+				\begin{tikzpicture}
+				\draw[draw=black,fill=yellow,fill opacity=0.2] (0,0) rectangle ++(2.5,1.5);
+				\node[] at (1.25,2) {$l$};
+				\node[] at (-0.5,0.75) {$b$};
+				\end{tikzpicture} \end{tabular}
+%		\begin{tabular}{l}
+%		\includegraphics[width=5cm]{4_opp_inhoud_an_meetk/inputs/fig1.png}
+%		\end{tabular}
 		& $O=2(l+b)$ & $A=l.b$ \\
 		\begin{tabular}{l}
-			\includegraphics[width=5cm]{4_opp_inhoud_an_meetk/inputs/fig2.png}
-		\end{tabular} & $O=4z$ & $A=z^2$ \\
+		Vierkant \\
+		\begin{tikzpicture}
+		\draw[draw=black,fill=yellow,fill opacity=0.2] (0,0) rectangle ++(2,2);
+		\node[] at (1.25,2.5) { zijde $z$};
+		\node[] at (-1,1.25) { zijde $z$};
+		\end{tikzpicture} \end{tabular}
+		& $O=4z$ & $A=z^2$ \\
 		\begin{tabular}{l}
-			\includegraphics[width=5cm]{4_opp_inhoud_an_meetk/inputs/fig3.png}
-		\end{tabular} & $O=b+h+s$ & $A=\frac{b.h}{2}$ \\
+		Rechthoekige driehoek \\
+		\begin{tikzpicture}
+		\node (r0) at ( 0.0,  0.0) {}; % root
+		\node (s0) at ( 4.0,  0.0) {}; % extreme
+		\node (s1) at ( 4.0,  3.0) {}; % extreme
+		
+		\draw[draw=black,fill=yellow!20] (r0.center)--(s0.center)--(s1.center) -- (r0.center);
+%		draw (0,0) node[anchor=north]{$A$}
+%		-- (5,0) node[anchor=north]{$C$}
+%		-- (5,4) node[anchor=south]{$B$}
+%		-- cycle;
+		\node[] at (2,-0.5) {basis $b$};
+		\node[] at (5,1.5) {hoogte $h$};
+		\node[] at (0,1.5) {schuine zijde $s$};
+		\end{tikzpicture} \end{tabular}
+		& $O=b+h+s$ & $A=\frac{b.h}{2}$ \\
 		\begin{tabular}{l}
-			\includegraphics[width=8cm]{4_opp_inhoud_an_meetk/inputs/fig4.png}
-		\end{tabular} & $O=a+b+c$ & $A=\frac{b.h}{2}$ 
+		Niet-rechthoekige of willekeurige driehoek \\
+		\begin{tikzpicture}
+		\node (r0) at ( 0.0,  0.0) {}; % root
+		\node (s0) at ( 4.0,  0.0) {}; % extreme
+		\node (s1) at ( 1.0,  3.0) {}; % extreme
+		
+		\draw[draw=black,fill=yellow!20] (r0.center)--(s0.center)--(s1.center) -- (r0.center);
+		\draw[dashed,draw=black] (s1.center)--(1,0);
+		%		draw (0,0) node[anchor=north]{$A$}
+		%		-- (5,0) node[anchor=north]{$C$}
+		%		-- (5,4) node[anchor=south]{$B$}
+		%		-- cycle;
+		\node[] at (2,-0.5) {basis $b$};
+		\node[] at (3,1.5) {$c$};
+		\node[] at (0.2,1.5) {$a$};
+		\node[anchor=south,right,xshift=-0.2cm] at (1,1.2) {hoogte $h$};
+		\end{tikzpicture} \end{tabular}
+		& $O=a+b+c$ & $A=\frac{b.h}{2}$ 
 	\end{tabular}
 \end{center}
 \caption{Omtrek en oppervlakte van vlakke figuren (1).}
@@ -110,19 +152,56 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 \begin{sidewaystable}
 	\begin{center}
 		\begin{tabular}{lll}
-			Figuur & Omtrek & Oppervlakte \\
-			\hline
+		Figuur & Omtrek & Oppervlakte \\
+		\hline
 		\begin{tabular}{l}
-			\includegraphics[width=7cm]{4_opp_inhoud_an_meetk/inputs/fig5.png}
-		\end{tabular} & $O=2(a+b)$ & $A=b.h$ \\
+		Parallellogram \\
+		\begin{tikzpicture}
+		\node (r0) at ( 0.0,  0.0) {}; % root
+		\node (s0) at ( 4.0,  0.0) {}; % extreme
+		\node (s1) at ( 5.0,  3.0) {}; % extreme
+		\node (s2) at ( 1.0,  3.0) {}; % extreme
+		
+		\draw[draw=black,fill=yellow!20] (r0.center)--(s0.center)--(s1.center) --(s2.center) -- (r0.center);
+		\draw[dashed,draw=black] (s2.center)--(1,0);
+		%		draw (0,0) node[anchor=north]{$A$}
+		%		-- (5,0) node[anchor=north]{$C$}
+		%		-- (5,4) node[anchor=south]{$B$}
+		%		-- cycle;
+		\node[] at (2,-0.5) {basis $b$};
+		\node[] at (5,1.5) {$a$};
+		\node[anchor=south,right] at (1,1.5) {hoogte $h$};
+		\end{tikzpicture} \end{tabular}& $O=2(a+b)$ & $A=b.h$ \\
 		\begin{tabular}{l}
-			\includegraphics[width=8cm]{4_opp_inhoud_an_meetk/inputs/fig6.png}
-		\end{tabular} & $O=a+b+c+B$ & \begin{tabular}{l}
+		Trapezium \\
+		\begin{tikzpicture}
+		\node (r0) at ( 0.0,  0.0) {}; % root
+		\node (s0) at ( 4.0,  0.0) {}; % extreme
+		\node (s1) at ( 3.0,  3.0) {}; % extreme
+		\node (s2) at ( 1.0,  3.0) {}; % extreme
+		
+		\draw[draw=black,fill=yellow!20] (r0.center)--(s0.center)--(s1.center) --(s2.center) -- (r0.center);
+		\draw[dashed,draw=black] (s2.center)--(1,0);
+		%		draw (0,0) node[anchor=north]{$A$}
+		%		-- (5,0) node[anchor=north]{$C$}
+		%		-- (5,4) node[anchor=south]{$B$}
+		%		-- cycle;
+		\node[] at (2,-0.5) {$B$};
+		\node[] at (2,3.5) {$b$};
+		\node[] at (0,1.5) {$a$};
+		\node[] at (4,1.5) {$c$};
+		\node[anchor=south,right] at (1,1.5) {hoogte $h$};
+		\end{tikzpicture} 		\end{tabular}
+		& $O=a+b+c+B$ & \begin{tabular}{l}
 			$A=\frac{b+B}{2}.h$ \\
 			Als basis gebruiken we de gemiddelde breedte
 		\end{tabular} \\
 		\begin{tabular}{l}
-			\includegraphics[width=5cm]{4_opp_inhoud_an_meetk/inputs/fig7.png}
+		Schijf \\
+		\begin{tikzpicture}
+		\draw[draw=black, fill=yellow!20] (0,0) arc (0:360:2) ;
+		\draw[] (-2,0) -- (-4,0) node[anchor=south,midway] {$r$};
+		\end{tikzpicture}
 		\end{tabular} & \begin{tabular}{l}
 			$O=2\pi r$ \\
 			Diameter $D=2.r$ \\
@@ -133,7 +212,22 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 			$A=\frac{\pi D^2}{4}$
 		\end{tabular} \\
 		\begin{tabular}{l}
-			\includegraphics[width=8cm]{4_opp_inhoud_an_meetk/inputs/fig8.png}
+			\begin{tikzpicture}[mystyle/.style={draw,shape=circle,fill=yellow!20}]
+			
+			\foreach \a in {5}{
+				\node [regular polygon, regular polygon sides=\a, minimum size=3cm, draw] at (\a*4,0) (A) {};
+%				\foreach \i in {1,...,\a}
+%				{%
+%					\node [label=90+72*(\i-1):\i, inner sep=1pt] at (A.corner \i) {};
+%				}
+			}
+%			\node[] at (0,0) {$z_n$};
+			
+%			\def\ngon{5}
+%			\node[regular polygon,regular polygon sides=\ngon,minimum size=3cm] (p) {};
+%			\foreach\x in {1,...,\ngon}{\node[mystyle] (p\x) at (p.corner \x){};}
+			
+			\end{tikzpicture}
 		\end{tabular} &
 		\begin{tabular}{l}
 			$O=n.z_n$ \\

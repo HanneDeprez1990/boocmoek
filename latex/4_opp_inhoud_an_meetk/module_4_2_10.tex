@@ -15,7 +15,63 @@ Hieruit volgen twee mogelijkheden:
 Gegeven zijn 3 punten $A(2:-3)$, $B(-1;4)$ en $C(3;4)$.
 Geef een vergelijking van de rechte $l$ door $C$ evenwijdig aan de rechte $AB$.
 
-\gewonefiguur{height=7cm}{4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1}
+\begin{center}
+	\begin{tikzpicture}
+	\draw[->] (-5,0)--(5,0) node[anchor=south,left,yshift=0.2cm]{$x$};
+	\draw[->] (0,-6)--(0,5) node[anchor=south,left]{$y$};
+	
+	%	\draw[‎smooth,‎samples=100‎,domain=0:‎‎2‎‎, variable=\x] ‎plot({\x},‎‎‎‎‎‎‎‎{0.577 \x  - 6.155});‎‎
+	\draw[domain=-1.5:3,smooth,variable=\x] plot ({\x},{-7/3*\x+5/3}) node[anchor=south,left,yshift=0.2cm]{$l$};	
+	
+	\tkzDefPoint(0,0){S}
+	\tkzDefPoint(1,0){x1}
+	\tkzDefPoint(0,1){y1}
+	
+	\tkzDefPoint(2,0){A1}
+	\tkzDefPoint(0,-3){A2}
+	
+	\tkzDefPoint(-1,0){B1}
+	\tkzDefPoint(0,4){B2}
+	
+	\tkzDefPoint(3,0){C1}
+	\tkzDefPoint(0,4){C2}
+	
+	\tkzDefPoint(2,-3){A}
+	\tkzDefPoint(-1,4){B}
+	\tkzDefPoint(3,4){C}
+		
+	\tkzLabelPoint[below,xshift=-0.1cm](S){$0$}
+	%	\tkzLabelPoint[right,yshift=-0.3cm](S){$O$}
+	
+	\tkzLabelPoint[below](x1){$1$}
+	\tkzLabelPoint[left](y1){$1$}
+
+	\tkzLabelPoint[right](A){$A$}
+	\tkzLabelPoint[left,yshift=0.2cm](B){$B$}
+	\tkzLabelPoint[left,yshift=0.2cm](C){$C$}
+	%	
+	\tkzLabelPoint[above](A1){$2$}
+	\tkzLabelPoint[left](A2){$-3$}
+	
+	\tkzLabelPoint[below](B1){$-1$}
+	
+	\tkzLabelPoint[below](C1){$3$}
+	\tkzLabelPoint[left,yshift=0.2cm](C2){$4$}
+	
+	\tkzDrawSegment[black!60!black,dotted](A1,A)
+	\tkzDrawSegment[black!60!black,dotted](A2,A)
+	\tkzDrawSegment[black!60!black,dotted](B1,B)
+	\tkzDrawSegment[black!60!black,dotted](B2,B)
+	\tkzDrawSegment[black!60!black,dotted](C1,C)
+	\tkzDrawSegment[black!60!black,dotted](C2,C)
+	
+	\foreach \n in {S,B1,B2,B,A1,A2,A,C1,C2,C,x1,y1}
+	\node at (\n)[circle,fill,inner sep=1.5pt]{};
+	
+	\end{tikzpicture}
+\end{center}
+
+%\gewonefiguur{height=7cm}{4_opp_inhoud_an_meetk/inputs/AMTekst5Fig1}
 
 %\begin{figure}[!htb]
 %\begin{center}
@@ -41,7 +97,46 @@ Een loodlijn op een rechte evenwijdig met de $x$-as (vergelijking van de vorm $y
 	$l$ is de rechte met vergelijking $y=5$.
 Geef een vergelijking van de loodlijn $l'$ op $l$ door $P(3;-4)$.
 
-\gewonefiguur{height=7cm}{4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2}
+\begin{center}
+	\begin{tikzpicture}
+	\draw[->] (-5,0)--(5,0) node[anchor=south,left,yshift=0.2cm]{$x$};
+	\draw[->] (0,-5)--(0,6) node[anchor=south,left]{$y$};
+	
+	%	\draw[‎smooth,‎samples=100‎,domain=0:‎‎2‎‎, variable=\x] ‎plot({\x},‎‎‎‎‎‎‎‎{0.577 \x  - 6.155});‎‎
+	\draw[domain=-5:5,smooth,variable=\x] plot ({\x},5);	
+	
+	\tkzDefPoint(0,0){S}
+	\tkzDefPoint(1,0){x1}
+	\tkzDefPoint(0,1){y1}
+	
+	\tkzDefPoint(0,5){y2}
+	
+	\tkzDefPoint(3,0){A1}
+	\tkzDefPoint(0,-4){A2}
+	
+	\tkzDefPoint(3,-4){A}
+	\tkzLabelPoint[below,xshift=-0.1cm](S){$0$}
+	%	\tkzLabelPoint[right,yshift=-0.3cm](S){$O$}
+	
+	\tkzLabelPoint[below](x1){$1$}
+	\tkzLabelPoint[left](y1){$1$}
+	\tkzLabelPoint[left,yshift=0.2cm](y2){$5$}
+	
+	\tkzLabelPoint[right](A){$P$}
+	%	
+	\tkzLabelPoint[above](A1){$3$}
+	\tkzLabelPoint[left](A2){$-4$}
+	
+	\tkzDrawSegment[black!60!black,dotted](A1,A)
+	\tkzDrawSegment[black!60!black,dotted](A2,A)
+	
+	\foreach \n in {S,A1,A2,A,x1,y1}
+	\node at (\n)[circle,fill,inner sep=1.5pt]{};
+	
+	\end{tikzpicture}
+\end{center}
+
+%\gewonefiguur{height=7cm}{4_opp_inhoud_an_meetk/inputs/AMTekst5Fig2}
 
 %\begin{figure}[!htb]
 %\begin{center}
@@ -77,7 +172,57 @@ Omdat $\tan (\alpha + 90^o)=-\cot (\alpha)=-\frac{1}{\tan (\alpha)}$  bekom je d
 Geef een vergelijking voor de loodlijn $l'$ door $P$ op $l$.
 Geef eveneens de co\"ordinaten van de loodrechte projectie van $P$ op $l$.
 
-\gewonefiguur{height=7cm}{4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3}
+\begin{center}
+	\begin{tikzpicture}
+	\draw[->] (-5,0)--(5,0) node[anchor=south,left,yshift=0.2cm]{$x$};
+	\draw[->] (0,-4)--(0,6) node[anchor=south,left]{$y$};
+	
+	%	\draw[‎smooth,‎samples=100‎,domain=0:‎‎2‎‎, variable=\x] ‎plot({\x},‎‎‎‎‎‎‎‎{0.577 \x  - 6.155});‎‎
+	\draw[domain=-0.2:4.5,smooth,variable=\x] plot ({\x},{2*\x-3}) node[anchor=south,left] {$l$};	
+	\draw[domain=-5:4.5,smooth,variable=\x] plot ({\x},{-1/2*\x+2}) node[anchor=south,left,yshift=-0.2cm] {$l'$};
+	
+	\tkzDefPoint(0,0){S}
+	\tkzDefPoint(1,0){x1}
+	\tkzDefPoint(0,1){y1}
+	
+	\tkzDefPoint(0,5){y2}
+	
+	\tkzDefPoint(-2,0){P1}
+	\tkzDefPoint(0,3){P2}
+	
+	\tkzDefPoint(-2,3){P}
+	
+	\tkzDefPoint(2,0){P'1}
+	\tkzDefPoint(0,1){P'2}
+	
+	\tkzDefPoint(2,1){P'}
+	
+	\tkzLabelPoint[below,xshift=-0.1cm](S){$0$}
+	%	\tkzLabelPoint[right,yshift=-0.3cm](S){$O$}
+	
+	\tkzLabelPoint[below](x1){$1$}
+	\tkzLabelPoint[left](y1){$1$}
+	
+	\tkzLabelPoint[right,yshift=0.2cm](P){$P$}
+	%	
+	\tkzLabelPoint[below](P1){$-2$}
+	\tkzLabelPoint[right](P2){$-4$}
+	
+	\tkzLabelPoint[right,yshift=0.2cm](P){$P'$}
+	%	
+%	\tkzLabelPoint[below](P'1){$2$}
+%	\tkzLabelPoint[right](P'2){$1$}
+	
+	\tkzDrawSegment[black!60!black,dotted](P1,P)
+	\tkzDrawSegment[black!60!black,dotted](P2,P)
+	
+	\foreach \n in {S,P1,P2,P,x1,y1,P'}
+	\node at (\n)[circle,fill,inner sep=1.5pt]{};
+	
+	\end{tikzpicture}
+\end{center}
+
+%\gewonefiguur{height=7cm}{4_opp_inhoud_an_meetk/inputs/AMTekst5Fig3}
 
 %\begin{figure}[!htb]
 %\begin{center}

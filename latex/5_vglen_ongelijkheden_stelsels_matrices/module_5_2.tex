@@ -12,7 +12,7 @@ We kunnen een idee krijgen van hoe dit in zijn werk gaat door ons in eerste inst
 \begin{center}
 \begin{tikzpicture}
 
-\coordinate (a) at (0,0);
+\coordinate (a) at (0,0) node[anchor=south,below,xshift=-0.3cm]{$O$};
 \coordinate (b) at (0.866,0.5);
 \coordinate (c) at (0.866,0);
 
@@ -27,7 +27,7 @@ We kunnen een idee krijgen van hoe dit in zijn werk gaat door ons in eerste inst
 \draw[line width=2pt,blue,-stealth](0,0)--(1.732,1) node[anchor=south]{$\vec{e_u}$};
 \draw[line width=2pt,blue,-stealth](0,0)--(-1,1.732) node[anchor=south]{$\vec{e_v}$};
 
-\draw[line width=2pt,red,-stealth](0,0)--(2.5,3) node[anchor=south,above, midway]{$\vec{r}$};
+\draw[line width=2pt,red,-stealth](0,0)--(2.5,3) node[anchor=south,above, midway]{$\vec{r}$} node[anchor=south]{$P$};
 
 %\path[clip] (0.866,0.5) -- (0,0) -- (0.866,0) -- cycle;
 %\node[circle,draw=black,minimum size=40pt] at (0,0) (circ) {};
@@ -107,11 +107,49 @@ Deze uitdrukkingen kan men ook op een alternatieve, elegante manier neerschrijve
 
 Een soortgelijke, maar verschillende situatie wordt in de volgende figuur voorgesteld. Een vector $\vec{r}=x \vec{e}_x + y \vec{e}_y$ roteert over een hoek $-\theta$ (dus gemeten in wijzerszin), na deze rotatie wordt de vector, die we nu $\vec{r'}$ noemen, gegeven door $\vec{r'}$=$x' \vec{e}_x + y' \vec{e}_y$. 
 
-\begin{figure}[h]
-	\begin{center}
-		\includegraphics[scale=0.5]{5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2}
-	\end{center}
-\end{figure}
+\begin{center}
+	\begin{tikzpicture}
+	
+	\coordinate (a) at (0,0) node[anchor=south,below,xshift=-0.3cm]{$O$};
+	\coordinate (b) at (3.66,1.35);
+	\coordinate (c) at (2.5,3);
+	
+	\draw[thin,gray!40] (-3,-1) (3,3);
+	\draw[->] (-3,0)--(3,0) node[right]{$x$};
+	\draw[->] (0,-1)--(0,3) node[above]{$y$};
+	\draw[line width=2pt,black,-stealth](0,0)--(2,0) node[anchor=south,xshift=0.3cm]{$\vec{e_x}$};
+	\draw[line width=2pt,black,-stealth](0,0)--(0,2) node[anchor=south,xshift=0.3cm]{$\vec{e_y}$};
+	
+%	\draw[line width=2pt,blue,-stealth](0,0)--(1.732,1) node[anchor=south]{$\vec{e_u}$};
+%	\draw[line width=2pt,blue,-stealth](0,0)--(-1,1.732) node[anchor=south]{$\vec{e_v}$};
+	
+	\draw[line width=2pt,red,-stealth](0,0)--(2.5,3) node[anchor=south,above, midway]{$\vec{r}$} node[anchor=south]{$P$};
+	
+	\draw[line width=2pt,blue,-stealth](0,0)--(3.66,1.35) node[anchor=south,above, midway]{$\vec{r'}$} node[anchor=south]{$P'$};
+	
+	%\path[clip] (0.866,0.5) -- (0,0) -- (0.866,0) -- cycle;
+	%\node[circle,draw=black,minimum size=40pt] at (0,0) (circ) {};
+	%\draw[blue] (1cm,0cm) arc (90:125:0.5cm);
+	
+	%  \draw
+	%(3,-1) coordinate (a) node[right] {a}
+	%-- (0,0) coordinate (b) node[left] {b}
+	%-- (2,2) coordinate (c) node[above right] {c}
+	%pic["$\alpha$",draw=orange,<->,angle eccentricity=1.2,angle radius=1cm] {angle=a--b--c};
+	
+	\pic [draw, <-, "$-\theta$", angle eccentricity=2] {angle = b--a--c};
+	
+	
+	%\draw[line width=2pt,blue,-stealth](0,0)--(-0.5,$\sqrt{3}/2$) node[anchor=south]{$\vec{e_v}$};
+	
+	\end{tikzpicture}
+\end{center}
+
+%\begin{figure}[h]
+%	\begin{center}
+%		\includegraphics[scale=0.5]{5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-2}
+%	\end{center}
+%\end{figure}
 
 De componenten van $\vec{r'}$ worden nu uitgedrukt in functie van de componenten van $\vec{r}$ met
 
@@ -121,11 +159,50 @@ De componenten van $\vec{r'}$ worden nu uitgedrukt in functie van de componenten
 
 In de volgende figuur is de rotatie van een vector $\vec{r}$ over een hoek $\theta$ in tegenwijzerszin voorgesteld.
 
-\begin{figure}[h]
-	\begin{center}
-		\includegraphics[scale=0.5]{5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-3}
-	\end{center}
-\end{figure}
+\begin{center}
+	\begin{tikzpicture}
+	
+	\coordinate (a) at (0,0) node[anchor=south,below,xshift=-0.3cm]{$O$};
+	\coordinate (b) at (3.66,1.35);
+	\coordinate (c) at (2.5,3);
+	
+	\draw[thin,gray!40] (-3,-1) (3,3);
+	\draw[->] (-3,0)--(3,0) node[right]{$x$};
+	\draw[->] (0,-1)--(0,3) node[above]{$y$};
+	\draw[line width=2pt,black,-stealth](0,0)--(2,0) node[anchor=south,xshift=0.3cm]{$\vec{e_x}$};
+	\draw[line width=2pt,black,-stealth](0,0)--(0,2) node[anchor=south,xshift=0.3cm]{$\vec{e_y}$};
+	
+	%	\draw[line width=2pt,blue,-stealth](0,0)--(1.732,1) node[anchor=south]{$\vec{e_u}$};
+	%	\draw[line width=2pt,blue,-stealth](0,0)--(-1,1.732) node[anchor=south]{$\vec{e_v}$};
+	
+	\draw[line width=2pt,red,-stealth](0,0)--(3.66,1.35) node[anchor=south,above, midway]{$\vec{r}$} node[anchor=south]{$P$};
+	
+	\draw[line width=2pt,blue,-stealth](0,0)--(2.5,3) node[anchor=south,above, midway]{$\vec{r'}$} node[anchor=south]{$P'$};
+	
+	%\path[clip] (0.866,0.5) -- (0,0) -- (0.866,0) -- cycle;
+	%\node[circle,draw=black,minimum size=40pt] at (0,0) (circ) {};
+	%\draw[blue] (1cm,0cm) arc (90:125:0.5cm);
+	
+	%  \draw
+	%(3,-1) coordinate (a) node[right] {a}
+	%-- (0,0) coordinate (b) node[left] {b}
+	%-- (2,2) coordinate (c) node[above right] {c}
+	%pic["$\alpha$",draw=orange,<->,angle eccentricity=1.2,angle radius=1cm] {angle=a--b--c};
+	
+	\pic [draw, ->, "$\theta$", angle eccentricity=2] {angle = b--a--c};
+	
+	
+	%\draw[line width=2pt,blue,-stealth](0,0)--(-0.5,$\sqrt{3}/2$) node[anchor=south]{$\vec{e_v}$};
+	
+	\end{tikzpicture}
+\end{center}
+
+
+%\begin{figure}[h]
+%	\begin{center}
+%		\includegraphics[scale=0.5]{5_vglen_ongelijkheden_stelsels_matrices/inputs/matrices-fig-3}
+%	\end{center}
+%\end{figure}
 
 De transformatie voor deze rotatie vinden we door in de bovenstaande uitdrukking $\theta$ te vervangen door $-\theta$. We vinden dan:
 
