@@ -199,8 +199,8 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 		\begin{tabular}{l}
 		Schijf \\
 		\begin{tikzpicture}
-		\draw[draw=black, fill=yellow!20] (0,0) arc (0:360:2) ;
-		\draw[] (-2,0) -- (-4,0) node[anchor=south,midway] {$r$};
+		\draw[draw=black, fill=yellow!20] (0,0) arc (0:360:1.5) ;
+		\draw[] (-1.5,0) -- (-3,0) node[anchor=south,midway] {$r$};
 		\end{tikzpicture}
 		\end{tabular} & \begin{tabular}{l}
 			$O=2\pi r$ \\
@@ -212,21 +212,32 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 			$A=\frac{\pi D^2}{4}$
 		\end{tabular} \\
 		\begin{tabular}{l}
-			\begin{tikzpicture}[mystyle/.style={draw,shape=circle,fill=yellow!20}]
-			
-			\foreach \a in {5}{
-				\node [regular polygon, regular polygon sides=\a, minimum size=3cm, draw] at (\a*4,0) (A) {};
-%				\foreach \i in {1,...,\a}
-%				{%
-%					\node [label=90+72*(\i-1):\i, inner sep=1pt] at (A.corner \i) {};
-%				}
-			}
-%			\node[] at (0,0) {$z_n$};
-			
-%			\def\ngon{5}
-%			\node[regular polygon,regular polygon sides=\ngon,minimum size=3cm] (p) {};
-%			\foreach\x in {1,...,\ngon}{\node[mystyle] (p\x) at (p.corner \x){};}
-			
+			Regelmatige $n$-hoek of veelhoek \\
+			Bij zo'n veelhoek zijn alle zijden $z_n$ even lang \\
+			en zijn alle hoeken even groot.\\
+%			\begin{tikzpicture}[mystyle/.style={draw,shape=circle,fill=yellow!20}]
+%			
+%			\foreach \a in {5}{
+%				\node [regular polygon, regular polygon sides=\a, minimum size=3cm, draw] at (\a*4,0) (A) {};
+%%				\foreach \i in {1,...,\a}
+%%				{%
+%%					\node [label=90+72*(\i-1):\i, inner sep=1pt] at (A.corner \i) {};
+%%				}
+%			}
+%%			\node[] at (0,0) {$z_n$};
+%			
+%%			\def\ngon{5}
+%%			\node[regular polygon,regular polygon sides=\ngon,minimum size=3cm] (p) {};
+%%			\foreach\x in {1,...,\ngon}{\node[mystyle] (p\x) at (p.corner \x){};}
+%			
+%			\end{tikzpicture}
+			\begin{tikzpicture}
+			\polygon{5}{2}{1,2,3,4,5}{yellow!20};
+			\node[anchor=south,below] (M) at (0,0) {$M$};
+			\node[anchor=south,below] (A) at (0,2.2) {};
+			\node[anchor=south,right] (R) at (0,1.1) {$R$};
+			\node[anchor=south,below] (Z) at (0,-2) {$z_n$};
+			\draw[dashed] (M) -- (A);
 			\end{tikzpicture}
 		\end{tabular} &
 		\begin{tabular}{l}

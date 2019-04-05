@@ -45,6 +45,29 @@
 
 \newcommand{\rad}[1]{\SI{#1}{\radian}}
 
+\newcommand\polygon[5][]%
+% 1: options for scope
+% 2: num corners
+% 3: size
+% 4: colored tiles
+% 5: fill color
+{   \pgfmathsetmacro{\angle}{360/#2}
+	\pgfmathsetmacro{\startangle}{-90 + \angle/2}
+	\pgfmathsetmacro{\y}{cos(\angle/2)}
+	\begin{scope}[#1]
+		\foreach \i in {#4}
+		{   \pgfmathsetmacro{\x}{\startangle + \angle*\i}
+			\fill[#5] (0, 0) -- (\x:#3) --  (\x + \angle:#3) -- cycle;
+		}
+		\foreach \i in {1,2,...,#2}
+		{
+			\pgfmathsetmacro{\x}{\startangle + \angle*\i}
+%			\draw (0, 0) -- (\x:#3) --  (\x + \angle:#3) -- cycle;
+			\draw (\x:#3) --  (\x + \angle:#3);
+		}
+	\end{scope}
+}
+
 \newcommand\bigangle[2][]{% 
 	\draw[->,domain=0:#2,variable=\t,samples=200,>=latex,#1]
 	plot ({0.2*(\t+#2)*cos(\t)/(#2)},
