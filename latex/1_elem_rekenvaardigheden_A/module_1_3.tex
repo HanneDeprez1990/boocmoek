@@ -39,7 +39,7 @@ Dit kan algemener: soms kan je een gehele eenterm (getal maal een macht van een 
 \begin{voorbeeld}
 	\begin{eqnarray*}
 		3x+6x^2=3x(1+2x) \\
-		x^3+2^2=x^2(x+2)
+		x^3+2x^2=x^2(x+2)
 	\end{eqnarray*}
 \end{voorbeeld}
 
@@ -58,7 +58,7 @@ Veel ontbindingen zie je niet op het zicht. Soms moet je wat proberen en wat ter
 \begin{voorbeeld}
 	
 \begin{equation*}
-3x+6xy+x
+3x+6xy+y
 \end{equation*}
 In deze uitdrukking zie je dat de 3 termen niets met elkaar te maken hebben (m.a.w. niks gemeenschappelijks hebben). Je kan wel de eerste twee samennemen en daar  uit afzonderen:
 \begin{equation*}
@@ -115,7 +115,7 @@ x(x-2a)+4(-2a+x)=(x-2a)(x+4)
 	\ \\
 \begin{center}
 	$\begin{array}{ccll}
-	6axy-6a-4y+9a^2 &=& (6axy-6a)+(-4xy+9a^2) &\text{eerste poging tot groeperen} \\
+	6axy-6a-4xy+9a^2 &=& (6axy-6a)+(-4xy+9a^2) &\text{eerste poging tot groeperen} \\
 	&=& 6a(xy-1)+(-4xy+9a^2) &\text{gelijke factoren afzonderen} \\
 	\end{array}$
 \end{center}
@@ -123,7 +123,7 @@ x(x-2a)+4(-2a+x)=(x-2a)(x+4)
 In deze opgave zit je nu vast, de tweede term kan je niet verder ontbinden. Onze eerste groepering levert niet veel op! We proberen iets anders:
 \begin{center}
 	$\begin{array}{ccll}
-	6axy-6a-4y+9a^2 &=& (6axy-4xy)+(-6a+9a^2) &\text{tweede poging tot groeperen} \\
+	6axy-6a-4xy+9a^2 &=& (6axy-4xy)+(-6a+9a^2) &\text{tweede poging tot groeperen} \\
 	&=& 2xy(3a-2)+3a(-2+3a) &\text{gelijke factoren afzonderen} \\
 	&=& (3a-2)(2xy+3a) &\text{gelijke factor afzonderen} \\
 	\end{array}
@@ -145,7 +145,7 @@ We zitten nu schijnbaar vast, omdat de twee termen wel een factor bij zich hebbe
 $\begin{array}{ccll}
 -4xy-4y+7z+7xz &=& (-4xy-4y)+(7z+7xz) & \text{poging tot groeperen} \\
 &$=$& 4y(-x-1)+7z(1+x) &\text{gelijke factoren afzonderen} \\
-&$=$& 4y(-1)(x+1)+7z(1+x) &\text{-1 afzonderen} \\
+&$=$& 4y\mathbf{(-1)}(x+1)+7z(1+x) &\text{-1 afzonderen} \\
 &$=$& (x+1)(-4y+7z) &\text{gelijke factoren afzonderen} \\
 \end{array}$
 \end{center}
@@ -256,7 +256,7 @@ Als $D=0$, dan is $x_1=x_2=\frac{-b}{2a}$.
 	\begin{equation*}
 	x^2-3x+2
 	\end{equation*}
-	De discriminant is $D=2^2-4ac=(-3)^2-4.1.2=1>0$. De oplossingen zijn
+	De discriminant is $D=2^2-4ac=(-3)^2-4\cdot1\cdot2=1>0$. De oplossingen zijn
 	\begin{equation*}
 	x_1=\frac{-b+\sqrt{D}}{2a} \text{ en } x_1=\frac{-b-\sqrt{D}}{2a}
 	\end{equation*}
@@ -271,7 +271,7 @@ x^2-3x+2=a(x-x_1)(x-x_2)=1(x-2)(x-1)
 \end{equation*}
 De discriminant is $D=b^2-4ac=1^2-4.2.(-1)=9>0$. De oplossingen zijn
 \begin{equation*}
-x_1 = \frac{-b + \sqrt{D}}{2a}=\frac{-1+\sqrt{9}}{2.2}=\frac{1}{2} \text{ en } x_2 = \frac{-b - \sqrt{D}}{2a}=\frac{-1-\sqrt{9}}{2.2}=-1
+x_1 = \frac{-b + \sqrt{D}}{2a}=\frac{-1+\sqrt{9}}{2\cdot2}=\frac{1}{2} \text{ en } x_2 = \frac{-b - \sqrt{D}}{2a}=\frac{-1-\sqrt{9}}{2.2}=-1
 \end{equation*}
 De ontbinding is dus (de co\"effici\"ent $a$ bij $x^2$ is $2$):
 \begin{equation*}
@@ -282,7 +282,7 @@ De ontbinding is dus (de co\"effici\"ent $a$ bij $x^2$ is $2$):
 \begin{equation*}
 3x^2-6x+3
 \end{equation*}
-	De discriminant is $D=b^2-4ac=(-6)^2-4.3.3=0>0$. Er is 1 oplossing en die is
+	De discriminant is $D=b^2-4ac=(-6)^2-4\cdot3\cdot3=0>0$. Er is 1 oplossing en die is
 	\begin{equation*}
 	x_1 = \frac{-b + \sqrt{D}}{2a}=\frac{-(-6)\pm\sqrt{90}}{2.3}=1
 	\end{equation*}
@@ -295,7 +295,7 @@ De ontbinding is dus (de co\"effici\"ent $a$ bij $x^2$ is 3):
 	\begin{equation*}
 	x^2+x+1
 	\end{equation*}
-	De discriminant is $D=b^2-4ac=1^2-4.1.1=-3$. De discriminant is negatief, dus is er geen ontbinding mogelijk.
+	De discriminant is $D=b^2-4ac=1^2-4\cdot1\cdot1=-3$. De discriminant is negatief, dus is er geen ontbinding mogelijk.
 \end{voorbeeld}
 
 
@@ -557,8 +557,8 @@ Uitwerken geeft:
 
 \begin{center}
 	\begin{tabular}{c|cccc}
-		& 1 & 1 & -6 & \\
-		-3 & $\downarrow$ & -3 & 6 &\\
+		& 1 & 1 & & -6 \\
+		-3 & $\downarrow$ & -3 & & 6 \\
 		\hline 
 		& 1 & -2 & $||$  & 0
 	\end{tabular}

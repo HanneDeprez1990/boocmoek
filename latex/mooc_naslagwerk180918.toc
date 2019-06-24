@@ -43,11 +43,11 @@
 \contentsline {subsubsection}{Breuken delen}{29}{subsection.1.2.8}
 \contentsline {subsection}{\numberline {2.9}Rekenen met logaritmen}{30}{subsection.1.2.9}
 \contentsline {subsubsection}{Bijzondere gevallen}{31}{voorbeeld.1.2.9.2}
-\contentsline {subsubsection}{Grafische voorstelling}{31}{voorbeeld.1.2.9.2}
-\contentsline {subsubsection}{Grafische voorstelling van de Neperiaanse logaritme}{32}{figure.caption.2}
-\contentsline {subsubsection}{Rekenregels}{32}{figure.caption.3}
-\contentsline {subsection}{\numberline {2.10}Algebra: het rekenen met letters}{32}{subsection.1.2.10}
-\contentsline {subsubsection}{Gebruik van letters in de wiskunde}{32}{subsection.1.2.10}
+\contentsline {subsubsection}{Grafische voorstelling}{32}{voorbeeld.1.2.9.2}
+\contentsline {subsubsection}{Grafische voorstelling van de Neperiaanse logaritme}{32}{voorbeeld.1.2.9.2}
+\contentsline {subsubsection}{Rekenregels}{32}{voorbeeld.1.2.9.2}
+\contentsline {subsection}{\numberline {2.10}Algebra: het rekenen met letters}{33}{subsection.1.2.10}
+\contentsline {subsubsection}{Gebruik van letters in de wiskunde}{33}{subsection.1.2.10}
 \contentsline {subsubsection}{Manier van rekenen}{35}{voorbeeld.1.2.10.3}
 \contentsline {subsubsection}{Voorbeelden}{38}{voorbeeld.1.2.10.10}
 \contentsline {subsection}{\numberline {2.11}Evenredigheden en de regel van drie}{40}{subsection.1.2.11}
@@ -80,11 +80,11 @@
 \contentsline {subsection}{\numberline {1.2}Voorbeelden}{58}{subsection.2.1.2}
 \contentsline {subsection}{\numberline {1.3}Verloop van functies}{60}{subsection.2.1.3}
 \contentsline {subsubsection}{Absolute en relatieve extrema}{60}{subsection.2.1.3}
-\contentsline {subsubsection}{Stijgen, dalen en extrema}{61}{figure.caption.7}
-\contentsline {subsubsection}{Convex, concaaf en buigpunten}{62}{figure.caption.9}
+\contentsline {subsubsection}{Stijgen, dalen en extrema}{61}{figure.caption.5}
+\contentsline {subsubsection}{Convex, concaaf en buigpunten}{62}{figure.caption.7}
 \contentsline {subsection}{\numberline {1.4}Eerste- en tweedegraadsfuncties}{65}{subsection.2.1.4}
 \contentsline {subsubsection}{Constante functies}{65}{subsection.2.1.4}
-\contentsline {subsubsection}{Eerstegraadsfuncties of lineaire functies}{66}{table.caption.13}
+\contentsline {subsubsection}{Eerstegraadsfuncties of lineaire functies}{66}{table.caption.11}
 \contentsline {subsubsection}{Tweedegraadsfuncties of kwadratische functies}{68}{tabelnr.2.3}
 \contentsline {subsection}{\numberline {1.5}Tweedegraadsvergelijking - voorbeeld 1}{70}{subsection.2.1.5}
 \contentsline {subsection}{\numberline {1.6}Tweedegraadsvergelijking - voorbeeld 2}{71}{subsection.2.1.6}
@@ -137,7 +137,7 @@
 \contentsline {subsection}{\numberline {2.10}Berekenen van limieten}{121}{subsection.2.2.10}
 \contentsline {subsubsection}{Veeltermfuncties}{121}{subsection.2.2.10}
 \contentsline {subsubsection}{Goniometrische en cyclometrische functies}{122}{voorbeeld.2.2.10.1}
-\contentsline {subsubsection}{Exponenti\"ele en logaritmische functies}{124}{table.caption.31}
+\contentsline {subsubsection}{Exponenti\"ele en logaritmische functies}{124}{table.caption.29}
 \contentsline {subsubsection}{Enkele bijzondere limieten}{125}{tabelnr.2.15}
 \contentsline {subsection}{\numberline {2.11}Schijnbare onbepaaldheden}{125}{subsection.2.2.11}
 \contentsline {subsubsection}{Onbepaalde vormen}{125}{subsection.2.2.11}
@@ -166,8 +166,8 @@
 \contentsline {subsubsection}{Oplossen van willekeurige driehoeken}{146}{subsection.3.1.3}
 \contentsline {subsection}{\numberline {1.4}De goniometrische cirkel}{149}{subsection.3.1.4}
 \contentsline {subsubsection}{Tekening}{149}{subsection.3.1.4}
-\contentsline {subsubsection}{Goniometrische getallen}{149}{figure.caption.34}
-\contentsline {subsubsection}{Kwadranten}{151}{figure.caption.34}
+\contentsline {subsubsection}{Goniometrische getallen}{149}{figure.caption.32}
+\contentsline {subsubsection}{Kwadranten}{151}{figure.caption.32}
 \contentsline {subsection}{\numberline {1.5}Goniometrische formules}{153}{subsection.3.1.5}
 \contentsline {subsubsection}{Bijzondere goniometrische getallen}{153}{subsection.3.1.5}
 \contentsline {subsubsection}{Grondformules}{153}{subsection.3.1.5}

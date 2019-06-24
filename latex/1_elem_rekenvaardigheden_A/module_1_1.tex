@@ -225,7 +225,7 @@ In dit onderdeel wordt dieper ingegaan op rekenen met faculteiten en indien moge
 \begin{definitie}
 	De faculteit van een natuurlijk getal $n$, genoteerd als $n!$ (lees “$n$ faculteit”), is gedefinieerd als het product van de getallen 1 tot en met $n$:
 	\begin{equation*}
-	n!=n.(n-1)\cdot(n-2)\cdot(n-3)\cdot\ldots\cdot 3\cdot 2\cdot 1
+	n!=n\cdot(n-1)\cdot(n-2)\cdot(n-3)\cdot\ldots\cdot 3\cdot 2\cdot 1
 	\end{equation*}
 \end{definitie}
 
@@ -276,7 +276,7 @@ Wiskundig kan je je dan afvragen wat er gebeurt als $n$ oneindig groot wordt. Di
 En wat zou er gebeuren mocht je al deze getallen bij elkaar optellen? Dus waaraan zou volgende som gelijk zijn:
 
 \begin{equation*}
-\sum_{=0}^{\infty} \frac{1}{n!} = 1+1+\frac{1}{2!}+\frac{1}{3!}+\ldots=?
+\sum_{n=0}^{\infty} \frac{1}{n!} = 1+1+\frac{1}{2!}+\frac{1}{3!}+\ldots=?
 \end{equation*}
 
 Dit blijkt het getal $e=2,718\ldots$ te zijn.
@@ -301,13 +301,15 @@ $m=20kg$ (massa), $V=10l$ (volume), $T=35$\textdegree$C$ (temperatuur)
 	$\vec{v}=20 m/s$ (snelheid), $\vec{F}=5N$ (kracht), $\vec{E}=20 N/C$ (elektrisch veld)
 \end{voorbeeld}
 
+%TODO hier moet nog een figuur uit de MOOC komen.
+
 \begin{opmerking}
 	\ \\
 \begin{itemize}
 	\item Een vector is een pijl die twee punten $A$ en $B$ verbindt. Vectoren worden genoteerd door een letter met een pijltje erboven bv. $\vec{v}$. We kunnen ook kiezen om het begin- en eindpunt op te nemen in de notatie. We noteren $\vec{v}=\vec{AB}$.
 	\item Een vector $\vec{v}$ wordt volledig bepaald door de grootte, richting en de zin. Twee vectoren zijn dus identiek wanneer hun grootte, hun richting en hun zin dezelfde zijn.
 	\item In het algemeen heeft een vector geen positie, men spreekt dan van een \textbf{vrije vector}. Het aangrijpingspunt is niet bepaald. De vrije vectoren behoren tot de verzameling $V$.
-	\item De verzameling punten van het vlak noteren we door $\pi$. Kiest men in het vlak $\pi$ een bevoorrecht punt $O$ dan ontstaat het vlak $\pi_O$. Men legt dus de oorsprong  vast in het vlak, en laat alle vector beginnen in de oorsprong. Het punt $P$ in het vlak kunnen we bekijken als het eindpunt van deze vector, namelijk de vector $\vec{OP}=\vec{P}$. Een dergelijke vector noemen we in de wiskunde een \textbf{gebonden} vector, een \textbf{vaste} vector, een \textbf{puntvector} of een \textbf{plaatsvector}. De puntvectoren behoren tot de verzameling $\pi_O$.
+	\item De verzameling punten van het vlak noteren we door $\pi$. Kiest men in het vlak $\pi$ een bevoorrecht punt $O$ dan ontstaat het vlak $\pi_O$. Men legt dus de oorsprong  vast in het vlak, en laat alle vectoren beginnen in de oorsprong. Het punt $P$ in het vlak kunnen we bekijken als het eindpunt van deze vector, namelijk de vector $\vec{OP}=\vec{P}$. Een dergelijke vector noemen we in de wiskunde een \textbf{gebonden} vector, een \textbf{vaste} vector, een \textbf{puntvector} of een \textbf{plaatsvector}. De puntvectoren behoren tot de verzameling $\pi_O$.
 	\item De vector $\vec{AA}$ wordt aangeduid met $\vec{O}$ en heeft als lengte 0. Zo een vector noemen we een \textbf{nulvector}. De samenstelling van een vector met een nulvector levert de oorspronkelijke vector op: $\vec{AB}+\vec{O}$. De nulvector is het neutraal element voor de optelling.
 	\item Beschouwen we een vector $\vec{AB}$. De vector $\vec{BA}=-\vec{AB}$ met dezelfde richting en grootte, maar met tegengestelde zin wordt de tegengestelde vector genoemd. De samenstelling van een vector met zijn tegengestelde vector levert de nulvector op: $\vec{AB}+\vec{BA}=\vec{O}$.
 	\item Een eenheidsvector is een vector met lengte \'e\'en. Eenheidsvectoren worden vooral gebruikt om een richting aan te geven. Een vector met willekeurige niet-nulle norm kan worden gedeeld door zijn norm om zo een eenheidsvector te cre\"eren. Dit proces staat bekend als het normaliseren van een vector. Een eenheidsvector wordt vaak aangeduid met een hoedje, zoals in $\hat{a}$  of ook door $\vec{e_1}$ (of $\vec{1_x}$ als het over de eenheidsvector volgens de $x$-as gaat).
@@ -340,7 +342,7 @@ Deze parallellogram constructie kan ook gebruikt worden voor het omgekeerde proc
 
 \figuurmetlabel[\label{fig:kopstaartsom_par}]{width=7cm}{1_elem_rekenvaardigheden_A/inputs/kopstaart}{Kopstaartregel voor het bepalen van de som van 2 vectoren.}
 
-Een andere manier om twee vectoren op te tellen, is deze kop aan staart te leggen, zie Figuur \ref{fig:kopstaart}. We plaatsen de vector $\vec{v_2}$ zodat zijn beginpunt samenvalt met het eindpunt van de vector $\vec{v_1}$. De som  wordt dan gegeven door de vector wijzend van het beginpunt van $\vec{v_1}$ naar het eindpunt van $\vec{v_2}$. Deze regel noemen we de \textbf{driehoeksregel} of de \textbf{kopstaartregel}.
+Een andere manier om twee vectoren op te tellen, is deze kop aan staart te leggen, zie Figuur \ref{fig:kopstaartsom_par}. We plaatsen de vector $\vec{v_2}$ zodat zijn beginpunt samenvalt met het eindpunt van de vector $\vec{v_1}$. De som  wordt dan gegeven door de vector wijzend van het beginpunt van $\vec{v_1}$ naar het eindpunt van $\vec{v_2}$. Deze regel noemen we de \textbf{driehoeksregel} of de \textbf{kopstaartregel}.
 
 \emph{De vermenigvuldiging van een vector met een scalair}
 
