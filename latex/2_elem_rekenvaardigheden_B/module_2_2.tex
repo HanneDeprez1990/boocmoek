@@ -57,7 +57,7 @@ waarbij $\forall x\in\mathbb{R}$ geldt dat $\text{\textminus\ensuremath{\infty}}
 Merk op dat de elementen $\text{\textminus\ensuremath{\infty}}$
 en $+\text{\ensuremath{\infty}}$ zelf geen re\"ele getallen zijn. Let
 ook op met het symbool $\infty$: afhankelijk van de context kan dit
-$"+\infty"$ betekenen, maar ook $"+\infty\:\mathrm{of}\:\text{\textminus\ensuremath{\infty}}"$.
+\textquotedblleft$+\infty$\textquotedblright betekenen, maar ook \textquotedblleft$+\infty\:\mathrm{of}\:\text{\textminus\ensuremath{\infty}}$\textquotedblright.
 In dit laatste geval schrijven we soms $\pm\infty$.
 
 
@@ -197,11 +197,13 @@ langs de linkerkant van $a$, of langs de rechterkant van $a$ gebeuren
 (we spreken van respectievelijk de linker- en de rechterlimiet).
 
 
-We noteren: %
+\begin{notatie}
+	We noteren: %
 \begin{tabular}{l|l}
 linkerlimiet & $\lim_{\overset{x\rightarrow a}{<}}f(x)$\\
 rechterlimiet & $\lim_{\overset{x\rightarrow a}{>}}f(x)$\\
 \end{tabular}
+\end{notatie}
 
 \begin{ftonthoud}
 	Twee belangrijke besluiten:
@@ -533,8 +535,8 @@ ${\displaystyle \lim_{x\to1}}{\displaystyle \frac{5x\text{\texttwosuperior}-5x}{
 Maar aangezien deze niet gelijk is aan de functiewaarde $f(1)$, want
 $1\notin dom\,f$, kunnen we besluiten dat de functie discontinu is
 in het punt $x=1$. Er zit bijgevolg een perforatie (gaatje) in de
-grafiek van $f$. Maar we zouden dit 'gat' in het domein kunnen opheffen
-door de functiewaarde in $x=1$ 'erbij te defini\"eren': we stellen
+grafiek van $f$. Maar we zouden dit \textquoteleft gat\textquoteright \ in het domein kunnen opheffen
+door de functiewaarde in $x=1$ \textquoteleft erbij te defini\"eren\textquoteright: we stellen
 de functiewaarde gelijk aan de limiet (zodat de nieuwe, uitgebreide
 functie nu wel overal gedefinieerd is, en bovendien overal continu
 is). We spreken dan van een ophefbare discontinu\"iteit.
@@ -604,15 +606,15 @@ Soms is de waarde van $\lim_{x\to a}f(x)$ afhankelijk
 van de manier waarop we naar $a$ naderen. We maken in dat geval een
 onderscheid tussen
 
-\begin{table}[h]
-\centering
-\begin{tabular}{lcl}
+
+\begin{center}
+	\begin{tabular}{lcl}
 	\multirow{2}{*}{de linkerlimiet} & $\lim_{\overset{x\rightarrow a}{<}}f(x)$ & we naderen $a$ langs de te kleine kant van $a$ ($\lyxmathsym{\textquotedblleft}<\lyxmathsym{\textquotedblright}$)\\
 	& $\lim_{x\uparrow a}f(x)$ & $x$ stijgt tot aan de waarde van $a$\\
 	\multirow{2}{*}{de rechterlimiet} & $\lim_{\overset{x\rightarrow a}{>}}f(x)$ & we naderen $a$ langs de te grote kant van $a$ $(\lyxmathsym{\textquotedblleft}>\lyxmathsym{\textquotedblright}$)\\
 	& $\lim_{x\downarrow a}f(x)$ & $x$ daalt tot aan de waarde van $a$\\
 \end{tabular}
-\end{table}
+\end{center}
 
 Wanneer de linker- en rechterlimiet van elkaar verschillen,
 zeggen we dat de limiet niet bestaat. 
@@ -662,6 +664,7 @@ De limieten van $f(x)$ en $g(x)$ bestaan en zijn eindig,
 dus: $\lim_{x\to a}f(x)=F$ en $\lim_{x\to a}g(x)=G$.
 
 \begin{ftrekenregel}
+	\ 
 	\begin{tabel*}{}
 	\centering
 	\begin{tabular}{ll}
