@@ -1,0 +1,43 @@
+\begin{center}
+\begin{tikzpicture}[scale=2,cap=round]
+
+% Styles
+\tikzstyle{axes}=[]
+\tikzstyle help lines=[color=blue!50,very thin,dotted]
+
+% grid
+\draw[style=help lines,step=1cm] (-2.9,-2.9) grid (2.9,2.9);
+
+
+\draw[->] (-3,0) -- (3,0) node[right] {$x$};
+\draw[->] (0,-3) -- (0,3) node[above] {$y$};
+
+\draw[thick, dashed, cyan,domain=-2:2] plot(\x, \x)  node[right]{$f(x)=x$};
+%\draw[fill,cyan](1,1)circle [radius=0.025];
+
+\tkzDefPoint(-2,-2){A}
+\tkzDefPoint(-1,-1){B}
+\tkzDefPoint(0,0){C}
+\tkzDefPoint(1,1){D}
+\tkzDefPoint(2,2){E}
+
+
+\foreach \n in {A,B,C,D,E}
+\node at (\n)[circle,cyan,fill,inner sep=1.5pt]{};
+
+%getallen op de x-as en lijntjes   
+\foreach \x/\xtext in {-3,-2,-1,0, 1,2,3}
+	\draw[xshift=\x cm] (0pt,1pt) -- (0pt,0pt) node[below,fill=white]
+	{$\xtext$};
+	
+%getallen op de y-as en lijntjes  
+%BEGIN LUS
+\foreach \y/\ytext in {-3,-2,-1,1,2}
+	\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]
+	{$\ytext$}; %EINDE LUS
+
+
+
+\end{tikzpicture}
+\end{center}
+\newpage
