@@ -1,0 +1,36 @@
+\documentclass{standalone}
+\usepackage{tikz,pgfplots}
+\usepackage{amsmath}
+\usetikzlibrary{arrows,positioning}
+
+\usepackage{amssymb}
+%\usepackage[latin1]{inputenc}
+\usepackage{algpseudocode}
+\usepackage{algorithm}
+\usepackage{pgfplots,tikz,standalone}
+\usepackage{mathtools,subcaption,enumitem}
+\usepackage{multirow}
+\usepackage{color}
+%% The amsthm package provides extended theorem environments
+\usepackage{amsthm}
+\usepackage{url}
+% \usepackage[dvips]{graphicx}
+%\usetikzlibrary{arrows,positioning}
+%\usepackage{subfig}
+
+\usetikzlibrary{calc,patterns,angles,quotes,babel}
+
+\usetikzlibrary{external}
+\tikzset{external/system call={pdflatex \tikzexternalcheckshellescape 
+		-halt-on-error
+		-interaction=batchmode 
+		-jobname "\image" "\texsource"
+		&& pdftops -eps "\image.pdf"}}
+\tikzexternalize
+
+\def\uW{\mathit{\mu W}}
+
+\begin{document}
+\input{module_5_2_matrices-fig-1.tex}
+\end{document}
+
