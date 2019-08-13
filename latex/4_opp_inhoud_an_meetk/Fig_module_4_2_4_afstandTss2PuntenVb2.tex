@@ -1,0 +1,39 @@
+\tikzsetfigurename{module4_2_4_afstandTss2PuntenVb2}
+	\begin{tikzpicture}
+\draw[->] (-6,0)--(4,0) node[anchor=south,left,yshift=0.2cm]{$x$};
+\draw[->] (0,-2)--(0,7) node[anchor=south,left]{$y$};
+\draw[-] (2,-2)--(2,7);
+
+\tkzDefPoint(0,0){O}
+\tkzDefPoint(0,0){S}
+\tkzDefPoint(1,0){A}
+\tkzDefPoint(0,1){B}
+\tkzDefPoint(-2,0){P1}
+\tkzDefPoint(3,0){Q1}
+\tkzDefPoint(0,-1){Q2}
+\tkzDefPoint(0,5){P2}
+\tkzDefPoint(-2,5){P}
+\tkzDefPoint(3,-1){Q}
+
+\tkzDrawSegment[black!60!black,dotted](P1,P)
+\tkzDrawSegment[black!60!black,dotted](P2,P)
+\tkzDrawSegment[black!60!black,dotted](Q1,Q)
+\tkzDrawSegment[black!60!black,dotted](Q2,Q)
+
+\tkzLabelPoint[below,xshift=-0.2cm](S){$0$}
+\tkzLabelPoint[below](A){$1$}
+\tkzLabelPoint[left](B){$1$}
+
+\tkzLabelPoint[below](P1){$-2$}
+\tkzLabelPoint[below](Q1){$3$}
+
+\tkzLabelPoint[right](P2){$5$}
+\tkzLabelPoint[left](Q2){$-1$}
+
+\tkzLabelPoint[right](P){$P$}
+\tkzLabelPoint[left](Q){$Q$}
+
+\foreach \n in {O,A,B,P1,P2,Q1,P,Q,Q2}
+\node at (\n)[circle,fill,inner sep=1.5pt]{};
+
+\end{tikzpicture}

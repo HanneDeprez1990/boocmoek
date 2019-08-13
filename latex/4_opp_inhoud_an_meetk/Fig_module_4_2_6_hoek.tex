@@ -1,0 +1,12 @@
+\tikzsetfigurename{module4_2_6_hoek}
+\begin{tikzpicture}
+\draw[->] (-2,0)--(2,0) node[anchor=south,left,yshift=0.2cm]{$x$};
+\draw[->] (0,-2)--(0,2) node[anchor=south,left]{$y$};
+\draw[-] (-2,-1)--(2,1) node[anchor=south,left,yshift=0.1cm]{$l$};
+
+\coordinate (a) at (0,0);
+\coordinate (b) at (1,0.5);
+\coordinate (c) at (1,0);
+
+\pic [draw, ->, "$\alpha$", angle eccentricity=1.5] {angle = c--a--b};
+\end{tikzpicture}

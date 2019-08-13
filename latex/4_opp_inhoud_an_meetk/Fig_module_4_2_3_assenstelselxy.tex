@@ -1,0 +1,18 @@
+\tikzsetfigurename{module4_2_3_assenstelselxy}
+\begin{tikzpicture}
+\draw[->] (-2,-0.4)--(5,1) node[anchor=south,left,yshift=0.2cm]{$x$};
+\draw[->] (-0.4,-2)--(1,5) node[anchor=south,left]{$y$};
+
+\tkzDefPoint(0,0){S}
+\tkzDefPoint(2,0.4){B1}
+\tkzDefPoint(0.4,2){B2}
+
+\tkzLabelPoint[below](S){$0$}
+\tkzLabelPoint[right](S){$0$}
+
+\tkzLabelPoint[below](B1){$1$}
+\tkzLabelPoint[right](B2){$1$}
+
+\foreach \n in {S,B1,B2}
+\node at (\n)[circle,fill,inner sep=1.5pt]{};
+\end{tikzpicture}

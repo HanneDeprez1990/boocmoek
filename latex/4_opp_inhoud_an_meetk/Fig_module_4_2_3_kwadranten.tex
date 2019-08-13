@@ -1,0 +1,33 @@
+\tikzsetfigurename{module4_2_3_kwadranten}
+\begin{tikzpicture}
+\coordinate (a) at (0,0);
+\coordinate (b) at (2,0);
+\coordinate (c) at (0,2);
+
+\draw[->] (-3,0)--(3,0) node[anchor=south,left,yshift=0.2cm]{$x$};
+\draw[->] (0,-3)--(0,3) node[anchor=south,left]{$y$};
+
+\tkzDefPoint(0,0){S}
+\tkzDefPoint(1,0){B1}
+\tkzDefPoint(0,1){B2}
+
+\tkzLabelPoint[below,xshift=-0.1cm](S){$0$}
+\tkzLabelPoint[right,yshift=0.1cm](S){$0$}
+
+\tkzLabelPoint[below](B1){$1$}
+\tkzLabelPoint[right](B2){$1$}
+
+\foreach \n in {S,B1,B2}
+\node at (\n)[circle,fill,inner sep=1.5pt]{};
+
+%	\node[draw,align=right] at (1,2) {Kwadrant I};
+%	\node[draw,align=left] at (-1,2) {Kwadrant II};
+%	\node[draw,align=left] at (-1,-1) {Kwadrant III};
+%	\node[draw,align=right] at (1,-1) {Kwadrant IV};
+
+\node[] at (1.5,1.5) {Kwadrant I};
+\node[] at (-1.5,1.5) {Kwadrant II};
+\node[] at (-1.5,-1.5) {Kwadrant III};
+\node[] at (1.5,-1.5) {Kwadrant IV};
+
+\end{tikzpicture}

@@ -4,6 +4,7 @@
 \input{inputs/oplossingen-file-commandos.tex}
 \initialiseer{inputs/oplossingen-alle.tmp}{inputs/oplossingen-zonder-ster.tmp}
 \input{inputs/preamble-macro.tex}
+\usepackage{pdfpages}
 \usepackage{amsmath}
 \usepackage{hyperref}
 \usepackage{graphicx}
@@ -18,9 +19,10 @@
 \usepackage{rotating}
 \usepackage{siunitx}
 \usepackage{eurosym}
-%\usepackage{draftwatermark}
-%\SetWatermarkText{WERKDOCUMENT}
-%\SetWatermarkScale{3.5}
+\usepackage{tikz}
+\usepackage{draftwatermark}
+\SetWatermarkText{WERKDOCUMENT}
+\SetWatermarkScale{3.5}
 
 \usetikzlibrary{calc,patterns,angles,quotes,babel,external}
 \usepackage{tkz-euclide}
@@ -28,7 +30,7 @@
 \usetkzobj{all}
 \usetikzlibrary{shapes.geometric}
 
-%\tikzexternalize
+\tikzexternalize[prefix=tikzFigures/,optimize command away=\includepdf]
 
 \pgfplotsset{compat=newest}
 
@@ -106,12 +108,12 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\input{voorbeeld}
 
-%\input{1_elem_rekenvaardigheden_A/module_1}
-%\input{2_elem_rekenvaardigheden_B/module_2}
-%\input{3_gonio_complexe_getallen/module_3}
-%\input{4_opp_inhoud_an_meetk/module_4}
+\input{1_elem_rekenvaardigheden_A/module_1}
+\input{2_elem_rekenvaardigheden_B/module_2}
+\input{3_gonio_complexe_getallen/module_3}
+\input{4_opp_inhoud_an_meetk/module_4}
 \input{5_vglen_ongelijkheden_stelsels_matrices/module_5}
-%\input{6_afgeleiden_integralen/module_6}
+\input{6_afgeleiden_integralen/module_6}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

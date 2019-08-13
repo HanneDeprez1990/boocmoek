@@ -1,0 +1,49 @@
+\tikzsetfigurename{module4_2_6_illustratieVglRechte}
+	\begin{tikzpicture}
+\draw[->] (-5,0)--(5,0) node[anchor=south,left,yshift=0.2cm]{$x$};
+\draw[->] (0,-5)--(0,5) node[anchor=south,left]{$y$};
+\draw[-] (-5,-2.5)--(4,2);
+\draw[-] (-5,0)--(4,4.5);
+
+\tkzDefPoint(0,0){S}
+\tkzDefPoint(1,0){B1}
+\tkzDefPoint(0,1){B2}
+\tkzDefPoint(3,0){P1}
+\tkzDefPoint(0,1.5){P'2}
+\tkzDefPoint(3,1.5){P'}
+\tkzDefPoint(3,4){P}
+\tkzDefPoint(0,4){P2}
+\tkzDefPoint(0,2.5){Q}
+%	\tkzDefPoint(0,-1){P2}
+%	\tkzDefPoint(2,0){Q1}
+%	\tkzDefPoint(0,1){Q2}
+%	\tkzDefPoint(3,0){R1}
+%	\tkzDefPoint(0,1.5){R2}
+%	\tkzDefPoint(2,1){Q}
+%	\tkzDefPoint(3,1.5){R}
+%	\tkzDefPoint(-2,-1){P}
+%	
+%	
+\tkzLabelPoint[below,xshift=-0.1cm](S){$0$}
+\tkzLabelPoint[right,yshift=-0.3cm](S){$O$}
+
+\tkzLabelPoint[below](B1){$1$}
+\tkzLabelPoint[left](B2){$1$}
+
+\tkzLabelPoint[below](P1){$x$}
+\tkzLabelPoint[above,xshift=0.2cm](P'){$P'$}
+\tkzLabelPoint[above,xshift=0.2cm](P){$P$}
+\tkzLabelPoint[left](Q){$q$}
+\tkzLabelPoint[right,yshift=0.4cm](Q){$Q$}
+
+\tkzLabelPoint[left](P'2){$y-q$}
+\tkzLabelPoint[left](P2){$y$}
+
+\tkzDrawSegment[black!60!black,dotted](P1,P')
+\tkzDrawSegment[black!60!black,dotted](P1,P)
+\tkzDrawSegment[black!60!black,dotted](P2,P)
+\tkzDrawSegment[black!60!black,dotted](P'2,P')
+\foreach \n in {S,B1,B2,P1,P'2,P',P2,P,Q}
+\node at (\n)[circle,fill,inner sep=1.5pt]{};
+
+\end{tikzpicture}

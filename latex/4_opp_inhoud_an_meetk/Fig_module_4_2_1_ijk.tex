@@ -1,0 +1,13 @@
+	\tikzsetfigurename{module4_2_1_ijk}
+	\begin{tikzpicture}
+	\draw[-] (-5,0)--(5,0) node[anchor=south,below,xshift=-10cm]{$l$};
+	
+	\tkzDefPoint(0,0){A}
+	\tkzDefPoint(1,0){B}
+	\tkzLabelPoint[above](A){$A$}
+	\tkzLabelPoint[above](B){$B$}
+	\tkzLabelPoint[below](A){$0$}
+	\tkzLabelPoint[below](B){$1$}
+	\foreach \n in {A,B}
+	\node at (\n)[circle,fill,inner sep=1.5pt]{};
+	\end{tikzpicture}

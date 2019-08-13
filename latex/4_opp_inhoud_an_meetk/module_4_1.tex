@@ -84,6 +84,7 @@ Als inhoudsmaat wordt, voornamelijk voor vloeistoffen, ook de liter ($l$) gebrui
 \subsubsection{Omtrek $O$ en oppervlakte $A$}
 Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 
+{\tikzset{external/export=false}
 \begin{sidewaystable}
 \begin{center}
 	\begin{tabular}{lll}
@@ -91,6 +92,7 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 		\hline
 		\begin{tabular}{l}
 		Rechthoek \\
+				\tikzsetfigurename{module4_1_rechthoek}
 				\begin{tikzpicture}
 				\draw[draw=black,fill=yellow,fill opacity=0.2] (0,0) rectangle ++(2.5,1.5);
 				\node[] at (1.25,2) {$l$};
@@ -102,6 +104,7 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 		& $O=2(l+b)$ & $A=l.b$ \\
 		\begin{tabular}{l}
 		Vierkant \\
+		\tikzsetfigurename{module4_1_vierkant}
 		\begin{tikzpicture}
 		\draw[draw=black,fill=yellow,fill opacity=0.2] (0,0) rectangle ++(2,2);
 		\node[] at (1.25,2.5) { zijde $z$};
@@ -110,6 +113,7 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 		& $O=4z$ & $A=z^2$ \\
 		\begin{tabular}{l}
 		Rechthoekige driehoek \\
+		\tikzsetfigurename{module4_1_rechthoekigeDriehoek}
 		\begin{tikzpicture}
 		\node (r0) at ( 0.0,  0.0) {}; % root
 		\node (s0) at ( 4.0,  0.0) {}; % extreme
@@ -127,6 +131,7 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 		& $O=b+h+s$ & $A=\frac{b.h}{2}$ \\
 		\begin{tabular}{l}
 		Niet-rechthoekige of willekeurige driehoek \\
+		\tikzsetfigurename{module4_1_willekeurigeDriehoek}
 		\begin{tikzpicture}
 		\node (r0) at ( 0.0,  0.0) {}; % root
 		\node (s0) at ( 4.0,  0.0) {}; % extreme
@@ -149,13 +154,14 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 \caption{Omtrek en oppervlakte van vlakke figuren (1).}
 \label{tab:omtrek_opp1}
 \end{sidewaystable}
-\begin{sidewaystable}
+\begin{table}
 	\begin{center}
 		\begin{tabular}{lll}
 		Figuur & Omtrek & Oppervlakte \\
 		\hline
 		\begin{tabular}{l}
 		Parallellogram \\
+		\tikzsetfigurename{module4_1_parallellogram}
 		\begin{tikzpicture}
 		\node (r0) at ( 0.0,  0.0) {}; % root
 		\node (s0) at ( 4.0,  0.0) {}; % extreme
@@ -174,6 +180,7 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 		\end{tikzpicture} \end{tabular}& $O=2(a+b)$ & $A=b.h$ \\
 		\begin{tabular}{l}
 		Trapezium \\
+		\tikzsetfigurename{module4_1_trapezium}
 		\begin{tikzpicture}
 		\node (r0) at ( 0.0,  0.0) {}; % root
 		\node (s0) at ( 4.0,  0.0) {}; % extreme
@@ -198,6 +205,7 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 		\end{tabular} \\
 		\begin{tabular}{l}
 		Schijf \\
+		\tikzsetfigurename{module4_1_schijf}
 		\begin{tikzpicture}
 		\draw[draw=black, fill=yellow!20] (0,0) arc (0:360:1.5) ;
 		\draw[] (-1.5,0) -- (-3,0) node[anchor=south,midway] {$r$};
@@ -231,6 +239,7 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 %%			\foreach\x in {1,...,\ngon}{\node[mystyle] (p\x) at (p.corner \x){};}
 %			
 %			\end{tikzpicture}
+			\tikzsetfigurename{module4_1_regelmatigeVeelhoek}
 			\begin{tikzpicture}
 			\polygon{5}{2}{1,2,3,4,5}{yellow!20};
 			\node[anchor=south,below] (M) at (0,0) {$M$};
@@ -248,7 +257,8 @@ Zie Tabel \ref{tab:omtrek_opp1} en \ref{tab:omtrek_opp2}.
 \end{center}
 \caption{Omtrek en oppervlakte van vlakke figuren (2).}
 \label{tab:omtrek_opp2}
-\end{sidewaystable}
+\end{table}
+}
 
 In de MOOC zie je een animatie die de formule voor de berekening van de oppervlakte van een trapezium verklaart.
 

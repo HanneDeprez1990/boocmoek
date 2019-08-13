@@ -49,6 +49,7 @@
 \newlength{\evenlengte}
 
 \newcommand*\runningheader[1]{\settowidth{\evenlengte}{\mbox{\bf #1}}\addtolength{\evenlengte}{6mm}%
+	{\tikzset{external/export=false}
   \begin{tikzpicture}
     \fill[fill=fac-color] (0,0) rectangle (\textwidth,1.3cm);
     \fill[fac-color-dark] (\textwidth-\evenlengte,0) rectangle (\textwidth,1.3cm);
@@ -57,16 +58,17 @@
     \node[xshift=1.5cm,yshift=0.5mm,anchor=south west]{\color{white}\fontsize{11pt}{13pt}\selectfont\bf \titel};
     \node[xshift=\textwidth-2mm,yshift=0.5mm,anchor=south east]{{\color{white}\fontsize{11pt}{13pt}\selectfont\bf\boldmath #1}};
     \node[xshift=\textwidth-2mm,yshift=6mm,anchor=south east]{\color{white}\fontsize{11pt}{13pt}\selectfont\bf \thepage};
-  \end{tikzpicture}}
+  \end{tikzpicture}}}
 
 \newcommand*\hoofdstukheader{%
+	{\tikzset{external/export=false}
   \begin{tikzpicture}
     \fill[fill=fac-color] (0,0) rectangle (\textwidth,1.3cm);
     \node[xshift=1mm,anchor=south west]{\insertlogo};
     \node[xshift=1.5cm,yshift=5.5mm,anchor=south west]{\color{white}\fontsize{11pt}{13pt}\selectfont\bf Wiskunde voor (startende) studenten - KU Leuven};
     \node[xshift=1.5cm,yshift=0.5mm,anchor=south west]{\color{white}\fontsize{11pt}{13pt}\selectfont\bf \titel};
     \node[xshift=\textwidth-2mm,yshift=6mm,anchor=south east]{\color{white}\fontsize{11pt}{13pt}\selectfont\bf \thepage};
-  \end{tikzpicture}}
+  \end{tikzpicture}}}
 
 \pagestyle{fancy}
 \lfoot{}
@@ -107,23 +109,25 @@
 
 \newcommand{\hoofdstukzondernaam}[1]{%
 \mbox{}\hspace{3.7cm}
+{\tikzset{external/export=false}
 \raisebox{20mm}[0cm]{\begin{tikzpicture}[baseline=(current bounding box.north)]
  \node[anchor=north west,inner sep=4mm,very thick,draw=fac-color-dark,text badly ragged,text width=12cm]{#1};
 \end{tikzpicture}}%\vspace{1mm}
-}
+}}
 
 \newcommand{\hoofdstukmetnaam}[2]{%
 \mbox{}\hspace{3.7cm}
+{\tikzset{external/export=false}
 \raisebox{20mm}[0cm]{\begin{tikzpicture}[baseline=(current bounding box.north)]
  \node[anchor=south west,rectangle,fill=fac-color-dark]{\color{white}#1};
  \node[anchor=north west,inner sep=4mm,very thick,draw=fac-color-dark,text badly ragged,text width=12cm]{#2};
 \end{tikzpicture}}%\vspace{1mm}
-}
+}}
 
 
 %%%%%%%%%%% De definities voor de stellingen, etc. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\newcommand{\stellingnaam}[1]{\begin{tikzpicture}[baseline=(X.base)] \node[inner sep=0.6mm,rectangle,fill=fac-color-dark](X){\color{white}#1}; \end{tikzpicture}}
+\newcommand{\stellingnaam}[1]{{\tikzset{external/export=false}\begin{tikzpicture}[baseline=(X.base)] \node[inner sep=0.6mm,rectangle,fill=fac-color-dark](X){\color{white}#1}; \end{tikzpicture}}}
 
 \newtheoremstyle{mijnstelling}% name
   {2ex}%      Space above, empty = `usual value'
@@ -158,7 +162,7 @@
   %       \newline = linebreak
   {\ifthenelse{\equal{#2}{}}{\stellingnaam{#1}}{\stellingnaam{#1 #2}}}% Thm head spec
 
-\newcommand{\voorbeeldnaam}[1]{\begin{tikzpicture}[baseline=(X.base)] \node[inner sep=0.6mm,rectangle,fill=fac-color-orange](X){\color{white}#1}; \end{tikzpicture}}
+\newcommand{\voorbeeldnaam}[1]{{\tikzset{external/export=false}\begin{tikzpicture}[baseline=(X.base)] \node[inner sep=0.6mm,rectangle,fill=fac-color-orange](X){\color{white}#1}; \end{tikzpicture}}}
 
 \newtheoremstyle{mijnvoorbeeld}% name
   {2ex}%      Space above, empty = `usual value'
@@ -284,7 +288,7 @@
 %%%%%%%%% Omgevingen waarin de oefeningen (oef en steroef) worden getypeset. %%%%%%%
 %%%%%%%%% De omgevingen opgelost en opgelostster worden ingeroepen in de automatisch gegenereerde oplossingenfile om de oplossingen te typesetten. %%%%%%%%%%%
 
-\newcommand{\kadertje}[1]{\begin{tikzpicture}[baseline=(X.base)] \node[inner sep=1mm,rectangle,fill=fac-color-dark](X){\mbox{\color{white}\bf#1}}; \end{tikzpicture}}
+\newcommand{\kadertje}[1]{{\tikzset{external/export=false}\begin{tikzpicture}[baseline=(X.base)] \node[inner sep=1mm,rectangle,fill=fac-color-dark](X){\mbox{\color{white}\bf#1}}; \end{tikzpicture}}}
 
 \newlength{\oploslabel}
 \setlength{\oploslabel}{8mm}
@@ -323,11 +327,12 @@
 \titleformat{\section}[block]{}{}{0pt}{\metnummer{\thesection}{#1}}
 
 \newcommand{\metnummer}[2]{\setlength{\beschikbaar}{\textwidth-\sectielabelbreedte-\sectielabelskip-4mm}%
+{\tikzset{external/export=false}
 \begin{tikzpicture}
 \fill[fill=fac-color-dark] (0,0) rectangle (\textwidth,\streepdikte);
 \node[anchor=north west,fill=fac-color-dark,rectangle,inner sep=2mm]{\parbox[t]{\sectielabelbreedte}{\Large\bf\color{white}#1}};
 \node[anchor=north east,xshift=\textwidth,yshift=-\streepdikte,inner sep=0pt]{\parbox[t]{\beschikbaar}{\Large\bf\boldmath#2}};
-\end{tikzpicture}}
+\end{tikzpicture}}}
 
 \newlength{\streeplengte}
 \setlength{\streeplengte}{9mm}
@@ -335,11 +340,12 @@
 \newcommand{\zondernummer}[1]{\setlength{\beschikbaar}{\textwidth-2\streepdikte}%
 \settoheight{\streeplengte}{\parbox[b]{\beschikbaar}{\Large\bf#1}}%
 \addtolength{\streeplengte}{4mm}%
+{\tikzset{external/export=false}
 \begin{tikzpicture}
 \fill[fill=fac-color-dark] (0,0) rectangle (\textwidth,\streepdikte);
 \fill[fill=fac-color-dark] (0,0) rectangle (\streepdikte,-\streeplengte);
 \node[anchor=north east,xshift=\textwidth,yshift=-\streepdikte,inner sep=0pt]{\parbox[t]{\beschikbaar}{\Large\bf\boldmath#1}};
-\end{tikzpicture}}
+\end{tikzpicture}}}
 
 
 %%%%%%%% Formattering subsections %%%%%%%%%%%
@@ -364,10 +370,11 @@
 
 \newcommand{\opdrachttypeset}[1]{\settowidth{\eenbreedte}{\bf\large\boldmath#1}%
 \setlength{\overschot}{\textwidth-\linkerlijn-\eenbreedte-4ex}%
+{\tikzset{external/export=false}
 \begin{tikzpicture}
 \fill[fill=fac-color-dark] (0,\streepdikte/2) rectangle (\linkerlijn,-\streepdikte/2);
 \node at (\linkerlijn+2ex,0) [anchor=west,inner sep=0pt] {{\bf\large\boldmath#1}};
 \fill[fill=fac-color-dark] (\textwidth-\overschot,\streepdikte/2) rectangle (\textwidth,-\streepdikte/2);
-\end{tikzpicture}}
+\end{tikzpicture}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

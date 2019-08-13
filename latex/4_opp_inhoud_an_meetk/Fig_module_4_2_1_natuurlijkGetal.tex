@@ -1,0 +1,29 @@
+\tikzsetfigurename{module4_2_1_natuurlijkGetal}	
+	\begin{tikzpicture}
+	\draw[->] (-5,0)--(5,0) node[anchor=south,below,xshift=-10cm]{$l$};
+	
+	\tkzDefPoint(0,0){A}
+	\tkzDefPoint(1,0){B}
+	\tkzDefPoint(3,0){C}
+	
+	\tkzDefPoint(0.5,0.7){D}
+	\tkzDefPoint(1.5,0.7){E}
+	\tkzDefPoint(2.5,0.7){G}
+	\tkzDefPoint(2,0){F}
+	
+	\tkzDrawSegment[black!60!black](A,D)
+	\tkzDrawSegment[black!60!black](B,D)
+	\tkzDrawSegment[black!60!black](B,E)
+	\tkzDrawSegment[black!60!black](F,E)
+	\tkzDrawSegment[black!60!black](F,G)
+	\tkzDrawSegment[black!60!black](C,G)
+	
+	\tkzLabelPoint[above](A){$A$}
+	\tkzLabelPoint[above](B){$B$}
+	\tkzLabelPoint[above](C){$C$}
+	\tkzLabelPoint[below](A){$0$}
+	\tkzLabelPoint[below](B){$1$}
+	\tkzLabelPoint[below](C){$3$}
+	\foreach \n in {A,B,C,D,E,F,G}
+	\node at (\n)[circle,fill,inner sep=1.5pt]{};
+	\end{tikzpicture}

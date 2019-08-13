@@ -1,0 +1,26 @@
+\tikzsetfigurename{module4_2_1_reeelGetal2}	
+\begin{tikzpicture}
+\draw[-] (-3,0)--(3,0) node[anchor=south,below,xshift=-6cm]{$l$};
+\draw[-] (1,-3)--(1,3);
+
+\tkzDefPoint(0,0){A}
+\tkzDefPoint(1,0){B}
+\tkzDefPoint(1,-2){B2}
+
+\tkzDefPoint(2.236,0){C}
+
+\tkzDrawSegment[black!60!black](A,B2)
+
+\tkzLabelPoint[above](A){$A$}
+\tkzLabelPoint[above,xshift=0.2cm](B){$B$}
+\tkzLabelPoint[below,xshift=0.2cm](B2){$B'$}
+\tkzLabelPoint[above](C){$C$}
+\tkzLabelPoint[below](A){$0$}
+\tkzLabelPoint[below,xshift=0.2cm](B){$1$}
+\tkzLabelPoint[below,xshift=0.2cm](C){$\sqrt{5}$}
+
+\draw (B2) arc (296.56:360:22.36mm);
+
+\foreach \n in {A,B,C,B2}
+\node at (\n)[circle,fill,inner sep=1.5pt]{};
+\end{tikzpicture}

@@ -54,63 +54,7 @@ Je merkt dat je inderdaad dezelfde uitkomst bekomt.\\
 Bereken de oppervlakte van driehoek $ABC$.
 
 \begin{center}
-	\begin{tikzpicture}
-	\draw[->] (-5,0)--(5,0) node[anchor=south,left,yshift=0.2cm]{$x$};
-	\draw[->] (0,-4)--(0,6) node[anchor=south,left]{$y$};
-	
-	\tkzDefPoint(0,0){S}
-	\tkzDefPoint(1,0){x1}
-	\tkzDefPoint(0,1){y1}
-	
-	\tkzDefPoint(-5,0){A1}
-	\tkzDefPoint(0,2){A2}
-	
-	\tkzDefPoint(-5,2){A}
-	
-	\tkzDefPoint(-1,0){B1}
-	\tkzDefPoint(0,4){B2}
-	
-	\tkzDefPoint(-1,4){B}
-	
-	\tkzDefPoint(3,0){C1}
-	\tkzDefPoint(0,-2){C2}
-	
-	\tkzDefPoint(3,-2){C}
-	
-	\tkzLabelPoint[below,xshift=-0.1cm](S){$0$}
-	%	\tkzLabelPoint[right,yshift=-0.3cm](S){$O$}
-	
-	\tkzLabelPoint[below](x1){$1$}
-	\tkzLabelPoint[left](y1){$1$}
-	
-	\tkzLabelPoint[left,yshift=0.2cm](A){$A$}
-	\tkzLabelPoint[right,yshift=0.2cm](B){$B$}
-	\tkzLabelPoint[right,yshift=0.2cm](C){$C$}
-			
-	\tkzLabelPoint[below](A1){$-5$}
-	\tkzLabelPoint[right](A2){$2$}
-
-	\tkzLabelPoint[below](B1){$-1$}
-	\tkzLabelPoint[right](B2){$4$}
-
-	\tkzLabelPoint[above](C1){$3$}
-	\tkzLabelPoint[left](C2){$-2$}	
-	
-	\tkzDrawSegment[black!60!black,dotted](A1,A)
-	\tkzDrawSegment[black!60!black,dotted](A2,A)
-	\tkzDrawSegment[black!60!black,dotted](B1,B)
-	\tkzDrawSegment[black!60!black,dotted](B2,B)
-	\tkzDrawSegment[black!60!black,dotted](C1,C)
-	\tkzDrawSegment[black!60!black,dotted](C2,C)
-	
-	\tkzDrawSegment[black!60!black](A,C)
-	\tkzDrawSegment[black!60!black](A,B)
-	\tkzDrawSegment[black!60!black](B,C)
-	
-	\foreach \n in {S,x1,y1,A1,A2,A,B1,B2,B,C1,C2,C}
-	\node at (\n)[circle,fill,inner sep=1.5pt]{};
-	
-	\end{tikzpicture}
+	\input{4_opp_inhoud_an_meetk/Fig_module_4_2_14_afstandPuntRechteVb}
 \end{center}
 
 %\gewonefiguur{height=7cm}{4_opp_inhoud_an_meetk/inputs/AMTekst6Fig1}
@@ -147,18 +91,7 @@ De bissectrices van twee niet evenwijdige rechten $l$ en $l'$ zijn de rechten di
 Twee niet evenwijdige lijnen $l$ en $l'$ hebben twee bissectrices $b$ en $b'$ die loodrecht op elkaar staan.
 
 \begin{center}
-	\begin{tikzpicture}
-	\clip (-5,-5) rectangle (5,5);
-	
-%	\draw[->] (-5,0)--(5,0) node[anchor=south,left,yshift=0.2cm]{$x$};
-%	\draw[->] (0,-5)--(0,5) node[anchor=south,left]{$y$};
-	
-	\draw[domain=-5:5,smooth,variable=\x] plot ({\x},{2/5*\x+4/5}) node[anchor=south,left,yshift=0.2cm] {$l$};	
-	\draw[domain=-1:2,smooth,variable=\x] plot ({\x},{-3*\x+2}) node[anchor=south,left,yshift=0.2cm] {$l'$};	
-	\draw[domain=-5:5,smooth,variable=\x] plot ({\x},{-9.83/21.2*\x+23.42/21.20}) node[anchor=south,left,yshift=-0.4cm] {$b$};	
-	\draw[domain=-3:2,smooth,variable=\x] plot ({\x},{22.48/10.43*\x+1.88/10.43}) node[anchor=south,left,yshift=0.2cm] {$b'$};	
-	
-	\end{tikzpicture}
+	\input{4_opp_inhoud_an_meetk/Fig_module_4_2_14_bissectrice}
 \end{center}
 
 

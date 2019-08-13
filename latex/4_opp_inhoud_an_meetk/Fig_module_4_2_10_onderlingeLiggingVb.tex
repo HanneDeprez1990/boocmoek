@@ -1,0 +1,54 @@
+\tikzsetfigurename{module4_2_10_onderlingeLiggingVb}
+\begin{tikzpicture}
+\draw[->] (-5,0)--(5,0) node[anchor=south,left,yshift=0.2cm]{$x$};
+\draw[->] (0,-6)--(0,5) node[anchor=south,left]{$y$};
+
+%	\draw[‎smooth,‎samples=100‎,domain=0:‎‎2‎‎, variable=\x] ‎plot({\x},‎‎‎‎‎‎‎‎{0.577 \x  - 6.155});‎‎
+\draw[domain=-1.5:3,smooth,variable=\x] plot ({\x},{-7/3*\x+5/3}) node[anchor=south,left,yshift=0.2cm]{$l$};	
+
+\tkzDefPoint(0,0){S}
+\tkzDefPoint(1,0){x1}
+\tkzDefPoint(0,1){y1}
+
+\tkzDefPoint(2,0){A1}
+\tkzDefPoint(0,-3){A2}
+
+\tkzDefPoint(-1,0){B1}
+\tkzDefPoint(0,4){B2}
+
+\tkzDefPoint(3,0){C1}
+\tkzDefPoint(0,4){C2}
+
+\tkzDefPoint(2,-3){A}
+\tkzDefPoint(-1,4){B}
+\tkzDefPoint(3,4){C}
+
+\tkzLabelPoint[below,xshift=-0.1cm](S){$0$}
+%	\tkzLabelPoint[right,yshift=-0.3cm](S){$O$}
+
+\tkzLabelPoint[below](x1){$1$}
+\tkzLabelPoint[left](y1){$1$}
+
+\tkzLabelPoint[right](A){$A$}
+\tkzLabelPoint[left,yshift=0.2cm](B){$B$}
+\tkzLabelPoint[left,yshift=0.2cm](C){$C$}
+%	
+\tkzLabelPoint[above](A1){$2$}
+\tkzLabelPoint[left](A2){$-3$}
+
+\tkzLabelPoint[below](B1){$-1$}
+
+\tkzLabelPoint[below](C1){$3$}
+\tkzLabelPoint[left,yshift=0.2cm](C2){$4$}
+
+\tkzDrawSegment[black!60!black,dotted](A1,A)
+\tkzDrawSegment[black!60!black,dotted](A2,A)
+\tkzDrawSegment[black!60!black,dotted](B1,B)
+\tkzDrawSegment[black!60!black,dotted](B2,B)
+\tkzDrawSegment[black!60!black,dotted](C1,C)
+\tkzDrawSegment[black!60!black,dotted](C2,C)
+
+\foreach \n in {S,B1,B2,B,A1,A2,A,C1,C2,C,x1,y1}
+\node at (\n)[circle,fill,inner sep=1.5pt]{};
+
+\end{tikzpicture}

@@ -1,0 +1,22 @@
+\tikzsetfigurename{module4_2_1_andereIjk}
+\begin{tikzpicture}
+\draw[-] (-3,0)--(8,0) node[anchor=south,below,xshift=-11cm]{$l$};
+
+\tkzDefPoint(0,0){A}
+\tkzDefPoint(1,0){B}
+\tkzDefPoint(-4/3,0){B2}
+\tkzDefPoint(12/5,0){P}
+
+\tkzLabelPoint[above](A){$A$}
+\tkzLabelPoint[above](B){$B$}
+\tkzLabelPoint[above](B2){$B'$}
+\tkzLabelPoint[above](P){$P$}
+\tkzLabelPoint[below](A){$0$}
+\tkzLabelPoint[below](B){$1$}
+\tkzLabelPoint[below](B2){$\frac{-4}{3}$}
+\tkzLabelPoint[below](P){$\frac{12}{5}$}
+
+
+\foreach \n in {A,B,P,B2}
+\node at (\n)[circle,fill,inner sep=1.5pt]{};
+\end{tikzpicture}

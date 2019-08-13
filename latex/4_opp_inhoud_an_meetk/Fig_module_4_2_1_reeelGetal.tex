@@ -1,0 +1,29 @@
+\tikzsetfigurename{module4_2_1_reeelGetal}	
+\begin{tikzpicture}
+\draw[-] (-3,0)--(3,0) node[anchor=south,below,xshift=-6cm]{$l$};
+\draw[-] (1,-3)--(1,3);
+
+\tkzDefPoint(0,0){A}
+\tkzDefPoint(1,0){B}
+\tkzDefPoint(1,-2){B2}
+
+\tkzDefPoint(0.5,0.7){C}
+\tkzDefPoint(1.7,-0.5){D}
+\tkzDefPoint(1.7,-1.5){E}
+\tkzDefPoint(1,-1){F}
+
+\tkzDrawSegment[black!60!black](A,C)
+\tkzDrawSegment[black!60!black](B,C)
+\tkzDrawSegment[black!60!black](B,D)
+\tkzDrawSegment[black!60!black](D,F)
+\tkzDrawSegment[black!60!black](F,E)
+\tkzDrawSegment[black!60!black](B2,E)
+
+\tkzLabelPoint[above](A){$A$}
+\tkzLabelPoint[above,xshift=0.2cm](B){$B$}
+\tkzLabelPoint[above,xshift=-0.2cm](B2){$B'$}
+\tkzLabelPoint[below](A){$0$}
+\tkzLabelPoint[below,xshift=0.2cm](B){$1$}
+\foreach \n in {A,B,C,D,E,F,B2}
+\node at (\n)[circle,fill,inner sep=1.5pt]{};
+\end{tikzpicture}

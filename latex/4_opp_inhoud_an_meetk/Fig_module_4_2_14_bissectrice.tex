@@ -1,0 +1,13 @@
+\tikzsetfigurename{module4_2_14_bissectrice}
+\begin{tikzpicture}
+\clip (-5,-5) rectangle (5,5);
+
+%	\draw[->] (-5,0)--(5,0) node[anchor=south,left,yshift=0.2cm]{$x$};
+%	\draw[->] (0,-5)--(0,5) node[anchor=south,left]{$y$};
+
+\draw[domain=-5:5,smooth,variable=\x] plot ({\x},{2/5*\x+4/5}) node[anchor=south,left,yshift=0.2cm] {$l$};	
+\draw[domain=-1:2,smooth,variable=\x] plot ({\x},{-3*\x+2}) node[anchor=south,left,yshift=0.2cm] {$l'$};	
+\draw[domain=-5:5,smooth,variable=\x] plot ({\x},{-9.83/21.2*\x+23.42/21.20}) node[anchor=south,left,yshift=-0.4cm] {$b$};	
+\draw[domain=-3:2,smooth,variable=\x] plot ({\x},{22.48/10.43*\x+1.88/10.43}) node[anchor=south,left,yshift=0.2cm] {$b'$};	
+
+\end{tikzpicture}

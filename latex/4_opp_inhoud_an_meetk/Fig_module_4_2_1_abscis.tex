@@ -1,0 +1,19 @@
+\tikzsetfigurename{module4_2_1_abscis}
+\begin{tikzpicture}
+\draw[-] (-3,0)--(8,0) node[anchor=south,below,xshift=-11cm]{$l$};
+
+\tkzDefPoint(0,0){A}
+\tkzDefPoint(1,0){B}
+\tkzDefPoint(5,0){P}
+
+\tkzLabelPoint[above](A){$A$}
+\tkzLabelPoint[above](B){$B$}
+\tkzLabelPoint[above](P){$P$}
+\tkzLabelPoint[below](A){$0$}
+\tkzLabelPoint[below](B){$1$}
+\tkzLabelPoint[below](P){$ab(P)=x$}
+
+
+\foreach \n in {A,B,P}
+\node at (\n)[circle,fill,inner sep=1.5pt]{};
+\end{tikzpicture}	

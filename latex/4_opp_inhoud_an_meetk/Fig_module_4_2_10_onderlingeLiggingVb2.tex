@@ -1,0 +1,37 @@
+\tikzsetfigurename{module4_2_10_onderlingeLiggingVb2}
+	\begin{tikzpicture}
+\draw[->] (-5,0)--(5,0) node[anchor=south,left,yshift=0.2cm]{$x$};
+\draw[->] (0,-5)--(0,6) node[anchor=south,left]{$y$};
+
+%	\draw[‎smooth,‎samples=100‎,domain=0:‎‎2‎‎, variable=\x] ‎plot({\x},‎‎‎‎‎‎‎‎{0.577 \x  - 6.155});‎‎
+\draw[domain=-5:5,smooth,variable=\x] plot ({\x},5);	
+
+\tkzDefPoint(0,0){S}
+\tkzDefPoint(1,0){x1}
+\tkzDefPoint(0,1){y1}
+
+\tkzDefPoint(0,5){y2}
+
+\tkzDefPoint(3,0){A1}
+\tkzDefPoint(0,-4){A2}
+
+\tkzDefPoint(3,-4){A}
+\tkzLabelPoint[below,xshift=-0.1cm](S){$0$}
+%	\tkzLabelPoint[right,yshift=-0.3cm](S){$O$}
+
+\tkzLabelPoint[below](x1){$1$}
+\tkzLabelPoint[left](y1){$1$}
+\tkzLabelPoint[left,yshift=0.2cm](y2){$5$}
+
+\tkzLabelPoint[right](A){$P$}
+%	
+\tkzLabelPoint[above](A1){$3$}
+\tkzLabelPoint[left](A2){$-4$}
+
+\tkzDrawSegment[black!60!black,dotted](A1,A)
+\tkzDrawSegment[black!60!black,dotted](A2,A)
+
+\foreach \n in {S,A1,A2,A,x1,y1}
+\node at (\n)[circle,fill,inner sep=1.5pt]{};
+
+\end{tikzpicture}

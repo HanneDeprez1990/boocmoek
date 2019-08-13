@@ -10,18 +10,7 @@ Het tweede punt $B$ komt overeen met het getal 1.
 %\gewonefiguur{height=2cm}{4_opp_inhoud_an_meetk/inputs/AMTekst1Fig1}
 
 \begin{center}
-	\begin{tikzpicture}
-	\draw[-] (-5,0)--(5,0) node[anchor=south,below,xshift=-10cm]{$l$};
-	
-	\tkzDefPoint(0,0){A}
-	\tkzDefPoint(1,0){B}
-	\tkzLabelPoint[above](A){$A$}
-	\tkzLabelPoint[above](B){$B$}
-	\tkzLabelPoint[below](A){$0$}
-	\tkzLabelPoint[below](B){$1$}
-	\foreach \n in {A,B}
-	\node at (\n)[circle,fill,inner sep=1.5pt]{};
-	\end{tikzpicture}
+\input{4_opp_inhoud_an_meetk/Fig_module_4_2_1_ijk}
 \end{center}
 
 %\begin{figure}[h]
@@ -36,16 +25,7 @@ Die ori\"entatie duidt je vaak aan met een pijl.
 Je stelt een geori\"enteerde rechte ook voor zoals op volgende tekening.
 
 \begin{center}
-	\begin{tikzpicture}
-	\draw[->] (-5,0)--(5,0) node[anchor=south,below,xshift=-10cm]{$l$};
-	
-	\tkzDefPoint(0,0){A}
-	\tkzDefPoint(1,0){B}
-	\tkzLabelPoint[below](A){$0$}
-	\tkzLabelPoint[below](B){$1$}
-	\foreach \n in {A,B}
-	\node at (\n)[circle,fill,inner sep=1.5pt]{};
-	\end{tikzpicture}
+\input{4_opp_inhoud_an_meetk/Fig_module_4_2_1_georienteerdeRechte}	
 \end{center}
 
 %\gewonefiguur{height=2cm}{4_opp_inhoud_an_meetk/inputs/AMTekst1Fig2}
@@ -60,34 +40,7 @@ Een natuurlijk getal $n$ (bijvoorbeeld 3) komt overeen met het punt $C$ op $l$ l
 Je ziet dit ge\"illustreerd voor $n=3$.
 
 \begin{center}
-	\begin{tikzpicture}
-	\draw[->] (-5,0)--(5,0) node[anchor=south,below,xshift=-10cm]{$l$};
-	
-	\tkzDefPoint(0,0){A}
-	\tkzDefPoint(1,0){B}
-	\tkzDefPoint(3,0){C}
-	
-	\tkzDefPoint(0.5,0.7){D}
-	\tkzDefPoint(1.5,0.7){E}
-	\tkzDefPoint(2.5,0.7){G}
-	\tkzDefPoint(2,0){F}
-	
-	\tkzDrawSegment[black!60!black](A,D)
-	\tkzDrawSegment[black!60!black](B,D)
-	\tkzDrawSegment[black!60!black](B,E)
-	\tkzDrawSegment[black!60!black](F,E)
-	\tkzDrawSegment[black!60!black](F,G)
-	\tkzDrawSegment[black!60!black](C,G)
-	
-	\tkzLabelPoint[above](A){$A$}
-	\tkzLabelPoint[above](B){$B$}
-	\tkzLabelPoint[above](C){$C$}
-	\tkzLabelPoint[below](A){$0$}
-	\tkzLabelPoint[below](B){$1$}
-	\tkzLabelPoint[below](C){$3$}
-	\foreach \n in {A,B,C,D,E,F,G}
-	\node at (\n)[circle,fill,inner sep=1.5pt]{};
-	\end{tikzpicture}
+\input{4_opp_inhoud_an_meetk/Fig_module_4_2_1_natuurlijkGetal}		
 \end{center}
 
 %\gewonefiguur{height=2cm}{4_opp_inhoud_an_meetk/inputs/AMTekst1Fig3}
@@ -161,65 +114,14 @@ Loodrecht (winkelhaak) op $l$ door $B$ trek je een rechte en daarop pas je met p
 Dit geeft het punt $B'$, hieronder te zien in de figuur.
 
 \begin{center}
-	\begin{tikzpicture}
-	\draw[-] (-3,0)--(3,0) node[anchor=south,below,xshift=-6cm]{$l$};
-	\draw[-] (1,-3)--(1,3);
-	
-	\tkzDefPoint(0,0){A}
-	\tkzDefPoint(1,0){B}
-	\tkzDefPoint(1,-2){B2}
-	
-	\tkzDefPoint(0.5,0.7){C}
-	\tkzDefPoint(1.7,-0.5){D}
-	\tkzDefPoint(1.7,-1.5){E}
-	\tkzDefPoint(1,-1){F}
-	
-	\tkzDrawSegment[black!60!black](A,C)
-	\tkzDrawSegment[black!60!black](B,C)
-	\tkzDrawSegment[black!60!black](B,D)
-	\tkzDrawSegment[black!60!black](D,F)
-	\tkzDrawSegment[black!60!black](F,E)
-	\tkzDrawSegment[black!60!black](B2,E)
-	
-	\tkzLabelPoint[above](A){$A$}
-	\tkzLabelPoint[above,xshift=0.2cm](B){$B$}
-	\tkzLabelPoint[above,xshift=-0.2cm](B2){$B'$}
-	\tkzLabelPoint[below](A){$0$}
-	\tkzLabelPoint[below,xshift=0.2cm](B){$1$}
-	\foreach \n in {A,B,C,D,E,F,B2}
-	\node at (\n)[circle,fill,inner sep=1.5pt]{};
-	\end{tikzpicture}
+	\input{4_opp_inhoud_an_meetk/Fig_module_4_2_1_reeelGetal}	
 \end{center}
 
 Met de passer met middelpunt $A$ en straal de afstand van $A$ tot $B'$ maak je een cirkelboog die op $l$ het punt $C$ geeft.
 Het resultaat is hieronder te zien in de figuur.
 
 \begin{center}
-	\begin{tikzpicture}
-	\draw[-] (-3,0)--(3,0) node[anchor=south,below,xshift=-6cm]{$l$};
-	\draw[-] (1,-3)--(1,3);
-	
-	\tkzDefPoint(0,0){A}
-	\tkzDefPoint(1,0){B}
-	\tkzDefPoint(1,-2){B2}
-	
-	\tkzDefPoint(2.236,0){C}
-	
-	\tkzDrawSegment[black!60!black](A,B2)
-	
-	\tkzLabelPoint[above](A){$A$}
-	\tkzLabelPoint[above,xshift=0.2cm](B){$B$}
-	\tkzLabelPoint[below,xshift=0.2cm](B2){$B'$}
-	\tkzLabelPoint[above](C){$C$}
-	\tkzLabelPoint[below](A){$0$}
-	\tkzLabelPoint[below,xshift=0.2cm](B){$1$}
-	\tkzLabelPoint[below,xshift=0.2cm](C){$\sqrt{5}$}
-	
-	\draw (B2) arc (296.56:360:22.36mm);
-	
-	\foreach \n in {A,B,C,B2}
-	\node at (\n)[circle,fill,inner sep=1.5pt]{};
-	\end{tikzpicture}
+	\input{4_opp_inhoud_an_meetk/Fig_module_4_2_1_reeelGetal2}	
 \end{center}
 
 %\gewonefiguur{width=.5\linewidth}{4_opp_inhoud_an_meetk/inputs/AMTekst1Fig7}
@@ -251,24 +153,7 @@ Ook een re\"eel getal zoals $\pi$ kun je niet op $l$ construeren.\vspace{2mm}
 \end{definitie}
 
 \begin{center}
-	\begin{tikzpicture}
-	\draw[-] (-3,0)--(8,0) node[anchor=south,below,xshift=-11cm]{$l$};
-	
-	\tkzDefPoint(0,0){A}
-	\tkzDefPoint(1,0){B}
-	\tkzDefPoint(5,0){P}
-		
-	\tkzLabelPoint[above](A){$A$}
-	\tkzLabelPoint[above](B){$B$}
-	\tkzLabelPoint[above](P){$P$}
-	\tkzLabelPoint[below](A){$0$}
-	\tkzLabelPoint[below](B){$1$}
-	\tkzLabelPoint[below](P){$ab(P)=x$}
-	
-	
-	\foreach \n in {A,B,P}
-	\node at (\n)[circle,fill,inner sep=1.5pt]{};
-	\end{tikzpicture}
+	\input{4_opp_inhoud_an_meetk/Fig_module_4_2_1_abscis}	
 \end{center}
 
 %\gewonefiguur{height=3cm}{4_opp_inhoud_an_meetk/inputs/AMTekst1Fig9}
@@ -289,27 +174,7 @@ $B'$ is het punt op $l$ met $\ab (B')=-\frac{4}{3}$ en $P$ is het punt op $l$ me
 Wat is de abscis van $P$ als je op $l$ de ijk $(A;B')$ neemt?
 
 \begin{center}
-	\begin{tikzpicture}
-	\draw[-] (-3,0)--(8,0) node[anchor=south,below,xshift=-11cm]{$l$};
-	
-	\tkzDefPoint(0,0){A}
-	\tkzDefPoint(1,0){B}
-	\tkzDefPoint(-4/3,0){B2}
-	\tkzDefPoint(12/5,0){P}
-	
-	\tkzLabelPoint[above](A){$A$}
-	\tkzLabelPoint[above](B){$B$}
-	\tkzLabelPoint[above](B2){$B'$}
-	\tkzLabelPoint[above](P){$P$}
-	\tkzLabelPoint[below](A){$0$}
-	\tkzLabelPoint[below](B){$1$}
-	\tkzLabelPoint[below](B2){$\frac{-4}{3}$}
-	\tkzLabelPoint[below](P){$\frac{12}{5}$}
-	
-	
-	\foreach \n in {A,B,P,B2}
-	\node at (\n)[circle,fill,inner sep=1.5pt]{};
-	\end{tikzpicture}
+	\input{4_opp_inhoud_an_meetk/Fig_module_4_2_1_andereIjk}	
 \end{center}
 
 
@@ -325,26 +190,7 @@ De afstand van $P$ tot $A$ is $\frac{36}{15}.\frac{15}{20}=\frac{36}{20}$-ste va
 Omdat $P$ aan de andere kant van $A$ ligt als $B'$ is de abscis van $P$ ten opzichte van de ijk $(A;B')$ gelijk aan $-\frac{36}{20}=-\frac{9}{5}$.
 
 \begin{center}
-	\begin{tikzpicture}
-	\draw[-] (-3,0)--(8,0) node[anchor=south,below,xshift=-11cm]{$l$};
-	
-	\tkzDefPoint(0,0){A}
-	\tkzDefPoint(1,0){B}
-	\tkzDefPoint(-4/3,0){B2}
-	\tkzDefPoint(12/5,0){P}
-	
-	\tkzLabelPoint[above](A){$A$}
-	\tkzLabelPoint[above](B){$B$}
-	\tkzLabelPoint[above](B2){$B'$}
-	\tkzLabelPoint[above](P){$P$}
-	\tkzLabelPoint[below](A){$0$}
-	\tkzLabelPoint[below](B2){$1$}
-	\tkzLabelPoint[below](P){$\frac{-9}{5}$}
-	
-	
-	\foreach \n in {A,B,P,B2}
-	\node at (\n)[circle,fill,inner sep=1.5pt]{};
-	\end{tikzpicture}
+	\input{4_opp_inhoud_an_meetk/Fig_module_4_2_1_andereIjk2}
 \end{center}
 
 \end{voorbeeld}
