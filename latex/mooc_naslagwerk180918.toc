@@ -36,14 +36,14 @@
 \contentsline {subsubsection}{Rekenregel}{24}{subsection.1.2.7}
 \contentsline {subsubsection}{Rationale exponenten}{25}{voorbeeld.1.2.7.1}
 \contentsline {subsection}{\numberline {2.8}Rekenen met breuken}{26}{subsection.1.2.8}
-\contentsline {subsubsection}{Gelijke breuken}{27}{subsection.1.2.8}
+\contentsline {subsubsection}{Gelijke breuken}{26}{subsection.1.2.8}
 \contentsline {subsubsection}{Breuken optellen en aftrekken}{28}{subsection.1.2.8}
 \contentsline {subsubsection}{Breuken vermenigvuldigen}{29}{subsection.1.2.8}
 \contentsline {subsubsection}{Tegengestelde van een breuk}{30}{subsection.1.2.8}
 \contentsline {subsubsection}{Breuken delen}{30}{subsection.1.2.8}
 \contentsline {subsection}{\numberline {2.9}Rekenen met logaritmen}{31}{subsection.1.2.9}
 \contentsline {subsubsection}{Bijzondere gevallen}{32}{voorbeeld.1.2.9.2}
-\contentsline {subsubsection}{Grafische voorstelling}{33}{voorbeeld.1.2.9.2}
+\contentsline {subsubsection}{Grafische voorstelling}{32}{voorbeeld.1.2.9.2}
 \contentsline {subsubsection}{Grafische voorstelling van de Neperiaanse logaritme}{33}{voorbeeld.1.2.9.2}
 \contentsline {subsubsection}{Rekenregels}{33}{voorbeeld.1.2.9.2}
 \contentsline {subsection}{\numberline {2.10}Algebra: het rekenen met letters}{34}{subsection.1.2.10}
@@ -309,7 +309,7 @@
 \contentsline {subsection}{\numberline {1.7}Basisafgeleiden en rekenregels - voorbeeld}{275}{subsection.6.1.7}
 \contentsline {subsection}{\numberline {1.8}Enkele oefeningen}{275}{subsection.6.1.8}
 \contentsline {subsection}{\numberline {1.9}Afgeleide en verloop van een functie}{280}{subsection.6.1.9}
-\contentsline {subsection}{\numberline {1.10}Test afgeleiden}{281}{subsection.6.1.10}
+\contentsline {subsection}{\numberline {1.10}Test afgeleiden}{282}{subsection.6.1.10}
 \contentsline {section}{\numberline {2}Integralen}{282}{section.6.2}
 \contentsline {subsection}{\numberline {2.1}Inleidend voorbeeld}{282}{subsection.6.2.1}
 \contentsline {subsection}{\numberline {2.2}Primitieve functies en onbepaalde integralen}{282}{subsection.6.2.2}
