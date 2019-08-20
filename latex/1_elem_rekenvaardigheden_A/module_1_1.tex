@@ -126,28 +126,25 @@ Let op! $x \in \mathbb{R}$
 
 \begin{voorbeeld}
 Zie Figuur \ref{fig:absvalue}
-%TODO figuur te vervangen door tex bestand met tikzpicture
-\input{1_elem_rekenvaardigheden_A/inputs/absValue}
-\figuurmetlabel[\label{fig:absvalue}]{width=7cm}{1_elem_rekenvaardigheden_A/inputs/absValue}{Absolute waarde - voorbeeld 1.}
-%
-%	\begin{figure}
-%		\centering
-%		\includegraphics[width=0.7\linewidth]{1_elem_rekenvaardigheden_A/inputs/absValue}
-%		\caption{Absolute waarde - voorbeeld 1.}
-%		\label{fig:absvalue}
-%	\end{figure}	
+
+\begin{figure}
+	\centering	
+	\input{1_elem_rekenvaardigheden_A/Fig_module_1_1_2_absvalue}
+	\caption{Absolute waarde - voorbeeld 1.}
+	\label{fig:absvalue}
+\end{figure}
+
 \end{voorbeeld}
 
 \begin{voorbeeld}
-	Zie Figuur \ref{fig:absvalue2}	
-	%TODO figuur te vervangen door tex bestand met tikzpicture
-	\figuurmetlabel[\label{fig:absvalue2}]{width=7cm}{1_elem_rekenvaardigheden_A/inputs/absValue2}{Absolute waarde - voorbeeld 2.}
-%	\begin{figure}
-%	\centering
-%	\includegraphics[width=0.7\linewidth]{1_elem_rekenvaardigheden_A/inputs/absValue2}
-%	\caption{Absolute waarde - voorbeeld 2.}
-%	\label{fig:absvalue2}
-%	\end{figure}	
+	
+\begin{figure}
+	\centering	
+	\input{1_elem_rekenvaardigheden_A/Fig_module_1_1_2_absvalue_2}	
+	\caption{Absolute waarde - voorbeeld 2.}
+	\label{fig:absvalue2}
+\end{figure}	
+
 \end{voorbeeld}
 
 \subsection{Sommatie}
@@ -177,7 +174,7 @@ Voor getallen $x_m,x_{m+1},\ldots,x_n$ voeren we volgende notatie in
 	\sum_{i=1}^{100}i = 1+2+3+\ldots+100
 	\end{equation*}
 	
-wordt dan
+ordt dan
 
 	\begin{equation*}
 \sum_{i=0}^{99} (i+1) = 1+2+3+\ldots+100
@@ -337,12 +334,43 @@ Het verschil van twee vectoren is opnieuw een vector. $\vec{v_1}-\vec{v_2}=\vec{
 \end{opmerking}
 
 Het samenstellen van twee vectoren gebeurt volgens de \textbf{parallellogramregel}, zie Figuur \ref{fig:som_par}. Wanneer we twee vectoren $\vec{v_1}$ en $\vec{v_2}$ (met een verschillende richting) willen optellen, dan construeren we een parallellogram. We plaatsen $\vec{v_1}$ en $\vec{v_2}$ zodat hun aangrijpingspunt samenvalt. De som $\vec{v_1}+\vec{v_2}$ wordt dan gegeven door de vector met het aangrijpingspunt en eindpunt het overstaand hoekpunt van de parallellogram.
-%TODO figuur te vervangen door tex bestand met tikzpicture
-\figuurmetlabel[\label{fig:som_par}]{width=7cm}{1_elem_rekenvaardigheden_A/inputs/parRegelSom}{Parallellogramregel voor het bepalen van de som van 2 vectoren.}
+
+%TODO klopt de referentie hier naar de 'plaatsvector' figuur? 
+
+
+
+\begin{figure}
+	\centering	
+	\input{5_vglen_ongelijkheden_stelsels_matrices/Fig_module5_2_plaatsvector.tex}
+	\caption{Plaatsvector}
+	\label{fig:plaatsvector}
+\end{figure}
+
+
+
+
+\begin{figure}
+	\centering	
+\input{1_elem_rekenvaardigheden_A/Fig_module_1_1_6_parRegelSom.tex}
+	\caption{Parallellogramregel voor het bepalen van de som van 2 vectoren.}
+	\label{fig:som_par}
+\end{figure}
+
+
+ 
+ 
 
 Deze parallellogram constructie kan ook gebruikt worden voor het omgekeerde proces, namelijk het \textbf{ontbinden van een vector in 2 (of meerdere) componenten (dit zijn scalairen)}, elk volgens een bepaalde richting. Vaak wordt dan een gegeven vector ontbonden in een component volgens de $x$-as en een component volgens de $y$-as.
-%TODO figuur te vervangen door tex bestand met tikzpicture
-\figuurmetlabel[\label{fig:kopstaartsom_par}]{width=7cm}{1_elem_rekenvaardigheden_A/inputs/kopstaart}{Kopstaartregel voor het bepalen van de som van 2 vectoren.}
+
+
+
+\begin{figure}
+	\centering	
+	\input{1_elem_rekenvaardigheden_A/Fig_module_1_1_6_kopstaart}
+	\caption{Kopstaartregel voor het bepalen van de som van 2 vectoren.}
+	\label{fig:kopstaartsom_par}
+\end{figure}
+
 
 Een andere manier om twee vectoren op te tellen, is deze kop aan staart te leggen, zie Figuur \ref{fig:kopstaartsom_par}. We plaatsen de vector $\vec{v_2}$ zodat zijn beginpunt samenvalt met het eindpunt van de vector $\vec{v_1}$. De som  wordt dan gegeven door de vector wijzend van het beginpunt van $\vec{v_1}$ naar het eindpunt van $\vec{v_2}$. Deze regel noemen we de \textbf{driehoeksregel} of de \textbf{kopstaartregel}.
 
@@ -399,5 +427,5 @@ Het vectorieel product is dus maximaal als beide vectoren loodrecht op elkaar st
 	Zie filmpje MOOC.
 \end{minipage}
 
-\subsection{Test - wiskundige notaties}
-%TODO
+%\subsection{Test - wiskundige notaties}
+%TODO test?
