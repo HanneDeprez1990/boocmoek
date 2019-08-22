@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  13 AUG 2019 13:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  20 AUG 2019 13:33
 entering extended mode
 **\def\tikzexternalrealjob{mooc_naslagwerk180918}\input{mooc_naslagwerk180918}
 (mooc_naslagwerk180918.tex ("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cl
@@ -1922,27 +1922,25 @@ isable this.
 
 LaTeX Warning: Reference `fig:absvalue' on page 4 undefined on input line 128.
 
-(1_elem_rekenvaardigheden_A/inputs/absValue.tex
+(1_elem_rekenvaardigheden_A/Fig_module_1_1_2_absvalue.tex
 \openout6 = `tikzFigures/mooc_naslagwerk180918-figure0.dpth'.
 
 [4
 
-{C:/Users/u0092745/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/u0092745/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
+(1_elem_rekenvaardigheden_A/Fig_module_1_1_2_absvalue_2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (15.31404pt too wide) in paragraph at lines 2--52
+ [] 
+ []
+
 )
-The command '\includegraphics [width=7cm]{1_elem_rekenvaardigheden_A/inputs/abs
-Value}' has been optimized away. Use '/tikz/external/optimize=false' to disable
- this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-
-LaTeX Warning: Reference `fig:absvalue2' on page 5 undefined on input line 142.
-
-
-The command '\includegraphics [width=7cm]{1_elem_rekenvaardigheden_A/inputs/abs
-Value2}' has been optimized away. Use '/tikz/external/optimize=false' to disabl
-e this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
@@ -1977,7 +1975,7 @@ isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--311
+Underfull \hbox (badness 10000) in paragraph at lines 306--308
 
  []
 
@@ -1988,17 +1986,21 @@ isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
-LaTeX Warning: Reference `fig:som_par' on page 9 undefined on input line 339.
+LaTeX Warning: Reference `fig:som_par' on page 9 undefined on input line 336.
 
-The command '\includegraphics [width=7cm]{1_elem_rekenvaardigheden_A/inputs/par
-RegelSom}' has been optimized away. Use '/tikz/external/optimize=false' to disa
-ble this.
-The command '\includegraphics [width=7cm]{1_elem_rekenvaardigheden_A/inputs/kop
-staart}' has been optimized away. Use '/tikz/external/optimize=false' to disabl
-e this.
+(5_vglen_ongelijkheden_stelsels_matrices/Fig_module5_2_plaatsvector.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (1_elem_rekenvaardigheden_A/Fig_module_1_1_6_parRegelSom.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (1_elem_rekenvaardigheden_A/Fig_module_1_1_6_kopstaart.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
 
 LaTeX Warning: Reference `fig:kopstaartsom_par' on page 9 undefined on input li
-ne 347.
+ne 375.
 
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
@@ -2009,7 +2011,7 @@ isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
-Underfull \hbox (badness 10000) in paragraph at lines 366--368
+Underfull \hbox (badness 10000) in paragraph at lines 394--396
 
  []
 
@@ -2050,6 +2052,7 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 92.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
+Package mdframed Info: Not enough space on this page on input line 94.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
@@ -2090,10 +2093,8 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 372.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-Package mdframed Info: Not enough space on this page on input line 374.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-Package mdframed Info: Not enough space on this page on input line 374.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
@@ -2108,13 +2109,13 @@ Overfull \hbox (10.71661pt too wide) in paragraph at lines 413--414
 
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 
 Overfull \hbox (15.67055pt too wide) in paragraph at lines 438--439
 []
  []
 
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 473.
@@ -2125,6 +2126,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 474--476
 
  []
 
+
+Package mdframed Warning: You got a bad break
+(mdframed)                because the last box will be empty
+(mdframed)                you have to change it manually
+(mdframed)                by changing the text, the space
+(mdframed)                or something else on input line 496.
+
+Package mdframed Info: Box was splittet wrong
+ starting loop to iterate the splitting point
+(mdframed)              on input line 496.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
@@ -2139,10 +2150,8 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 559.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-Package mdframed Info: Not enough space on this page on input line 561.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-Package mdframed Info: Not enough space on this page on input line 561.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 Package mdframed Info: mdframed detected package amsthm 
@@ -2155,18 +2164,16 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 635.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 666.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 691.
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 Package mdframed Info: mdframed detected package amsthm 
@@ -2199,22 +2206,23 @@ Overfull \hbox (10.65971pt too wide) in paragraph at lines 785--786
 
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 796.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [width=.5\linewidth ]{1_elem_rekenvaardigheden_A/
-inputs/logFunc1}' has been optimized away. Use '/tikz/external/optimize=false' 
-to disable this.
+(1_elem_rekenvaardigheden_A/Fig_module_1_2_9_logFunc1.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [width=.5\linewidth ]{1_elem_rekenvaardigheden_A/
-inputs/logFunc2}' has been optimized away. Use '/tikz/external/optimize=false' 
-to disable this.
+) (1_elem_rekenvaardigheden_A/Fig_module_1_2_9_logFunc2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 827.
+(mdframed)              on input line 842.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
@@ -2234,19 +2242,21 @@ isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1018--1019
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1034
 
  []
 
 
-Overfull \hbox (8.22568pt too wide) detected at line 1039
+Overfull \hbox (8.22568pt too wide) detected at line 1054
 []
  []
 
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1051--1052
+Underfull \hbox (badness 10000) in paragraph at lines 1066--1067
 
  []
 
@@ -2260,7 +2270,7 @@ A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
 LaTeX Warning: Reference `sec:ontbindeninfactoren' on page 31 undefined on inpu
-t line 1116.
+t line 1131.
 
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
@@ -2277,7 +2287,7 @@ isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
-Overfull \hbox (28.81763pt too wide) in paragraph at lines 1239--1248
+Overfull \hbox (28.81763pt too wide) in paragraph at lines 1254--1263
 []$[]$ 
  []
 
@@ -2351,11 +2361,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 158.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
@@ -4875,12 +4885,12 @@ isable this.
 )
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 (4_opp_inhoud_an_meetk/Fig_module_4_2_1_abscis.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 )
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 (4_opp_inhoud_an_meetk/Fig_module_4_2_1_andereIjk.tex
@@ -4898,12 +4908,13 @@ REEELGETALVB_module4new}' has been optimized away. Use '/tikz/external/optimize
 LaTeX Warning: Reference `fig4.2.2_fig1' on page 162 undefined on input line 3.
 
 
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 (4_opp_inhoud_an_meetk/Fig_module_4_2_3_assenstelsel.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-) (4_opp_inhoud_an_meetk/Fig_module_4_2_3_assenstelselxy.tex
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_3_assenstelselxy.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 )
@@ -4918,8 +4929,6 @@ Overfull \hbox (15.67055pt too wide) in paragraph at lines 54--55
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 )
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 The command '\includegraphics [width=.5\linewidth ]{4_opp_inhoud_an_meetk/input
 s/AMTekst2Fig5}' has been optimized away. Use '/tikz/external/optimize=false' t
 o disable this.
@@ -4936,17 +4945,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--15
 
  []
 
-(4_opp_inhoud_an_meetk/module_4_2_4.tex (4_opp_inhoud_an_meetk/Fig_module_4_2_4
-_afstandTss2Punten.tex
+(4_opp_inhoud_an_meetk/module_4_2_4.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_4_afstandTss2Punten.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 ) (4_opp_inhoud_an_meetk/Fig_module_4_2_4_horizontaleRechte.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-)
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
-(4_opp_inhoud_an_meetk/Fig_module_4_2_4_verticaleRechte.tex
+) (4_opp_inhoud_an_meetk/Fig_module_4_2_4_verticaleRechte.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 )
@@ -6168,11 +6176,11 @@ A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 95.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
@@ -6429,8 +6437,6 @@ isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 ))
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 Hoofdstuk .
@@ -7832,17 +7838,17 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 157.
  ) 
 Here is how much of TeX's memory you used:
- 48442 strings out of 492973
- 1100038 string characters out of 3135923
- 1347403 words of memory out of 3000000
- 51264 multiletter control sequences out of 15000+200000
+ 48462 strings out of 492973
+ 1101290 string characters out of 3135923
+ 1347394 words of memory out of 3000000
+ 51269 multiletter control sequences out of 15000+200000
  547089 words of font info for 79 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,20n,136p,1044b,893s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 79i,20n,136p,1044b,1031s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on tikzFigures/mooc_naslagwerk180918-figure0.pdf (1 page, 28755 
+Output written on tikzFigures/mooc_naslagwerk180918-figure0.pdf (1 page, 28731 
 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
