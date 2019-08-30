@@ -1,13 +1,107 @@
 \babel@toc {dutch}{}
 \babel@toc {dutch}{}
-\contentsline {chapter}{\numberline {}Module 2. Elementaire rekenvaardigheden B}{2}{chapter.1}% 
-\contentsline {section}{\numberline {1}Functies}{2}{section.1.1}% 
-\contentsline {subsection}{\numberline {1.1}Eerste- en tweedegraadsfuncties}{2}{subsection.1.1.1}% 
-\contentsline {subsubsection}{Constante functies}{2}{subsection.1.1.1}% 
-\contentsline {subsubsection}{Eerstegraadsfuncties of lineaire functies}{3}{figure.caption.2}% 
-\contentsline {subsubsection}{Tweedegraadsfuncties of kwadratische functies}{5}{tabelnr.1.4}% 
-\contentsline {subsection}{\numberline {1.2}Tweedegraadsvergelijking - voorbeeld 1}{9}{subsection.1.1.2}% 
-\contentsline {subsection}{\numberline {1.3}Tweedegraadsvergelijking - voorbeeld 2}{9}{subsection.1.1.3}% 
-\contentsline {section}{\numberline {2}Limieten}{9}{section.1.2}% 
-\contentsline {chapter}{\numberline {}Oplossingen van de oefeningen zonder $\ast $}{10}{chapter.2}% 
-\contentsline {chapter}{\numberline {}Oplossingen van alle oefeningen}{11}{chapter.3}% 
+\contentsline {chapter}{\numberline {}Module 2. Elementaire rekenvaardigheden B}{3}{chapter.1}
+\contentsline {section}{\numberline {1}Functies}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1}Eerste- en tweedegraadsfuncties}{3}{subsection.1.1.1}
+\contentsline {subsubsection}{Constante functies}{3}{subsection.1.1.1}
+\contentsline {subsubsection}{Eerstegraadsfuncties of lineaire functies}{4}{figure.caption.2}
+\contentsline {subsubsection}{Tweedegraadsfuncties of kwadratische functies}{6}{tabelnr.1.4}
+\contentsline {subsection}{\numberline {1.2}Tweedegraadsvergelijking - voorbeeld 1}{10}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.3}Tweedegraadsvergelijking - voorbeeld 2}{10}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.4}Co\"ordinatenstelsels}{10}{subsection.1.1.4}
+\contentsline {subsubsection}{Cartesisch of rechthoekig co\"ordinatenstelsel}{10}{subsection.1.1.4}
+\contentsline {subsubsection}{Parametervoorstelling van een functie}{11}{tabelnr.1.6}
+\contentsline {subsubsection}{Poolco\"ordinaten}{12}{voorbeeld.1.1.4.2}
+\contentsline {section}{\numberline {2}Limieten}{15}{section.1.2}
+\contentsline {chapter}{\numberline {}Module 4. Oppervlakteberekeningen, inhoudsberekeningen en analytische meetkunde.}{16}{chapter.2}
+\contentsline {section}{\numberline {1}Oppervlakte- en inhoudsberekeningen}{16}{section.2.1}
+\contentsline {subsection}{\numberline {1.1}Omtrek, oppervlakte en volume}{16}{subsection.2.1.1}
+\contentsline {subsubsection}{De omtrek $O$}{16}{subsection.2.1.1}
+\contentsline {subsubsection}{De oppervlakte $A$}{17}{subsection.2.1.1}
+\contentsline {subsubsection}{Het volume $V$}{17}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {1.2}Vlakke figuren}{18}{subsection.2.1.2}
+\contentsline {subsubsection}{Omtrek $O$ en oppervlakte $A$}{18}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {1.3}Ruimtefiguren}{18}{subsection.2.1.3}
+\contentsline {subsubsection}{Prisma}{18}{subsection.2.1.3}
+\contentsline {subsubsection}{Kubus of hecta\"eder}{21}{subsection.2.1.3}
+\contentsline {subsubsection}{Balk}{21}{subsection.2.1.3}
+\contentsline {subsubsection}{Parallellepipedum}{22}{subsection.2.1.3}
+\contentsline {subsubsection}{Piramide}{23}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {1.4}Omwentelingslichamen}{24}{subsection.2.1.4}
+\contentsline {subsubsection}{Cilinder}{24}{subsection.2.1.4}
+\contentsline {subsubsection}{Kegel}{25}{subsection.2.1.4}
+\contentsline {subsubsection}{Bol}{26}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {1.5}Test oppervlakte en inhoudsberekeningen}{27}{subsection.2.1.5}
+\contentsline {section}{\numberline {2}Analytische meetkunde}{27}{section.2.2}
+\contentsline {subsection}{\numberline {2.1}Abscis van een punt op een geijkte rechte}{27}{subsection.2.2.1}
+\contentsline {subsubsection}{Rationaal getal}{28}{subsection.2.2.1}
+\contentsline {subsubsection}{Negatief getal}{28}{subsection.2.2.1}
+\contentsline {subsubsection}{Re\"eel getal}{28}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2}Re\"eel getal - voorbeeld}{30}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Euclidische co\"ordinaten in het vlak}{30}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.4}Afstand tussen twee punten in het vlak}{32}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.5}Afstand tussen twee punten - voorbeeld}{36}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.6}Vergelijking van een rechte}{36}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.7}Vergelijking rechte - voorbeeld}{39}{subsection.2.2.7}
+\contentsline {subsection}{\numberline {2.8}Vergelijking rechte met richting en door gegeven punt - extra voorbeelden}{39}{subsection.2.2.8}
+\contentsline {subsection}{\numberline {2.9}Vergelijking rechte met richting en door gegeven punt - extra voorbeelden}{39}{subsection.2.2.9}
+\contentsline {subsection}{\numberline {2.10}Onderlinge ligging van twee rechten}{42}{subsection.2.2.10}
+\contentsline {subsection}{\numberline {2.11}Onderlinge ligging van twee rechten - voorbeeld 1}{46}{subsection.2.2.11}
+\contentsline {subsection}{\numberline {2.12}Onderlinge ligging van twee rechten - voorbeeld 2}{46}{subsection.2.2.12}
+\contentsline {subsection}{\numberline {2.13}Onderlinge ligging van twee rechten - voorbeeld 3}{47}{subsection.2.2.13}
+\contentsline {subsection}{\numberline {2.14}Afstand van een punt tot een rechte}{47}{subsection.2.2.14}
+\contentsline {subsection}{\numberline {2.15}Vergelijking van een cirkel in het vlak}{50}{subsection.2.2.15}
+\contentsline {subsection}{\numberline {2.16}Vergelijking van een cirkel in het vlak - voorbeeld}{54}{subsection.2.2.16}
+\contentsline {subsection}{\numberline {2.17}Test analytische meetkunde}{54}{subsection.2.2.17}
+\contentsline {chapter}{\numberline {}Module 5. Vergelijkingen, Ongelijkheden, Stelsels en Matrices}{55}{chapter.3}
+\contentsline {section}{\numberline {1}Vergelijkingen, ongelijkheden en stelsels}{55}{section.3.1}
+\contentsline {subsection}{\numberline {1.1}Definities}{56}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {1.2}Eerstegraadsvergelijkingen}{57}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {1.3}Oplossen van tweedegraadsvergelijkingen}{59}{subsection.3.1.3}
+\contentsline {subsubsection}{Algemene methode om een tweedegraadsvergelijking op te lossen}{60}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {1.4}Speciale gevallen}{62}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {1.5}Hogeregraadsvergelijkingen}{65}{subsection.3.1.5}
+\contentsline {subsubsection}{Enkele nuttige weetjes over veeltermvergelijkingen in het algemeen}{65}{subsection.3.1.5}
+\contentsline {subsubsection}{Substitutiemethode}{65}{subsection.3.1.5}
+\contentsline {subsubsection}{Ontbinden in factoren}{66}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {1.6}Stelsels van vergelijkingen}{67}{subsection.3.1.6}
+\contentsline {subsubsection}{Inleiding}{67}{subsection.3.1.6}
+\contentsline {subsection}{\numberline {1.7}Ongelijkheden}{71}{subsection.3.1.7}
+\contentsline {subsubsection}{Inleiding}{71}{subsection.3.1.7}
+\contentsline {section}{\numberline {2}Matrices}{74}{section.3.2}
+\contentsline {subsection}{\numberline {2.1}Definities}{78}{subsection.3.2.1}
+\contentsline {subsubsection}{Definitie van een matrix}{78}{subsection.3.2.1}
+\contentsline {subsubsection}{Enkele veel voorkomende speciale matrices}{78}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {2.2}Bewerkingen met matrices}{80}{subsection.3.2.2}
+\contentsline {subsubsection}{Transponeren van een matrix}{80}{subsection.3.2.2}
+\contentsline {subsubsection}{Product van een matrix met een getal}{81}{voorbeeld.3.2.2.3}
+\contentsline {subsubsection}{Optellen van matrices}{81}{voorbeeld.3.2.2.3}
+\contentsline {subsubsection}{Vermenigvuldiging van twee matrices}{81}{voorbeeld.3.2.2.5}
+\contentsline {subsection}{\numberline {2.3}Determinant}{83}{subsection.3.2.3}
+\contentsline {subsubsection}{Inleiding}{83}{subsection.3.2.3}
+\contentsline {subsubsection}{Determinant van een 1x1 matrix}{83}{subsection.3.2.3}
+\contentsline {subsubsection}{Determinant van een 2x2 matrix}{83}{subsection.3.2.3}
+\contentsline {subsubsection}{Minor van een element van een vierkante matrix}{83}{subsection.3.2.3}
+\contentsline {subsubsection}{Cofactor van een element van een vierkante matrix}{83}{voorbeeld.3.2.3.1}
+\contentsline {subsubsection}{Determinant van een $n \times n$ matrix}{84}{voorbeeld.3.2.3.3}
+\contentsline {subsubsection}{Eigenschappen van determinanten}{85}{voorbeeld.3.2.3.6}
+\contentsline {subsection}{\numberline {2.4}Inverse van een matrix}{87}{subsection.3.2.4}
+\contentsline {subsubsection}{Reguliere en singuliere matrix}{87}{subsection.3.2.4}
+\contentsline {subsubsection}{Inverse van een matrix}{87}{subsection.3.2.4}
+\contentsline {subsubsection}{Adjunctmatrix van een vierkante matrix}{88}{voorbeeld.3.2.4.1}
+\contentsline {subsection}{\numberline {2.5}De rang van een matrix}{89}{subsection.3.2.5}
+\contentsline {subsubsection}{Onderdeterminant van p-de orde van een matrix}{89}{subsection.3.2.5}
+\contentsline {subsubsection}{Rang van een matrix}{90}{voorbeeld.3.2.5.1}
+\contentsline {subsection}{\numberline {2.6}Elementaire omvormingen van een matrix}{91}{subsection.3.2.6}
+\contentsline {subsubsection}{Definitie}{91}{subsection.3.2.6}
+\contentsline {subsubsection}{De rang van een matrix bepalen met elementaire omvormingen}{92}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {2.7}Praktische berekening van de inverse van een matrix}{94}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {2.8}Methode van Gauss voor het oplossen van een stelsel van vergelijkingen}{96}{subsection.3.2.8}
+\contentsline {subsubsection}{Stelsels van lineaire vergelijkingen in matrixnotatie}{96}{subsection.3.2.8}
+\contentsline {subsubsection}{Equivalentietransformaties van een stelsel lineaire vergelijkingen}{97}{subsection.3.2.8}
+\contentsline {subsubsection}{Methode van Gauss}{98}{subsection.3.2.8}
+\contentsline {subsection}{\numberline {2.9}De regel van Cramer}{102}{subsection.3.2.9}
+\contentsline {subsubsection}{Inleiding}{102}{subsection.3.2.9}
+\contentsline {subsubsection}{De regel van Cramer}{102}{subsection.3.2.9}
+\contentsline {chapter}{\numberline {}Oplossingen van de oefeningen zonder $\ast $}{105}{chapter.4}
+\contentsline {chapter}{\numberline {}Oplossingen van alle oefeningen}{106}{chapter.5}
