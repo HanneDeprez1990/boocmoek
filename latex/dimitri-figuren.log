@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.11)  27 AUG 2019 14:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.11)  30 AUG 2019 09:11
 entering extended mode
 **./dimitri-figuren.tex
 (dimitri-figuren.tex
@@ -810,94 +810,97 @@ G,.JBIG2,.JB2,.eps]
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.16}).
 
-(1_elem_rekenvaardigheden_A/Fig_module_1_1_2_absvalue_2.tex
-LaTeX Font Info:    Try loading font information for U+msa on input line 12.
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
 
 ("C:\Users\u0066773\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.f
 d"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 12.
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
 
 ("C:\Users\u0066773\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.f
 d"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Missing character: There is no , in font nullfont!
-Missing character: There is no 3 in font nullfont!
-) (1_elem_rekenvaardigheden_A/Fig_module_1_1_6_parRegelSom.tex
-
-LaTeX Font Warning: Command \Huge invalid in math mode on input line 22.
-
-) (1_elem_rekenvaardigheden_A/Fig_module_1_1_6_kopstaart.tex
-
-LaTeX Font Warning: Command \Huge invalid in math mode on input line 13.
-
-) (1_elem_rekenvaardigheden_A/Fig_module_1_1_2_absvalue.tex [1
-
-{C:/Users/u0066773/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
-(1_elem_rekenvaardigheden_A/Fig_module_1_2_9_logFunc1.tex
+) (2_elem_rekenvaardigheden_B/Fig_module_2_1_4_teken_rico_pos.tex
 Missing character: There is no , in font nullfont!
 Missing character: There is no 3 in font nullfont!
 )
-(1_elem_rekenvaardigheden_A/Fig_module_1_2_9_logFunc2.tex
-Missing character: There is no , in font nullfont!
-Missing character: There is no 3 in font nullfont!
- [2] [3])
-(2_elem_rekenvaardigheden_B/Fig_module_2_1_2_reele_functies_vb1.tex
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_4_rico_nul.tex
 Missing character: There is no , in font nullfont!
 Missing character: There is no 3 in font nullfont!
 )
-(2_elem_rekenvaardigheden_B/Fig_module_2_1_2_reele_functies_vb2.tex
-Overfull \hbox (77.37032pt too wide) in paragraph at lines 82--1
-[]
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_4_teken_rico_neg.tex
+Missing character: There is no , in font nullfont!
+Missing character: There is no 3 in font nullfont!
+)
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_3_verloop_stijgen_dalen.tex
+Missing character: There is no , in font nullfont!
+Missing character: There is no 3 in font nullfont!
+)
+[1
+
+{C:/Users/u0066773/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_5_tweedegraadsfunctie_tabel_1.tex)
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_5_tweedegraadsfunctie_tabel_2.tex)
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_5_tweedegraadsfunctie_tabel_3.tex)
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_5_tweedegraadsfunctie_tabel_4.tex)
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_5_tweedegraadsfunctie_tabel_5.tex)
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_5_tweedegraadsfunctie_tabel_6.tex)
+Overfull \hbox (12.94104pt too wide) in paragraph at lines 55--68
+[][] 
  []
 
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_7_veeltermfuncties_1.tex [2]
+Missing character: There is no , in font nullfont!
+Missing character: There is no 3 in font nullfont!
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--1
+[3]) (2_elem_rekenvaardigheden_B/Fig_module_2_1_7_veeltermfuncties_2.tex
+Missing character: There is no , in font nullfont!
+Missing character: There is no 3 in font nullfont!
 
+[4]) (2_elem_rekenvaardigheden_B/Fig_module_2_1_7_veeltermfuncties_3.tex
+Missing character: There is no , in font nullfont!
+Missing character: There is no 3 in font nullfont!
+
+[5]
+Overfull \vbox (156.27797pt too high) has occurred while \output is active []
+
+
+[6])
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_7_veeltermfuncties_3_zoom_in.tex)
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_7_veeltermfuncties_4.tex
+Missing character: There is no , in font nullfont!
+Missing character: There is no 3 in font nullfont!
+)
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_10_exponentiele_functie_2.tex
+Missing character: There is no , in font nullfont!
+Missing character: There is no 3 in font nullfont!
+
+Overfull \hbox (109.20132pt too wide) in paragraph at lines 42--43
+ [] 
  []
 
-Missing character: There is no , in font nullfont!
-Missing character: There is no 3 in font nullfont!
-[4]) (2_elem_rekenvaardigheden_B/Fig_module_2_1_2_reele_functies_vb3.tex
-Missing character: There is no , in font nullfont!
-Missing character: There is no 3 in font nullfont!
-
-[5]) (2_elem_rekenvaardigheden_B/Fig_module_2_1_2_verloop_vb1.tex)
-(2_elem_rekenvaardigheden_B/Fig_module_2_1_2_verloop_vb2.tex
-Missing character: There is no , in font nullfont!
-Missing character: There is no 3 in font nullfont!
- [6])
-(2_elem_rekenvaardigheden_B/Fig_module_2_1_2_verloop_vb3.tex
-Missing character: There is no , in font nullfont!
-Missing character: There is no 3 in font nullfont!
-
-Overfull \hbox (12.39035pt too wide) in paragraph at lines 88--93
-[][]
- []
-
-[7]) [8] [9] (dimitri-figuren.aux) ) 
+[7]) [8] (dimitri-figuren.aux) ) 
 Here is how much of TeX's memory you used:
- 26959 strings out of 492895
- 695411 string characters out of 3122334
- 887273 words of memory out of 3000000
- 30326 multiletter control sequences out of 15000+200000
- 9192 words of font info for 35 fonts, out of 3000000 for 9000
+ 27209 strings out of 492895
+ 700199 string characters out of 3122334
+ 890273 words of memory out of 3000000
+ 30567 multiletter control sequences out of 15000+200000
+ 8893 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,7n,136p,729b,784s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/u0066773/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/u0066773/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/u
-0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.
-pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmr10.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmr8.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/u0066773/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on dimitri-figuren.pdf (9 pages, 91383 bytes).
+ 78i,13n,136p,729b,795s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/u0066773/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/u0066773/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/u0066
+773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
+<C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr6.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/u0066773/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on dimitri-figuren.pdf (8 pages, 94160 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

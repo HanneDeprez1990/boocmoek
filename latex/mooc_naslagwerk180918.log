@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.11)  23 AUG 2019 15:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.11)  27 AUG 2019 17:52
 entering extended mode
 **./mooc_naslagwerk180918.tex
 (mooc_naslagwerk180918.tex
@@ -1949,7 +1949,7 @@ Package pdftex.def Info: inputs/frontcover.pdf , page1 used on input line 103.
 
 
 (2_elem_rekenvaardigheden_B/module_2.tex
-<KULEUVEN_CMYK_LOGO.png, id=43, 318.7107pt x 113.7048pt>
+<KULEUVEN_CMYK_LOGO.png, id=30, 318.7107pt x 113.7048pt>
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1.
@@ -1963,7 +1963,7 @@ Overfull \hbox (2.61108pt too wide) in paragraph at lines 3--3
 | []| 
  []
 
-<2_elem_rekenvaardigheden_B/inputs/QR_Code_INTRO_module2new.png, id=74, 1072.00
+<2_elem_rekenvaardigheden_B/inputs/QR_Code_INTRO_module2new.png, id=48, 1072.00
 5pt x 1072.005pt>
 File: 2_elem_rekenvaardigheden_B/inputs/QR_Code_INTRO_module2new.png Graphic fi
 le (type png)
@@ -1977,209 +1977,127 @@ Overfull \hbox (2.61108pt too wide) in paragraph at lines 13--13
  []
 
 (2_elem_rekenvaardigheden_B/module_2_1.tex
-(2_elem_rekenvaardigheden_B/module_2_1_1.tex
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 26.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [2
-
- <./2_elem_rekenvaardigheden_B/inputs/QR_Code_INTRO_module2new.png>]
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 85.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 105.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [3]
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 190.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [4])
-(2_elem_rekenvaardigheden_B/module_2_1_2.tex
-(2_elem_rekenvaardigheden_B/Fig_module_2_1_2_reele_functies_vb1.tex
+(2_elem_rekenvaardigheden_B/module_2_1_4.tex
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_4_constante_functie.tex
 ===== Image 'tikzFigures/mooc_naslagwerk180918-figure0' is up-to-date. ======
 )
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 51.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 56.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [5] (2_elem_rekenvaardigheden_B/Fig_module_2_1_2_reele_functies_vb2.tex
+[2
+
+ <./2_elem_rekenvaardigheden_B/inputs/QR_Code_INTRO_module2new.png>]
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_4_eerstegraadsfunctie_1.tex
 ===== Image 'tikzFigures/mooc_naslagwerk180918-figure1' is up-to-date. ======
 )
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 114.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [6 <./tikzFigures/mooc_naslagwerk180918-figure0.pdf>]
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 114.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [7 <./tikzFigures/mooc_naslagwerk180918-figure1.pdf>]
-(2_elem_rekenvaardigheden_B/Fig_module_2_1_2_reele_functies_vb3.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_4_teken_rico_pos.tex
 ===== Image 'tikzFigures/mooc_naslagwerk180918-figure2' is up-to-date. ======
-)
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 162.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [8 <./tikzFigures/mooc_naslagwerk180918-figure2.pdf>])
-(2_elem_rekenvaardigheden_B/module_2_1_3.tex
-(2_elem_rekenvaardigheden_B/Fig_module_2_1_2_verloop_vb1.tex
+) (2_elem_rekenvaardigheden_B/Fig_module_2_1_4_rico_nul.tex
 ===== Image 'tikzFigures/mooc_naslagwerk180918-figure3' is up-to-date. ======
+) (2_elem_rekenvaardigheden_B/Fig_module_2_1_4_teken_rico_neg.tex
+===== Image 'tikzFigures/mooc_naslagwerk180918-figure4' is up-to-date. ======
 )
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 62.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [9 <./tikzFigures/mooc_naslagwerk180918-figure3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 85--87
 
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-<2_elem_rekenvaardigheden_B/inputs/verloop_vb2.jpg, id=194, 385.44pt x 378.6646
-9pt>
-File: 2_elem_rekenvaardigheden_B/inputs/verloop_vb2.jpg Graphic file (type jpg)
-
-<use 2_elem_rekenvaardigheden_B/inputs/verloop_vb2.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/verloop_vb2.jpg  use
-d on input line 112.
-(pdftex.def)             Requested size: 339.49852pt x 333.5264pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 112.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[10]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 168.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [11 <./2_elem_rekenvaardigheden_B/inputs/verloop_vb2.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 179--181
+[3 <./tikzFigures/mooc_naslagwerk180918-figure0.pdf>]
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_4_eerstegraadsfunctie_3.tex
+\openout5 = `tikzFigures/mooc_naslagwerk180918-figure5.md5'.
 
- []
+\openout5 = `mooc_naslagwerk180918.auxlock'.
 
-<2_elem_rekenvaardigheden_B/inputs/verloop_vb3.jpg, id=205, 362.85562pt x 368.8
-7813pt>
-File: 2_elem_rekenvaardigheden_B/inputs/verloop_vb3.jpg Graphic file (type jpg)
 
-<use 2_elem_rekenvaardigheden_B/inputs/verloop_vb3.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/verloop_vb3.jpg  use
-d on input line 195.
-(pdftex.def)             Requested size: 339.49852pt x 345.14131pt.
+===== 'mode=convert with system call': Invoking 'pdflatex -shell-escape -halt-o
+n-error -interaction=batchmode -jobname "tikzFigures/mooc_naslagwerk180918-figu
+re5" "\def\tikzexternalrealjob{mooc_naslagwerk180918}\input{mooc_naslagwerk1809
+18}"' ========
+runsystem(pdflatex -shell-escape -halt-on-error -interaction=batchmode -jobname
+ "tikzFigures/mooc_naslagwerk180918-figure5" "\def\tikzexternalrealjob{mooc_nas
+lagwerk180918}\input{mooc_naslagwerk180918}")...executed.
+
+\openout5 = `mooc_naslagwerk180918.auxlock'.
+
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 204.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 220.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[12 <./2_elem_rekenvaardigheden_B/inputs/verloop_vb3.jpg>])
-(2_elem_rekenvaardigheden_B/module_2_1_4.tex
-<2_elem_rekenvaardigheden_B/inputs/constantefuncties.jpg, id=212, 271.76532pt x
- 164.86594pt>
-File: 2_elem_rekenvaardigheden_B/inputs/constantefuncties.jpg Graphic file (typ
-e jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/constantefuncties.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/constantefuncties.jp
-g  used on input line 34.
-(pdftex.def)             Requested size: 234.51395pt x 142.26378pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 34.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [13]
-<2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties1.jpg, id=221, 347.79938
-pt x 307.1475pt>
-File: 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties1.jpg Graphic file 
-(type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties1.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties
-1.jpg  used on input line 74.
-(pdftex.def)             Requested size: 161.0935pt x 142.26378pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 90.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [14 <./2_elem_rekenvaardigheden_B/inputs/constantefuncties.jpg> <./2_elem_reke
-nvaardigheden_B/inputs/eerstegraadsfuncties1.jpg>]
-<2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties2.jpg, id=227, 584.1825p
-t x 176.15813pt>
-File: 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties2.jpg Graphic file 
-(type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties2.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties
-2.jpg  used on input line 92.
-(pdftex.def)             Requested size: 485.0pt x 146.2542pt.
-<2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties3.jpg, id=228, 362.85562
-pt x 245.41687pt>
-File: 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties3.jpg Graphic file 
-(type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties3.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties
-3.jpg  used on input line 137.
-(pdftex.def)             Requested size: 210.34567pt x 142.26378pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 149.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [15 <./2_elem_rekenvaardigheden_B/inputs/eerstegraadsfuncties2.jpg> <./2_elem_
-rekenvaardigheden_B/inputs/eerstegraadsfuncties3.jpg>]
-<2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties1.jpg, id=237, 466.74374
+[4 <./tikzFigures/mooc_naslagwerk180918-figure1.pdf>]
+<2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties1.jpg, id=114, 466.74374
 pt x 310.91156pt>
 File: 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties1.jpg Graphic file 
 (type jpg)
 <use 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties1.jpg>
 Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties
-1.jpg  used on input line 181.
+1.jpg  used on input line 242.
 (pdftex.def)             Requested size: 339.49852pt x 226.15703pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 214.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 242.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-
-[16 <./2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties1.jpg>]
-<2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties2.jpg, id=244, 435.12563
+ [5 <./tikzFigures/mooc_naslagwerk180918-figure2.pdf> <./tikzFigures/mooc_nasla
+gwerk180918-figure3.pdf> <./tikzFigures/mooc_naslagwerk180918-figure4.pdf> <./t
+ikzFigures/mooc_naslagwerk180918-figure5.pdf>]
+<2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties2.jpg, id=168, 435.12563
 pt x 455.45157pt>
 File: 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties2.jpg Graphic file 
 (type jpg)
 <use 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties2.jpg>
 Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties
-2.jpg  used on input line 223.
+2.jpg  used on input line 285.
 (pdftex.def)             Requested size: 348.10097pt x 364.36174pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 242--243
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 285.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+ [6 <./2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
 
  []
 
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 251.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 371.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[17 <./2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties2.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
-
- []
-
-<2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties3.jpg, id=249, 349.305pt
+[7 <./2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties2.jpg>]
+<2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties3.jpg, id=180, 349.305pt
  x 423.83344pt>
 File: 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties3.jpg Graphic file 
 (type jpg)
 <use 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties3.jpg>
 Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties
-3.jpg  used on input line 335.
+3.jpg  used on input line 397.
 (pdftex.def)             Requested size: 242.5pt x 294.24324pt.
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 335.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 416.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[18])
-<2_elem_rekenvaardigheden_B/inputs/QR_Code_TWEEDEGRVGL1_module2new.png, id=256,
+ [8 <./2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties3.jpg>])
+<2_elem_rekenvaardigheden_B/inputs/QR_Code_TWEEDEGRVGL1_module2new.png, id=185,
  1108.14pt x 1108.14pt>
 File: 2_elem_rekenvaardigheden_B/inputs/QR_Code_TWEEDEGRVGL1_module2new.png Gra
 phic file (type png)
@@ -2187,7 +2105,7 @@ phic file (type png)
 Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/QR_Code_TWEEDEGRVGL1
 _module2new.png  used on input line 8.
 (pdftex.def)             Requested size: 113.81102pt x 113.79645pt.
-<2_elem_rekenvaardigheden_B/inputs/QR_Code_TWEEDEGRVGL2_module2new.png, id=257,
+<2_elem_rekenvaardigheden_B/inputs/QR_Code_TWEEDEGRVGL2_module2new.png, id=186,
  1108.14pt x 1108.14pt>
 File: 2_elem_rekenvaardigheden_B/inputs/QR_Code_TWEEDEGRVGL2_module2new.png Gra
 phic file (type png)
@@ -2195,699 +2113,7 @@ phic file (type png)
 Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/QR_Code_TWEEDEGRVGL2
 _module2new.png  used on input line 16.
 (pdftex.def)             Requested size: 113.81102pt x 113.79645pt.
- (2_elem_rekenvaardigheden_B/module_2_1_7.tex
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 1.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [19 <./2_elem_rekenvaardigheden_B/inputs/tweedegraadsfuncties3.jpg> <./2_elem_
-rekenvaardigheden_B/inputs/QR_Code_TWEEDEGRVGL1_module2new.png>]
-<2_elem_rekenvaardigheden_B/inputs/veeltermfuncties1.jpg, id=263, 373.395pt x 2
-75.52937pt>
-File: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties1.jpg Graphic file (typ
-e jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties1.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties1.jp
-g  used on input line 26.
-(pdftex.def)             Requested size: 192.7991pt x 142.26378pt.
-<2_elem_rekenvaardigheden_B/inputs/veeltermfuncties2.jpg, id=264, 423.83344pt x
- 329.73187pt>
-File: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties2.jpg Graphic file (typ
-e jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties2.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties2.jp
-g  used on input line 35.
-(pdftex.def)             Requested size: 182.86566pt x 142.26378pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 35.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [20 <./2_elem_rekenvaardigheden_B/inputs/QR_Code_TWEEDEGRVGL2_module2new.png> 
-<./2_elem_rekenvaardigheden_B/inputs/veeltermfuncties1.jpg>]
-<2_elem_rekenvaardigheden_B/inputs/veeltermfuncties3.jpg, id=271, 423.83344pt x
- 278.54062pt>
-File: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties3.jpg Graphic file (typ
-e jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties3.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties3.jp
-g  used on input line 59.
-(pdftex.def)             Requested size: 216.47554pt x 142.26378pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 96.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [21 <./2_elem_rekenvaardigheden_B/inputs/veeltermfuncties2.jpg> <./2_elem_reke
-nvaardigheden_B/inputs/veeltermfuncties3.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
-
- []
-
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 165.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[22]
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 243.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [23]
-<2_elem_rekenvaardigheden_B/inputs/veeltermfuncties4.jpg, id=288, 215.30438pt x
- 176.91093pt>
-File: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties4.jpg Graphic file (typ
-e jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties4.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/veeltermfuncties4.jp
-g  used on input line 254.
-(pdftex.def)             Requested size: 291.00296pt x 239.13527pt.
-) (2_elem_rekenvaardigheden_B/module_2_1_8.tex
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 14.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [24 <./2_elem_rekenvaardigheden_B/inputs/veeltermfuncties4.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
-
-("C:\Users\u0066773\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 91.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [25]
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 157.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [26]
-<2_elem_rekenvaardigheden_B/inputs/vb_rat1.jpg, id=313, 744.53156pt x 570.63188
-pt>
-File: 2_elem_rekenvaardigheden_B/inputs/vb_rat1.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/vb_rat1.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/vb_rat1.jpg  used on
- input line 227.
-(pdftex.def)             Requested size: 284.52756pt x 218.07878pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 227.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [27]
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 238.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 289.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [28 <./2_elem_rekenvaardigheden_B/inputs/vb_rat1.jpg>])
-(2_elem_rekenvaardigheden_B/module_2_1_9.tex
-<2_elem_rekenvaardigheden_B/inputs/machtsw1.jpg, id=322, 429.10312pt x 307.9003
-1pt>
-File: 2_elem_rekenvaardigheden_B/inputs/machtsw1.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/machtsw1.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/machtsw1.jpg  used o
-n input line 22.
-(pdftex.def)             Requested size: 284.52756pt x 204.16385pt.
-<2_elem_rekenvaardigheden_B/inputs/machtsw2.jpg, id=323, 823.57687pt x 470.5078
-1pt>
-File: 2_elem_rekenvaardigheden_B/inputs/machtsw2.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/machtsw2.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/machtsw2.jpg  used o
-n input line 46.
-(pdftex.def)             Requested size: 199.16928pt x 113.78569pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 46.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [29 <./2_elem_rekenvaardigheden_B/inputs/machtsw1.jpg>]
-<2_elem_rekenvaardigheden_B/inputs/vbirrat1.jpg, id=330, 507.39563pt x 533.7440
-6pt>
-File: 2_elem_rekenvaardigheden_B/inputs/vbirrat1.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/vbirrat1.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/vbirrat1.jpg  used o
-n input line 69.
-(pdftex.def)             Requested size: 199.16928pt x 209.51129pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 95.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [30 <./2_elem_rekenvaardigheden_B/inputs/machtsw2.jpg> <./2_elem_rekenvaardigh
-eden_B/inputs/vbirrat1.jpg>]
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 177.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [31]
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 244.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [32]
-<2_elem_rekenvaardigheden_B/inputs/vbirrat2.jpg, id=351, 457.71pt x 728.7225pt>
-
-File: 2_elem_rekenvaardigheden_B/inputs/vbirrat2.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/vbirrat2.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/vbirrat2.jpg  used o
-n input line 244.
-(pdftex.def)             Requested size: 199.16928pt x 317.0918pt.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 248.
-Package mdframed Info: Box was splittet wrong
- starting loop to iterate the splitting point
-(mdframed)              on input line 301.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 301.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [33 <./2_elem_rekenvaardigheden_B/inputs/vbirrat2.jpg>])
-(2_elem_rekenvaardigheden_B/module_2_1_10.tex
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 57.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [34]
-Underfull \hbox (badness 10000) in paragraph at lines 107--109
-
- []
-
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 116.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[35]
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 193.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [36]
-<2_elem_rekenvaardigheden_B/inputs/exp.jpg, id=374, 706.13812pt x 414.79968pt>
-File: 2_elem_rekenvaardigheden_B/inputs/exp.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/exp.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/exp.jpg  used on inp
-ut line 236.
-(pdftex.def)             Requested size: 199.16928pt x 116.99757pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 236.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [37]
-<2_elem_rekenvaardigheden_B/inputs/vbexp.jpg, id=380, 527.72156pt x 406.51875pt
->
-File: 2_elem_rekenvaardigheden_B/inputs/vbexp.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/vbexp.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/vbexp.jpg  used on i
-nput line 280.
-(pdftex.def)             Requested size: 199.16928pt x 153.42421pt.
-) (2_elem_rekenvaardigheden_B/module_2_1_11.tex
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 25.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [38 <./2_elem_rekenvaardigheden_B/inputs/exp.jpg> <./2_elem_rekenvaardigheden_
-B/inputs/vbexp.jpg>]
-<2_elem_rekenvaardigheden_B/inputs/logExp.jpg, id=387, 992.20688pt x 424.58624p
-t>
-File: 2_elem_rekenvaardigheden_B/inputs/logExp.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/logExp.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/logExp.jpg  used on 
-input line 37.
-(pdftex.def)             Requested size: 485.0pt x 207.54375pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 66.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [39 <./2_elem_rekenvaardigheden_B/inputs/logExp.jpg>]
-Overfull \hbox (12.90956pt too wide) in paragraph at lines 66--69
-[]\OT1/cmr/m/n/12 De \OT1/cmr/bx/n/12 na-tuur-lijke of Ne-pe-ri-aanse lo-ga-rit
-me \OT1/cmr/m/n/12 is de lo-ga-ritme met grond-tal e (e=2,718281828)
- []
-
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 77.
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
-
- []
-
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 113.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[40]
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 188.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [41]
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 262.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [42]
-<2_elem_rekenvaardigheden_B/inputs/logfun.jpg, id=418, 624.08156pt x 652.68843p
-t>
-File: 2_elem_rekenvaardigheden_B/inputs/logfun.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/logfun.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/logfun.jpg  used on 
-input line 278.
-(pdftex.def)             Requested size: 199.16928pt x 208.29689pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 303.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [43 <./2_elem_rekenvaardigheden_B/inputs/logfun.jpg>]
-<2_elem_rekenvaardigheden_B/inputs/vblog.jpg, id=423, 521.69907pt x 523.20468pt
->
-File: 2_elem_rekenvaardigheden_B/inputs/vblog.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/vblog.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/vblog.jpg  used on i
-nput line 335.
-(pdftex.def)             Requested size: 199.16928pt x 199.74593pt.
-)
-(2_elem_rekenvaardigheden_B/module_2_1_12.tex
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 34.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [44 <./2_elem_rekenvaardigheden_B/inputs/vblog.jpg>]
-<2_elem_rekenvaardigheden_B/inputs/periodieke.jpg, id=430, 876.27374pt x 301.12
-5pt>
-File: 2_elem_rekenvaardigheden_B/inputs/periodieke.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/periodieke.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/periodieke.jpg  used
- on input line 44.
-(pdftex.def)             Requested size: 199.16928pt x 68.4394pt.
-<2_elem_rekenvaardigheden_B/inputs/sin.jpg, id=431, 843.15pt x 301.125pt>
-File: 2_elem_rekenvaardigheden_B/inputs/sin.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/sin.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/sin.jpg  used on inp
-ut line 64.
-(pdftex.def)             Requested size: 199.16928pt x 71.13196pt.
-<2_elem_rekenvaardigheden_B/inputs/cos.jpg, id=432, 843.15pt x 301.125pt>
-File: 2_elem_rekenvaardigheden_B/inputs/cos.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/cos.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/cos.jpg  used on inp
-ut line 78.
-(pdftex.def)             Requested size: 199.16928pt x 71.13196pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 86.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [45 <./2_elem_rekenvaardigheden_B/inputs/periodieke.jpg> <./2_elem_rekenvaardi
-gheden_B/inputs/sin.jpg> <./2_elem_rekenvaardigheden_B/inputs/cos.jpg>]
-<2_elem_rekenvaardigheden_B/inputs/tan.jpg, id=437, 843.15pt x 301.125pt>
-File: 2_elem_rekenvaardigheden_B/inputs/tan.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/tan.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/tan.jpg  used on inp
-ut line 94.
-(pdftex.def)             Requested size: 142.26378pt x 50.8046pt.
-<2_elem_rekenvaardigheden_B/inputs/cot.jpg, id=438, 843.15pt x 301.125pt>
-File: 2_elem_rekenvaardigheden_B/inputs/cot.jpg Graphic file (type jpg)
-<use 2_elem_rekenvaardigheden_B/inputs/cot.jpg>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/cot.jpg  used on inp
-ut line 115.
-(pdftex.def)             Requested size: 142.26378pt x 50.8046pt.
-) (2_elem_rekenvaardigheden_B/module_2_1_13.tex
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 31.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [46 <./2_elem_rekenvaardigheden_B/inputs/tan.jpg> <./2_elem_rekenvaardigheden_
-B/inputs/cot.jpg>]
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 103.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-
-[47]
-<2_elem_rekenvaardigheden_B/inputs/Arcsine_Arccosine_svg.png, id=447, 180.675pt
- x 331.2375pt>
-File: 2_elem_rekenvaardigheden_B/inputs/Arcsine_Arccosine_svg.png Graphic file 
-(type png)
-<use 2_elem_rekenvaardigheden_B/inputs/Arcsine_Arccosine_svg.png>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/Arcsine_Arccosine_sv
-g.png  used on input line 103.
-(pdftex.def)             Requested size: 199.16928pt x 365.14577pt.
-<2_elem_rekenvaardigheden_B/inputs/Arctangent_Arccotangent_svg.png, id=449, 316
-.18124pt x 195.73125pt>
-File: 2_elem_rekenvaardigheden_B/inputs/Arctangent_Arccotangent_svg.png Graphic
- file (type png)
-<use 2_elem_rekenvaardigheden_B/inputs/Arctangent_Arccotangent_svg.png>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/Arctangent_Arccotang
-ent_svg.png  used on input line 131.
-(pdftex.def)             Requested size: 199.16928pt x 123.29639pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 131.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [48 <./2_elem_rekenvaardigheden_B/inputs/Arcsine_Arccosine_svg.png>])
-(2_elem_rekenvaardigheden_B/module_2_1_14.tex
-<2_elem_rekenvaardigheden_B/inputs/Absolute_value_svg.png, id=456, 602.25pt x 4
-01.5pt>
-File: 2_elem_rekenvaardigheden_B/inputs/Absolute_value_svg.png Graphic file (ty
-pe png)
-<use 2_elem_rekenvaardigheden_B/inputs/Absolute_value_svg.png>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/Absolute_value_svg.p
-ng  used on input line 28.
-(pdftex.def)             Requested size: 142.26378pt x 94.84262pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 28.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [49 <./2_elem_rekenvaardigheden_B/inputs/Arctangent_Arccotangent_svg.png>]
-<2_elem_rekenvaardigheden_B/inputs/Signum_function_svg.png, id=462, 248.93pt x 
-199.74625pt>
-File: 2_elem_rekenvaardigheden_B/inputs/Signum_function_svg.png Graphic file (t
-ype png)
-<use 2_elem_rekenvaardigheden_B/inputs/Signum_function_svg.png>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/Signum_function_svg.
-png  used on input line 60.
-(pdftex.def)             Requested size: 142.26378pt x 114.15828pt.
-)
-(2_elem_rekenvaardigheden_B/module_2_1_15.tex
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 37.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [50 <./2_elem_rekenvaardigheden_B/inputs/Absolute_value_svg.png> <./2_elem_rek
-envaardigheden_B/inputs/Signum_function_svg.png>]
-Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Verschu
-iven - horizontaal - naar links".eps>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 80110 bytes
-(epstopdf)             Output file: <"2_elem_rekenvaardigheden_B/inputs/Verschu
-iven - horizontaal - naar links"-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 29358 bytes
-(epstopdf)             Command: <epstopdf --outfile="2_elem_rekenvaardigheden_B
-/inputs/Verschuiven - horizontaal - naar links"-eps-converted-to.pdf "2_elem_re
-kenvaardigheden_B/inputs/Verschuiven - horizontaal - naar links".eps>
-(epstopdf)             \includegraphics on input line 42.
-Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar links"-eps
--converted-to.pdf, id=469, 522.95375pt x 161.60374pt>
-File: "2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar links
-"-eps-converted-to.pdf Graphic file (type pdf)
-<use "2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar links"
--eps-converted-to.pdf>
-Package pdftex.def Info: "2_elem_rekenvaardigheden_B/inputs/Verschuiven - horiz
-ontaal - naar links"-eps-converted-to.pdf  used on input line 42.
-(pdftex.def)             Requested size: 460.39223pt x 142.26378pt.
-
-Overfull \hbox (227.5943pt too wide) in paragraph at lines 42--43
-[][] 
- []
-
-Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Verschu
-iven - horizontaal - naar rechts".eps>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 1224744 bytes
-(epstopdf)             Output file: <"2_elem_rekenvaardigheden_B/inputs/Verschu
-iven - horizontaal - naar rechts"-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 22844 bytes
-(epstopdf)             Command: <epstopdf --outfile="2_elem_rekenvaardigheden_B
-/inputs/Verschuiven - horizontaal - naar rechts"-eps-converted-to.pdf "2_elem_r
-ekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar rechts".eps>
-(epstopdf)             \includegraphics on input line 45.
-Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar rechts"-ep
-s-converted-to.pdf, id=470, 409.53pt x 274.02374pt>
-File: "2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar recht
-s"-eps-converted-to.pdf Graphic file (type pdf)
-<use "2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar rechts
-"-eps-converted-to.pdf>
-Package pdftex.def Info: "2_elem_rekenvaardigheden_B/inputs/Verschuiven - horiz
-ontaal - naar rechts"-eps-converted-to.pdf  used on input line 45.
-(pdftex.def)             Requested size: 212.61937pt x 142.26378pt.
-Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Verschu
-iven - verticaal - naar omlaag".eps>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 1224744 bytes
-(epstopdf)             Output file: <"2_elem_rekenvaardigheden_B/inputs/Verschu
-iven - verticaal - naar omlaag"-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 22971 bytes
-(epstopdf)             Command: <epstopdf --outfile="2_elem_rekenvaardigheden_B
-/inputs/Verschuiven - verticaal - naar omlaag"-eps-converted-to.pdf "2_elem_rek
-envaardigheden_B/inputs/Verschuiven - verticaal - naar omlaag".eps>
-(epstopdf)             \includegraphics on input line 59.
-Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal - naar omlaag"-eps-
-converted-to.pdf, id=471, 409.53pt x 274.02374pt>
-File: "2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal - naar omlaag"
--eps-converted-to.pdf Graphic file (type pdf)
-<use "2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal - naar omlaag"-
-eps-converted-to.pdf>
-Package pdftex.def Info: "2_elem_rekenvaardigheden_B/inputs/Verschuiven - verti
-caal - naar omlaag"-eps-converted-to.pdf  used on input line 59.
-(pdftex.def)             Requested size: 212.61937pt x 142.26378pt.
-Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Verschu
-iven - verticaal - naar omhoog".eps>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 1224744 bytes
-(epstopdf)             Output file: <"2_elem_rekenvaardigheden_B/inputs/Verschu
-iven - verticaal - naar omhoog"-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 22840 bytes
-(epstopdf)             Command: <epstopdf --outfile="2_elem_rekenvaardigheden_B
-/inputs/Verschuiven - verticaal - naar omhoog"-eps-converted-to.pdf "2_elem_rek
-envaardigheden_B/inputs/Verschuiven - verticaal - naar omhoog".eps>
-(epstopdf)             \includegraphics on input line 62.
-Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal - naar omhoog"-eps-
-converted-to.pdf, id=472, 409.53pt x 274.02374pt>
-File: "2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal - naar omhoog"
--eps-converted-to.pdf Graphic file (type pdf)
-<use "2_elem_rekenvaardigheden_B/inputs/Verschuiven - verticaal - naar omhoog"-
-eps-converted-to.pdf>
-Package pdftex.def Info: "2_elem_rekenvaardigheden_B/inputs/Verschuiven - verti
-caal - naar omhoog"-eps-converted-to.pdf  used on input line 62.
-(pdftex.def)             Requested size: 212.61937pt x 142.26378pt.
-Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Herscha
-len - horizontaal - openrekken".eps>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 1224744 bytes
-(epstopdf)             Output file: <"2_elem_rekenvaardigheden_B/inputs/Herscha
-len - horizontaal - openrekken"-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 21462 bytes
-(epstopdf)             Command: <epstopdf --outfile="2_elem_rekenvaardigheden_B
-/inputs/Herschalen - horizontaal - openrekken"-eps-converted-to.pdf "2_elem_rek
-envaardigheden_B/inputs/Herschalen - horizontaal - openrekken".eps>
-(epstopdf)             \includegraphics on input line 98.
-Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - openrekken"-eps-
-converted-to.pdf, id=473, 409.53pt x 274.02374pt>
-File: "2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - openrekken"
--eps-converted-to.pdf Graphic file (type pdf)
-<use "2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - openrekken"-
-eps-converted-to.pdf>
-Package pdftex.def Info: "2_elem_rekenvaardigheden_B/inputs/Herschalen - horizo
-ntaal - openrekken"-eps-converted-to.pdf  used on input line 98.
-(pdftex.def)             Requested size: 212.61937pt x 142.26378pt.
-Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Herscha
-len - horizontaal - inkrimpen".eps>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 1224744 bytes
-(epstopdf)             Output file: <"2_elem_rekenvaardigheden_B/inputs/Herscha
-len - horizontaal - inkrimpen"-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 23272 bytes
-(epstopdf)             Command: <epstopdf --outfile="2_elem_rekenvaardigheden_B
-/inputs/Herschalen - horizontaal - inkrimpen"-eps-converted-to.pdf "2_elem_reke
-nvaardigheden_B/inputs/Herschalen - horizontaal - inkrimpen".eps>
-(epstopdf)             \includegraphics on input line 101.
-Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - inkrimpen"-eps-c
-onverted-to.pdf, id=474, 409.53pt x 274.02374pt>
-File: "2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - inkrimpen"-
-eps-converted-to.pdf Graphic file (type pdf)
-<use "2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - inkrimpen"-e
-ps-converted-to.pdf>
-Package pdftex.def Info: "2_elem_rekenvaardigheden_B/inputs/Herschalen - horizo
-ntaal - inkrimpen"-eps-converted-to.pdf  used on input line 101.
-(pdftex.def)             Requested size: 212.61937pt x 142.26378pt.
-
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 97--103
-[]$[]$ $[]$ 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 114.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[51 <./2_elem_rekenvaardigheden_B/inputs/Verschuiven - horizontaal - naar links
--eps-converted-to.pdf> <./2_elem_rekenvaardigheden_B/inputs/Verschuiven - horiz
-ontaal - naar rechts-eps-converted-to.pdf> <./2_elem_rekenvaardigheden_B/inputs
-/Verschuiven - verticaal - naar omlaag-eps-converted-to.pdf> <./2_elem_rekenvaa
-rdigheden_B/inputs/Verschuiven - verticaal - naar omhoog-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Herscha
-len - verticaal - inkrimpen".eps>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 1224744 bytes
-(epstopdf)             Output file: <"2_elem_rekenvaardigheden_B/inputs/Herscha
-len - verticaal - inkrimpen"-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 21020 bytes
-(epstopdf)             Command: <epstopdf --outfile="2_elem_rekenvaardigheden_B
-/inputs/Herschalen - verticaal - inkrimpen"-eps-converted-to.pdf "2_elem_rekenv
-aardigheden_B/inputs/Herschalen - verticaal - inkrimpen".eps>
-(epstopdf)             \includegraphics on input line 124.
-Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - inkrimpen"-eps-con
-verted-to.pdf, id=513, 409.53pt x 274.02374pt>
-File: "2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - inkrimpen"-ep
-s-converted-to.pdf Graphic file (type pdf)
-<use "2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - inkrimpen"-eps
--converted-to.pdf>
-Package pdftex.def Info: "2_elem_rekenvaardigheden_B/inputs/Herschalen - vertic
-aal - inkrimpen"-eps-converted-to.pdf  used on input line 124.
-(pdftex.def)             Requested size: 212.61937pt x 142.26378pt.
-Package epstopdf Info: Source file: <"2_elem_rekenvaardigheden_B/inputs/Herscha
-len - verticaal - openrekken".eps>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 1224744 bytes
-(epstopdf)             Output file: <"2_elem_rekenvaardigheden_B/inputs/Herscha
-len - verticaal - openrekken"-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 25144 bytes
-(epstopdf)             Command: <epstopdf --outfile="2_elem_rekenvaardigheden_B
-/inputs/Herschalen - verticaal - openrekken"-eps-converted-to.pdf "2_elem_reken
-vaardigheden_B/inputs/Herschalen - verticaal - openrekken".eps>
-(epstopdf)             \includegraphics on input line 127.
-Package epstopdf Info: Output file is already uptodate.
-<"2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - openrekken"-eps-co
-nverted-to.pdf, id=514, 409.53pt x 274.02374pt>
-File: "2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - openrekken"-e
-ps-converted-to.pdf Graphic file (type pdf)
-<use "2_elem_rekenvaardigheden_B/inputs/Herschalen - verticaal - openrekken"-ep
-s-converted-to.pdf>
-Package pdftex.def Info: "2_elem_rekenvaardigheden_B/inputs/Herschalen - vertic
-aal - openrekken"-eps-converted-to.pdf  used on input line 127.
-(pdftex.def)             Requested size: 212.61937pt x 142.26378pt.
-
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 123--129
-[]$[]$ $[]$ 
- []
-
-) (2_elem_rekenvaardigheden_B/module_2_1_16.tex
-<2_elem_rekenvaardigheden_B/inputs/figuur10.png, id=515, 255.5949pt x 152.2488p
-t>
-File: 2_elem_rekenvaardigheden_B/inputs/figuur10.png Graphic file (type png)
-<use 2_elem_rekenvaardigheden_B/inputs/figuur10.png>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/figuur10.png  used o
-n input line 32.
-(pdftex.def)             Requested size: 238.8513pt x 142.26378pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 32.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [52 <./2_elem_rekenvaardigheden_B/inputs/Herschalen - horizontaal - openrekken
--eps-converted-to.pdf> <./2_elem_rekenvaardigheden_B/inputs/Herschalen - horizo
-ntaal - inkrimpen-eps-converted-to.pdf> <./2_elem_rekenvaardigheden_B/inputs/He
-rschalen - verticaal - inkrimpen-eps-converted-to.pdf> <./2_elem_rekenvaardighe
-den_B/inputs/Herschalen - verticaal - openrekken-eps-converted-to.pdf>]
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 88.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [53 <./2_elem_rekenvaardigheden_B/inputs/figuur10.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 103--105
-
- []
-
-Package epstopdf Info: Source file: <2_elem_rekenvaardigheden_B/inputs/Poolcoor
-dinaten_wikipedia.eps>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 262062 bytes
-(epstopdf)             Output file: <2_elem_rekenvaardigheden_B/inputs/Poolcoor
-dinaten_wikipedia-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-05-14 15:59:43
-(epstopdf)                    size: 5121 bytes
-(epstopdf)             Command: <epstopdf --outfile=2_elem_rekenvaardigheden_B/
-inputs/Poolcoordinaten_wikipedia-eps-converted-to.pdf 2_elem_rekenvaardigheden_
-B/inputs/Poolcoordinaten_wikipedia.eps>
-(epstopdf)             \includegraphics on input line 130.
-Package epstopdf Info: Output file is already uptodate.
-<2_elem_rekenvaardigheden_B/inputs/Poolcoordinaten_wikipedia-eps-converted-to.p
-df, id=541, 220.825pt x 189.70876pt>
-File: 2_elem_rekenvaardigheden_B/inputs/Poolcoordinaten_wikipedia-eps-converted
--to.pdf Graphic file (type pdf)
-<use 2_elem_rekenvaardigheden_B/inputs/Poolcoordinaten_wikipedia-eps-converted-
-to.pdf>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/Poolcoordinaten_wiki
-pedia-eps-converted-to.pdf  used on input line 130.
-(pdftex.def)             Requested size: 220.82445pt x 189.70828pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 142.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[54 <./2_elem_rekenvaardigheden_B/inputs/Poolcoordinaten_wikipedia-eps-converte
-d-to.pdf>]
-Overfull \hbox (35.25848pt too wide) in paragraph at lines 155--158
-[]\OT1/cmr/m/n/12 Soms is het han-dig of nood-za-ke-lijk om over te stap-pen va
-n car-te-si-sche co[]ordinaten naar poolco[]ordinaten
- []
-
-
-Overfull \hbox (61.3251pt too wide) in paragraph at lines 163--176
-[][] 
- []
-
-<2_elem_rekenvaardigheden_B/inputs/figuur9.png, id=552, 229.3368pt x 126.7134pt
->
-File: 2_elem_rekenvaardigheden_B/inputs/figuur9.png Graphic file (type png)
-<use 2_elem_rekenvaardigheden_B/inputs/figuur9.png>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/figuur9.png  used on
- input line 180.
-(pdftex.def)             Requested size: 162.95782pt x 90.0406pt.
-
-Overfull \hbox (14.27077pt too wide) in paragraph at lines 161--182
-[]$[]$   $[]$ 
- []
-
-<2_elem_rekenvaardigheden_B/inputs/figuur11.png, id=553, 197.538pt x 132.0132pt
->
-File: 2_elem_rekenvaardigheden_B/inputs/figuur11.png Graphic file (type png)
-<use 2_elem_rekenvaardigheden_B/inputs/figuur11.png>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/figuur11.png  used o
-n input line 217.
-(pdftex.def)             Requested size: 212.89476pt x 142.26378pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 224.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[55 <./2_elem_rekenvaardigheden_B/inputs/figuur9.png>]
-<2_elem_rekenvaardigheden_B/inputs/figuur8.png, id=559, 349.0641pt x 259.4493pt
->
-File: 2_elem_rekenvaardigheden_B/inputs/figuur8.png Graphic file (type png)
-<use 2_elem_rekenvaardigheden_B/inputs/figuur8.png>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/figuur8.png  used on
- input line 247.
-(pdftex.def)             Requested size: 191.40527pt x 142.26378pt.
-<2_elem_rekenvaardigheden_B/inputs/figuur7.png, id=560, 185.9748pt x 201.6333pt
->
-File: 2_elem_rekenvaardigheden_B/inputs/figuur7.png Graphic file (type png)
-<use 2_elem_rekenvaardigheden_B/inputs/figuur7.png>
-Package pdftex.def Info: 2_elem_rekenvaardigheden_B/inputs/figuur7.png  used on
- input line 276.
-(pdftex.def)             Requested size: 131.22008pt x 142.26378pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 290.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [56 <./2_elem_rekenvaardigheden_B/inputs/figuur11.png> <./2_elem_rekenvaardigh
-eden_B/inputs/figuur8.png> <./2_elem_rekenvaardigheden_B/inputs/figuur7.png>]))
-
 Overfull \hbox (2.61108pt too wide) in paragraph at lines 17--17
 | []| 
  []
@@ -2897,19 +2123,20 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 132.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [57]
+ [9 <./2_elem_rekenvaardigheden_B/inputs/QR_Code_TWEEDEGRVGL1_module2new.png> <
+./2_elem_rekenvaardigheden_B/inputs/QR_Code_TWEEDEGRVGL2_module2new.png>]
 Hoofdstuk .
 (inputs/oplossingen-zonder-ster.tmp)
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 143.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [58
+ [10
 
 ]
 Hoofdstuk .
 (inputs/oplossingen-alle.tmp)
-<inputs/backcover.pdf, id=580, 554.79266pt x 782.925pt>
+<inputs/backcover.pdf, id=197, 554.79266pt x 782.925pt>
 File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf>
 Package pdftex.def Info: inputs/backcover.pdf  used on input line 155.
@@ -2918,7 +2145,7 @@ File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf>
 Package pdftex.def Info: inputs/backcover.pdf  used on input line 155.
 (pdftex.def)             Requested size: 554.7913pt x 782.9231pt.
-<inputs/backcover.pdf, id=583, page=1, 554.79266pt x 782.925pt>
+<inputs/backcover.pdf, id=200, page=1, 554.79266pt x 782.925pt>
 File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf, page 1>
 Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 155.
@@ -2931,7 +2158,7 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 155.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [59
+ [11
 
 ]
 File: inputs/backcover.pdf Graphic file (type pdf)
@@ -2946,7 +2173,7 @@ File: inputs/backcover.pdf Graphic file (type pdf)
 <use inputs/backcover.pdf, page 1>
 Package pdftex.def Info: inputs/backcover.pdf , page1 used on input line 155.
 (pdftex.def)             Requested size: 598.35448pt x 844.39957pt.
- [60 <./inputs/backcover.pdf>]
+ [12 <./inputs/backcover.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 157.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 157.
 
@@ -2956,37 +2183,32 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 157.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 157.
  ) 
 Here is how much of TeX's memory you used:
- 49417 strings out of 492895
- 1125878 string characters out of 3122334
- 1333897 words of memory out of 3000000
- 52238 multiletter control sequences out of 15000+200000
- 548074 words of font info for 84 fonts, out of 3000000 for 9000
+ 48995 strings out of 492895
+ 1110359 string characters out of 3122334
+ 1328897 words of memory out of 3000000
+ 52038 multiletter control sequences out of 15000+200000
+ 545354 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,21n,136p,995b,1136s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 78i,20n,136p,995b,1085s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\u0066773\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
 00\tcrm1200.pk><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmbsy10.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/u0066773/AppData/Loca
 l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/u0066
-773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb
+773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 ><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmmi12.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmmi6.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/u0066773/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/u006677
-3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:
+ts/cm/cmmi8.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/u0066773/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/u0066773/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:
 /Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr8.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/u0066773/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/u0066773/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Us
-ers/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symb
-ols/msam10.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/symbols/msbm10.pfb>
-Output written on mooc_naslagwerk180918.pdf (61 pages, 3584857 bytes).
+m/cmsy8.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmti12.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on mooc_naslagwerk180918.pdf (13 pages, 2201288 bytes).
 PDF statistics:
- 688 PDF objects out of 1000 (max. 8388607)
- 169 named destinations out of 1000 (max. 500000)
- 323 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 265 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 

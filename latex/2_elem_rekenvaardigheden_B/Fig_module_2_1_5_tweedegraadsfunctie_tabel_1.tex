@@ -1,0 +1,94 @@
+\begin{tikzpicture}[scale=0.5,cap=round]
+
+% Styles
+\tikzstyle{axes}=[]
+\tikzstyle help lines=[color=blue!50,very thin,dotted]
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%		GRID
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\draw[style=help lines,step=1cm] (-1.9,-3.9) grid (5.9,5.9);
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%		ASSENSTELSEL
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\draw[->] (-2,0) -- (6,0) node[right] {$x$};
+\draw[->] (0,-4) -- (0,7) node[left]{$y$};
+
+%\draw[fill,cyan](1,1)circle [radius=0.025];
+
+%\draw[red,cap=rect, loosely dashed, ultra thick, domain=-2:2] plot (\x, {(\x*\x-1)+0.05}) node[above,yshift=-.7cm, right]{};
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%legende
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\tkzDefPoint(0.5,3.5){A}
+%\tkzDefPoint(1,3.5){B}
+%\tkzLabelPoint[right,xshift=+0.1cm](B){${\color{cyan}f(x)=|x^2-1|}$}
+%\tkzDrawSegment[cyan,ultra thick](A,B)
+
+%\tkzDefPoint(0.5,3.2){C}
+%\tkzDefPoint(1,3.2){D}
+%\tkzLabelPoint[right,xshift=+0.1cm](D){${\color{red}e(x)=x^2-1}$}
+%\tkzDrawSegment[red,cap=rect, loosely dashed, ultra thick](C,D)
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%getallen op de x-as en lijntjes
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   
+
+%\foreach \x/\xtext in {-2,-1,0,1,2,3,4,5}
+%	\draw[xshift=\x cm] (0pt,1pt) -- (0pt,0pt) node[below,fill=white]{}; 
+	
+%getallen op de y-as en lijntjes  
+%BEGIN LUS
+%\foreach \y/\ytext in {-3,-2,-1,1,2,3,4,5,6}
+%	\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]{}; 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%		GRAFIEKEN
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\draw[cyan,cap=rect,thick, domain=-6:6] plot (\x, \x) node[above, right]{${\color{cyan}y=x}$};
+
+
+\draw[teal,cap=rect,line width=4, opacity=.5, domain=-0.1:5.1] plot (\x, {
+	1*pow(\x,2)-5*\x + 4  		% <- plaats het functievoorschrift hier
+}) node[opacity=1,above]{};
+ 
+%node[blue]{stijgen} 
+%\draw[cyan,cap=rect,ultra thick, domain=2.25:6] plot (\x, {(\x-2)^(-1)}) node[above,yshift=+0.5cm,left]{$\color{cyan} y=\frac{1}{x-2}$};
+
+
+%\draw[cyan,cap=rect,ultra thick, domain=-7:1.9] plot (\x, {exp{\x}}) node[above, right]{${\color{cyan}y=\exp{x}}$};
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%		MARKERINGEN
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%verticale lijn
+\draw[fill,red] (1,0) circle [radius=0.07]  node[below,left,yshift=-.3cm,xshift=+0.1cm] {$x_1$};
+\draw[fill,red] (4,0) circle [radius=0.07]  node[below,right,yshift=-.3cm,xshift=-0.1cm] {$x_2$};
+%\draw[line width=4,teal, cap=rect,opacity=0.3] (0,0) -- (0,4.2) node[right] {bld $f$ = $\mathbb{R}_0$};
+%horizontale lijn
+
+%horizontale lijn
+%\draw[->,line width=1,red, cap=rect,opacity=1] (0,3) -- (1,3) node[right] {$1$};
+%\draw[->,line width=1,red, cap=rect,opacity=1] (1,3) -- (1,5) node[right,pos=0.5] {$m=2$};
+
+
+
+% \draw[white,fill=blue,opacity=.5] (1,-2) circle [radius=.1]   node[blue, above,xshift=-1.1cm,opacity=1] {buigpunt in $(1,-2)$};
+
+%\draw[] (0.5,3) node[blue,right] {$b$};
+
+%\draw[fill,red](2,-3)circle [radius=0.07] node[red,below,xshift=+1cm] {Top $(2,-3)$};
+%\draw[] (1,-2) node[blue,right] {$-\frac{a}{b}$};
+
+\end{tikzpicture}
+ 

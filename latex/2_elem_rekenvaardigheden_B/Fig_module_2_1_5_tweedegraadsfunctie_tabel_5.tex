@@ -1,5 +1,4 @@
-
-\begin{tikzpicture}[scale=1,cap=round]
+\begin{tikzpicture}[scale=0.5,cap=round]
 
 % Styles
 \tikzstyle{axes}=[]
@@ -10,7 +9,7 @@
 %		GRID
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\draw[style=help lines,step=1cm] (-3.9,-5.9) grid (3.9,5.9);
+%\draw[style=help lines,step=1cm] (-1.9,-3.9) grid (5.9,5.9);
 
 
 
@@ -18,8 +17,8 @@
 %		ASSENSTELSEL
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\draw[->] (-5,0) -- (7,0) node[right] {$x$};
-\draw[->] (0,-7) -- (0,7) node[left]{$y$};
+\draw[->] (-2,0) -- (6,0) node[right] {$x$};
+\draw[->] (0,-2) -- (0,4) node[left]{$y$};
 
 %\draw[fill,cyan](1,1)circle [radius=0.025];
 
@@ -42,15 +41,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %getallen op de x-as en lijntjes
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   
-\foreach \x/\xtext in {-4,-3,-2,-1,1,2,3,4}
-	\draw[xshift=\x cm] (0pt,1pt) -- (0pt,0pt) node[below,fill=white]
-	{$\xtext$};,3
+
+%\foreach \x/\xtext in {-2,-1,0,1,2,3,4,5}
+%	\draw[xshift=\x cm] (0pt,1pt) -- (0pt,0pt) node[below,fill=white]{}; 
 	
 %getallen op de y-as en lijntjes  
 %BEGIN LUS
-\foreach \y/\ytext in {-6,-5,-4,-3,-2,-1,1,2,3,4,5,6}
-	\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]
-	{$\ytext$}; %EINDE LUS
+%\foreach \y/\ytext in {-3,-2,-1,1,2,3,4,5,6}
+%	\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]{}; 
 
 
 
@@ -59,15 +57,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\draw[cyan,cap=rect,thick, domain=-6:6] plot (\x, \x) node[above, right]{${\color{cyan}y=x}$};
 
-\draw[cyan,cap=rect,ultra thick, domain=-1.2:3.5] plot (\x, {
-	pow(\x,3)-3*pow(\x,2)		% <- plaats het functievoorschrift hier
-}) node[above]{$f(x)=x^3-3x^2$};
 
-\draw[opacity=0] (-1.2,-5) --(-1,-3) node[opacity=1,blue, midway,sloped]{stijgen};  
-\draw[opacity=0] (0.5,-1) --(1.3,-3) node[opacity=1,blue, midway,sloped,above]{dalen};  
-\draw[opacity=0] (3,1) --(3.5,5) node[opacity=1,blue, midway,sloped,above]{stijgen};  
-
-
+\draw[teal,cap=rect,line width=4, opacity=.5, domain=2.5:5.5] plot (\x, {
+	pow(\x-4,2)+1  		% <- plaats het functievoorschrift hier
+}) node[opacity=1,above]{};
+ 
 %node[blue]{stijgen} 
 %\draw[cyan,cap=rect,ultra thick, domain=2.25:6] plot (\x, {(\x-2)^(-1)}) node[above,yshift=+0.5cm,left]{$\color{cyan} y=\frac{1}{x-2}$};
 
@@ -78,11 +72,23 @@
 %		MARKERINGEN
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %verticale lijn
-%\draw[-o,line width=4,teal, cap=rect,opacity=0.3] (0,-4) -- (0,0.25) node[right] {};
+%draw[fill,red] (1,0) circle [radius=0.07]  node[below,left,yshift=-.3cm,xshift=+0.2cm] {$x_1$};
+%\draw[fill,red] (4,0) circle [radius=0.07]  node[below,yshift=0cm,xshift=0cm] {$x_1=x_2$};
 %\draw[line width=4,teal, cap=rect,opacity=0.3] (0,0) -- (0,4.2) node[right] {bld $f$ = $\mathbb{R}_0$};
 %horizontale lijn
-\draw[line width=4,blue, cap=rect,opacity=0.3] (-1,0) -- (1,0) node[near start,above,xshift=-1.1cm,opacity=1] {maximum in (0,0)};
 
- 
-\draw[line width=4,blue, cap=rect,opacity=0.3] (1,-4) -- (3,-4) node[below,yshift=-.3cm,opacity=1] {minium in (2,-4)};
+%horizontale lijn
+%\draw[->,line width=1,red, cap=rect,opacity=1] (0,3) -- (1,3) node[right] {$1$};
+%\draw[->,line width=1,red, cap=rect,opacity=1] (1,3) -- (1,5) node[right,pos=0.5] {$m=2$};
+
+
+
+% \draw[white,fill=blue,opacity=.5] (1,-2) circle [radius=.1]   node[blue, above,xshift=-1.1cm,opacity=1] {buigpunt in $(1,-2)$};
+
+%\draw[] (0.5,3) node[blue,right] {$b$};
+
+%\draw[fill,red](2,-3)circle [radius=0.07] node[red,below,xshift=+1cm] {Top $(2,-3)$};
+%\draw[] (1,-2) node[blue,right] {$-\frac{a}{b}$};
+
 \end{tikzpicture}
+ 
