@@ -8,15 +8,15 @@
 % grid
 %\draw[style=help lines,step=0.1cm] (-.9,-0.4) grid (0.9,0.4);
 
-\draw[->] (-0.4,0) -- (0.1,0) node[right] {$x$};
-\draw[->] (0,-0.02) -- (0,0.02) node[above] {$y$};
+\draw[->] (-0.4,0) -- (0.3,0) node[right] {$x$};
+\draw[->] (0,-0.08) -- (0,0.08) node[above] {$y$};
 
 %\draw[fill,cyan](1,1)circle [radius=0.025];
 %FUNCTIEVOORSCHRIFTEN
 
 
 
-\draw[teal,cap=rect,line width=1, opacity=1, domain=-0.3:0.1] plot (\x, {
+\draw[teal,cap=rect,line width=1, opacity=1, domain=-0.35:0.21] plot (\x, {
 	2*pow(\x,4)-3*pow(\x,3)-pow(\x,2)  		% <- plaats het functievoorschrift hier
 }) node[left,opacity=1]{};
 
@@ -39,6 +39,10 @@
 %\foreach \y/\ytext in {-4,-2,2}
 %	\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]
 %	{$$}; %EINDE LUS
+\draw[color=red,line width=2] (-0.35,-0.03) -- (-0.35,0.03);
+\draw[color=red,line width=2] (0.25,-0.03) -- (0.25,0.03);
+\draw[color=red,line width=2] (-0.35,-0.03) -- (0.25,-0.03);
+\draw[color=red,line width=2] (-0.35,0.03) -- (0.25,0.03);
 
 
 
