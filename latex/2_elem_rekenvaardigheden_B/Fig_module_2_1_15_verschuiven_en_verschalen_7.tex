@@ -1,0 +1,95 @@
+
+%TODO polynoombenadering uitrekenen > zie cursus Algebra
+
+\begin{tikzpicture}[scale=1,cap=round]
+
+% Styles
+\tikzstyle{axes}=[]
+\tikzstyle help lines=[color=blue!50,very thin,dotted]
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%		GRID
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\draw[style=help lines,step=1cm] (-6.9,-3.9) grid (6.9,3.9);
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%		ASSENSTELSEL
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\draw[->] (-7,0) -- (7,0) node[right] {$x$};
+\draw[->] (0,-4) -- (0,4) node[left]{$y$};
+
+%\draw[fill,cyan](1,1)circle [radius=0.025];
+
+%\draw[red,cap=rect, loosely dashed, ultra thick, domain=-2:2] plot (\x, {(\x*\x-1)+0.05}) node[above,yshift=-.7cm, right]{};
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%legende
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\tkzDefPoint(0.5,3.5){A}
+%\tkzDefPoint(1,3.5){B}
+%\tkzLabelPoint[right,xshift=+0.1cm](B){${\color{cyan}f(x)=|x^2-1|}$}
+%\tkzDrawSegment[cyan,ultra thick](A,B)
+
+%\tkzDefPoint(0.5,3.2){C}
+%\tkzDefPoint(1,3.2){D}
+%\tkzLabelPoint[right,xshift=+0.1cm](D){${\color{red}e(x)=x^2-1}$}
+%\tkzDrawSegment[red,cap=rect, loosely dashed, ultra thick](C,D)
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%getallen op de x-as en lijntjes
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   
+\foreach \x/\xtext in {-6,-5,-4,-3,-2,-1,1,2,3,4,5,6}
+	\draw[xshift=\x cm] (0pt,1pt) -- (0pt,0pt) node[below,fill=white]
+	{$\xtext$};,3
+	
+%getallen op de y-as en lijntjes  
+%BEGIN LUS
+\foreach \y/\ytext in {-3,-2,-1,1,2,3}
+	\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]
+	{$\ytext$}; %EINDE LUS
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%		GRAFIEKEN
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\draw[teal,cap=rect,line width=2, opacity=0.8, domain=-7:7,samples=100] plot (\x, {
+	sin(\x r)	% <- plaats het functievoorschrift hier	
+}) node[opacity=1,,pos=0,xshift=+6cm,yshift=-1.5cm]{$f_1(x)=\sin{x}$};
+%-------------------------------------------
+\draw[red,cap=rect,line width=1, opacity=1, domain=-7:7,samples=100] plot (\x, {
+	0.3*(sin((\x r))	% <- plaats het functievoorschrift hier	
+}) node[opacity=1,,pos=0,xshift=-5cm,yshift=+1.5cm]{$f_2(x)=0.3\sin{x}+2$};
+%-------------------------------------------
+
+
+
+%\draw[cyan,cap=rect,thick, domain=-6:6] plot (\x, \x) node[above, right]{${\color{cyan}y=x}$};v
+
+%\draw[cyan,cap=rect,ultra thick, domain=-6:1.75] plot (\x, {(\x-2)^(-1)}) node[above,right]{};
+
+
+%\draw[cyan,cap=rect,ultra thick, domain=2.25:6] plot (\x, {(\x-2)^(-1)}) node[above,yshift=+0.5cm,left]{$\color{cyan} y=\frac{1}{x-2}$};
+
+
+%\draw[cyan,cap=rect,ultra thick, domain=-7:1.9] plot (\x, {exp{\x}}) node[above, right]{${\color{cyan}y=\exp{x}}$};
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%		MARKERINGEN
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%verticale lijn
+%\draw[-o,line width=4,teal, cap=rect,opacity=0.3] (0,-4) -- (0,0.25) node[right] {};
+%\draw[line width=4,teal, cap=rect,opacity=0.3] (0,0) -- (0,4.2) node[right] {bld $f$ = $\mathbb{R}_0$};
+%horizontale lijn
+%\draw[arrows=-o,line width=4,blue, cap=rect,opacity=0.3] (-7,0) -- (2.25,0) node[right] {};
+%\draw[line width=4,blue, cap=rect,opacity=0.3] (2.25,0) -- (7,0) node[below,yshift=-0.3cm] {dom$f$ = $\mathbb{R}  \setminus 2 $};
+ 
+\end{tikzpicture}

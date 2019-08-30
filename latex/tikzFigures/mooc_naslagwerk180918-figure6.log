@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.11)  30 AUG 2019 13:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.11)  30 AUG 2019 14:04
 entering extended mode
 **\def\tikzexternalrealjob{mooc_naslagwerk180918}\input{mooc_naslagwerk180918}
 (mooc_naslagwerk180918.tex ("C:\Users\u0066773\AppData\Local\Programs\MiKTeX 2.
@@ -2714,23 +2714,41 @@ A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [height=5cm]{2_elem_rekenvaardigheden_B/inputs/ve
-eltermfuncties1.jpg}' has been optimized away. Use '/tikz/external/optimize=fal
-se' to disable this.
-The command '\includegraphics [height=5cm]{2_elem_rekenvaardigheden_B/inputs/ve
-eltermfuncties2.jpg}' has been optimized away. Use '/tikz/external/optimize=fal
-se' to disable this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_7_veeltermfuncties_1.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (2_elem_rekenvaardigheden_B/Fig_module_2_1_7_veeltermfuncties_2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_7_veeltermfuncties_3.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [height=5cm]{2_elem_rekenvaardigheden_B/inputs/ve
-eltermfuncties3.jpg}' has been optimized away. Use '/tikz/external/optimize=fal
-se' to disable this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_7_veeltermfuncties_3.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (2_elem_rekenvaardigheden_B/Fig_module_2_1_7_veeltermfuncties_3_zoom_in.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
 
  []
 
@@ -2742,12 +2760,12 @@ A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [width=.6\linewidth ]{2_elem_rekenvaardigheden_B/
-inputs/veeltermfuncties4.jpg}' has been optimized away. Use '/tikz/external/opt
-imize=false' to disable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-) (2_elem_rekenvaardigheden_B/module_2_1_8.tex
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_7_veeltermfuncties_4.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)) (2_elem_rekenvaardigheden_B/module_2_1_8.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
@@ -2785,48 +2803,57 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 238.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-Package mdframed Info: Box was splittet wrong
- starting loop to iterate the splitting point
-(mdframed)              on input line 289.
+Package mdframed Info: Not enough space on this page on input line 289.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
+Package mdframed Info: Not enough space on this page on input line 289.
 ) (2_elem_rekenvaardigheden_B/module_2_1_9.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [width=10cm]{2_elem_rekenvaardigheden_B/inputs/ma
-chtsw1}' has been optimized away. Use '/tikz/external/optimize=false' to disabl
-e this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_9_machtswortel_1.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [width=7cm]{2_elem_rekenvaardigheden_B/inputs/mac
-htsw2}' has been optimized away. Use '/tikz/external/optimize=false' to disable
- this.
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
-The command '\includegraphics [width=7cm]{2_elem_rekenvaardigheden_B/inputs/vbi
-rrat1}' has been optimized away. Use '/tikz/external/optimize=false' to disable
- this.
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_9_machtswortel_2.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [width=7cm]{2_elem_rekenvaardigheden_B/inputs/vbi
-rrat2}' has been optimized away. Use '/tikz/external/optimize=false' to disable
- this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_9_irrat_1.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_9_irrat_2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 248.
+(mdframed)              on input line 272.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
+Package mdframed Info: Box was splittet wrong
+ starting loop to iterate the splitting point
+(mdframed)              on input line 325.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 ) (2_elem_rekenvaardigheden_B/module_2_1_10.tex
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
@@ -2852,17 +2879,18 @@ A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [width=7cm]{2_elem_rekenvaardigheden_B/inputs/exp
-}' has been optimized away. Use '/tikz/external/optimize=false' to disable this
-.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_10_exponentiele_functie.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [width=7cm]{2_elem_rekenvaardigheden_B/inputs/vbe
-xp}' has been optimized away. Use '/tikz/external/optimize=false' to disable th
-is.
+)
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-) (2_elem_rekenvaardigheden_B/module_2_1_11.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_10_exponentiele_functie_2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)) (2_elem_rekenvaardigheden_B/module_2_1_11.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 The command '\includegraphics [width=\linewidth ]{2_elem_rekenvaardigheden_B/in
@@ -2883,6 +2911,15 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 77.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
+
+Package mdframed Warning: You got a bad break
+(mdframed)                because the last box will be empty
+(mdframed)                you have to change it manually
+(mdframed)                by changing the text, the space
+(mdframed)                or something else on input line 85.
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
@@ -2890,8 +2927,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--91
 
  []
 
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
@@ -2915,17 +2950,19 @@ The command '\includegraphics [width=7cm]{2_elem_rekenvaardigheden_B/inputs/vbl
 og}' has been optimized away. Use '/tikz/external/optimize=false' to disable th
 is.
 ) (2_elem_rekenvaardigheden_B/module_2_1_12.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 The command '\includegraphics [width=7cm]{2_elem_rekenvaardigheden_B/inputs/per
 iodieke}' has been optimized away. Use '/tikz/external/optimize=false' to disab
 le this.
 The command '\includegraphics [width=7cm]{2_elem_rekenvaardigheden_B/inputs/sin
 }' has been optimized away. Use '/tikz/external/optimize=false' to disable this
 .
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 The command '\includegraphics [width=7cm]{2_elem_rekenvaardigheden_B/inputs/cos
 }' has been optimized away. Use '/tikz/external/optimize=false' to disable this
 .
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 The command '\includegraphics [width=5cm]{2_elem_rekenvaardigheden_B/inputs/tan
 }' has been optimized away. Use '/tikz/external/optimize=false' to disable this
 .
@@ -2937,11 +2974,11 @@ A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 The command '\includegraphics [width=7cm]{2_elem_rekenvaardigheden_B/inputs/Arc
 sine_Arccosine_svg}' has been optimized away. Use '/tikz/external/optimize=fals
 e' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 The command '\includegraphics [width=7cm]{2_elem_rekenvaardigheden_B/inputs/Arc
 tangent_Arccotangent_svg}' has been optimized away. Use '/tikz/external/optimiz
 e=false' to disable this.
@@ -2957,45 +2994,37 @@ num_function_svg}' has been optimized away. Use '/tikz/external/optimize=false'
 ) (2_elem_rekenvaardigheden_B/module_2_1_15.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [height=5cm]{\string "2_elem_rekenvaardigheden_B/
-inputs/Verschuiven - horizontaal - naar links\string ".eps}' has been optimized
- away. Use '/tikz/external/optimize=false' to disable this.
-The command '\includegraphics [height=5cm]{\string "2_elem_rekenvaardigheden_B/
-inputs/Verschuiven - horizontaal - naar rechts\string ".eps}' has been optimize
-d away. Use '/tikz/external/optimize=false' to disable this.
-The command '\includegraphics [height=5cm]{\string "2_elem_rekenvaardigheden_B/
-inputs/Verschuiven - verticaal - naar omlaag\string ".eps}' has been optimized 
-away. Use '/tikz/external/optimize=false' to disable this.
-The command '\includegraphics [height=5cm]{\string "2_elem_rekenvaardigheden_B/
-inputs/Verschuiven - verticaal - naar omhoog\string ".eps}' has been optimized 
-away. Use '/tikz/external/optimize=false' to disable this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_15_verschuiven_en_verschalen_1.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [height=5cm]{\string "2_elem_rekenvaardigheden_B/
-inputs/Herschalen - horizontaal - openrekken\string ".eps}' has been optimized 
-away. Use '/tikz/external/optimize=false' to disable this.
-The command '\includegraphics [height=5cm]{\string "2_elem_rekenvaardigheden_B/
-inputs/Herschalen - horizontaal - inkrimpen\string ".eps}' has been optimized a
-way. Use '/tikz/external/optimize=false' to disable this.
-
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 97--103
-[]$[]$ $[]$ 
- []
-
+) (2_elem_rekenvaardigheden_B/Fig_module_2_1_15_verschuiven_en_verschalen_2.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [height=5cm]{\string "2_elem_rekenvaardigheden_B/
-inputs/Herschalen - verticaal - inkrimpen\string ".eps}' has been optimized awa
-y. Use '/tikz/external/optimize=false' to disable this.
-The command '\includegraphics [height=5cm]{\string "2_elem_rekenvaardigheden_B/
-inputs/Herschalen - verticaal - openrekken\string ".eps}' has been optimized aw
-ay. Use '/tikz/external/optimize=false' to disable this.
-
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 123--129
-[]$[]$ $[]$ 
- []
-
-) (2_elem_rekenvaardigheden_B/module_2_1_16.tex
+) (2_elem_rekenvaardigheden_B/Fig_module_2_1_15_verschuiven_en_verschalen_3.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (2_elem_rekenvaardigheden_B/Fig_module_2_1_15_verschuiven_en_verschalen_4.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_15_verschuiven_en_verschalen_5.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (2_elem_rekenvaardigheden_B/Fig_module_2_1_15_verschuiven_en_verschalen_6.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (2_elem_rekenvaardigheden_B/Fig_module_2_1_15_verschuiven_en_verschalen_7.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_15_verschuiven_en_verschalen_8.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)) (2_elem_rekenvaardigheden_B/module_2_1_16.tex
 The command '\includegraphics [height=5cm]{2_elem_rekenvaardigheden_B/inputs/fi
 guur10}' has been optimized away. Use '/tikz/external/optimize=false' to disabl
 e this.
@@ -3012,13 +3041,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--105
 
  []
 
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 (2_elem_rekenvaardigheden_B/Fig_module_2_1_16_poolcoordinaten.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 )
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
-
 Overfull \hbox (35.25848pt too wide) in paragraph at lines 159--162
 []\OT1/cmr/m/n/12 Soms is het han-dig of nood-za-ke-lijk om over te stap-pen va
 n car-te-si-sche co[]ordinaten naar poolco[]ordinaten
@@ -3039,12 +3067,12 @@ Overfull \hbox (14.27077pt too wide) in paragraph at lines 165--187
 
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 (2_elem_rekenvaardigheden_B/Fig_module_2_1_16_poolcoordinaten3.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 )
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 (2_elem_rekenvaardigheden_B/Fig_module_2_1_16_poolcoordinaten4.tex
@@ -3059,12 +3087,12 @@ isable this.
 )
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 ))
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 (2_elem_rekenvaardigheden_B/module_2_2.tex
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 The command '\includegraphics [width=4cm]{2_elem_rekenvaardigheden_B/inputs/QR_
@@ -3123,13 +3151,13 @@ tinuvb2}' has been optimized away. Use '/tikz/external/optimize=false' to disab
 le this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 
 Underfull \hbox (badness 10000) in paragraph at lines 309--310
 
  []
 
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 The command '\includegraphics [width=6cm]{2_elem_rekenvaardigheden_B/inputs/Con
 tinuvb3}' has been optimized away. Use '/tikz/external/optimize=false' to disab
 le this.
@@ -3153,11 +3181,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 371--372
 The command '\includegraphics [width=6cm]{2_elem_rekenvaardigheden_B/inputs/Con
 tinuvb5}' has been optimized away. Use '/tikz/external/optimize=false' to disab
 le this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 The command '\includegraphics [width=4cm]{2_elem_rekenvaardigheden_B/inputs/QR_
 Code_LIMIETENVOORBEELD_module2new}' has been optimized away. Use '/tikz/externa
 l/optimize=false' to disable this.
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 The command '\includegraphics [height=5cm]{2_elem_rekenvaardigheden_B/inputs/As
@@ -3280,7 +3308,7 @@ isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
-LaTeX Warning: Reference `sec:bijzlim' on page 112 undefined on input line 1243
+LaTeX Warning: Reference `sec:bijzlim' on page 113 undefined on input line 1243
 .
 
 )) (3_gonio_complexe_getallen/module_3.tex
@@ -4821,11 +4849,11 @@ isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
-LaTeX Warning: Reference `tab:omtrek_opp1' on page 154 undefined on input line 
+LaTeX Warning: Reference `tab:omtrek_opp1' on page 155 undefined on input line 
 85.
 
 
-LaTeX Warning: Reference `tab:omtrek_opp2' on page 154 undefined on input line 
+LaTeX Warning: Reference `tab:omtrek_opp2' on page 155 undefined on input line 
 85.
 
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
@@ -4995,7 +5023,7 @@ REEELGETALVB_module4new}' has been optimized away. Use '/tikz/external/optimize
 =false' to disable this.
 (4_opp_inhoud_an_meetk/module_4_2_3.tex
 
-LaTeX Warning: Reference `fig4.2.2_fig1' on page 162 undefined on input line 3.
+LaTeX Warning: Reference `fig4.2.2_fig1' on page 163 undefined on input line 3.
 
 
 (4_opp_inhoud_an_meetk/Fig_module_4_2_3_assenstelsel.tex
@@ -7924,10 +7952,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 157.
  ) 
 Here is how much of TeX's memory you used:
- 49356 strings out of 492895
- 1128546 string characters out of 3122334
+ 49435 strings out of 492895
+ 1133749 string characters out of 3122334
  1366006 words of memory out of 3000000
- 52152 multiletter control sequences out of 15000+200000
+ 52172 multiletter control sequences out of 15000+200000
  547389 words of font info for 80 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,20n,136p,1044b,1035s stack positions out of 5000i,500n,10000p,200000b,50000s
