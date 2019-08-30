@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.11)  27 AUG 2019 16:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.11)  30 AUG 2019 13:15
 entering extended mode
 **\def\tikzexternalrealjob{mooc_naslagwerk180918}\input{mooc_naslagwerk180918}
 (mooc_naslagwerk180918.tex ("C:\Users\u0066773\AppData\Local\Programs\MiKTeX 2.
@@ -1913,7 +1913,547 @@ Overfull \hbox (588.44406pt too wide) in paragraph at lines 107--107
 |[]   []
  []
 
-(2_elem_rekenvaardigheden_B/module_2.tex
+(1_elem_rekenvaardigheden_A/module_1.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Hoofdstuk .
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (588.44406pt too wide) in paragraph at lines 1--1
+|[]   []
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{1_elem_rekenvaardigheden_A/inputs/QR_
+Code_INTRO_module_1new}' has been optimized away. Use '/tikz/external/optimize=
+false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(1_elem_rekenvaardigheden_A/module_1_1.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 78.
+("C:\Users\u0066773\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 78.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+LaTeX Warning: Reference `fig:absvalue' on page 4 undefined on input line 128.
+
+(1_elem_rekenvaardigheden_A/Fig_module_1_1_2_absvalue.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(1_elem_rekenvaardigheden_A/Fig_module_1_1_2_absvalue_2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (15.31404pt too wide) in paragraph at lines 2--52
+ [] 
+ []
+
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{1_elem_rekenvaardigheden_A/inputs/QR_
+Code_SOMMATIE_module_1new}' has been optimized away. Use '/tikz/external/optimi
+ze=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--308
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+LaTeX Warning: Reference `fig:som_par' on page 9 undefined on input line 336.
+
+(5_vglen_ongelijkheden_stelsels_matrices/Fig_module5_2_plaatsvector.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (1_elem_rekenvaardigheden_A/Fig_module_1_1_6_parRegelSom.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (1_elem_rekenvaardigheden_A/Fig_module_1_1_6_kopstaart.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+
+LaTeX Warning: Reference `fig:kopstaartsom_par' on page 9 undefined on input li
+ne 375.
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--396
+
+ []
+
+The command '\includegraphics [width=4cm]{1_elem_rekenvaardigheden_A/inputs/QR_
+Code_ONTBINDEN_module_1new}' has been optimized away. Use '/tikz/external/optim
+ize=false' to disable this.
+) (1_elem_rekenvaardigheden_A/module_1_2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+The command '\includegraphics [width=4cm]{1_elem_rekenvaardigheden_A/inputs/QR_
+Code_VOLGORDE1_module1new}' has been optimized away. Use '/tikz/external/optimi
+ze=false' to disable this.
+The command '\includegraphics [width=4cm]{1_elem_rekenvaardigheden_A/inputs/QR_
+Code_VOLGORDE2_module1new}' has been optimized away. Use '/tikz/external/optimi
+ze=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (11.44269pt too wide) detected at line 83
+[]
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 92.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: Not enough space on this page on input line 94.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 181.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 360.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--363
+
+ []
+
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 372.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--413
+
+ []
+
+
+Overfull \hbox (10.71661pt too wide) in paragraph at lines 413--414
+[][] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (15.67055pt too wide) in paragraph at lines 438--439
+[]
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 473.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--476
+
+ []
+
+
+Package mdframed Warning: You got a bad break
+(mdframed)                because the last box will be empty
+(mdframed)                you have to change it manually
+(mdframed)                by changing the text, the space
+(mdframed)                or something else on input line 496.
+
+Package mdframed Info: Box was splittet wrong
+ starting loop to iterate the splitting point
+(mdframed)              on input line 496.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 547.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 559.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 626.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 635.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 666.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 691.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 711.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (3.34866pt too wide) detected at line 723
+[]
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (10.65971pt too wide) in paragraph at lines 785--786
+[]\OT1/cmr/m/n/12 De \OT1/cmr/m/it/12 na-tuur-lijke \OT1/cmr/m/n/12 of \OT1/cmr
+/m/it/12 Ne-pe-ri-aanse \OT1/cmr/m/n/12 lo-ga-ritme is de lo-ga-ritme met grond
+-tal $\OML/cmm/m/it/12 e$\OT1/cmr/m/n/12 , met $\OML/cmm/m/it/12 e \OT1/cmr/m/n
+/12 = 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 71828182845 []$. 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 796.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(1_elem_rekenvaardigheden_A/Fig_module_1_2_9_logFunc1.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (1_elem_rekenvaardigheden_A/Fig_module_1_2_9_logFunc2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 842.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1034
+
+ []
+
+
+Overfull \hbox (8.22572pt too wide) detected at line 1054
+[]
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1066--1067
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+LaTeX Warning: Reference `sec:ontbindeninfactoren' on page 31 undefined on inpu
+t line 1131.
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (28.81766pt too wide) in paragraph at lines 1254--1263
+[]$[]$ 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(1_elem_rekenvaardigheden_A/module_1_3.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 158.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{1_elem_rekenvaardigheden_A/inputs/QR_
+Code_DISCRIMINANT_module1new}' has been optimized away. Use '/tikz/external/opt
+imize=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{1_elem_rekenvaardigheden_A/inputs/QR_
+Code_HORNER_module1new}' has been optimized away. Use '/tikz/external/optimize=
+false' to disable this.
+)) (2_elem_rekenvaardigheden_B/module_2.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 Hoofdstuk .
@@ -1948,66 +2488,49 @@ isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 (2_elem_rekenvaardigheden_B/Fig_module_2_1_4_eerstegraadsfunctie_1.tex
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
-) (2_elem_rekenvaardigheden_B/Fig_module_2_1_4_teken_rico_pos.tex
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
-) (2_elem_rekenvaardigheden_B/Fig_module_2_1_4_teken_rico_pos.tex
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
-) (2_elem_rekenvaardigheden_B/Fig_module_2_1_4_teken_rico_pos.tex
-A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
-isable this.
-)
-Overfull \hbox (1028.8246pt too wide) in paragraph at lines 113--118
-[][] 
- []
+\openout6 = `tikzFigures/mooc_naslagwerk180918-figure7.dpth'.
 
-(2_elem_rekenvaardigheden_B/Fig_module_2_1_4_teken_rico_pos.tex
+Missing character: There is no , in font nullfont!
+Missing character: There is no 3 in font nullfont!
+[50
+
+{C:/Users/u0066773/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) (2_elem
+_rekenvaardigheden_B/Fig_module_2_1_4_teken_rico_pos.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
-Underfull \hbox (badness 2027) in paragraph at lines 1--93
-[] \OT1/cmr/m/n/12 [ \OT1/cmr/m/sc/12 tikz-pic-ture op-ti-mi-zed
- []
-
-
-Underfull \hbox (badness 2359) in paragraph at lines 1--93
-\OT1/cmr/m/sc/12 con-tri-bute to ex-por-ted
+Underfull \hbox (badness 2073) in paragraph at lines 1--91
+\OT1/cmr/m/sc/12 away be-cause it does
  []
 
 ) (2_elem_rekenvaardigheden_B/Fig_module_2_1_4_rico_nul.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
-Underfull \hbox (badness 2027) in paragraph at lines 1--93
-[] \OT1/cmr/m/n/12 [ \OT1/cmr/m/sc/12 tikz-pic-ture op-ti-mi-zed
- []
-
-
-Underfull \hbox (badness 2359) in paragraph at lines 1--93
-\OT1/cmr/m/sc/12 con-tri-bute to ex-por-ted
+Underfull \hbox (badness 2073) in paragraph at lines 1--93
+\OT1/cmr/m/sc/12 away be-cause it does
  []
 
 ) (2_elem_rekenvaardigheden_B/Fig_module_2_1_4_teken_rico_neg.tex
-\openout6 = `tikzFigures/mooc_naslagwerk180918-figure7.dpth'.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
 
-Missing character: There is no , in font nullfont!
-Missing character: There is no 3 in font nullfont!
-[3
+Underfull \hbox (badness 2073) in paragraph at lines 1--92
+\OT1/cmr/m/sc/12 away be-cause it does
+ []
 
-{C:/Users/u0066773/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
+)
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [height=5cm]{2_elem_rekenvaardigheden_B/inputs/ee
-rstegraadsfuncties3.jpg}' has been optimized away. Use '/tikz/external/optimize
-=false' to disable this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_4_eerstegraadsfunctie_3.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
 
-LaTeX Warning: Reference `tab:eerste_vb' on page 4 undefined on input line 201.
-
+LaTeX Warning: Reference `tab:eerste_vb' on page 51 undefined on input line 211
+.
 
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
@@ -2022,17 +2545,17 @@ The command '\includegraphics [scale=0.8]{2_elem_rekenvaardigheden_B/inputs/twe
 edegraadsfuncties2.jpg}' has been optimized away. Use '/tikz/external/optimize=
 false' to disable this.
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--294
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 301--302
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--310
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
 
  []
 
@@ -2050,12 +2573,3319 @@ imize=false' to disable this.
 The command '\includegraphics [width=4cm]{2_elem_rekenvaardigheden_B/inputs/QR_
 Code_TWEEDEGRVGL2_module2new}' has been optimized away. Use '/tikz/external/opt
 imize=false' to disable this.
-)
+(2_elem_rekenvaardigheden_B/module_2_1_16.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [height=5cm]{2_elem_rekenvaardigheden_B/inputs/fi
+guur10}' has been optimized away. Use '/tikz/external/optimize=false' to disabl
+e this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
+
+ []
+
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_16_poolcoordinaten.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 )
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
+
+Overfull \hbox (35.25848pt too wide) in paragraph at lines 159--162
+[]\OT1/cmr/m/n/12 Soms is het han-dig of nood-za-ke-lijk om over te stap-pen va
+n car-te-si-sche co[]ordinaten naar poolco[]ordinaten
+ []
+
+
+Overfull \hbox (61.3251pt too wide) in paragraph at lines 167--180
+[][] 
+ []
+
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_16_poolcoordinaten2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+Overfull \hbox (14.27077pt too wide) in paragraph at lines 165--187
+[]$[]$   $[]$ 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_16_poolcoordinaten3.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_16_poolcoordinaten4.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(2_elem_rekenvaardigheden_B/Fig_module_2_1_16_poolcoordinaten5.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+))
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (3_gonio_complexe_getallen/module_3.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Hoofdstuk .
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (588.44406pt too wide) in paragraph at lines 1--1
+|[]   []
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{3_gonio_complexe_getallen/inputs/QR_C
+ode_INTRO_module3new}' has been optimized away. Use '/tikz/external/optimize=fa
+lse' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(3_gonio_complexe_getallen/module_3_1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+The command '\includegraphics [height=7cm]{3_gonio_complexe_getallen/inputs/Ask
+ania_Sekunden-Theodolit_TU_e_400.jpg}' has been optimized away. Use '/tikz/exte
+rnal/optimize=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+The command '\includegraphics [height=7cm]{3_gonio_complexe_getallen/inputs/Pyl
+on_ds.jpg}' has been optimized away. Use '/tikz/external/optimize=false' to dis
+able this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/gonci
+rkelhoek-1.pdf}' has been optimized away. Use '/tikz/external/optimize=false' t
+o disable this.
+The command '\includegraphics [scale=.37]{3_gonio_complexe_getallen/inputs/grad
+en1.jpg}' has been optimized away. Use '/tikz/external/optimize=false' to disab
+le this.
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/hoeke
+ndeg.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to disa
+ble this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=0.37]{3_gonio_complexe_getallen/inputs/rad
+iaal1.jpg}' has been optimized away. Use '/tikz/external/optimize=false' to dis
+able this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+The command '\includegraphics [scale=0.75]{3_gonio_complexe_getallen/inputs/rec
+htehoekrad.pdf}' has been optimized away. Use '/tikz/external/optimize=false' t
+o disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (44.68874pt too wide) in paragraph at lines 237--238
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (15.67055pt too wide) in paragraph at lines 248--249
+[]
+ []
+
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/drieh
+oek.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to disab
+le this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/drieh
+oek.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to disab
+le this.
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/drieh
+oek.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to disab
+le this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/drieh
+oek.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to disab
+le this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/drieh
+oek.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to disab
+le this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (56.15404pt too wide) in paragraph at lines 458--459
+[]\OT1/cmr/m/n/12 Een recht-hoe-kige drie-hoek los je op door for-mu-les te kie
+-zen uit Pyt-hago-ras, $[] \OML/cmm/m/it/12 ; [] ; [] ; [] ; []$
+ []
+
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/willd
+riehoek.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
+
+ []
+
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/willd
+riehoek.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+
+ []
+
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/willd
+riehoek.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--582
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--603
+
+ []
+
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/willd
+riehoek.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=0.4]{3_gonio_complexe_getallen/inputs/gonc
+irkelleeg.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to
+ disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=0.4]{3_gonio_complexe_getallen/inputs/gonc
+irkelhoek.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to
+ disable this.
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/gonci
+rkel3hoek.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to
+ disable this.
+The command '\includegraphics [scale=.6]{3_gonio_complexe_getallen/inputs/gonci
+rkelproj.pdf}' has been optimized away. Use '/tikz/external/optimize=false' to 
+disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=.6]{3_gonio_complexe_getallen/inputs/gonci
+rkeltancot.pdf}' has been optimized away. Use '/tikz/external/optimize=false' t
+o disable this.
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/gonci
+rkelkwadrant.pdf}' has been optimized away. Use '/tikz/external/optimize=false'
+ to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=.5]{3_gonio_complexe_getallen/inputs/gonci
+rkelproj-suppl.jpg}' has been optimized away. Use '/tikz/external/optimize=fals
+e' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 722--724
+
+ []
+
+The command '\includegraphics [scale=.6]{3_gonio_complexe_getallen/inputs/gonci
+rkeltotaal.pdf}' has been optimized away. Use '/tikz/external/optimize=false' t
+o disable this.
+The command '\includegraphics [scale=0.6]{3_gonio_complexe_getallen/inputs/gonc
+irkelkwadrant.pdf}' has been optimized away. Use '/tikz/external/optimize=false
+' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 752--767
+[]   [] 
+ []
+
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 780--839
+[]   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--839
+
+ []
+
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 780--839
+[]   []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--839
+
+ []
+
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 780--839
+[]   [] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 853--867
+[]   [] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--887
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 887--887
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 897--897
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 910--910
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=0.3]{3_gonio_complexe_getallen/inputs/oefn
+-mast.jpg}' has been optimized away. Use '/tikz/external/optimize=false' to dis
+able this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 924--924
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=0.5]{3_gonio_complexe_getallen/inputs/oef-
+driehoek-1.jpg}' has been optimized away. Use '/tikz/external/optimize=false' t
+o disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 932--932
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=0.5]{3_gonio_complexe_getallen/inputs/oef-
+driehoek-2.jpg}' has been optimized away. Use '/tikz/external/optimize=false' t
+o disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--940
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 940--940
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=0.5]{3_gonio_complexe_getallen/inputs/oef-
+driehoek-3.jpg}' has been optimized away. Use '/tikz/external/optimize=false' t
+o disable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(3_gonio_complexe_getallen/module_3_2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
+
+ []
+
+The command '\includegraphics [scale=0.6]{3_gonio_complexe_getallen/inputs/comp
+lex-getal-1.jpg}' has been optimized away. Use '/tikz/external/optimize=false' 
+to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+The command '\includegraphics [width=4cm]{3_gonio_complexe_getallen/inputs/QR_C
+ode_ANIMATIE1_module3new}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=0.6]{3_gonio_complexe_getallen/inputs/comp
+lex-getal-2.jpg}' has been optimized away. Use '/tikz/external/optimize=false' 
+to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+The command '\includegraphics [width=4cm]{3_gonio_complexe_getallen/inputs/QR_C
+ode_ANIMATIE2_module3new}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--81
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+The command '\includegraphics [scale=0.6]{3_gonio_complexe_getallen/inputs/comp
+lex-getal-3-optelling.jpg}' has been optimized away. Use '/tikz/external/optimi
+ze=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=0.6]{3_gonio_complexe_getallen/inputs/comp
+lex-getal-4-complex-toegevoegde.jpg}' has been optimized away. Use '/tikz/exter
+nal/optimize=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+The command '\includegraphics [width=4cm]{3_gonio_complexe_getallen/inputs/QR_C
+ode_ANIMATIE3_module3new}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--151
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{3_gonio_complexe_getallen/inputs/QR_C
+ode_REKENENCOMPLVB_module3new}' has been optimized away. Use '/tikz/external/op
+timize=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
+
+ []
+
+The command '\includegraphics [scale=0.6]{3_gonio_complexe_getallen/inputs/comp
+lex-getal-5-goniometrisch.jpg}' has been optimized away. Use '/tikz/external/op
+timize=false' to disable this.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [scale=0.5]{3_gonio_complexe_getallen/inputs/comp
+lex-getal-voorbeeld1.jpg}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+
+ []
+
+The command '\includegraphics [scale=0.5]{3_gonio_complexe_getallen/inputs/comp
+lex-getal-voorbeeld2.jpg}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+
+ []
+
+The command '\includegraphics [scale=0.5]{3_gonio_complexe_getallen/inputs/comp
+lex-getal-voorbeeld3.jpg}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+
+ []
+
+The command '\includegraphics [scale=0.5]{3_gonio_complexe_getallen/inputs/comp
+lex-getal-voorbeeld4.jpg}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--377
+
+ []
+
+The command '\includegraphics [scale=0.6]{3_gonio_complexe_getallen/inputs/comp
+lex-getal-6-optelling-exp.jpg}' has been optimized away. Use '/tikz/external/op
+timize=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+
+ []
+
+The command '\includegraphics [scale=0.6]{3_gonio_complexe_getallen/inputs/prod
+uct-grafisch.jpg}' has been optimized away. Use '/tikz/external/optimize=false'
+ to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+
+ []
+
+The command '\includegraphics [width=4cm]{3_gonio_complexe_getallen/inputs/QR_C
+ode_ANIMATIE4_module3new}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--465
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--483
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (15.67055pt too wide) in paragraph at lines 504--505
+[]
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--512
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--528
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--543
+
+ []
+
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 560.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--563
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 570--571
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 594--595
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--599
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--607
+
+ []
+
+The command '\includegraphics [scale=0.6]{3_gonio_complexe_getallen/inputs/derd
+emachtswortels-voorbeeld.jpg}' has been optimized away. Use '/tikz/external/opt
+imize=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--615
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--619
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--629
+
+ []
+
+The command '\includegraphics [width=4cm]{3_gonio_complexe_getallen/inputs/QR_C
+ode_ANIMATIE5_module3new}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--637
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--637
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 638--641
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--643
+
+ []
+
+The command '\includegraphics [width=4cm]{3_gonio_complexe_getallen/inputs/QR_C
+ode_ANIMATIE6_module3new}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--651
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--651
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 652--653
+
+ []
+
+The command '\includegraphics [width=4cm]{3_gonio_complexe_getallen/inputs/QR_C
+ode_ANIMATIE7_module3new}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 654--661
+
+ []
+
+)) (4_opp_inhoud_an_meetk/module_4.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Hoofdstuk .
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (588.44406pt too wide) in paragraph at lines 1--1
+|[]   []
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{4_opp_inhoud_an_meetk/inputs/QR_Code_
+INTRO_module4new}' has been optimized away. Use '/tikz/external/optimize=false'
+ to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/module_4_1.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+LaTeX Warning: Reference `tab:omtrek_opp1' on page 99 undefined on input line 8
+5.
+
+
+LaTeX Warning: Reference `tab:omtrek_opp2' on page 99 undefined on input line 8
+5.
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (404.93228pt too wide) in paragraph at lines 159--257
+ [] 
+ []
+
+The command '\includegraphics [width=4cm]{4_opp_inhoud_an_meetk/inputs/QR_Code_
+ANIMATIE_module4new}' has been optimized away. Use '/tikz/external/optimize=fal
+se' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=.7\linewidth ]{4_opp_inhoud_an_meetk/input
+s/RuimteFigurenOppInhoud_prisma}' has been optimized away. Use '/tikz/external/
+optimize=false' to disable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 294.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: Not enough space on this page on input line 299.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: Not enough space on this page on input line 299.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=.4\linewidth ]{4_opp_inhoud_an_meetk/input
+s/RuimteFigurenOppInhoud_kubus}' has been optimized away. Use '/tikz/external/o
+ptimize=false' to disable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 320.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=.7\linewidth ]{4_opp_inhoud_an_meetk/input
+s/RuimteFigurenOppInhoud_balk}' has been optimized away. Use '/tikz/external/op
+timize=false' to disable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 345.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=.7\linewidth ]{4_opp_inhoud_an_meetk/input
+s/RuimteFigurenOppInhoud_parallellepipedum}' has been optimized away. Use '/tik
+z/external/optimize=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 370.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=.7\linewidth ]{4_opp_inhoud_an_meetk/input
+s/piramide}' has been optimized away. Use '/tikz/external/optimize=false' to di
+sable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 396.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=.7\linewidth ]{4_opp_inhoud_an_meetk/input
+s/RuimteFigurenOppInhoud_parallellepipedum}' has been optimized away. Use '/tik
+z/external/optimize=false' to disable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 432.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=.7\linewidth ]{4_opp_inhoud_an_meetk/input
+s/RuimteFigurenOppInhoud_kegel1}' has been optimized away. Use '/tikz/external/
+optimize=false' to disable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 458.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: Not enough space on this page on input line 462.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: Not enough space on this page on input line 462.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=.3\linewidth ]{4_opp_inhoud_an_meetk/input
+s/RuimteFigurenOppInhoud_bol1}' has been optimized away. Use '/tikz/external/op
+timize=false' to disable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 481.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/module_4_2.tex (4_opp_inhoud_an_meetk/module_4_2_1.tex (
+4_opp_inhoud_an_meetk/Fig_module_4_2_1_ijk.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (4_opp_inhoud_an_meetk/Fig_module_4_2_1_georienteerdeRechte.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (4_opp_inhoud_an_meetk/Fig_module_4_2_1_natuurlijkGetal.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_1_reeelGetal.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (4_opp_inhoud_an_meetk/Fig_module_4_2_1_reeelGetal2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_1_abscis.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_1_andereIjk.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (4_opp_inhoud_an_meetk/Fig_module_4_2_1_andereIjk2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+))
+The command '\includegraphics [width=4cm]{4_opp_inhoud_an_meetk/inputs/QR_Code_
+REEELGETALVB_module4new}' has been optimized away. Use '/tikz/external/optimize
+=false' to disable this.
+(4_opp_inhoud_an_meetk/module_4_2_3.tex
+
+LaTeX Warning: Reference `fig4.2.2_fig1' on page 107 undefined on input line 3.
+
+
+(4_opp_inhoud_an_meetk/Fig_module_4_2_3_assenstelsel.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_3_assenstelselxy.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (15.67055pt too wide) in paragraph at lines 54--55
+[]
+ []
+
+(4_opp_inhoud_an_meetk/Fig_module_4_2_3_assenstelselEuclidisch.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+The command '\includegraphics [width=.5\linewidth ]{4_opp_inhoud_an_meetk/input
+s/AMTekst2Fig5}' has been optimized away. Use '/tikz/external/optimize=false' t
+o disable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_3_kwadranten.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+))
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 112--15
+[]$[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--15
+
+ []
+
+(4_opp_inhoud_an_meetk/module_4_2_4.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_4_afstandTss2Punten.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (4_opp_inhoud_an_meetk/Fig_module_4_2_4_horizontaleRechte.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (4_opp_inhoud_an_meetk/Fig_module_4_2_4_verticaleRechte.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_4_afstandTss2PuntenVb.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_4_afstandTss2PuntenVb2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+))
+The command '\includegraphics [width=4cm]{4_opp_inhoud_an_meetk/inputs/QR_Code_
+AFSTANDTWEEPTNVB_module4new}' has been optimized away. Use '/tikz/external/opti
+mize=false' to disable this.
+(4_opp_inhoud_an_meetk/module_4_2_6.tex (4_opp_inhoud_an_meetk/Fig_module_4_2_6
+_vglRechte.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (4_opp_inhoud_an_meetk/Fig_module_4_2_6_vglRechte2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 11--21
+[]$[]$ $[]$ 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_6_hoek.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (4_opp_inhoud_an_meetk/Fig_module_4_2_6_hoek2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (4_opp_inhoud_an_meetk/Fig_module_4_2_6_hoek3.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 85--89
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_6_illustratieVglRechte.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--127
+
+ []
+
+The command '\includegraphics [width=4cm]{4_opp_inhoud_an_meetk/inputs/QR_Code_
+VGLRECHTE_module4new}' has been optimized away. Use '/tikz/external/optimize=fa
+lse' to disable this.
+The command '\includegraphics [width=4cm]{4_opp_inhoud_an_meetk/inputs/QR_Code_
+VGLRECHTEVB_module4new}' has been optimized away. Use '/tikz/external/optimize=
+false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_6_vglRechteVb.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_6_vglRechteVb2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+
+ []
+
+) (4_opp_inhoud_an_meetk/module_4_2_10.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_10_onderlingeLiggingVb.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_10_onderlingeLiggingVb2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_10_onderlingeLiggingVb3.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--128
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--162
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
+
+ []
+
+)
+The command '\includegraphics [width=4cm]{4_opp_inhoud_an_meetk/inputs/QR_Code_
+ONDERLINGELIGGINGVB_module4new}' has been optimized away. Use '/tikz/external/o
+ptimize=false' to disable this.
+The command '\includegraphics [width=4cm]{4_opp_inhoud_an_meetk/inputs/QR_Code_
+ONDERLINGELIGGINGVB2_module4new}' has been optimized away. Use '/tikz/external/
+optimize=false' to disable this.
+The command '\includegraphics [width=4cm]{4_opp_inhoud_an_meetk/inputs/QR_Code_
+ONDERLINGELIGGINGVB3_module4new}' has been optimized away. Use '/tikz/external/
+optimize=false' to disable this.
+(4_opp_inhoud_an_meetk/module_4_2_14.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_14_afstandPuntRechteVb.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+(4_opp_inhoud_an_meetk/Fig_module_4_2_14_bissectrice.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (4_opp_inhoud_an_meetk/module_4_2_15.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_15_vglCirkel.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(4_opp_inhoud_an_meetk/Fig_module_4_2_15_vglCirkelVb.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+(4_opp_inhoud_an_meetk/Fig_module_4_2_15_ingeschrevenCirkel.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 200--207
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+The command '\includegraphics [width=4cm]{4_opp_inhoud_an_meetk/inputs/QR_Code_
+VGLCIRKEL_module4new}' has been optimized away. Use '/tikz/external/optimize=fa
+lse' to disable this.
+)) (5_vglen_ongelijkheden_stelsels_matrices/module_5.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Hoofdstuk .
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (588.44406pt too wide) in paragraph at lines 1--1
+|[]   []
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{5_vglen_ongelijkheden_stelsels_matric
+es/inputs/QR_Code_INTRO_module5new}' has been optimized away. Use '/tikz/extern
+al/optimize=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(5_vglen_ongelijkheden_stelsels_matrices/module_5_1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 169.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--230
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 234.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--237
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
+
+ []
+
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 378.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--381
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: Box was splittet wrong
+ starting loop to iterate the splitting point
+(mdframed)              on input line 395.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (3.15974pt too wide) in paragraph at lines 414--415
+\OT1/cmr/m/n/12 Sommige ho-ge-re-graads-ver-ge-lij-kin-gen kun-nen op-ge-lost w
+or-den door een slimme sub-sti-tu-tie. Neem
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
+
+ []
+
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 460.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 645--646
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 677--678
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--714
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 715--716
+
+ []
+
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 727.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (36.47054pt too wide) in paragraph at lines 730--731
+[]
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: Not enough space on this page on input line 740.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: Not enough space on this page on input line 740.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 775--776
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--813
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 859.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 860--862
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: Not enough space on this page on input line 866.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(5_vglen_ongelijkheden_stelsels_matrices/module_5_2.tex (5_vglen_ongelijkheden_
+stelsels_matrices/Fig_module5_2_plaatsvector.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(5_vglen_ongelijkheden_stelsels_matrices/Fig_module5_2_rotatieWijzerzin.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+(5_vglen_ongelijkheden_stelsels_matrices/Fig_module5_2_rotatieTegenwijzerzin.te
+x
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+Overfull \hbox (17.23784pt too wide) in paragraph at lines 119--121
+[]\OT1/cmr/m/n/12 Matrices zijn een han-dige ma-nier om ver-an-de-rin-gen van r
+e-fe-ren-tie-stel-sel, co[]ordinatentransformaties,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--501
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--560
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--562
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--572
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--801
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 810--812
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--846
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 847--848
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 851--852
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 882--884
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--895
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 901--903
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--913
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 914--915
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 920--922
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 945--946
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 947--948
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 997--998
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1008--1009
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1010--1011
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1015--1016
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1020--1021
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1041
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1045
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1054
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1055--1056
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1085--1086
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1089
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1090--1091
+
+ []
+
+
+Overfull \hbox (1.10931pt too wide) in paragraph at lines 1105--1106
+\OT1/cmr/m/n/12 te-kent dat $\OML/cmm/m/it/12 rang\OT1/cmr/m/n/12 (\OML/cmm/m/i
+t/12 A\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 n$\OT1/cmr/m/n/12 , $\OML/cmm/m/it/1
+2 detA \OMS/cmsy/m/n/12 6\OT1/cmr/m/n/12 = 0$ en $\OML/cmm/m/it/12 A$ \OT1/cmr/
+m/n/12 is re-gu-lier (in-ver-teer-baar). De eenheidsmatrix
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1200--1201
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1276--1277
+
+ []
+
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1280.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1281--1283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1300--1303
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1341--1343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1369
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1386--1388
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1406--1408
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1453--1455
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1480--1482
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1492--1494
+
+ []
+
+)) (6_afgeleiden_integralen/module_6.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Hoofdstuk .
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (588.44406pt too wide) in paragraph at lines 1--1
+|[]   []
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_INTRO_module6new}' has been optimized away. Use '/tikz/external/optimize=fals
+e' to disable this.
+(6_afgeleiden_integralen/module_6_1.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_INLEIDENDVB_module6new}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [height=5 cm]{6_afgeleiden_integralen/inputs/1_2_
+vb1}' has been optimized away. Use '/tikz/external/optimize=false' to disable t
+his.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (10.71661pt too wide) in paragraph at lines 52--53
+[][] 
+ []
+
+
+Overfull \hbox (10.71661pt too wide) in paragraph at lines 59--60
+[][] 
+ []
+
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_AFGANIMATIE_module6_1new}' has been optimized away. Use '/tikz/external/optim
+ize=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [height=5 cm]{6_afgeleiden_integralen/inputs/1_2_
+vb3}' has been optimized away. Use '/tikz/external/optimize=false' to disable t
+his.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_AFGRAAKLIJN_module6new}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_AFGVTFTIES_module6new}' has been optimized away. Use '/tikz/external/optimize
+=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 267.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 282.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 297.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: Not enough space on this page on input line 302.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: Not enough space on this page on input line 302.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (20.92567pt too wide) in alignment at lines 305--308
+ [][][] []
+ []
+
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 311.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 337.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: Not enough space on this page on input line 344.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: Not enough space on this page on input line 344.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_BASISAFG_module6new}' has been optimized away. Use '/tikz/external/optimize=f
+alse' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (101.6282pt too wide) detected at line 418
+\OT1/cmr/m/n/12 3 [] [][] \OML/cmm/m/it/12 D [] \OT1/cmr/m/n/12 + 4 [] [][] \OM
+L/cmm/m/it/12 D [] \OMS/cmsy/m/n/12   \OT1/cmr/m/n/12 9[] [][] \OML/cmm/m/it/12
+ D\OT1/cmr/m/n/12 (5\OML/cmm/m/it/12 x \OMS/cmsy/m/n/12   \OT1/cmr/m/n/12 7)
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [height=5cm]{6_afgeleiden_integralen/inputs/1_9_f
+ig1}' has been optimized away. Use '/tikz/external/optimize=false' to disable t
+his.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=.5\linewidth ]{6_afgeleiden_integralen/inp
+uts/1_9_fig2}' has been optimized away. Use '/tikz/external/optimize=false' to 
+disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (6_afgeleiden_integralen/module_6_2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_INLEIDENDVB_module6_2new}' has been optimized away. Use '/tikz/external/optim
+ize=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_STNEWTONLEIBNIZ_module6_2new}' has been optimized away. Use '/tikz/external/o
+ptimize=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 95.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Overfull \hbox (39.54831pt too wide) in alignment at lines 162--167
+ [][][] []
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_EENVRRVB_module6_2new}' has been optimized away. Use '/tikz/external/optimize
+=false' to disable this.
+The command '\includegraphics [width=.5\linewidth ]{6_afgeleiden_integralen/inp
+uts/2_7_fig1}' has been optimized away. Use '/tikz/external/optimize=false' to 
+disable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--232
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [height=8cm]{6_afgeleiden_integralen/inputs/2_7_f
+ig2}' has been optimized away. Use '/tikz/external/optimize=false' to disable t
+his.
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_BEPINTVB_module6_2new}' has been optimized away. Use '/tikz/external/optimize
+=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_OPPBEPINT_module6_2new}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=.7\linewidth ]{6_afgeleiden_integralen/inp
+uts/2_11_vb20}' has been optimized away. Use '/tikz/external/optimize=false' to
+ disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=.7\linewidth ]{6_afgeleiden_integralen/inp
+uts/2_11_vb20_2}' has been optimized away. Use '/tikz/external/optimize=false' 
+to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+) (6_afgeleiden_integralen/module_6_3.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_OPPKETTINGINT_module6_3new}' has been optimized away. Use '/tikz/external/opt
+imize=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_DIFFSUBSTVB_module6_3new}' has been optimized away. Use '/tikz/external/optim
+ize=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_SUBSTBEPVB_module6_3new}' has been optimized away. Use '/tikz/external/optimi
+ze=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_ONBEPPRODUCTREGEL_module6_3new}' has been optimized away. Use '/tikz/external
+/optimize=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--444
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_PARTINTVB_module6_3new}' has been optimized away. Use '/tikz/external/optimiz
+e=false' to disable this.
+The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
+e_PARTINTVB2_module6_3new}' has been optimized away. Use '/tikz/external/optimi
+ze=false' to disable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 497.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--499
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--508
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--508
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 544.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--556
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 618.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--620
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--626
+
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+))
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 Hoofdstuk .
@@ -2066,7 +5896,686 @@ Overfull \hbox (588.44406pt too wide) in paragraph at lines 132--132
 |[]   []
  []
 
-(inputs/oplossingen-zonder-ster.tmp)
+(inputs/oplossingen-zonder-ster.tmp
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 Hoofdstuk .
@@ -2077,7 +6586,686 @@ Overfull \hbox (588.44406pt too wide) in paragraph at lines 143--143
 |[]   []
  []
 
-(inputs/oplossingen-alle.tmp)
+(inputs/oplossingen-alle.tmp
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 1--1
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 2--2
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 3--3
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 4--4
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+[]\OT1/cmr/m/n/12 [
+ []
+
+
+Overfull \hbox (6.14432pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 tikz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 pic-
+ []
+
+
+Overfull \hbox (5.61101pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 op-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 zed
+ []
+
+
+Overfull \hbox (6.411pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 away
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 be-
+ []
+
+
+Overfull \hbox (10.97096pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 cause
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 it
+ []
+
+
+Overfull \hbox (4.54436pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 not
+ []
+
+
+Overfull \hbox (3.85098pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 tri-
+ []
+
+
+Overfull \hbox (5.34435pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 bute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 ex-
+ []
+
+
+Overfull \hbox (3.31766pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 ted
+ []
+
+
+Overfull \hbox (7.9014pt too wide) in paragraph at lines 6--6
+\OT1/cmr/m/sc/12 PDF\OT1/cmr/m/n/12 ] 
+ []
+
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
 The command '\includepdf []{inputs/backcover.pdf}' has been optimized away. Use
  '/tikz/external/optimize=false' to disable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
@@ -2095,21 +7283,21 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 157.
  ) 
 Here is how much of TeX's memory you used:
- 48975 strings out of 492895
- 1109284 string characters out of 3122334
- 1331006 words of memory out of 3000000
- 52078 multiletter control sequences out of 15000+200000
- 540399 words of font info for 55 fonts, out of 3000000 for 9000
+ 49377 strings out of 492895
+ 1126619 string characters out of 3122334
+ 1366006 words of memory out of 3000000
+ 52235 multiletter control sequences out of 15000+200000
+ 547389 words of font info for 80 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,12n,136p,1044b,1096s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 79i,20n,136p,1044b,943s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmmi12.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmr12.pfb><C:/Users/u0066773/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on tikzFigures/mooc_naslagwerk180918-figure7.pdf (1 page, 29883 
+Output written on tikzFigures/mooc_naslagwerk180918-figure7.pdf (1 page, 29921 
 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 28 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
