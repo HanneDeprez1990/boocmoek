@@ -74,7 +74,7 @@
 
 \newcommand\bigangle[2][]{% 
 	\draw[->,domain=0:#2,variable=\t,samples=200,>=latex,#1]
-	plot ({0.2*(\t+#2)*cos(\t)/(#2)},
+	plot ({0.2*(\t+#2)*cos(\t)/(#2)},1
 	{0.2*(\t+#2)*sin(\t)/(#2)}) node[right=.5cm] {$\alpha$}
 	;}
 
