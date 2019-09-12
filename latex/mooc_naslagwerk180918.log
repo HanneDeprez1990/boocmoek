@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  4 SEP 2019 11:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  12 SEP 2019 09:58
 entering extended mode
 **./mooc_naslagwerk180918.tex
 (mooc_naslagwerk180918.tex
@@ -6383,61 +6383,54 @@ File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 384.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [286]
-Overfull \hbox (101.6282pt too wide) detected at line 418
-\OT1/cmr/m/n/12 3 [] [][] \OML/cmm/m/it/12 D [] \OT1/cmr/m/n/12 + 4 [] [][] \OM
-L/cmm/m/it/12 D [] \OMS/cmsy/m/n/12   \OT1/cmr/m/n/12 9[] [][] \OML/cmm/m/it/12
- D\OT1/cmr/m/n/12 (5\OML/cmm/m/it/12 x \OMS/cmsy/m/n/12   \OT1/cmr/m/n/12 7)
- []
-
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 422.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 428.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-[287 <./6_afgeleiden_integralen/inputs/QR_Code_BASISAFG_module6new.png>]
+ [287 <./6_afgeleiden_integralen/inputs/QR_Code_BASISAFG_module6new.png>]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 473.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 479.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-
-[288]
+ [288]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 521.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 523.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [289]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 579.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 581.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [290]
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 631.
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 625.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
  [291]
 <6_afgeleiden_integralen/inputs/1_9_fig1.png, id=3265, 462.528pt x 346.896pt>
 File: 6_afgeleiden_integralen/inputs/1_9_fig1.png Graphic file (type png)
 <use 6_afgeleiden_integralen/inputs/1_9_fig1.png>
 Package pdftex.def Info: 6_afgeleiden_integralen/inputs/1_9_fig1.png  used on i
-nput line 635.
+nput line 641.
 (pdftex.def)             Requested size: 189.6871pt x 142.26378pt.
-<6_afgeleiden_integralen/inputs/1_9_fig2.png, id=3266, 462.528pt x 346.896pt>
+File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
+<use KULEUVEN_CMYK_LOGO.png>
+Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 674.
+(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
+ [292 <./6_afgeleiden_integralen/inputs/1_9_fig1.png>]
+<6_afgeleiden_integralen/inputs/1_9_fig2.png, id=3272, 462.528pt x 346.896pt>
 File: 6_afgeleiden_integralen/inputs/1_9_fig2.png Graphic file (type png)
 <use 6_afgeleiden_integralen/inputs/1_9_fig2.png>
 Package pdftex.def Info: 6_afgeleiden_integralen/inputs/1_9_fig2.png  used on i
-nput line 670.
+nput line 676.
 (pdftex.def)             Requested size: 242.5pt x 181.87434pt.
-File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
-<use KULEUVEN_CMYK_LOGO.png>
-Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 670.
-(pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
- [292 <./6_afgeleiden_integralen/inputs/1_9_fig1.png>])
+)
 File: KULEUVEN_CMYK_LOGO.png Graphic file (type png)
 <use KULEUVEN_CMYK_LOGO.png>
 Package pdftex.def Info: KULEUVEN_CMYK_LOGO.png  used on input line 15.
 (pdftex.def)             Requested size: 24.18501pt x 8.62811pt.
-
-[293 <./6_afgeleiden_integralen/inputs/1_9_fig2.png>]
+ [293 <./6_afgeleiden_integralen/inputs/1_9_fig2.png>]
 (6_afgeleiden_integralen/module_6_2.tex
 Overfull \hbox (2.61108pt too wide) in paragraph at lines 1--1
 | []| 
@@ -6880,7 +6873,7 @@ lic/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/euro
 sym/feymr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbol
 s/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/m
 sbm10.pfb>
-Output written on mooc_naslagwerk180918.pdf (321 pages, 9565761 bytes).
+Output written on mooc_naslagwerk180918.pdf (321 pages, 9566069 bytes).
 PDF statistics:
  3732 PDF objects out of 4296 (max. 8388607)
  922 named destinations out of 1000 (max. 500000)
