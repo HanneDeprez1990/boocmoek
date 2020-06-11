@@ -29,8 +29,9 @@ Intu\"itief betekent dit dat een open interval $I \subset \dom (f)$ bestaat dat 
 Naar analogie met dit inleidende voorbeeld introduceren we de volgende definitie.
 
 \begin{definitie}
-	Als de limietwaarde van $\frac{f(a+\Delta x)-f(a)}{\Delta x}$ voor $\Delta x = 0$ een re\"eel getal is dan heet dat re\"eel getal de. afgeleide van $f$ in $a$.
-	In dat geval zeg je dat $f$ afleidbaar is in $a$
+	Als de limietwaarde van $\frac{f(a+\Delta x)-f(a)}{\Delta x}$ voor $\Delta x = 0$ bestaat, m.a.w. het is een re\"eel getal, dan heet dat re\"eel getal de afgeleide van $f$ in $a$.
+	In dat geval zeg je dat $f$ afleidbaar is in $a$. We schrijven:
+	\[Df(a) =\lim_{\Delta_x \to 0} \frac{f(a+\Delta x)-f(a)}{\Delta_x} \]	
 \end{definitie}
 
 
@@ -43,6 +44,13 @@ Naar analogie met dit inleidende voorbeeld introduceren we de volgende definitie
 \begin{voorbeeld}
 	In het inleidend voorbeeld heb je voor de functie  $f(x)=1,5+50 x -4,9 x^2$ gevonden dat deze afleidbaar is in 2 en voor de afgeleide in 2 heb je gevonden dat $Df(2)=30,4$.
 \end{voorbeeld}\vspace{0,5 cm}
+
+We kunnen deze limiet ook berekenen door met de variabele $x$ naar
+het punt $a$ toe te gaan. De afstand tussen het punt $x$ en $a$
+is dan $\triangle x=x-a$ en we schrijven:
+\[
+Df(a)={\displaystyle \lim_{x\to a}}\frac{f(x)-f(a)}{x-a}
+\]
 
 Vanuit het inleidende voorbeeld ken je een betekenis voor de afgeleide van een functie $f$ in $a$.\vspace{0,2 cm}
 
@@ -88,14 +96,109 @@ De verklaring hiervan zie je in de animatie in de MOOC.
 \end{voorbeeld}\vspace{0,5 cm}
 
 \begin{definitie}
-	Als je $a$ laat vari\"eren in de punten waarin een functie $f$ afleidbaar is dan verandert $Df(a)$ (meestal) ook.
-	Je bekomt dan de afgeleide functie van $f$.
+	Als je $a$ laat variëren in de punten waarin een functie
+	$f$ afleidbaar is, dan verandert $Df(a)$ (meestal) ook. Je bekomt
+	dan de afgeleide functie $Df$ of $Df(x)$ van de gegeven functie
+	$f$. Dus, voor een willekeurig punt $a$ (laat ons dit dan bijvoorbeeld
+	gewoon het punt $x$ noemen) krijgen we dan:
+	\[
+	Df(x)={\displaystyle \lim_{\triangle x\to0}}\frac{f(x+\triangle x)-f(x)}{\triangle x}
+	\]
 \end{definitie}
 
 \begin{notatie}
 Voor het aanduiden van de afgeleide functie van een functie $y=f(x)$ mag je de volgende notaties gebruiken
 \[f',Df,\frac{df}{dx}\]
 \end{notatie}
+
+Bovenstaande limieten zijn in feite allemaal gelijkaardig. Ze zeggen
+allemaal iets over hoe snel de functie $f$ verandert in de buurt
+van een willekeurig punt $x$ of in de buurt van een welbepaald punt
+$x=a$.
+
+\medskip{}
+
+
+We komen nog even terug op ``...als de limietwaarde bestaat dan is
+de functie afleidbaar.'' Dit betekent dat als de limietwaarde niet
+bestaat (of niet kan berekend worden), dat in zo'n geval de afgeleide
+in dat punt niet bestaat. We bekijken 2 voorbeelden.\medskip{}
+
+
+\begin{voorbeeld}
+	Wat is de afgeleide in het punt $a=0$ van de absolute
+waarde functie $f=\left|x\right|$? 
+
+	\begin{figure}[h]
+	\begin{center}
+		\includegraphics[height=5 cm]{6_afgeleiden_integralen/inputs/1_2_vb4}
+	\end{center}
+\end{figure}
+
+Passen we eerst de limietdefinitie
+toe op punten links en op punten rechts van de oorsprong, dan vinden
+we voor de afgeleide (functie) respectievelijk $Df(x)=-1$ als $x<0$
+en $Df(x)=+1$ als $x>0$. Hoe dicht we de oorsprong ook naderen,
+links zal de afgeleide steeds $-1$ zijn, en rechts steeds $+1$.
+We kunnen nu ook spreken over een linker en een rechter afgeleide,
+en gebruiken daarvoor de notatie voor de linker en de rechter limiet
+(zie ook {*}{*}{*}{*}):\medskip{}
+\end{voorbeeld}
+
+
+\begin{tabular}{|c|c|l|}
+	\hline 
+	\multirow{1}{*}{de linker afgeleide} & ${\displaystyle \lim_{\overset{x\rightarrow a}{<}}}\frac{f(x)-f(a)}{x-a}$ & we naderen $a$ langs de te kleine kant van $a$ ($\lyxmathsym{\textquotedblleft}<\lyxmathsym{\textquotedblright}$)\tabularnewline
+	\hline 
+	\multirow{1}{*}{de rechter afgeleide} & ${\displaystyle \lim_{\overset{x\rightarrow a}{>}}}\frac{f(x)-f(a)}{x-a}$ & we naderen $a$ langs de te grote kant van $a$ $(\lyxmathsym{\textquotedblleft}>\lyxmathsym{\textquotedblright}$)\tabularnewline
+	\hline 
+\end{tabular}
+
+\medskip{}
+
+
+Enkel als de linker en de rechter afgeleide van een functie $f$ in
+een punt $a$ bestaan en gelijk zijn kunnen we zeggen dat ``de''
+afgeleide van $f$ in $a$ bestaat. Grafisch zien we snel dat functies
+met een ``knikpunt'' dus niet over hun ganse domein afleidbaar zullen
+zijn.\medskip{}
+
+
+Een doordenkertje: elke differentiëerbare functie is continu. Maar
+deze stelling is niet omkeerbaar, want er zijn functies die wel continu
+zijn en niet differentiëerbaar.\medskip{}
+
+
+\begin{voorbeeld}
+	Wat is de afgeleide in het punt $a=0$ van de functie
+$f=\sqrt[3]{x}$? 
+
+	\begin{figure}[h]
+	\begin{center}
+		\includegraphics[height=5 cm]{6_afgeleiden_integralen/inputs/1_2_vb5}
+	\end{center}
+\end{figure}
+
+We passen de limietdefinitie toe om de afgeleide
+te berekenen:
+\[
+Df(0)={\displaystyle \lim_{x\to0}}\frac{\sqrt[3]{x}-\sqrt[3]{0}}{x-0}={\displaystyle \lim_{x\to0}}\frac{1}{\sqrt[3]{x^{2}}}=+\infty
+\]
+
+Het maakt hier niet uit of we het punt $a$ (de oorsprong) langs de
+linker- of de rechterkant benaderen, de waarde van $x^{2}$ is steeds
+positief. Aangezien de definitie van de afgeleide zegt dat de limietwaarde
+moet bestaan én een reëel getal moet zijn, kunnen we hier terug besluiten
+dat de functie $f$ in het punt $a=0$ niet afleidbaar is. Meetkundig
+vertaalt zich dat naar een verticale raaklijn in het punt $a=0$.
+Onthoud dus dat, ook al kan je de verticale raaklijn aan een gegeven
+functie in een punt tekenen, toch is de functie daar niet afleidbaar.\medskip{}
+
+\end{voorbeeld}
+
+
+%\TODO FIGUUR van de functies $f=\left|x\right|$ en $f=\sqrt[3]{x}$ naast
+%elkaar
 
 \subsection{Afgeleide raaklijn}
 
@@ -284,6 +387,8 @@ D(7e^x)&=& 7 \cdot D(e^x) =7e^x
 	\begin{equation*}
 	D(f(x)\pm g(x)) = Df(x) \pm Dg(x)
 	\end{equation*}
+	Deze rekenregel kan je veralgemenen: 
+	$D\left(f(x)+g(x)+h(x)+\ldots\right)=Df(x)+Dg(x)+Dh(x)+\ldots$
 \end{ftrekenregel}
 
 \begin{voorbeeld}
@@ -299,6 +404,8 @@ D(x+\sin x)&=&1+\cos x
 	\begin{equation*}
 	D(f(x) \cdot g(x)) = Df(x) \cdot g(x) + Dg(x) \cdot f(x)
 	\end{equation*}
+	
+	Ook deze rekenregel kan je veralgemenen: $D\left(f(x)\cdot g(x)\cdot h(x)\cdot\ldots\right)=Df(x)\cdot g(x)\cdot h(x)\cdot\ldots+f(x)\cdot Dg(x)\cdot h(x)\cdot\ldots+f(x)\cdot g(x)\cdot Dh(x)\cdot\ldots+$
 \end{ftrekenregel}
 
 \begin{voorbeeld}
@@ -346,14 +453,33 @@ D(\frac{x+5}{x+1}) &=& \frac{D(x+5)\cdot (x+1)-(x+5)\cdot D(x+1)}{(x+1)^2} \\
 Om een samengestelde functie af te leiden, moeten we de kettingregel toepassen: leid eerst de buitenste functie af en werk zo naar binnen toe. In bovenstaande formule is $f$ de buitenste functie, we leiden dus eerst $f$ af en vermenigvuldigen deze met de afgeleide van de functie $g$ die binnen $f$ staat.
 
 Soms wordt de kettingregel ook genoteerd als volgt:
-\begin{equation*}
-\frac{dz}{dy} = \frac{dz}{du} \cdot \frac{du}{dy}
-\end{equation*}
+\[
+\frac{df(g(x))}{dx}=\frac{df(g(x))}{dg(x)}\cdot\frac{dg(x)}{dx}
+\]
+
+
+of kortweg:
+
+\[
+\frac{df}{dx}=\frac{df}{dg}\cdot\frac{dg}{dx}
+\]
+
+
+Het zou duidelijk moeten zijn dat je de samengestelde functie $f(g(x))$
+niet meteen kan afleiden naar $x$. Je moet dus $f$ eerst afleiden
+naar zijn argument, dus naar $g(x)$. Pas daarna kan je de functie
+$g(x)$ naar $x$ afleiden. Indien nodig moet je de kettingregel herhaaldelijk
+toepassen, bijvoorbeeld: 
+\[
+D(f(g(h(x)))=\frac{df}{dx}=\frac{df}{dg}\cdot\frac{dg}{dh}\cdot\frac{dh}{dx}
+\]
+\medskip{}
 
 \begin{voorbeeld}
 \begin{eqnarray*}
 D(\sin 4x) &=& \cos 4x \cdot D(4x) = 4 \cdot \cos 4x \\
 D(\cos^2 x) &=& 2 \cdot \cos x \cdot D(\cos x) = -2 \cdot \cos x \sin x \\
+D\frac{1}{\sin^{2}(4x)}&=&D\sin^{-2}(4x)=(-2)\cdot\sin^{-3}(4x)\cdot\cos4x\cdot4=-8\frac{\cos4x}{\sin^{3}4x} \\
 D(\sqrt{^2+1}) &=& \frac{1}{2\sqrt{x^2+1}}D(\sqrt{x^2+1})=\frac{2x}{2\sqrt{x^2+1}} =\frac{x}{\sqrt{x^2+1}}
 \end{eqnarray*}
 \end{voorbeeld}
@@ -361,16 +487,26 @@ D(\sqrt{^2+1}) &=& \frac{1}{2\sqrt{x^2+1}}D(\sqrt{x^2+1})=\frac{2x}{2\sqrt{x^2+1
 \begin{voorbeeld}
 	Een meer uitgewerkt voorbeeld is 
 	\[D((4x+1)^3))=?\]
-	Hier is:
+	Hier staat in feite $D(f(g(x))$ met: 
 	\[
 	\begin{array}{rclrcl}
 	f(y)&=&y^3 & Df(y)&=&3y^2 \\
-	g(x)&=&4x+1 & Dg(x)&=&4 
+	y=g(x)&=&4x+1 & Dg(x)&=&4 
 	\end{array}
 	\]
 	zodat 
 	\[D((4x+1)^3)=3(g(x)))^2 \cdot 4 = 12(4x+1)^2\]
 \end{voorbeeld}
+
+Komen we nog even terug op voorbeeld 5. Soms kan het interessant zijn
+om een quotiënt ook eens als een breuk te bekijken:
+\begin{eqnarray*}
+	D\left(\tan x\right) & = & D\left(\frac{\sin x}{\cos x}\right)\\
+	& = & D\left(\sin x\centerdot\cos^{-1}x\right)\\
+	& = & \cos x\cdot\cos^{-1}x+\sin x\cdot(-1)\cdot\cos^{-2}x\cdot\left(-\sin x\right)\\
+	& = & 1+\frac{\sin^{2}x}{\cos^{2}x}\\
+	& = & \frac{1}{\cos^{2}x}
+\end{eqnarray*}
 
 \subsection{Basisafgeleiden en rekenregels - voorbeeld}
 \begin{minipage}{.25\linewidth}
