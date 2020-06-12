@@ -1,0 +1,39 @@
+\tikzsetfigurename{module6_2_11_vb2}
+\begin{tikzpicture}
+
+\begin{axis}[xlabel=$x$,
+ylabel=$y$,
+axis y line = middle,
+axis x line = middle,
+ticks=none]
+
+\addplot[mark=none,color=white] {-3};
+\addplot[name path=f,mark=none, domain=-2:2, samples=100,color=red] {x^5+4*(x-1)^2} node[below,pos=1] {$f$};
+\addplot[name path=g,mark=none, domain=-2:2, samples=100,color=blue] {1/4*(x^5+4*(x-1)^2)+5} node[above,pos=1] {$g$};
+
+\addplot [
+thick,
+color=blue,
+fill=blue, 
+fill opacity=0.05
+]
+fill between[
+of=f and g,
+soft clip={domain=-1.5:1.8},
+];
+
+\addplot +[mark=none,dashed,black] coordinates {(1.8, 0) (1.8, 30)};
+\addplot +[mark=none,dashed,black] coordinates {(-1.5, 0) (-1.5, 30)};
+
+\node[below] at (axis cs: -1.5,0) {$a$};
+\node[below] at (axis cs: 1.8,0) {$b$};
+%\node at (axis cs: 1.5,-2) {$-$};
+%\node at (axis cs: 2.4,1) {$+$};
+
+%\draw [dashed,help lines] (-2,0) -| (-2,-2);
+%\draw [dashed,help lines] (2.5,0) -| (2.5,9.81);
+
+\end{axis}
+
+
+\end{tikzpicture}

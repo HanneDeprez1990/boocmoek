@@ -1,0 +1,23 @@
+\tikzsetfigurename{module6_2_7_posneg}
+\begin{tikzpicture}
+
+\begin{axis}[xlabel=$x$,
+ylabel=$y$,
+axis y line = middle,
+axis x line = middle]
+
+\addplot[mark=none,color=white] {-1};
+\addplot[name path=f,mark=none, domain=-2.5:2.5, samples=100,color=black] {x^4-5*x^2+2};
+
+\node at (axis cs: -1.5,-2) {$-$};
+\node at (axis cs: 0.3,1) {$+$};
+\node at (axis cs: 1.5,-2) {$-$};
+\node at (axis cs: 2.4,1) {$+$};
+
+\draw [dashed,help lines] (-2,0) -| (-2,-2);
+\draw [dashed,help lines] (2.5,0) -| (2.5,9.81);
+
+\end{axis}
+
+
+\end{tikzpicture}

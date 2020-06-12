@@ -1,0 +1,31 @@
+\tikzsetfigurename{module6_2_7_oppCurve}
+\begin{tikzpicture}
+
+\begin{axis}[xlabel=$x$,
+ylabel=$y$,
+axis lines = middle,
+ticks=none]
+
+\addplot[mark=none,color=white] {-1};
+\addplot[name path=f,mark=none, domain=-5:5, samples=100,color=black] {2+x^2};
+
+\path[name path=axis] (axis cs:0,0) -- (axis cs:4,0);
+
+\addplot [
+thick,
+color=blue,
+fill=blue, 
+fill opacity=0.05
+]
+fill between[
+of=f and axis,
+soft clip={domain=2:4},
+];
+
+\node at (axis cs: 2,0) {$a$};
+\node at (axis cs: 4,0) {$b$};
+
+\end{axis}
+
+
+\end{tikzpicture}

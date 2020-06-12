@@ -1,0 +1,67 @@
+\tikzsetfigurename{module6_9_dalend}
+	\begin{tikzpicture}
+%\draw[->] (-1,0)--(15,0) node[anchor=south,left,yshift=0.2cm]{$x$};
+%\draw[->] (0,0)--(0,150) node[anchor=south,left]{$y$};
+%
+%\draw[domain=-0.2:10,smooth,variable=\x] plot ({\x},{1.5+50*\x-4.9*\x^2}) node[anchor=south,left] {$l$};	
+
+\begin{axis}[ticks=none, 
+axis y line=middle,
+axis x line=middle,
+xlabel = $x$,
+ylabel = {$y$},
+every axis x label/.style={
+	at={(ticklabel* cs:1.05)},
+	anchor=west,
+},
+every axis y label/.style={
+	at={(ticklabel* cs:1.05)},
+	anchor=south
+}]%[grmin=-5:5 -5:5]
+\addplot[mark=none, domain=0:5, samples=100,color=black] {sqrt(1/\x)};
+\addplot[mark=none] {-1};
+\node[label={270:{$a$}},circle,fill,inner sep=0.1pt] at (axis cs:1,0) {};
+\node[label={270:{$a+ \Delta x$}},circle,fill,inner sep=0.1pt] at (axis cs:4,0) {};
+\node[label={180:{$f(a)$}},circle,fill,inner sep=0.1pt] at (axis cs:0,0.707) {};
+\node[label={180:{$f(a+ \Delta x)$}},circle,fill,inner sep=0.1pt] at (axis cs:0,0.5) {};
+
+\draw [dashed,help lines] (0,0.5) -| (4,0);
+\draw [dashed,help lines] (0,1) -| (1,0);
+\end{axis}
+
+%\begin{axis}[
+%axis y line=middle,
+%axis x line=middle,
+%xlabel = $x$,
+%ylabel = {$y$},
+%every axis x label/.style={
+%	at={(ticklabel* cs:1.05)},
+%	anchor=west,
+%},
+%every axis y label/.style={
+%	at={(ticklabel* cs:1.05)},
+%	anchor=south,
+%},
+%ticks=none,
+%]
+%%Below the red parabola is defined
+%\addplot [
+%domain=0:10, 
+%samples=100, 
+%color=black,
+%]
+%{sqrt(1/\x)};
+%
+%\node[label={180:{(0,1)}},circle,fill,inner sep=2pt] at (axis cs:0,1) {};
+%
+%%\tkzDefPoint(2,0){x1}
+%%\tkzDefPoint(3,0){x2}
+%%\tkzDefPoint(0,sqrt(1/2)){y1}
+%%\tkzDefPoint(0,sqrt(1/3)){y2}
+%%
+%%\foreach \n in {x1,x2,y1,y2}
+%%\node at (\n)[circle,fill,inner sep=1.5pt]{};
+%
+%\end{axis}
+
+\end{tikzpicture}

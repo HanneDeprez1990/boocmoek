@@ -1,0 +1,26 @@
+\tikzsetfigurename{module6_2_11_vb}
+\begin{tikzpicture}
+
+\begin{axis}[xlabel=$x$,
+ylabel=$y$,
+axis y line = middle,
+axis x line = middle]
+
+\addplot[mark=none,color=white] {-1};
+\addplot[name path=f,mark=none, domain=-2:2, samples=100,color=black] {x^3-x};
+
+\addplot +[mark=none,dashed] coordinates {(2, -6) (2, 6)};
+\addplot +[mark=none,dashed] coordinates {(-1, -6) (-1, 6)};
+
+%\node at (axis cs: -1.5,-2) {$-$};
+%\node at (axis cs: 0.3,1) {$+$};
+%\node at (axis cs: 1.5,-2) {$-$};
+%\node at (axis cs: 2.4,1) {$+$};
+
+%\draw [dashed,help lines] (-2,0) -| (-2,-2);
+%\draw [dashed,help lines] (2.5,0) -| (2.5,9.81);
+
+\end{axis}
+
+
+\end{tikzpicture}

@@ -1,0 +1,52 @@
+\tikzsetfigurename{module4_2_3_assenstelselEuclidisch_cdn}
+\begin{tikzpicture}
+\draw[->] (-5,0)--(5,0) node[anchor=south,left,yshift=0.2cm]{$x$};
+\draw[->] (0,-5)--(0,5) node[anchor=south,left]{$y$};
+
+\tkzDefPoint(0,0){O}
+\tkzDefPoint(0,0){S}
+\tkzDefPoint(1,0){A}
+\tkzDefPoint(0,1){B}
+\tkzDefPoint(-1,0){C}
+\tkzDefPoint(3,0){D}
+\tkzDefPoint(4,0){E}
+\tkzDefPoint(0,-2){F}
+\tkzDefPoint(0,-3){G}
+\tkzDefPoint(0,4){H}
+\tkzDefPoint(0,3){I}
+\tkzDefPoint(-1,3){J}
+\tkzDefPoint(3,4){K}
+\tkzDefPoint(4,-2){L}
+\tkzDefPoint(-5,-3){M}
+\tkzDefPoint(-5,0){N}
+
+\tkzDrawSegment[black!60!black,dotted](H,K)
+\tkzDrawSegment[black!60!black,dotted](D,K)
+\tkzDrawSegment[black!60!black,dotted](E,L)
+\tkzDrawSegment[black!60!black,dotted](F,L)	
+\tkzDrawSegment[black!60!black,dotted](G,M)
+\tkzDrawSegment[black!60!black,dotted](N,M)
+\tkzDrawSegment[black!60!black,dotted](C,J)
+\tkzDrawSegment[black!60!black,dotted](I,J)
+
+\tkzLabelPoint[below,xshift=-0.2cm](S){$0$}
+\tkzLabelPoint[below](A){$1$}
+\tkzLabelPoint[below](D){$3$}
+\tkzLabelPoint[above](E){$4$}
+\tkzLabelPoint[below](C){$-1$}
+\tkzLabelPoint[above](N){$-5$}
+\tkzLabelPoint[left](B){$1$}
+\tkzLabelPoint[right](I){$3$}
+\tkzLabelPoint[left](H){$4$}
+\tkzLabelPoint[left](F){$-2$}
+\tkzLabelPoint[right](G){$-3$}
+
+\tkzLabelPoint[left](M){$T$}
+\tkzLabelPoint[above](J){$Q$}
+\tkzLabelPoint[above](K){$P$}
+\tkzLabelPoint[below](L){$R$}
+
+\foreach \n in {A,B,C,D,E,F,G,H,I,J,K,L,M,N,O}
+\node at (\n)[circle,fill,inner sep=1.5pt]{};
+
+\end{tikzpicture}
