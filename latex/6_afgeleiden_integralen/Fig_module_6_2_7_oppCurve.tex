@@ -7,7 +7,9 @@ axis lines = middle,
 ticks=none]
 
 \addplot[mark=none,color=white] {-1};
+
 \addplot[name path=f,mark=none, domain=-5:5, samples=100,color=black] {2+x^2};
+\addplot[mark=none, domain=-5:5, samples=100,color=white] {-5};
 
 \path[name path=axis] (axis cs:0,0) -- (axis cs:4,0);
 
@@ -22,8 +24,8 @@ of=f and axis,
 soft clip={domain=2:4},
 ];
 
-\node at (axis cs: 2,0) {$a$};
-\node at (axis cs: 4,0) {$b$};
+\node[below] at (axis cs: 2,0) {$a$};
+\node[below] at (axis cs: 4,0) {$b$};
 
 \end{axis}
 

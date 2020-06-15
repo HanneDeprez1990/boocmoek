@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  12 JUN 2020 16:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.18)  15 JUN 2020 10:03
 entering extended mode
 **\def\tikzexternalrealjob{mooc_naslagwerk180918}\input{mooc_naslagwerk180918}
 (mooc_naslagwerk180918.tex ("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cl
@@ -2137,13 +2137,10 @@ isable this.
 The command '\includegraphics [width=4cm]{6_afgeleiden_integralen/inputs/QR_Cod
 e_EENVRRVB_module6_2new}' has been optimized away. Use '/tikz/external/optimize
 =false' to disable this.
-The command '\includegraphics [width=.5\linewidth ]{6_afgeleiden_integralen/inp
-uts/2_7_fig1}' has been optimized away. Use '/tikz/external/optimize=false' to 
-disable this.
 (6_afgeleiden_integralen/Fig_module_6_2_7_oppCurve.tex
 \openout6 = `tikzFigures/module6_2_7_oppCurve0.dpth'.
 
-Package pgfplots info on input line 28: fill between: activating layered graphi
+Package pgfplots info on input line 30: fill between: activating layered graphi
 cs
 \pgf@layerbox@axis background=\box88
 \pgf@layerboxsaved@axis background=\box89
@@ -2161,7 +2158,7 @@ cs
 \pgf@layerboxsaved@axis descriptions=\box101
 \pgf@layerbox@axis foreground=\box102
 \pgf@layerboxsaved@axis foreground=\box103
-Package pgfplots info on input line 28: Setting layers 'axis background,axis gr
+Package pgfplots info on input line 30: Setting layers 'axis background,axis gr
 id,axis ticks,axis lines,axis tick labels,pre main,main,axis descriptions,axis 
 foreground'...
 [22
@@ -2171,25 +2168,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 234--236
 
  []
 
-The command '\includegraphics [height=8cm]{6_afgeleiden_integralen/inputs/2_7_f
-ig2}' has been optimized away. Use '/tikz/external/optimize=false' to disable t
-his.
+(6_afgeleiden_integralen/Fig_module_6_2_7_posneg.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--256
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
 
  []
 
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--260
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
 
  []
 
@@ -2219,14 +2217,16 @@ e_OPPBEPINT_module6_2new}' has been optimized away. Use '/tikz/external/optimiz
 e=false' to disable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [width=.7\linewidth ]{6_afgeleiden_integralen/inp
-uts/2_11_vb20}' has been optimized away. Use '/tikz/external/optimize=false' to
- disable this.
+(6_afgeleiden_integralen/Fig_module_6_2_11_vb.tex
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
-The command '\includegraphics [width=.7\linewidth ]{6_afgeleiden_integralen/inp
-uts/2_11_vb20_2}' has been optimized away. Use '/tikz/external/optimize=false' 
-to disable this.
+)
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+(6_afgeleiden_integralen/Fig_module_6_2_11_vb2.tex
+A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
+isable this.
+)
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
 isable this.
 A tikzpicture has been optimized away. Use '/tikz/external/optimize=false' to d
@@ -2417,15 +2417,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 168.
  ) 
 Here is how much of TeX's memory you used:
- 48912 strings out of 492973
- 1112699 string characters out of 3135923
- 1347186 words of memory out of 3000000
- 51947 multiletter control sequences out of 15000+200000
+ 48927 strings out of 492973
+ 1113364 string characters out of 3135923
+ 1354720 words of memory out of 3000000
+ 51953 multiletter control sequences out of 15000+200000
  541871 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,20n,136p,1044b,2147s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 79i,20n,136p,1044b,2151s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-Output written on tikzFigures/module6_2_7_oppCurve0.pdf (1 page, 12876 bytes).
+Output written on tikzFigures/module6_2_7_oppCurve0.pdf (1 page, 13266 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
