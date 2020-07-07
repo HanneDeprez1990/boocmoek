@@ -1,0 +1,56 @@
+		\tikzsetfigurename{Fig_module_2_1_11_ln}
+\begin{center}
+\begin{tikzpicture}[scale=1,cap=round]
+
+% Styles
+\tikzstyle{axes}=[]
+\tikzstyle help lines=[color=blue!50,very thin,dotted]
+% grid
+\draw[style=help lines,step=1cm] (-7.9,-7.9) grid (7.9,7.9);
+
+\draw[->] (-8,0) -- (8,0) node[right] {$x$};
+\draw[->] (0,-8) -- (0,8) node[above] {$y$};
+
+
+
+%\draw[fill,cyan](1,1)circle [radius=0.025];
+%FUNCTIEVOORSCHRIFTEN
+
+
+\draw[blue, line width=1.75pt, domain=0.005:7.00,samples=500] plot[smooth](\x, {ln(\x)})  node[opacity=1,above,right]{$f(x)=\log_{e}{x} = \ln{x}$};
+%
+
+
+\draw[red,cap=rect,line width=1, opacity=1, domain=-7:2,samples=500] plot (\x, {
+	exp(\x)	% <- plaats het functievoorschrift hier	
+}) node[opacity=1,above,right]{$f(x)=e^x$};
+
+\draw[-] (-6,-6)--(6,6)node[right]{$y=x$};
+
+
+%\draw[red,cap=rect,line width=1, opacity=1, domain=-7:2,samples=500] plot (\x, {
+%	exp(\x)	% <- plaats het functievoorschrift hier	
+%}) node[opacity=1,above,right]{$f(x)=e^x$};
+
+
+
+%legende
+
+
+
+%getallen op de x-as en lijntjes   
+\foreach \x/\xtext in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7}
+	\draw[xshift=\x cm] (0pt,1pt) -- (0pt,0pt) node[below,fill=white]
+	{$\xtext$};,3
+	
+%getallen op de y-as en lijntjes  
+%BEGIN LUS
+\foreach \y/\ytext in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7}
+	\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]
+	{$\ytext$}; %EINDE LUS
+
+
+
+\end{tikzpicture}
+\end{center}
+

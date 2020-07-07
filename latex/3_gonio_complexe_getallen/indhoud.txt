@@ -1,0 +1,57 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1E8E-B72B
+
+ Directory of C:\Users\u0066773\Documents\boocmoek\latex\3_gonio_complexe_getallen
+
+29/06/2020  11:23    <DIR>          .
+29/06/2020  11:23    <DIR>          ..
+30/05/2020  12:19             2.680 Fig_module_3_1_1_driehoek.tex
+30/05/2020  16:54             2.351 Fig_module_3_1_1_goncirkel3hoek.tex
+30/05/2020  15:03             1.699 Fig_module_3_1_1_goncirkelhoek-1.tex
+30/05/2020  15:10             1.910 Fig_module_3_1_1_goncirkelhoek.tex
+31/05/2020  10:09             3.013 Fig_module_3_1_1_goncirkelkwadrant.tex
+30/05/2020  15:08             1.879 Fig_module_3_1_1_goncirkelleeg.tex
+28/06/2020  10:04             3.245 Fig_module_3_1_1_goncirkelproj-suppl.tex
+29/06/2020  10:48             2.815 Fig_module_3_1_1_goncirkelproj.tex
+29/06/2020  10:48             2.981 Fig_module_3_1_1_goncirkeltancot.tex
+31/05/2020  08:41             3.221 Fig_module_3_1_1_goncirkeltotaal.tex
+23/05/2020  08:47             1.899 Fig_module_3_1_1_graden1.tex
+30/05/2020  09:08             2.406 Fig_module_3_1_1_hoekendeg.tex
+23/06/2020  15:02             3.380 Fig_module_3_1_1_oef-driehoek-1.tex
+23/06/2020  15:08             3.372 Fig_module_3_1_1_oef-driehoek-2.tex
+23/06/2020  15:28             3.398 Fig_module_3_1_1_oef-driehoek-3.tex
+31/05/2020  10:36             3.144 Fig_module_3_1_1_oefn-mast.tex
+29/06/2020  09:36             2.311 Fig_module_3_1_1_omwentelingshoeken.tex
+30/05/2020  11:59             2.138 Fig_module_3_1_1_radiaal.tex
+30/05/2020  12:06             2.049 Fig_module_3_1_1_rechtehoekrad.tex
+29/06/2020  10:25             2.497 Fig_module_3_1_1_verwanteHoeken.tex
+26/06/2020  17:17             3.387 Fig_module_3_1_1_willdriehoek.tex
+25/06/2020  13:36             2.046 Fig_module_3_2_2_complex-getal-1.tex
+25/06/2020  13:39             2.047 Fig_module_3_2_2_complex-getal-2.tex
+25/06/2020  11:37             2.046 Fig_module_3_2_2_goncirkelhoek-1.tex
+25/06/2020  14:08             2.319 Fig_module_3_2_3_complex-getal-3-optelling.tex
+25/06/2020  14:15             2.440 Fig_module_3_2_3_complex-getal-4-complex-toegevoegde.tex
+25/06/2020  15:03             1.233 Fig_module_3_2_5_complex-getal-5-goniometrisch.tex
+25/06/2020  15:07             1.226 Fig_module_3_2_5_complex-getal-voorbeeld1.tex
+25/06/2020  17:23             1.682 Fig_module_3_2_5_complex-getal-voorbeeld2.tex
+26/06/2020  08:59            63.261 Fig_module_3_2_5_complex-getal-voorbeeld3.log
+25/06/2020  17:31             1.684 Fig_module_3_2_5_complex-getal-voorbeeld3.tex
+26/06/2020  09:03            63.203 Fig_module_3_2_5_complex-getal-voorbeeld4.log
+26/06/2020  09:03             1.712 Fig_module_3_2_5_complex-getal-voorbeeld4.tex
+26/06/2020  11:21             3.055 Fig_module_3_2_7_complex-getal-6-optelling-exp.tex
+26/06/2020  14:18            57.244 Fig_module_3_2_7_product-grafisch.log
+26/06/2020  14:55             4.299 Fig_module_3_2_7_product-grafisch.tex
+26/06/2020  15:13             4.268 Fig_module_3_2_8_derdemachtswortels-voorbeeld.tex
+14/05/2019  15:59    <DIR>          Goniometrie
+14/05/2019  15:59             2.789 Goniometrie-oefeningen.tex
+14/05/2019  15:59             1.552 Goniometrie.log
+14/05/2019  15:59            39.492 Goniometrie.tex
+14/05/2019  15:59         5.530.612 Goniometrie.zip
+29/06/2020  11:23                 0 indhoud.txt
+26/06/2020  15:19    <DIR>          inputs
+29/06/2020  10:50               512 module_3.tex
+26/06/2020  16:38         1.315.638 module_3_1.log
+29/06/2020  10:47            47.209 module_3_1.tex
+29/06/2020  10:50            30.389 module_3_2.tex
+              46 File(s)      7.237.733 bytes
+               4 Dir(s)  19.170.312.192 bytes free

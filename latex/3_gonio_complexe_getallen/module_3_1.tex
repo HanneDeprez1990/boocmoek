@@ -7,23 +7,11 @@ Een theodoliet is een instrument om hoeken te meten dat veel gebruikt wordt door
 
 \gewonefiguur{height=7cm}{3_gonio_complexe_getallen/inputs/Askania_Sekunden-Theodolit_TU_e_400.jpg}
 
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[width=.5\linewidth]{3_gonio_complexe_getallen/inputs/Askania_Sekunden-Theodolit_TU_e_400.jpg}
-%\end{center}
-%\end{figure}
-
 (Bron figuur: \url{https://commons.wikimedia.org/wiki/File:Askania_Sekunden-Theodolit_TU_e_400.jpg})\\
 
 De staalconstructie van een hoogspanningsmast is gebaseerd op driehoeken.
 
 \gewonefiguur{height=7cm}{3_gonio_complexe_getallen/inputs/Pylon_ds.jpg}
-
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[width=.5\linewidth]{3_gonio_complexe_getallen/inputs/Pylon_ds.jpg}
-%\end{center}
-%\end{figure}
 
 (Bron figuur: \url{https://commons.wikimedia.org/wiki/File:Pylon_ds.jpg}).\\
 
@@ -31,42 +19,28 @@ In de volgende paragrafen bespreken we praktisch de basis van goniometrie en dri
 
 \subsection{Meten van hoeken}
 
-%\begin{itemize}
-%	\item Wat zijn de verschillende manieren om hoeken te meten?
-%	\item Hoe kan je overgaan van de ene hoekmaat naar de andere?
-%\end{itemize}
-
 \subsubsection{Graden, minuten, seconden}
 
 Een hoekmaat wordt bepaald door een hoek voor te stellen op een cirkel met willekeurige straal $r$ waarbij men de top van de hoek laat samenvallen met het middelpunt van de cirkel. Elke hoek $\alpha$ komt dan overeen met een zekere afstand gemeten langs de omtrek van de cirkel. Men zegt dat met elke hoek $\alpha$ een zekere booglengte op de cirkel met straal $r$ overeenkomt.
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/goncirkelhoek-1.pdf}
-
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=.5]{3_gonio_complexe_getallen/inputs/goncirkelhoek-1.pdf}
-%\end{center}
-%\end{figure}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_goncirkelhoek-1} 
+\end{figure}
 
 Door nu de cirkelomtrek onder te verdelen in allemaal stukjes met gelijke booglengte bekomt men een maat voor een hoek. Op de figuur hieronder zijn enkele onderverdelingen getekend.
 
-\gewonefiguur{scale=.37}{3_gonio_complexe_getallen/inputs/graden1.jpg}
-
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=.37]{3_gonio_complexe_getallen/inputs/graden1.jpg}
-%\end{center}
-%\end{figure}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_graden1} 
+\end{figure}
 
 Deze onderverdelingen noemt men graden. Meestal (maar niet altijd!) wordt een cirkel onderverdeeld in $360^\circ$: een rechte hoek komt dan overeen met $90^\circ$ en een gestrekte hoek met $180^\circ$. Hieronder staan enkele tekeningen:
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/hoekendeg.pdf}
-
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=.5]{3_gonio_complexe_getallen/inputs/hoekendeg.pdf}
-%\end{center}
-%\end{figure}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_hoekendeg} 
+\end{figure}
 
 Graden zijn zelf ingedeeld in minuten (zoals meters kunnen ingedeeld worden in centimeters) en minuten kunnen op hun beurt worden ingedeeld in seconden (zoals centimeters kunnen worden ingedeeld in millimeters).  Graden, minuten en seconden worden echter ingedeeld in een $60$-tallig talstelsel, waardoor je volgende regels krijgt:
 
@@ -124,14 +98,11 @@ Bijgevolg zal een getrekte hoek $200$ gon meten, en een hoek van $45^\circ$ de h
 
 Een andere veel gebruikte hoekmaat is de radiaal. Men neemt een cirkel met straal $r$ en zet daarop een bepaalde hoek uit. Met deze hoek komt dan een welbepaalde booglengte $s$ op de cirkelomtrek overeen. Men zegt nu dat die hoek waarvoor de booglengte $s$ gelijk is aan de straal $r$ een hoek is van 1 radiaal.
 
-
-\gewonefiguur{scale=0.37}{3_gonio_complexe_getallen/inputs/radiaal1.jpg}
-
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=0.37]{3_gonio_complexe_getallen/inputs/radiaal1.jpg}
-%\end{center}
-%\end{figure}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_radiaal} 
+\end{figure}
+ 
 
 Voor een hoek van 2 radialen geldt dus dat $s=2r$, voor een hoek van 5 radialen geldt dan $s=5r$, enz... M.a.w. voor een hoek $\theta$ kan men schrijven dat het verband tussen de cirkelboog $s$ en de straal $r$ gegeven wordt door:
 
@@ -143,13 +114,10 @@ In theoretische berekeningen (fysica, mechanica,...) wordt bijna altijd onderste
 
 De omtrek van een cirkel met straal $r$ is de gekende formule $2\cdot \pi \cdot r$. Uit $s=r\cdot \theta$ volgt dan dat de hoek die overeenkomt met de volledige cirkelomtrek gelijk is aan $\theta=2\pi$. Om gemakkelijk te rekenen kiest men dikwijls een cirkel met $r=1$, de omtrek van zo een \'{e}\'{e}nheidscirkel is $2\pi$.  Met dit in het achterhoofd berekenen we de grootte van een rechte hoek ($90^\circ$), maar nu in radialen:
 
-\gewonefiguur{scale=0.75}{3_gonio_complexe_getallen/inputs/rechtehoekrad.pdf}
-
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=0.75]{3_gonio_complexe_getallen/inputs/rechtehoekrad.pdf}
-%\end{center}
-%\end{figure}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_rechtehoekrad} 
+\end{figure}
 
 Je ziet dat de rechte hoek een kwart van de cirkel beslaat. De gehele cirkel heeft een omtrek van $2\pi$ en bijgevolg bepaalt de rechte hoek een cirkelboog met lengte $\dfrac{1}{4} \cdot 2\pi = \dfrac{\pi}{2}$.\\ We zeggen:
 
@@ -276,21 +244,15 @@ x \textup{ gon} &&= x\cdot 0,9^\circ
 
 \subsection{Rechthoekige driehoeken}
 
-%\begin{itemize}
-%	\item Wat is de stelling van Pythagoras?
-%	\item Wat zijn de sinus, cosinus, tangens en cotangens in een rechthoekige driehoek?
-%	\item Hoe bereken je hoeken en zijden van een rechthoekige driehoek?
-%\end{itemize}
 
 \subsubsection{Tekening en definities}
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/driehoek.pdf}
 
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=0.5]{3_gonio_complexe_getallen/inputs/driehoek.pdf}
-%\end{center}
-%\end{figure}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_driehoek} 
+\end{figure}
+
 
 Een algemene rechthoekige driehoek wordt vaak weergegeven zoals in bovenstaande figuur. Een rechthoekige driehoek bestaat uit zijden en hoeken:
 \begin{itemize}
@@ -314,13 +276,11 @@ De plaats van deze letters wordt meestal op dezelfde manier gedaan:
 \begin{center}\textbf{In een rechthoekige driehoek is de 
 		som van de kwadraten van de rechthoekszijden gelijk aan het kwadraat van de schuine zijde}\end{center}
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/driehoek.pdf}
 
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=0.5]{3_gonio_complexe_getallen/inputs/driehoek.pdf}
-%\end{center}
-%\end{figure}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_driehoek} 
+\end{figure}
 
 Voor deze tekening is dit dan:
 
@@ -343,13 +303,10 @@ Aan een hoek $\alpha$ van een rechthoekige driehoek kunnen we een aantal getalle
 
 Voor de driehoek
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/driehoek.pdf}
-
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=0.5]{3_gonio_complexe_getallen/inputs/driehoek.pdf}
-%\end{center}
-%\end{figure}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_driehoek} 
+\end{figure}
 
 Is dat dan:
 
@@ -379,13 +336,10 @@ Volgende formules zijn vaak nuttig om hoeken terug te vinden (met $\sin^2 \alpha
 
 We hebben enkele formules nodig, studeer deze goed!  Voor een {\bf rechthoekige} driehoek geldt:
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/driehoek.pdf}
-
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=0.5]{3_gonio_complexe_getallen/inputs/driehoek.pdf}
-%\end{center}
-%\end{figure}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_driehoek} 
+\end{figure}
 
 \begin{center}
 \begin{tabular}{ccccc}
@@ -444,12 +398,11 @@ De algemene truc is dus telkens een formule te kiezen waar $2$ van de symbolen b
 
 \subsubsection{Onthoud}
 \begin{onthoud}
-	\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/driehoek.pdf}
-%	\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=0.5]{3_gonio_complexe_getallen/inputs/driehoek.pdf}
-%\end{center}
-%\end{figure}
+
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_driehoek} 
+\end{figure}
 
 \begin{itemize}
 	\item \textbf{De stelling van Pythagoras}
@@ -478,13 +431,11 @@ $\tan \alpha$ &$= \dfrac{a}{b}$ &\qquad\qquad\qquad& $\cot \alpha$ &$= \dfrac{b}
 
 \subsubsection{Tekening en afspraken}
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/willdriehoek.pdf}
 
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=0.5]{3_gonio_complexe_getallen/inputs/willdriehoek.pdf}
-%\end{center}
-%\end{figure}
+\begin{figure}[H]
+\centering
+\input{3_gonio_complexe_getallen/Fig_module_3_1_1_willdriehoek}
+\end{figure}
 
 \begin{itemize}
 	\item De hoekpunten duiden we aan met $A$, $B$, $C$.
@@ -498,13 +449,11 @@ We herinneren er nog eens aan dat de stelling van Pythagoras en de formules voor
 
 De \textbf{cosinusregel:}
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/willdriehoek.pdf}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_willdriehoek} 
+\end{figure}
 
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=0.5]{3_gonio_complexe_getallen/inputs/willdriehoek.pdf}
-%\end{center}
-%\end{figure}
 
 \begin{align*}
 a^2&= b^2+c^2-2bc\cos \alpha\\
@@ -539,14 +488,10 @@ Een andere vorm van de sinusregel is:
 
 Het oplossen van een willekeurige driehoek doe je op dezelfde manier als het oplossen van een rechthoekige driehoek, al zijn de formules anders.  Vergeet ook niet dat de som van de hoeken van een driehoek $180^\circ$ is! We gebruiken in dit onderdeel volgende tekening voor de aanduidingen:
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/willdriehoek.pdf}
-
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=0.5]{3_gonio_complexe_getallen/inputs/willdriehoek.pdf}
-%\end{center}
-%\end{figure}
-
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_willdriehoek} 
+\end{figure}
 \[\alpha + \beta + \gamma = 180^\circ\]
 
 Bij een willekeurige driehoek heb je ook meestal meer gegevens nodig dan bij een rechthoekige driehoek om hem op te lossen.  De techniek blijft hetzelfde:
@@ -603,11 +548,6 @@ Praktisch ga je bij gebruik van $\sin^{-1}$ bij het oplossen van driehoeken als 
 
 \begin{onthoud}
 	\ \\
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=0.5]{3_gonio_complexe_getallen/inputs/willdriehoek.pdf}
-%\end{center}
-%\end{figure}
 
 \begin{itemize}
 	\item \textbf{De sinusregel}
@@ -622,7 +562,10 @@ c^2&= a^2 + b^2 -2ab \cos \gamma
 \item Pas op met de sinus en $\sin^{-1}$
 \end{itemize}
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/willdriehoek.pdf}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_willdriehoek} 
+\end{figure}
 
 \end{onthoud}
 
@@ -637,38 +580,40 @@ c^2&= a^2 + b^2 -2ab \cos \gamma
 \subsubsection{Tekening}
 
 In een vorig hoofdstukk hebben we de goniometrische getallen van hoeken ingevoerd met behulp van een rechthoekige driehoek. We kunnen ze echter ook voorstellen op een cirkel. We tekenen een cirkel met straal $1$ die met zijn middelpunt in de oorsprong van een orthonormaal* assenstelsel ligt. Deze cirkel noemen we de goniometrische cirkel.
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.4]{3_gonio_complexe_getallen/inputs/goncirkelleeg.pdf}
-\end{center}
-\end{figure}
 
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_goncirkelleeg} 
+\end{figure}
+  
 *: een orthonormaal assenstelsel is een rechthoekig (orthogonaal) assenstelsel waarbij de eenheid op beide assen gelijk is.
 
 In de goniometrische cirkel kan je nu een hoek $\alpha$ tekenen, die zijn beginbeen heeft op de $x$-as, en zijn hoekpunt in de oorsprong. Zijn eindbeen snijdt de goniometrische cirkel in een punt $P$ dat we het beeldpunt van de hoek $\alpha$ op de goniometrische cirkel noemen.
 
-\begin{figure}[h]
-\begin{center}
-\includegraphics[scale=0.4]{3_gonio_complexe_getallen/inputs/goncirkelhoek.pdf}
-\end{center}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_goncirkelhoek} 
 \end{figure}
 
 Elk punt van de goniometrische cirkel wordt zo het beeldpunt van een hoek door als beginbeen de $x$-as te nemen, als hoekpunt de oorsprong, en als eindbeen de halve rechte door de oorsprong en het punt. De hoek die bij het beeldpunt hoort is niet uniek, integendeel, tel je bij de hoek een aantal volledige omwentelingen op (of trek je die ervan af), dan kom je op hetzelfde beeldpunt terecht. Op die manier hoort bij elk punt van de goniometrische cirkel een oneindig aantal hoeken die onderling een geheel aantal omwentelingen van elkaar verschillen.
 In het algemeen spreken we van omwentelingshoeken. Omwentelingshoeken hebben een oriëntatie, in tegenuurwijzerzin is een hoek positief, in uurwijzerzin negatief.
 
 
-\begin{figure}[h]
-	\begin{center}
-		\includegraphics[scale=0.4]{3_gonio_complexe_getallen/inputs/omwentelingshoeken.PNG}
-	\end{center}
+\begin{figure}[H]
+	\centering
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_omwentelingshoeken}
 \end{figure}
+
 
 \subsubsection{Kwadranten}
 
 De goniometrische cirkel wordt ingedeeld in kwadranten.
 Ze zijn genummerd, meestal in Romeinse cijfers, tegenkloksgewijs, beginnend rechtsboven in de cirkel.
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/goncirkelproj-suppl.jpg}
+\begin{figure}[H]
+	\centering
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_goncirkelkwadrant}
+\end{figure}
 
 \subsubsection{Goniometrische getallen}
 
@@ -681,14 +626,12 @@ We kennen de goniometrische getallen als verhoudingen van zijden in een rechthoe
 \end{align*}
 
 Scherpe hoeken hebben een beeldpunt in het eerste kwadrant, daarmee kunnen we kunnen een rechthoekige driehoek tekenen in de goniometrische cirkel laten overeenkomen, met zijden $a$, $b$ en $c$:
+ 
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_goncirkel3hoek} 
+\end{figure}
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/goncirkel3hoek.pdf}
-
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=0.5]{3_gonio_complexe_getallen/inputs/goncirkel3hoek.pdf}
-%\end{center}
-%\end{figure}
 
 In deze rechthoekige driehoek kan je nu de sinus en de cosinus berekenen:
 \[\sin \alpha = \frac{a}{c} \qquad \cos \alpha = \frac{b}{c}\]
@@ -696,19 +639,18 @@ Je weet dat de lengte van zijde $c$ gelijk is aan $1$, omdat $c$ net de straal i
 \[\sin \alpha = a \qquad \cos \alpha = b\]
 De waarde van de sinus kan je dus aflezen op de $y$-as, en de waarde van de cosinus lees je af op de $x$-as, als je het punt $P$ ernaar projecteert.
 
-\gewonefiguur{scale=.6}{3_gonio_complexe_getallen/inputs/goncirkelproj.pdf}
 
-%\begin{center}
-%\includegraphics[scale=0.6]{3_gonio_complexe_getallen/inputs/goncirkelproj.pdf}
-%\end{center}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_goncirkelproj} 
+\end{figure}
 
 Ook de tangens en cotangens kan je aflezen van de goniometrische cirkel.
-
-\gewonefiguur{scale=.6}{3_gonio_complexe_getallen/inputs/goncirkeltancot.pdf}
-
-%\begin{center}
-%\includegraphics[scale=0.6]{3_gonio_complexe_getallen/inputs/goncirkeltancot.pdf}
-%\end{center}
+ 
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_goncirkeltancot} 
+\end{figure}
 
 Uit deze twee figuren blijkt duidelijk dat de sinus en de cosinus niet kleiner kunnen zijn dan $-1$, en niet groter dan $1$. De tangens en de cotangens hebben deze beperkingen niet.
 
@@ -716,35 +658,17 @@ Wat we tot nu toe gevonden hebben voor hoeken uit het eerste kwadrant veralgemen
 De sinus van een hoek is de loodrechte projectie op de $y$-as van het beeldpunt van de hoek, de cosinus van de hoek is de loodrechte projectie op de $x$-as van het beeldpunt van de hoek.
 Ook de tangens en de cotangens van om het even welke hoek wordt afgelezen via de goniometrische cirkel zoals dat voor hoeken uit het eerste kwadrant gebeurt.
 
-%\subsubsection{Kwadranten}
-%
-%De goniometrische cirkel wordt ingedeeld in kwadranten.
-%
-%\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/goncirkelkwadrant.pdf}
-%
-%%\begin{figure}[h]
-%%\begin{center}
-%%\includegraphics[scale=0.5]{3_gonio_complexe_getallen/inputs/goncirkelkwadrant.pdf}
-%%\end{center}
-%%\end{figure}
-%
-%Ze zijn genummerd, meestal in Romeinse cijfers, tegenkloksgewijs, beginnend rechtsboven in de cirkel.
-%\begin{align*}
-%\alpha \in \textup{I} &\Leftrightarrow 0^\circ < \alpha < 90^\circ\\
-%\alpha \in \textup{II} &\Leftrightarrow 90^\circ < \alpha < 180^\circ\\
-%\alpha \in \textup{III} &\Leftrightarrow 180^\circ < \alpha < 270^\circ\\
-%\alpha \in \textup{IV} &\Leftrightarrow 270^\circ < \alpha < 360^\circ
-%\end{align*}
+
 \begin{opmerking}
 	 Bij het bespreken van willekeurige driehoeken hebben we vermeld dat het gebruik van het commando $\sin^{-1}$ op een rekentoestel om een hoek $\alpha$ te bepalen soms een verkeerd resultaat kan opleveren. Hieronder is op een figuur gedemonstreerd dat een hoek $\alpha$ uit het eerste kwadrant en een hoek $180^\circ -\alpha$ uit het tweede kwadrant dezelfde sinus hebben. De punten P en Q hebben immers dezelfde projectie op de $y$-as.
 \end{opmerking}
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/goncirkelproj-suppl.jpg}
-%\begin{figure}[h]
-%\begin{center}
-%\includegraphics[scale=0.5]{3_gonio_complexe_getallen/inputs/goncirkelproj-suppl.jpg}
-%\end{center}
-%\end{figure}
+\begin{figure}[H]
+	\centering
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_goncirkelproj-suppl}
+\end{figure}
+
+
 
 \begin{onthoud}
 	\ \\
@@ -752,15 +676,20 @@ Ook de tangens en de cotangens van om het even welke hoek wordt afgelezen via de
 	\item De goniometrische cirkel is een cirkel met straal $1$ met als middelpunt de oorsprong van een orthornormaal assenkruis.
 	\item Elk punt van de goniometrische cirkel is het beeldpunt van oneindig veel hoeken die elk een geheel aantal volledige omwentelingen van elkaar verschillen.
 	\item De goniometrische getallen van elke hoek kan je aflezen van de goniometrische cirkel:
-	\gewonefiguur{scale=.6}{3_gonio_complexe_getallen/inputs/goncirkeltotaal.pdf}
-%	\begin{center}
-%\includegraphics[scale=0.6]{3_gonio_complexe_getallen/inputs/goncirkeltotaal.pdf}
-%\end{center}
+ 
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_goncirkeltotaal} 
+\end{figure}
+
+
 	\item De kwadranten verdelen de goniometrische cirkels in $4$ sectoren:
-	\gewonefiguur{scale=0.6}{3_gonio_complexe_getallen/inputs/goncirkelkwadrant.pdf}
-%	\begin{center}
-%\includegraphics[scale=0.6]{3_gonio_complexe_getallen/inputs/goncirkelkwadrant.pdf}
-%\end{center}
+ 
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_goncirkelkwadrant} 
+\end{figure}
+ 
 \begin{align*}
 \alpha \in \textup{I} &\Leftrightarrow 0^\circ < \alpha < 90^\circ\\
 \alpha \in \textup{II} &\Leftrightarrow 90^\circ < \alpha < 180^\circ\\
@@ -799,8 +728,12 @@ We onderscheiden nog andere hoeken waarvan de cosinus en/of de sinus verwant zij
 Het is niet belangrijk om de namen van deze verwante hoeken te kennen, maar wel dat je vanuit een schets van de goniometrische cirkel het verband kan zien tussen de goniometrische getallen van deze hoeken.
 
 Een voorstelling van verwante hoeken van de hoek $\alpha$ vind je in volgende figuur:
+%TODO deze figuur komt me niet bekend voor 
 
-\gewonefiguur{scale=.5}{3_gonio_complexe_getallen/inputs/verwanteHoeken.PNG}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_verwanteHoeken} 
+\end{figure}
 
 \subsection{Overgang van goniometrische getallen van hoeken naar goniometrische functies}
 
@@ -1011,13 +944,14 @@ $\sin(x)=1,5 $  : heeft geen oplossingen
 Om de hoogte van een mast te bepalen plaatst een landmeter een theodoliet in het punt $P$ op een hoogte $h=1,65$ m. Ze meet dan de hoeken $\alpha$ en $\beta$ met de horizontale: $\alpha=78,12^\circ$ en $\beta=4,71^\circ$.\\
 Bereken de hoogte $H$ van de mast.
 
-\gewonefiguur{scale=0.3}{3_gonio_complexe_getallen/inputs/oefn-mast.jpg}
+%\gewonefiguur{scale=0.3}{3_gonio_complexe_getallen/inputs/oefn-mast.jpg}
 
-%\begin{figure}[h]
-%	\begin{center}
-%		\includegraphics[scale=0.30]{\diepte/figures/oefn-mast.jpg}
-%	\end{center}
-%\end{figure}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_oefn-mast} 
+\end{figure}
+
+ 
 \end{oef}
 \oplos{$H=96,85$ m}
 
@@ -1025,7 +959,13 @@ Bereken de hoogte $H$ van de mast.
 e lengte van elke zijde van de gegeven driehoek zijn gekend: $a=53$ cm, \\ $b=18$ cm en $c=41$ cm.\\
 Bereken de hoek $\alpha$.
 
-\gewonefiguur{scale=0.5}{3_gonio_complexe_getallen/inputs/oef-driehoek-1.jpg}
+
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_oef-driehoek-1} 
+\end{figure}
+ 
+
 \end{oef}
 \oplos{$\alpha=123,01^\circ$ }
 
@@ -1033,15 +973,28 @@ Bereken de hoek $\alpha$.
 Bereken de lengte van zijde $c$ van de gegeven driehoek.\\
 Gegevens: $a=13$ mm, $b=20$ mm, $\alpha=21^\circ$. 
 
-\gewonefiguur{scale=0.5}{3_gonio_complexe_getallen/inputs/oef-driehoek-2.jpg}
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_oef-driehoek-2} 
+\end{figure}
+
+
 \end{oef}
 \oplos{$c=7,83$ mm}
 
 \begin{oef}
 	Op de figuur is een schets van een stuk weiland met de gekende gegevens weergegeven. \\
 	Bereken de lengte van zijde $d$ en de hoeken $\alpha$ en $\beta$.
-	
-	\gewonefiguur{scale=0.5}{3_gonio_complexe_getallen/inputs/oef-driehoek-3.jpg}
+
+
+\begin{figure}[H]
+	\centering 
+	\input{3_gonio_complexe_getallen/Fig_module_3_1_1_oef-driehoek-3} 
+\end{figure}
+
+
+
+
 \end{oef}
 \oplos{$d=33,17$ m; $\alpha=147,02^\circ$; $\beta=56,98^\circ$}
 

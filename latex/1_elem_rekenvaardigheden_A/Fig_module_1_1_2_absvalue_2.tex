@@ -1,3 +1,4 @@
+\tikzsetfigurename{Fig_module_1_1_2_absvalue_2}
 \begin{center}
 \begin{tikzpicture}[scale=1,cap=round]
 
@@ -9,8 +10,23 @@
 \draw[style=help lines,step=1cm] (-2.9,-1.9) grid (2.9,2.9);
 
 
+
+
 \draw[->] (-3,0) -- (3,0) node[right] {$x$};
 \draw[->] (0,-2) -- (0,3.5) node[above] {$y$};
+
+
+%getallen op de x-as en lijntjes   
+\foreach \x/\xtext in {-2,-1,0, 1,2}
+\draw[xshift=\x cm] (0pt,1pt) -- (0pt,0pt) node[below,fill=white]
+{$\xtext$};,3
+
+%getallen op de y-as en lijntjes  
+%BEGIN LUS
+\foreach \y/\ytext in {-1,1,2,3}
+\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]
+{$\ytext$}; %EINDE LUS
+
 
 %\draw[fill,cyan](1,1)circle [radius=0.025];
 
@@ -35,16 +51,6 @@
 
 
 
-%getallen op de x-as en lijntjes   
-\foreach \x/\xtext in {-2,-1,0, 1,2}
-	\draw[xshift=\x cm] (0pt,1pt) -- (0pt,0pt) node[below,fill=white]
-	{$\xtext$};,3
-	
-%getallen op de y-as en lijntjes  
-%BEGIN LUS
-\foreach \y/\ytext in {-1,1,2,3}
-	\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]
-	{$\ytext$}; %EINDE LUS
 
 
 

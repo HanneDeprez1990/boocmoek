@@ -1,0 +1,93 @@
+\tikzsetfigurename{Fig_module_2_2_1_limietbegripvb1}
+
+\begin{center}
+\begin{tikzpicture}[scale=0.7,cap=round]
+
+% Styles
+\tikzstyle{axes}=[]
+\tikzstyle help lines=[color=blue!50,very thin,dotted]
+
+% grid
+\draw[style=help lines,step=1cm] (-0.9,-0.9) grid (6.9,8.9);
+
+\draw[->] (-1,0) -- (7,0) node[right] {$x$};
+\draw[->] (0,-1) -- (0,9) node[above] {$y$};
+
+%\draw[fill,cyan](1,1)circle [radius=0.025];
+%FUNCTIEVOORSCHRIFTEN
+
+
+
+%\draw[teal,cap=rect,line width=1, opacity=1, domain=-2:2] plot (\x, {
+%	pow(\x,2)  		% <- plaats het functievoorschrift hier
+%}) node[right,opacity=1]{$h(x)=x^2$};
+
+%\draw[red,cap=rect,line width=1, opacity=1, domain=-1.5:1.5] plot (\x, {
+%	pow(\x,4)  		% <- plaats het functievoorschrift hier
+%}) node[opacity=1,above,xshift=-3.5cm]{$p(x)=x^4$};
+
+\draw[blue,cap=rect,line width=1, opacity=1, domain=3:6] plot (\x, {
+	pow(\x-4,3)+1	% <- plaats het functievoorschrift hier
+}) node[opacity=1,xshift=+1cm]{};
+
+\draw[-,red] (0,3.3)--(5.3,3.3); 
+\draw[-,red] (5.3,0)--(5.3,3.3); 
+
+\draw[-,gray] (0,1.6)--(4.8,1.6); 
+\draw[-,gray] (4.8,0)--(4.8,1.6); 
+
+\draw[-,gray] (0,7.3)--(5.8,7.3); 
+\draw[-,gray] (5.8,0)--(5.8,7.3); 
+
+
+\draw[red] (5.3,3.3) circle[radius=0.1];
+
+\draw[] (5.3,-0.2) node[below,red] {$a$};
+
+\draw[] (-0.2,3.3) node[left,red] {$f(a)$};
+
+
+\draw[] (4.8,1.6) circle[radius=0.1];
+
+
+
+\draw[] (4.8,-0.2) node[below] {$x$};
+\draw[] (-0.2,1.6) node[left] {$f(x)$};
+
+
+
+\draw[] (5.8,7.3) circle[radius=0.1];
+
+\draw[] (5.8,-0.2) node[below] {$x$};
+\draw[] (-0.2,7.3) node[left] {$f(x)$};
+
+%\draw[orange,cap=rect,line width=1, opacity=1, domain=-1.4:1.4] plot (\x, {
+%	pow(\x,5)  		% <- plaats het functievoorschrift hier
+%}) node[right,opacity=1]{$g(x)=x^5$};
+
+
+
+%\draw[cyan,cap=rect,ultra thick, domain=1:2] plot (\x, {\x*\x-1}) node[above, right]{};
+%\draw[red,cap=rect, loosely dashed, ultra thick, domain=-2:2] plot (\x, {(\x*\x-1)+0.05}) node[above,yshift=-.7cm, right]{};
+
+%legende
+
+
+
+%getallen op de x-as en lijntjes   
+%\foreach \x/\xtext in {0,2,4,6}
+%	\draw[xshift=\x cm] (0pt,1pt) -- (0pt,0pt) node[below,fill=white]
+%	{$\xtext$}; 
+	
+%getallen op de y-as en lijntjes  
+%BEGIN LUS
+%\foreach \y/\ytext in {2,4,6,8}
+%	\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]
+%	{$\ytext$}; %EINDE LUS
+
+
+
+\end{tikzpicture}
+\end{center}
+
+

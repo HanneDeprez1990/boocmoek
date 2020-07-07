@@ -1,0 +1,59 @@
+\begin{center}
+	\begin{tikzpicture}[yscale=2,cap=round]
+	
+	% Styles
+	\tikzstyle{axes}=[]
+	\tikzstyle help lines=[color=blue!50,very thin,dotted]
+	
+	% grid
+%	\draw[style=help lines,step=1cm] (-4.9,-1.9) grid (4.9,4.9);
+	
+	\draw[->] (-1,0) -- (8,0) node[right] {$x$};
+	\draw[->] (0,-.5) -- (0,2) node[above] {$y$};
+	
+	%\draw[fill,cyan](1,1)circle [radius=0.025];
+	%FUNCTIEVOORSCHRIFTEN
+	
+	
+
+	
+	
+	
+	\draw[red,cap=rect,line width=1, opacity=1, domain=1:6,samples=100] plot (\x, {
+	-1* exp(pow(0.5,\x))+2	% <- plaats het functievoorschrift hier	
+	}) node[opacity=1,above,right]{$y=f(x)$};
+	%-------------------------------------------
+	
+	
+	\draw[dotted] (4,0)--(4,0.95); 
+	\draw[dotted] (0,0.95)--(4,0.95); 
+	
+	\draw[] (4,0) node[below]{$x_0$};
+	\draw[] (0,0.95) node[left]{$y_0$};
+	
+	\draw[] (4,1) node[above]{$P$};
+	
+	\draw[] (-0.2,0) node[left,below]{$0$};
+	
+	
+
+	%legende
+	
+	
+	
+	%getallen op de x-as en lijntjes   
+%	\foreach \x/\xtext in {-4,-3,-2,-1,0,1,2,3,4}
+%	\draw[xshift=\x cm] (0pt,1pt) -- (0pt,0pt) node[below,fill=white]
+%	{$\xtext$};,3
+	
+	%getallen op de y-as en lijntjes  
+	%BEGIN LUS
+%	\foreach \y/\ytext in {-1,1,2,3,4}
+%	\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]
+%	{$\ytext$}; %EINDE LUS
+	
+	
+	
+	\end{tikzpicture}
+\end{center}
+

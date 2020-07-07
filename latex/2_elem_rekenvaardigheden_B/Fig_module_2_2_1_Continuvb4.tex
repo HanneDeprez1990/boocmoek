@@ -1,0 +1,55 @@
+
+		\tikzsetfigurename{Fig_module_2_2_1_Continuvb4}
+\begin{center}
+	\begin{tikzpicture}[scale=0.7,cap=round]
+	
+	% Styles
+	\tikzstyle{axes}=[]
+	\tikzstyle help lines=[color=blue!50,very thin,dotted]
+	
+	% grid
+	\draw[style=help lines,step=1cm] (-3.9,-1.9) grid (5.9,7.9);
+	
+	\draw[->] (-4,0) -- (6,0) node[right] {$x$};
+	\draw[->] (0,-2) -- (0,8) node[above] {$y$};
+	
+	%\draw[fill,cyan](1,1)circle [radius=0.025];
+	%FUNCTIEVOORSCHRIFTEN
+	
+	
+
+	\draw[dashed] (2,-1.5)--(2,7.5);
+	
+	
+	%getallen op de x-as en lijntjes   
+	\foreach \x/\xtext in {-3,-2,-1,0,1,2,3,4,5}
+	\draw[xshift=\x cm] (0pt,1pt) -- (0pt,0pt) node[below,fill=white]
+	{$\xtext$};
+	
+	%getallen op de y-as en lijntjes  
+	%BEGIN LUS
+	\foreach \y/\ytext in {-1,1,2,3,4,5,6,7}
+	\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]
+	{$\ytext$}; %EINDE LUS
+	
+	
+%	\draw[teal] (1,5) circle[radius=0.1] node[right]{};
+	
+	\draw[teal,cap=rect,line width=1, opacity=1, domain=-4:1.63] plot (\x, {
+ pow(\x-2,-2 )% <- plaats het functievoorschrift hier
+	}) node[right,opacity=1]{};
+	
+		\draw[teal,cap=rect,line width=1, opacity=1, domain=2.37:4] plot (\x, {
+		pow(\x-2,-2 )% <- plaats het functievoorschrift hier
+	}) node[right,opacity=1]{$f(x)=\frac{1}{(x-2)^2}$};
+	
+	%legende
+	
+	
+	
+	
+	
+	
+	\end{tikzpicture}
+\end{center}
+

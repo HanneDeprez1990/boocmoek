@@ -1,0 +1,79 @@
+\tikzsetfigurename{Fig_module_3_1_1_hoekendeg}
+
+\begin{center}
+	\begin{tikzpicture}[yscale=1,xscale=1]
+	
+	\colorlet{anglecolor}{green!50!black}
+	%	\colorlet{sincolor}{red}
+	%	\colorlet{tancolor}{orange!80!black}
+	%	\colorlet{coscolor}{blue}
+	% Styles
+	\tikzstyle{axes}=[]
+	\tikzstyle help lines=[color=blue!50,very thin,dotted]
+	
+	% grid
+	%\draw[style=help lines,step=1cm] (-2,-2) grid (2,2);
+	
+		\draw[-,thick] (-5,0) -- (-2.5,0) node[right] {};
+		\draw[-,thick] (-5,0) -- (-5,2.5) node[above] {};
+		\draw[black] (-4,0) arc [radius=1, start angle =0, end angle =90] node[right, xshift=0.5cm] {90$^{\circ}$}; 	
+		%*** symbooltje rechte hoek ***%
+		\draw[-] (-5,0)-- ++(0,5pt) -- ++(5pt,0pt) -- ++(0pt,-5pt)node[]{};
+		%*** symbooltje rechte hoek ***%
+		
+		\draw[-,thick] (0,0) -- (2.5,0) node[right] {};
+		\draw[-,thick, rotate=45] (0,0) -- (2.5,0) ;
+		\draw[black] (1,0) arc [radius=1, start angle =0, end angle =45] node[right, xshift=0.5cm] {45$^{\circ}$}; 	
+
+		\draw[-] (5,0) -- (7.5,0) node[right] {};
+		\draw[-,thick, rotate around={135:(5,0)} ] (5,0) -- (7.5,0) ;
+		\draw[black] (6,0) arc [radius=1, start angle =0, end angle =135] node[right,xshift=+2cm] {135$^{\circ}$}; 					
+				
+%		\draw[rotate around= {-45:(0.5cm, -2cm)}, xshift = 0.1cm, >=stealth, |<->|] (0.5cm, -2cm) -- +(0, -1cm);
+				
+				
+				
+%\draw[-] (5,0) -- (7.5,2.5) node[above] {};
+	
+	
+%	\draw[-,thick, rotate=0] (0,0) -- (2.2,0) node[above,yshift=+.2cm,right] {};
+%	\draw[-,thick, rotate=90] (0,0) -- (2.2,0) node[above,yshift=+.2cm,right] {};	
+	
+	
+	
+
+	
+	
+	
+	
+	%FUNCTIEVOORSCHRIFTEN	
+	%\draw[teal,cap=rect,line width=1, opacity=1, domain=-0.5:1.8] plot (\x, {
+	%	2*pow(\x,4)-3*pow(\x,3)-pow(\x,2)  		% <- plaats het functievoorschrift hier
+	%	}) node[left,opacity=1]{$f(x)=2x^4-3x^3-x^2$};
+	
+	
+	
+	%\draw[cyan,cap=rect,ultra thick, domain=1:2] plot (\x, {\x*\x-1}) node[above, right]{};
+	%\draw[red,cap=rect, loosely dashed, ultra thick, domain=-2:2] plot (\x, {(\x*\x-1)+0.05}) node[above,yshift=-.7cm, right]{};
+	
+	%legende
+	
+	
+	
+	%getallen op de x-as en lijntjes   
+	%\foreach \x/\xtext in {-1,1}
+	%\draw[xshift=\x cm] (0pt,1pt) -- (0pt,0pt) node[below,fill=white]
+	%{$\xtext$};,3
+	
+	%getallen op de y-as en lijntjes  
+	%BEGIN LUS
+	%\foreach \y/\ytext in {-4,-2,2}
+	%\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]
+	%{$\ytext$}; %EINDE LUS
+	
+	
+	
+	\end{tikzpicture}
+\end{center}
+
+

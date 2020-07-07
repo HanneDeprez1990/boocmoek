@@ -1,0 +1,88 @@
+		\tikzsetfigurename{Fig_module_3_1_1_driehoek}
+
+
+\begin{center}
+	\begin{tikzpicture}[yscale=1,xscale=1]
+	
+	\colorlet{anglecolor}{green!50!black}
+	%	\colorlet{sincolor}{red}
+	%	\colorlet{tancolor}{orange!80!black}
+	%	\colorlet{coscolor}{blue}
+	% Styles
+	\tikzstyle{axes}=[]
+	\tikzstyle help lines=[color=blue!50,very thin,dotted]
+	
+	% grid
+	%\draw[style=help lines,step=1cm] (-2,-2) grid (2,2);
+	
+		\draw[-] (0,0) -- (4,0) node[right,yshift=-0.3cm] {$B$};
+		
+		\draw[-] (0,0) -- (0,2.5) node[above,yshift=+0.2cm] {$A$};
+		
+		\draw[-] (0,2.5) -- (4,0) node[right] {};
+		
+				\draw[] (0,0)node[left,yshift=-0.3cm]{$C$};
+				
+								\draw[] (2,0)node[below]{a};
+								\draw[] (2,2)node[below]{c};
+								\draw[] (0,1.25)node[left]{b};
+				
+ 		
+	%*** symbooltje rechte hoek ***%
+	\draw[-] (0,0)-- ++(0,5pt) -- ++(5pt,0pt) -- ++(0pt,-5pt)node[]{};
+	%*** symbooltje rechte hoek ***%		
+	
+	
+
+\draw[black] (0,2) arc [radius=0.5, start angle =270, end angle =328] node[below,xshift=0cm,yshift =-0.3cm] {$\alpha$}; 	 
+
+	\draw[black] (3.5,0.3) arc [radius=0.5, start angle =135, end angle =178] node[left,xshift=0cm,yshift =+0.3cm] {$\beta$}; 	 
+	
+	
+	
+%\draw[cyan](0,0)circle [radius=2];	
+%\draw[-,thick, rotate=0] (0,0) -- (2.2,0) node[above,yshift=+.2cm,right] {\tiny 1};
+%\draw[-,thick, rotate=10] (0,0) -- (2.2,0) node[above,yshift=+.2cm,right] {\tiny 2};	
+%\draw[-,thick, rotate=20] (0,0) -- (2.2,0) node[above,yshift=+.2cm,right] {\tiny 3};	
+
+%\draw[black](2,2.2)circle [radius=0] node[left] {\tiny  enzovoort...};
+%\draw[black] (,0) arc [radius=1, start angle =0, end angle =90] node[right,xshift=0.3cm,yshift =0.3cm] {}; 	 
+
+%\draw[] (1,1) node{\tiny  90 $^o$};
+%\draw[black](0,2) circle [radius=0.05];
+%\draw[black,ultra thick] (2,0) arc [radius=2, start angle =0, end angle =90] node[left] {}; 	
+	
+	
+	
+	
+	%FUNCTIEVOORSCHRIFTEN	
+	%\draw[teal,cap=rect,line width=1, opacity=1, domain=-0.5:1.8] plot (\x, {
+	%	2*pow(\x,4)-3*pow(\x,3)-pow(\x,2)  		% <- plaats het functievoorschrift hier
+	%	}) node[left,opacity=1]{$f(x)=2x^4-3x^3-x^2$};
+	
+	
+	
+	%\draw[cyan,cap=rect,ultra thick, domain=1:2] plot (\x, {\x*\x-1}) node[above, right]{};
+	%\draw[red,cap=rect, loosely dashed, ultra thick, domain=-2:2] plot (\x, {(\x*\x-1)+0.05}) node[above,yshift=-.7cm, right]{};
+	
+	%legende
+	
+	
+	
+	%getallen op de x-as en lijntjes   
+	%\foreach \x/\xtext in {-1,1}
+	%\draw[xshift=\x cm] (0pt,1pt) -- (0pt,0pt) node[below,fill=white]
+	%{$\xtext$};,3
+	
+	%getallen op de y-as en lijntjes  
+	%BEGIN LUS
+	%\foreach \y/\ytext in {-4,-2,2}
+	%\draw[yshift=\y cm] (1pt,0pt) -- (0pt,0pt) node[left,fill=white]
+	%{$\ytext$}; %EINDE LUS
+	
+	
+	
+	\end{tikzpicture}
+\end{center}
+
+
